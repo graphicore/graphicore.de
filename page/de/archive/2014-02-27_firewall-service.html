@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="de"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="de"
+    >
+<head>
+<meta charset="UTF-8" />
+<meta name="google-site-verification" content="Y_i7yzBmF0Bv9KGdv0QZmGBXAfljS57aRs7Lq7NNcE0" />
+
+<meta name="geo.position" content="52.4809428;13.4490089" />
+<meta name="ICBM" content="52.4809428,13.4490089" />
+<meta name="geo.placename" content="Werrastr. 10A, 12049 Berlin, Deutschland" />
+<meta name="geo.region" content="DE-BE" />
+<meta name="keywords" content="Lasse Fister, graphicore, Berlin, Design, Visuelle Kommunikation, Grafikdesign, Web Development, Interaction Desgin, Printmedien, Webdesign, Layout, Typografie, typography, font design, Schriftgestaltung, Open Source, Libre Graphics, Logo, opensource design, internet, Bauhaus" />
+<meta name="author" content="Lasse Fister" />
+
+<meta name="robots" content="index, follow" />
+    <title>Firewall-Konfigurationsserver für einen internationalen Handelskonzern | Tagebucheintrag | graphicore.de</title>
+    <link type="image/gif" rel="icon" href="http://www.graphicore.de/favicon.gif" />
+<link rel="alternate" type="application/atom+xml" title="atom-feed Tagebuch | graphicore.de" href="/de/feed/atom" /><link rel="alternate" type="application/rss+xml" title="rss-feed Tagebuch | graphicore.de" href="/de/feed/rss" />    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.8.3/dijit/themes/nihilo/nihilo.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/style/style.css" />
+    <!--[if lt IE 8]>
+    <link type="text/css" rel="stylesheet" media="screen" href="/style/ielt8.css" />
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/dojo/1.8.3/dojo/dojo.js" data-dojo-config="async:true"></script>
+
+            <script type="text/javascript" src="/js/dmain.js"></script>
+
+  </head>
+<body class="nihilo noscript">
+<div class="stage">
+<div class="header">
+    <ul class="language-switch"><li title="Zeige diese Seite auf Deutsch. Die Benutzerschnittstelle ist übersetzt, aber nicht unbedingt alle Artikel." class="first de active"  ><a hreflang="de" rel="alternate" href="/de/archive/2014-02-27_firewall-service">Deutsch</a></li><li title="Display this page in English. The interface is translated, but not all articles necessarily are." class="en"  ><a hreflang="en" rel="alternate" href="/en/archive/2014-02-27_firewall-service">English</a></li></ul>    <div class="to-the-top">
+                <a href="#"><span>top</span></a></div>
+    <div class="logo">
+            <a rel="me" href="/"><span>home</span></a>
+            </div>
+    <div class="menu-bar">
+        <span>Filter</span><ul class="menu blog"><li><a title="alle Artikel auflisten" href="/de/diary">Alle</a></li><li><a title="Ankündingungen, Mitteilungen, Neuigkeiten, Änderungen." href="/de/diary/news">Neues</a></li><li><a title="Web-Entwicklung, Webdesign, Programmierung und selbst gemachte Werkzeuge." href="/de/diary/code">Web und Code</a></li><li><a title="Von mir gestaltete Schriftarten." href="/de/diary/typedesign">Schriftgestaltung</a></li><li><a title="Bilder, Layouts, Drucksachen, Bücher, Logos, Plakate, etc." href="/de/diary/graphicdesign">Grafikdesign</a></li><li><a title="Ideen-zentrierte Entwicklung. Entwicklung von Ideen." href="/de/diary/conception">Konzeption</a></li></ul><span>About</span><ul class="menu pages"><li><a rel="me" href="/de/page/lasse">Lasse</a></li></ul>    </div>
+</div>
+    
+    <div id="graphicore_url_:de:archive:2014-02-27_firewall-service" class="content white"><div class="contentContainer diaryEntry" xml:lang="de" lang="de"><h1>Firewall-Konfigurationsserver für einen internationalen Handelskonzern</h1><p class="teaser">Im Zuge eines neuen IP-Konzeptes werden die Filialen eines internationalen Handelskonzerns mit neuen Firewalls ausgestattet. Um der schieren Menge an neuen Konfigurationen gerecht zu werden, habe ich einen Server geschrieben, der die richtigen Dateien für die jeweiligen Standorte generiert.</p><div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<h2>Einsatzgebiet</h2>
+<p>Der Server ist nur Konzern-intern verfügbar und soll für <strong>drei unterschiedliche Szenarien</strong> verwendet werden:</p>
+<ol><li><strong>Initial</strong> werden alle neuen Firewalls mit der generierten Konfiguration bespielt und dann an die Standorte ausgeliefert.
+</li><li>
+Im <strong>Servicefall</strong> kann ein Techniker die Konfiguration für das Ersatzgerät ermitteln.
+</li><li>
+Sollten <strong>Änderungen an den Konfigurationen</strong> nötig werden, ist dies der zentrale Ort, an dem die Änderungen eingepflegt werden.
+</li>
+</ol></div>
+<div class="gridWidth5 gridPos5">
+<h2>Schnittstellen</h2>
+<p>Der Server stellt verschiedene Schnittstellen bereit, über die die Konfigurationsdateien und Metadaten ermittelt werden können:</p>
+<ul><li>
+Die <strong>Webseite eines Standortes</strong> mit Konfigurationen und Zusatzinformation wie Öffnungszeiten und Adresse.
+</li><li>
+Der <strong>Download vieler Konfigurationen</strong> auf einmal als <em>ZIP-Archiv</em>, wobei die Eingabe mittels Upload einer simplen <em>CSV-Datei</em> stattfindet.
+</li><li>
+Eine <em>HTTP-GET API</em>, über die Konfigurationen und Metadaten <strong>direkt ermittelt</strong> werden können.
+</li><li>
+Ein <strong>Maintenance-/Debugging-Interface</strong>, das via <em>AJAX</em> und <em>JavaScript</em> eine <em>SNMP-Abfrage</em> stellt und das Ergebnis filterbar darstellt.
+</li>
+</ul></div>
+</div>
+<hr /><div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<h2>Das richtige Werkzeug</h2>
+
+<p>Der Server ist in <a href="http://python.org/">Python</a> geschrieben. Als Webframework habe ich das leichtgewichtige <a href="http://flask.pocoo.org/">Flask</a> verwendet. Die benötigten Daten werden aus verschiedenen Quellen ermittelt: <em>DNS</em>, <em>LDAP</em>, <em>SNMP</em>, ein <em>HTTP-PUSH</em> basiertes System – über das Daten als <em>XML</em> empfangen, mit <em>XSD</em> validiert und aktualisiert werden – sowie weitere, lokal vorliegende Daten.</p>
+</div>
+
+<div class="gridWidth5 gridPos5">
+<h2>Administration</h2>
+
+<p>
+Auch <strong>die Serverkonfiguration kommt von mir</strong>. Der <em>Apache2</em> Webserver liefert die Seite mit <em>mod_wsgi</em>, <em>mod_authz_ldap</em> und <em>mod_ssl</em> aus. Dabei ist der <strong>Zugriff beschränkt</strong> via <em>LDAP-Gruppen</em> und <strong>stets verschlüsselt</strong> mit <em>HTTPS</em>.
+</p>
+</div>
+</div>
+<hr /><div class="gridRow">
+<div class="gridWidth10 gridPos0">
+<h2>Screenshot</h2>
+<p>die Gestaltung ist auf das Wesentliche beschränkt und erklärt die bestehenden Möglichkeiten.</p>
+<p><img src="/images/diary/firewall-config-server-home.png" alt="Screenshot der Homepage des Servers" title="Screenshot" /></p></div>
+</div>
+<div class="diaryEntryFooter"><a class="permalink" href="/de/archive/2014-02-27_firewall-service">Permalink</a> Donnerstag, 27. Februar 2014 15:22:48 Europe/Berlin<div class="filters">Filter: <ul><li><a rel="tag" href="/de/diary/code">Web und Code</a></li></ul></div></div></div></div>
+<div class="simple-footer">
+<a rel="me" href="/de/page/lasse">Impressum</a>, Copyright © 2009 – 2021 by <a rel="me" href="/de/page/lasse">Lasse Fister</a>
+</div>
+</div>
+</body>
+</html>

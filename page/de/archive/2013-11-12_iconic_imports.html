@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="de"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="de"
+    >
+<head>
+<meta charset="UTF-8" />
+<meta name="google-site-verification" content="Y_i7yzBmF0Bv9KGdv0QZmGBXAfljS57aRs7Lq7NNcE0" />
+
+<meta name="geo.position" content="52.4809428;13.4490089" />
+<meta name="ICBM" content="52.4809428,13.4490089" />
+<meta name="geo.placename" content="Werrastr. 10A, 12049 Berlin, Deutschland" />
+<meta name="geo.region" content="DE-BE" />
+<meta name="keywords" content="Lasse Fister, graphicore, Berlin, Design, Visuelle Kommunikation, Grafikdesign, Web Development, Interaction Desgin, Printmedien, Webdesign, Layout, Typografie, typography, font design, Schriftgestaltung, Open Source, Libre Graphics, Logo, opensource design, internet, Bauhaus" />
+<meta name="author" content="Lasse Fister" />
+
+<meta name="robots" content="index, follow" />
+    <title>Kurationsmodul für The ICONIST | Tagebucheintrag | graphicore.de</title>
+    <link type="image/gif" rel="icon" href="http://www.graphicore.de/favicon.gif" />
+<link rel="alternate" type="application/atom+xml" title="atom-feed Tagebuch | graphicore.de" href="/de/feed/atom" /><link rel="alternate" type="application/rss+xml" title="rss-feed Tagebuch | graphicore.de" href="/de/feed/rss" />    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.8.3/dijit/themes/nihilo/nihilo.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/style/style.css" />
+    <!--[if lt IE 8]>
+    <link type="text/css" rel="stylesheet" media="screen" href="/style/ielt8.css" />
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/dojo/1.8.3/dojo/dojo.js" data-dojo-config="async:true"></script>
+
+            <script type="text/javascript" src="/js/dmain.js"></script>
+
+  </head>
+<body class="nihilo noscript">
+<div class="stage">
+<div class="header">
+    <ul class="language-switch"><li title="Zeige diese Seite auf Deutsch. Die Benutzerschnittstelle ist übersetzt, aber nicht unbedingt alle Artikel." class="first de active"  ><a hreflang="de" rel="alternate" href="/de/archive/2013-11-12_iconic_imports">Deutsch</a></li><li title="Display this page in English. The interface is translated, but not all articles necessarily are." class="en"  ><a hreflang="en" rel="alternate" href="/en/archive/2013-11-12_iconic_imports">English</a></li></ul>    <div class="to-the-top">
+                <a href="#"><span>top</span></a></div>
+    <div class="logo">
+            <a rel="me" href="/"><span>home</span></a>
+            </div>
+    <div class="menu-bar">
+        <span>Filter</span><ul class="menu blog"><li><a title="alle Artikel auflisten" href="/de/diary">Alle</a></li><li><a title="Ankündingungen, Mitteilungen, Neuigkeiten, Änderungen." href="/de/diary/news">Neues</a></li><li><a title="Web-Entwicklung, Webdesign, Programmierung und selbst gemachte Werkzeuge." href="/de/diary/code">Web und Code</a></li><li><a title="Von mir gestaltete Schriftarten." href="/de/diary/typedesign">Schriftgestaltung</a></li><li><a title="Bilder, Layouts, Drucksachen, Bücher, Logos, Plakate, etc." href="/de/diary/graphicdesign">Grafikdesign</a></li><li><a title="Ideen-zentrierte Entwicklung. Entwicklung von Ideen." href="/de/diary/conception">Konzeption</a></li></ul><span>About</span><ul class="menu pages"><li><a rel="me" href="/de/page/lasse">Lasse</a></li></ul>    </div>
+</div>
+    
+    <div id="graphicore_url_:de:archive:2013-11-12_iconic_imports" class="content white"><div class="contentContainer diaryEntry" xml:lang="de" lang="de"><h1>Kurationsmodul für The ICONIST</h1><p class="teaser">Auf der Seite von The ICONIST werden täglich »handverlesene Home &amp; Living Produkte« präsentiert. Für Compuccino habe ich den ersten Schritt des Kurationsprozesses geschrieben.</p><div class="gridRow">
+<p>Link zur Seite: <a href="http://iconist.de">The ICONIST</a>, obwohl was ich gemacht habe nicht direkt online gesehen werden kann.</p>
+</div>
+
+<h2>Import und Synchronisierung</h2>
+<div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<p>
+Das Programm sammelt Produktdaten von vielen verschiedenen Anbietern. Dabei kommt ein Adapter-Konzept zum Einsatz, welches aus den unterschiedlichen Anbieterformaten eine einheitliche Repräsentation in der Datenbank ablegt. Es werden hunderttausende verschiedene Produkte importiert und aktuell gehalten. Der Import wird via Cron-Job automatisch angestoßen, kann aber auch über das Webinterface gestartet werden.
+</p>
+</div><div class="gridWidth5 gridPos5"><p>
+Durch einen Locking-Mechanismus wird verhindert, dass die gleiche Quelle zur selben Zeit mehrfach importiert werden kann. Der Importstatus lässt sich jederzeit, auch während des laufenden Imports, ermitteln. Er kann über das Webinterface und für den Administrator mit dem Terminal abgefragt werden. Der Importer erkennt Änderungen an den einzelnen Produkten, sowie die Löschung von Produkten durch den Anbieter.
+</p>
+</div></div>
+
+
+<h2>Kuration Webinterface</h2>
+<div class="gridRow">
+<p>
+<img src="/images/diary/iconic_imports.png" alt="Screenshot Kurationsinterface" /></p>
+</div>
+
+<div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<p>
+Die Redakteure wählen Produkte zur weiteren Auswahl und zur Anreicherung der Daten aus. Das Webinterface bietet zahlreiche Filter, um der großen Datenmenge Herr zu werden. Neben sehr einfachen Filteroptionen wie »Shop« oder »Preisspanne« steht eine Stichwortsuche und ein Filter für Kategorien zur Verfügung. Die von Anbieter zu Anbieter verschiedenen Kategorien können auf einem einheitlichen Kategoriebaum im Kurationsmodul abgebildet werden. Der Kategoriebaum kann im Webinterface erstellt werden, die Zuordnung von fremden Kategorien auf eigene Kategorien wird von einem Redakteur durchgeführt.
+</p>
+</div><div class="gridWidth5 gridPos5">
+<p>
+In der Datenbank kommen zwei Konzepte zum Darstellen des Kategoriebaums gleichzeitig zum Einsatz: eine <a href="http://de.wikipedia.org/wiki/Adjazenzliste">Adjazenzliste</a>, das heisst jede Kategorie kennt ihre Elternkategorie. Damit ist die Verwaltung des Baumes recht einfach umsetzbar. Ausserdem werden auch die Informationen des <a href="http://de.wikipedia.org/wiki/Nested_Sets">Nested-Set Models</a> mit den Kategorien abgelegt. Damit ist die Abfrage des Baumes sehr performant und einfach möglich.</p><p>
+Für den Kurationsprozess habe ich eine kleine JavaScript Anwendung geschrieben, die, durch die Verwendung von AJAX, Ladezeiten deutlich verkürzt und die Serverprogrammierung stark vereinfacht hat. Beispielsweise erfolgt die Verwaltung des Anwendungsstatus im Client und musste daher nicht mit serverseitigen Sessions umgesetzt werden.
+</p>
+</div></div>
+<h2>Technologie</h2>
+<div class="gridRow">
+<p>
+Der Servercode ist mit PHP 5 geschrieben. Ich habe Composer mit Symphony 2 als Framework verwendet und habe einiges selbst geschrieben. Im Webinterface kommen RequireJS und jQuery zum Einsatz, und auch eine ganze Hand voll eigener Module.
+</p>
+</div>
+<div class="diaryEntryFooter"><a class="permalink" href="/de/archive/2013-11-12_iconic_imports">Permalink</a> Dienstag, 12. November 2013 16:53:17 Europe/Berlin<div class="filters">Filter: <ul><li><a rel="tag" href="/de/diary/code">Web und Code</a></li></ul></div></div></div></div>
+<div class="simple-footer">
+<a rel="me" href="/de/page/lasse">Impressum</a>, Copyright © 2009 – 2021 by <a rel="me" href="/de/page/lasse">Lasse Fister</a>
+</div>
+</div>
+</body>
+</html>
