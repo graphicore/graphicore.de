@@ -1,0 +1,277 @@
+2016-05-30T02:30:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.149.254.109
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T04:16:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 24.76.10.198
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T04:16:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 24.76.10.198
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T04:17:20+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 51.255.65.96
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T06:04:13+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.150
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T10:59:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.54.135.98
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(6) "images"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T12:50:29+00:00 ERR (3) 404 "2014-02-27_kaufland-firewall-service" was not found.
+REMOTE_ADDR: 66.249.66.58
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(36) "2014-02-27_kaufland-firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T14:29:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 88.198.21.171
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:13:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.52
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:15:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.52
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:17:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.208.198.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "elfinder"
+  ["action"] => string(13) "elfinder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:17:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.208.198.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "elfinder.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:17:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.208.198.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "includes"
+  ["action"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:17:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.208.198.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(8) "elFinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:17:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.208.198.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:17:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.208.198.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "assets"
+  ["action"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:17:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.208.198.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "library"
+  ["action"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:17:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.208.198.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "lib"
+  ["action"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:17:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.208.198.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "jscripts"
+  ["action"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T16:17:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.208.198.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "assets"
+  ["action"] => string(7) "plugins"
+  ["elfinder"] => string(13) "elfinder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T18:11:36+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 107.170.13.224
+HTTP_REFERER: http://graphicore.de/de/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T18:11:46+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 107.170.13.224
+HTTP_REFERER: http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T18:58:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.251.221.108
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-30T18:58:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.251.221.108
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

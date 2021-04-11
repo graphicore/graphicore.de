@@ -1,0 +1,94 @@
+2015-11-20T01:06:32+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.157
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-20T05:18:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.20.48.65
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-20T10:03:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.200.19.14
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-20T10:03:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.200.19.14
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-20T10:34:59+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 40.77.167.71
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-20T12:31:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 209.95.48.11
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-20T12:31:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 209.95.48.11
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-20T22:39:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.67.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

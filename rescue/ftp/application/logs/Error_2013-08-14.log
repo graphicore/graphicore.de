@@ -1,0 +1,57 @@
+2013-08-14T11:42:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 82.209.104.219
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-08-14T13:01:37+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 173.199.115.59
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-08-14T16:58:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.128.20.110
+HTTP_REFERER: http://www.tattoopins.com/584/bild-des-tattoos-mit-irischem-text-n%C3%AD-dhoirtfear-fuil-neamhchiontach-/ORZ3JhcGhpY29yZS5kZS9pbWFnZXMvZGlhcnkvaQ/
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(5) "diary"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-08-14T16:58:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.128.20.110
+HTTP_REFERER: http://www.tattoopins.com/584/bild-des-tattoos-mit-irischem-text-n%C3%AD-dhoirtfear-fuil-neamhchiontach-/ORZ3JhcGhpY29yZS5kZS9pbWFnZXMvZGlhcnkvaQ/
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(5) "diary"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-08-14T17:19:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.74.240.42
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,50 @@
+2021-02-20T01:12:18+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.188.211.21
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-20T04:58:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.232.61.156
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-20T06:19:05+00:00 ERR (3) 404 "2010-10-06_underground_exhibitionDas" was not found.
+REMOTE_ADDR: 66.249.66.84
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(36) "2010-10-06_underground_exhibitionDas"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-20T07:42:10+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.188.211.15
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

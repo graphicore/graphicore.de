@@ -1,0 +1,150 @@
+2017-03-07T14:34:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.185.187.96
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "admin.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T14:35:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.185.187.96
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "login.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T14:35:11+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.185.187.96
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T15:03:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.185.145.39
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "bitrix"
+  ["action"] => string(5) "admin"
+  ["module"] => string(7) "default"
+  ["lang"] => string(2) "en"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T15:03:39+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.185.145.39
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "login.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T15:03:41+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.185.145.39
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T17:09:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 63.141.244.250
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["google-analytics-analyze"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T19:16:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.91.123.191
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T19:16:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.91.123.191
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T19:23:48+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.189
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T20:46:15+00:00 ERR (3) 404 "2013-11-12_iconic_imports'A=0" was not found.
+REMOTE_ADDR: 185.97.213.3
+HTTP_REFERER: http://graphicore.de/en/archive/2013-11-12_iconic_imports'A=0
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(29) "2013-11-12_iconic_imports'A=0"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T21:11:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.91.123.191
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-07T21:11:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.91.123.191
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

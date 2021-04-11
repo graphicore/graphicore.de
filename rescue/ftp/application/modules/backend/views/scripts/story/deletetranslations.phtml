@@ -1,0 +1,51 @@
+<h1>gcbackend story delete Translations</h1>
+<?php
+$urlArray = array(
+    'module'     => 'gcbackend',
+    'controller' => 'story',
+    'action'     => 'deletetranslations',
+    'id'     => $this->id,
+//    'language' => $this->editingLanguage
+);
+
+if(!array_key_exists('Translation', $this->story) || !is_array($this->story['Translation']))
+{
+    $this->story['Translation'] = array();
+}
+if($this->deleted)
+{
+    echo 'just deleted "'.$this->deleted.'"<br />';
+}
+if($this->deleteLanguage)
+{
+    echo 'delete "'.$this->deleteLanguage.'"?<br />';
+    $urlArray['language'] = $this->deleteLanguage;
+    $url = $this->url($urlArray, 'modules_i18n', True);
+    $this->form->setAction($url)
+        ->output();
+}
+
+$deleteables = array();
+foreach($this->story['Translation'] as $lang => $translation)
+{
+    if($this->deleteLanguage === $lang)
+    {
+        continue;
+    }
+
+    $urlArray['language'] = $lang;
+    $url = $this->url($urlArray, 'modules_i18n', True);
+    $deleteables[] = '<li><a href="'.$url.'">delete '.$lang.' ('.$translation['title'].')</a></li>';
+}
+if(!empty($deleteables))
+{
+    echo 'the other stuff you can delete here';
+    echo '<ul>'.join('', $deleteables).'</ul>';
+}
+else
+{
+    echo 'nothing else to delete here<br />';
+}
+
+
+GC_Debug::Dump($this->dump, True);

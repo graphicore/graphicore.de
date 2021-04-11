@@ -1,0 +1,132 @@
+2019-03-16T03:28:18+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 144.76.92.113
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-16T03:29:35+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 144.76.92.113
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-16T03:29:40+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 144.76.92.113
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-16T03:31:02+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 144.76.92.113
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-16T04:55:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.89
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-16T08:01:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.185.213.199
+HTTP_REFERER: https://google.com
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-16T08:01:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.185.213.199
+HTTP_REFERER: https://google.com
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-16T08:02:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.185.213.199
+HTTP_REFERER: https://google.com
+requested: array(3) {
+  ["controller"] => string(10) "phpmyadmin"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-16T08:02:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.185.213.199
+HTTP_REFERER: https://google.com
+requested: array(3) {
+  ["controller"] => string(3) "pma"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-16T15:37:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 220.243.136.106
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "media"
+  ["action"] => string(3) "css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-16T15:41:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 134.73.199.154
+HTTP_REFERER: http://graphicore.de/wp-content/themes/ut-strange/addpress/css/style.css
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(6) "themes"
+  ["ut-strange"] => string(8) "addpress"
+  ["css"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,74 @@
+2019-05-20T12:10:25+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 104.148.64.26
+HTTP_REFERER: http://graphicore.de/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.css
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["wp-front-end-repository"] => string(2) "js"
+  ["uploadify"] => string(13) "uploadify.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-20T13:43:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.117.188.20
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(4) "shop"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+  ["l"] => string(9) "page_view"
+  ["p"] => string(15) "advanced_search"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-20T13:43:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.117.188.20
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(2) "ss"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+  ["l"] => string(9) "page_view"
+  ["p"] => string(15) "advanced_search"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-20T13:43:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.117.188.20
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "sunshop"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+  ["l"] => string(9) "page_view"
+  ["p"] => string(15) "advanced_search"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-20T17:11:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.172.225
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-20T17:11:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.172.225
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,140 @@
+2015-11-15T00:06:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.99.1.101
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T00:13:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 37.59.101.35
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T00:13:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 37.59.101.35
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "admin.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T00:27:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.99.1.101
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T00:36:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.99.1.101
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T08:12:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.123.246.48
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T08:12:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.123.246.48
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T09:20:38+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.150.155.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T18:09:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.235.39.67
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T18:09:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.235.39.67
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T19:41:26+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.101
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-15T22:19:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.90.2.15
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["galerie"] => string(5) "embed"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

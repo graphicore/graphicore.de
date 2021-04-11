@@ -1,0 +1,121 @@
+2010-12-02T01:35:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.211.142.198
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-12-02T08:03:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(1) "#"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-12-02T08:03:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-12-02T08:03:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "index.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-12-02T08:03:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "index.htm"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-12-02T08:03:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.htm"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-12-02T08:03:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "default.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-12-02T08:03:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "index.jsp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-12-02T08:03:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.jsp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-12-02T08:03:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(33) "rankflex_content_duplication_test"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-12-02T08:03:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "w3c"
+  ["action"] => string(7) "p3p.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,50 @@
+<?php
+$urlArray = $this->urlArray;
+if(!$urlArray['action'])
+{
+    $urlArray['action'] = 'update';
+}
+
+$urlArray['id'] = $this->id;
+$typeNameArticle = preg_match("#^h?[aeiouäüö]+#ui", $this->typeName) ? 'an' : 'a';
+
+printf((is_string($this->headlineFormat)) ? $this->headlineFormat : '<h1>%2$s %3$s %1$s</h1>',
+    $this->typeName,
+    $this->verb,
+    $typeNameArticle);
+if($this->message)
+{
+    echo '<p class="message">'.$this->message.'</p>';
+}
+if($this->specials)
+{
+    echo '<p class="specials">'.$this->specials.'</p>';
+}
+$urlCreate = $urlArray;
+$urlCreate['action'] = 'create';
+if(Zend_Registry::getInstance()->acl->check(
+    Zend_Registry::getInstance()->userRole,
+    $urlCreate['module'].'_'.$urlCreate['controller'], $urlCreate['action']
+    ))
+{
+    $url = $this->url($urlCreate, 'modules_i18n', True);
+    printf('<p><a href="%1$s">rather Create %2$s %3$s</a></p>', $url, $typeNameArticle, $this->typeName);
+}
+
+
+$urlUpdate = $urlArray;
+$url = $this->url($urlUpdate, 'modules_i18n', True);
+
+$this->form->setAction($url)
+    ->output();
+
+if('development' === APPLICATION_ENV && $this->dump)
+{
+    ?><div class="development">
+    <h3>development information</h3>
+    <div class="content">
+
+    <?php echo GC_Debug::dump($this->dump, true); ?>
+    </div></div>
+    <?php
+}

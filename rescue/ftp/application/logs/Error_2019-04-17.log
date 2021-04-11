@@ -1,0 +1,47 @@
+2019-04-17T00:57:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 104.148.64.26
+HTTP_REFERER: http://graphicore.de/wp-content/themes/purevision/style.css
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(6) "themes"
+  ["purevision"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-17T09:33:01+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 104.148.64.26
+HTTP_REFERER: http://ufojs.org/wp-content/themes/purevision/style.css
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(6) "themes"
+  ["purevision"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-17T13:55:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 47.92.192.202
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["yellow-pencil-visual-theme-customizer"] => string(3) "css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-17T23:54:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.64
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

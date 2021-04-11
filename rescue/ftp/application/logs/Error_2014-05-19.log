@@ -1,0 +1,52 @@
+2014-05-19T09:22:02+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-05-19T09:29:44+00:00 ERR (3) 404 "2014-02-27_kaufland-firewall-service" was not found.
+REMOTE_ADDR: 144.76.95.231
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(36) "2014-02-27_kaufland-firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-05-19T11:04:22+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.33.49
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-05-19T20:49:26+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.70.228
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

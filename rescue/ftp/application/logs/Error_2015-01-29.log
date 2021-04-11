@@ -1,0 +1,274 @@
+2015-01-29T11:49:33+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 46.4.113.114
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T13:34:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.206.240.230
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:37+00:00 ERR (3) 404 The filter "news&amp;amp;sa=U&amp;amp;ei=7kXKVPylBczjsAT084H4Bw&amp;amp;ved=0CCUQFjADOJAD&amp;amp;usg=AFQjCNHsMMBHvuUXuKZmHWwiUjKsdT8V4A" was not found.
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(9) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(108) "news&amp;sa=U&amp;ei=7kXKVPylBczjsAT084H4Bw&amp;ved=0CCUQFjADOJAD&amp;usg=AFQjCNHsMMBHvuUXuKZmHWwiUjKsdT8V4A"
+  ["administrator"] => string(10) "components"
+  ["com_jnewsletter"] => string(8) "includes"
+  ["openflashchart"] => string(15) "php-ofc-library"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["name"] => string(8) "joss.php"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(10) "components"
+  ["action"] => string(9) "com_jnews"
+  ["includes"] => string(14) "openflashchart"
+  ["php-ofc-library"] => string(20) "ofc_upload_image.php"
+  ["module"] => string(7) "default"
+  ["name"] => string(8) "joss.php"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(10) "components"
+  ["com_jnewsletter"] => string(8) "includes"
+  ["openflashchart"] => string(15) "php-ofc-library"
+  ["module"] => string(7) "default"
+  ["name"] => string(8) "joss.php"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "components"
+  ["action"] => string(9) "com_jnews"
+  ["includes"] => string(14) "openflashchart"
+  ["php-ofc-library"] => string(20) "ofc_upload_image.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:37+00:00 ERR (3) 404 The filter "news&amp;amp;sa=U&amp;amp;ei=7kXKVPylBczjsAT084H4Bw&amp;amp;ved=0CCUQFjADOJAD&amp;amp;usg=AFQjCNHsMMBHvuUXuKZmHWwiUjKsdT8V4A" was not found.
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(8) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(108) "news&amp;sa=U&amp;ei=7kXKVPylBczjsAT084H4Bw&amp;ved=0CCUQFjADOJAD&amp;usg=AFQjCNHsMMBHvuUXuKZmHWwiUjKsdT8V4A"
+  ["administrator"] => string(10) "components"
+  ["com_jnewsletter"] => string(8) "includes"
+  ["openflashchart"] => string(15) "php-ofc-library"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:38+00:00 ERR (3) 404 The filter "components" was not found.
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(8) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(10) "components"
+  ["com_jnews"] => string(8) "includes"
+  ["openflashchart"] => string(15) "php-ofc-library"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["name"] => string(8) "joss.php"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(10) "components"
+  ["com_jnewsletter"] => string(8) "includes"
+  ["openflashchart"] => string(15) "php-ofc-library"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:38+00:00 ERR (3) 404 The filter "administrator" was not found.
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(9) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(13) "administrator"
+  ["components"] => string(15) "com_jnewsletter"
+  ["includes"] => string(14) "openflashchart"
+  ["php-ofc-library"] => string(20) "ofc_upload_image.php"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["name"] => string(8) "joss.php"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:38+00:00 ERR (3) 404 The filter "components" was not found.
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(7) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(10) "components"
+  ["com_jnews"] => string(8) "includes"
+  ["openflashchart"] => string(15) "php-ofc-library"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:38+00:00 ERR (3) 404 The filter "administrator" was not found.
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(8) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(13) "administrator"
+  ["components"] => string(15) "com_jnewsletter"
+  ["includes"] => string(14) "openflashchart"
+  ["php-ofc-library"] => string(20) "ofc_upload_image.php"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:41+00:00 ERR (3) 404 The filter "news&amp;amp;sa=U&amp;amp;ei=7kXKVPylBczjsAT084H4Bw&amp;amp;ved=0CCUQFjADOJAD&amp;amp;usg=AFQjCNHsMMBHvuUXuKZmHWwiUjKsdT8V4A" was not found.
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(9) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(108) "news&amp;sa=U&amp;ei=7kXKVPylBczjsAT084H4Bw&amp;ved=0CCUQFjADOJAD&amp;usg=AFQjCNHsMMBHvuUXuKZmHWwiUjKsdT8V4A"
+  ["components"] => string(9) "com_jnews"
+  ["includes"] => string(14) "openflashchart"
+  ["php-ofc-library"] => string(20) "ofc_upload_image.php"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["name"] => string(8) "joss.php"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T15:24:42+00:00 ERR (3) 404 The filter "news&amp;amp;sa=U&amp;amp;ei=7kXKVPylBczjsAT084H4Bw&amp;amp;ved=0CCUQFjADOJAD&amp;amp;usg=AFQjCNHsMMBHvuUXuKZmHWwiUjKsdT8V4A" was not found.
+REMOTE_ADDR: 108.163.171.234
+HTTP_REFERER: 
+requested: array(8) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(108) "news&amp;sa=U&amp;ei=7kXKVPylBczjsAT084H4Bw&amp;ved=0CCUQFjADOJAD&amp;usg=AFQjCNHsMMBHvuUXuKZmHWwiUjKsdT8V4A"
+  ["components"] => string(9) "com_jnews"
+  ["includes"] => string(14) "openflashchart"
+  ["php-ofc-library"] => string(20) "ofc_upload_image.php"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T17:12:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.40.101.239
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T17:12:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.40.101.239
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T22:43:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.1.64.223
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T22:43:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.1.64.223
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T22:43:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.1.64.223
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-01-29T22:43:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.1.64.223
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "admin.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

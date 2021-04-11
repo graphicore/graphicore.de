@@ -1,0 +1,33 @@
+2018-10-04T03:04:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 101.132.108.139
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-04T14:01:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.35.38.9
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "mother.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-04T17:21:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.12.26.234
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

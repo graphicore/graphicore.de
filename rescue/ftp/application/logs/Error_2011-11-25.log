@@ -1,0 +1,96 @@
+2011-11-25T01:38:36+00:00 ERR (3) 404 "--_metropolis-wilderness" was not found.
+REMOTE_ADDR: 188.40.85.200
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(24) "--_metropolis-wilderness"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-11-25T02:05:10+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-11-25T03:20:20+00:00 ERR (3) 404 The filter "text" was not found.
+REMOTE_ADDR: 176.9.7.28
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(4) "text"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-11-25T03:52:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 46.4.121.154
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(5) "diary"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-11-25T03:59:21+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 46.4.121.154
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(5) "diary"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-11-25T06:08:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.17.97.128
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-11-25T07:15:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 217.251.247.3
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "utf-8"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-11-25T20:17:22+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 139.18.2.17
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

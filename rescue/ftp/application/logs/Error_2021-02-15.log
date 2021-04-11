@@ -1,0 +1,154 @@
+2021-02-15T12:37:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 82.165.224.185
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T12:37:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 82.165.224.185
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(14) "admin-ajax.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T12:44:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.227.50.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(12) "security.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T12:44:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.227.50.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "security.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T14:39:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 12.30.41.34
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(8) "admin.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T15:55:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.99
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T19:19:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.102.37.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "wallet.dat"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T19:19:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.102.37.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "backups"
+  ["action"] => string(10) "wallet.dat"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T19:20:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.102.37.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "Bitcoin"
+  ["action"] => string(10) "wallet.dat"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T19:20:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.102.37.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "bitcoin"
+  ["action"] => string(10) "wallet.dat"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T19:20:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.102.37.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "backup"
+  ["action"] => string(10) "wallet.dat"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T19:20:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.102.37.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "bitcoin"
+  ["action"] => string(6) "backup"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T19:21:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.102.37.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "wallet"
+  ["action"] => string(10) "wallet.dat"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-15T19:21:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.102.37.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "backup"
+  ["action"] => string(7) "bitcoin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

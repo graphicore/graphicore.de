@@ -1,0 +1,83 @@
+2011-05-12T05:25:11+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-12T05:25:15+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-12T08:06:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 190.2.40.121
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-12T15:23:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.230.246.25
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-12T19:53:40+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 89.183.81.41
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-12T21:00:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.210.43.4
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-12T23:24:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.139.114.233
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "%27%20+%20href%20+%20%27"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

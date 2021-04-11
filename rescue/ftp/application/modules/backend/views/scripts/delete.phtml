@@ -1,0 +1,30 @@
+<?php
+$urlArray = $this->urlArray;
+$urlArray['action'] = 'delete';
+$urlArray['id'] = $this->id;
+
+printf('<h1>%2$s %3$s %1$s</h1>',
+    $this->typeName,
+    $this->verb,
+    preg_match("#^h?[aeiouäüö]+#ui", $this->typeName) ? 'an' : 'a');
+if($this->message)
+{
+    echo '<p class="message">'.$this->message.'</p>';
+}
+$translate = GC_Translate::get();
+echo '<p>'.$translate->_('You are Deleting ').'<strong>the whole '.$this->typeName.'</strong></p>';
+$urlDelete = $urlArray;
+$url = $this->url($urlDelete, 'modules_i18n', True);
+
+$this->form->setAction($url)
+    ->output();
+
+if('development' === APPLICATION_ENV && $this->dump)
+{
+    ?><div class="development">
+    <h3>development information</h3>
+    <div class="content">
+    <?php echo GC_Debug::dump($this->dump,true); ?>
+    </div></div>
+    <?php
+}

@@ -1,0 +1,143 @@
+2011-12-16T05:24:05+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 77.20.40.173
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T09:00:55+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T14:53:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.230.246.182
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T15:13:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 31.109.22.113
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(20) "'%20+%20href%20+%20'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T17:17:18+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T19:50:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 206.253.224.22
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "storyTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T19:50:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 206.253.224.22
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "storyTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T19:50:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 206.253.224.22
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T19:50:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 206.253.224.22
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "storyTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T19:51:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 206.253.224.22
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "storyTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T19:51:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 206.253.224.22
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-16T19:51:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 206.253.224.22
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "storyTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

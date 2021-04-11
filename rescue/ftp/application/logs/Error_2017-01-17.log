@@ -1,0 +1,106 @@
+2017-01-17T01:27:33+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 40.77.167.3
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-17T06:14:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.92.60.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-17T06:14:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.92.60.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-17T09:47:03+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 180.76.15.27
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-17T10:30:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.92.60.138
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-17T10:30:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.92.60.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-17T19:17:15+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 40.77.167.3
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-17T22:29:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 195.154.181.162
+HTTP_REFERER: http://graphicore.de/logo_img.php
+requested: array(3) {
+  ["controller"] => string(12) "logo_img.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-17T23:36:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 31.184.236.104
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

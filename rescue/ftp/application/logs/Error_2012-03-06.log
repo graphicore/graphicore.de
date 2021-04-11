@@ -1,0 +1,62 @@
+2012-03-06T12:50:31+00:00 ERR (3) 404 "zimmer-frei" was not found.
+REMOTE_ADDR: 69.171.230.245
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "zimmer-frei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2012-03-06T15:16:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "tests"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-03-06T21:12:29+00:00 ERR (3) 404 "2010-10-12_serious_toys%23" was not found.
+REMOTE_ADDR: 46.4.79.76
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(26) "2010-10-12_serious_toys%23"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2012-03-06T22:22:25+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 178.45.214.79
+HTTP_REFERER: http://graphicore.de/en/index/topic/intern/projekte/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2012-03-06T23:17:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 211.115.83.21
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+2010-11-08T01:54:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.159.203.246
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(4) "atom"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-08T01:55:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.159.203.246
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-08T15:32:29+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 95.211.9.167
+HTTP_REFERER: http://graphicore.de/de/index/topic/intern/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

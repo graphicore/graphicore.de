@@ -1,0 +1,125 @@
+2015-12-16T07:54:45+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.80
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-16T09:44:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 117.177.243.42
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-16T09:44:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 117.177.250.149
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-16T09:44:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 117.177.243.42
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-16T09:44:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 117.177.243.42
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-16T09:45:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 117.177.250.149
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-16T15:03:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.193.9.243
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-16T15:03:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.193.9.243
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-16T21:31:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(3) "cms"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-16T21:41:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "libraries"
+  ["action"] => string(9) "simplepie"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-16T23:12:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "demo"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

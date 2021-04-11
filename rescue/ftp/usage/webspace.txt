@@ -1,0 +1,12 @@
+belegter Speicherplatz:
+htdocs	: 123249
+mysql	: 1509
+	d0020367  -> 1509
+pop	: 9445305
+	m01026f7  -> 487280
+	m016b6f9  -> 99960
+	m00b8dba  -> 4596483
+	m010fd77  -> 858186
+	m029beec  -> 65930
+	m01b89ee  -> 3337463
+chroot	: 0

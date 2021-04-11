@@ -1,0 +1,11 @@
+2015-04-15T16:38:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.79.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "mobile"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

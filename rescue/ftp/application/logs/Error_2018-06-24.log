@@ -1,0 +1,113 @@
+2018-06-24T01:03:10+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 94.23.27.166
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-06-24T01:03:12+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 94.23.27.166
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-06-24T01:03:47+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 94.23.27.166
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-06-24T01:03:47+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 94.23.27.166
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-06-24T07:21:41+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 212.129.16.22
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "core"
+  ["action"] => string(13) "CHANGELOG.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-06-24T12:56:22+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 54.36.149.31
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-06-24T13:55:56+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 54.36.148.68
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-06-24T15:15:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.45.193.195
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(8) "register"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-06-24T17:42:56+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 77.75.76.172
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

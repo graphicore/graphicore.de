@@ -1,0 +1,24 @@
+2018-09-20T06:44:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.38.156.252
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "site"
+  [""] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-20T13:24:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 209.90.225.227
+HTTP_REFERER: http://graphicore.de/wp-content/plugins/wp-mobile-detector/readme.txt
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["wp-mobile-detector"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

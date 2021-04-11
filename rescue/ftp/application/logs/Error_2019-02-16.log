@@ -1,0 +1,105 @@
+2019-02-16T00:50:20+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 54.36.148.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-16T01:48:22+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 54.36.148.152
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-16T05:09:36+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 46.229.168.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-16T10:57:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.99.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-16T10:57:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.99.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-16T10:57:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.99.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-16T10:57:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.99.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-16T10:57:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.99.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-16T10:57:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.99.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

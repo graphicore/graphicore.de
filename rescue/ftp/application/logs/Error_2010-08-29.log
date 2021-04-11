@@ -1,0 +1,171 @@
+2010-08-29T00:00:44+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 67.195.110.176
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T01:21:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 92.243.84.187
+HTTP_REFERER: http://www.graphicore.de/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php?type=file&folder=
+requested: array(8) {
+  ["controller"] => string(7) "plugins"
+  ["action"] => string(7) "editors"
+  ["tinymce"] => string(8) "jscripts"
+  ["tiny_mce"] => string(7) "plugins"
+  ["tinybrowser"] => string(15) "tinybrowser.php"
+  ["module"] => string(7) "default"
+  ["type"] => string(4) "file"
+  ["folder"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T12:38:08+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 95.211.0.87
+HTTP_REFERER: http://www.graphicore.de/en/index/topic/intern/projekte/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T12:49:36+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 188.165.217.147
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T14:34:49+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 95.220.97.137
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T21:49:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T21:49:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "index.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T21:49:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "index.htm"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T21:50:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.htm"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T21:50:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "default.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T21:50:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "index.jsp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T21:50:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.jsp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T21:50:01+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(33) "rankflex_content_duplication_test"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-29T21:50:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "w3c"
+  ["action"] => string(7) "p3p.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

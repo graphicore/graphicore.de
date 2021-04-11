@@ -1,0 +1,24 @@
+2020-08-28T17:17:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 129.146.190.190
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-08-28T19:06:10+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 52.249.182.14
+HTTP_REFERER: www.google.com
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["ioptimization"] => string(13) "IOptimize.php"
+  ["module"] => string(7) "default"
+  ["rchk"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

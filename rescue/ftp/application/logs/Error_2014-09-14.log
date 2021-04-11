@@ -1,0 +1,78 @@
+2014-09-14T02:21:28+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 180.76.5.77
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-14T02:32:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.61.57.89
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-14T02:32:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.61.57.89
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-14T05:42:51+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 81.30.151.220
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-14T20:07:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-14T21:21:50+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

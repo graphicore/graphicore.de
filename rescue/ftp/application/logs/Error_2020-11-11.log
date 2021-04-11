@@ -1,0 +1,33 @@
+2020-11-11T02:38:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.101.1.61
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "xxxss"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-11T12:07:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.153.182.86
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-11T13:15:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 41.143.91.30
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

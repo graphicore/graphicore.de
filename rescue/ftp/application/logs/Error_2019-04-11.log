@@ -1,0 +1,48 @@
+2019-04-11T04:28:24+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 104.148.64.26
+HTTP_REFERER: http://graphicore.de/server/php/
+requested: array(3) {
+  ["controller"] => string(6) "server"
+  ["action"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-11T12:32:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.87.233.140
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "ajax"
+  ["action"] => string(4) "libs"
+  ["dojo"] => array(2) {
+    [0] => string(5) "1.8.3"
+    [1] => string(7) "dojo.js"
+  }
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-11T13:52:52+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 104.148.64.26
+HTTP_REFERER: http://ufojs.org/server/php/
+requested: array(3) {
+  ["controller"] => string(6) "server"
+  ["action"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-11T23:37:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.229.168.154
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

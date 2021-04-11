@@ -1,0 +1,326 @@
+2019-10-19T11:18:25+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 66.249.64.126
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:48:12+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 207.241.231.146
+HTTP_REFERER: http://graphicore.de/de/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/IDAutomation/status/1138897014605996032
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-12:"
+  ["diary"] => string(27) "2013061209052451b839d4ca32b"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/hashtag/meetingrooms?src=hash
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-07:"
+  ["diary"] => string(27) "2013060714011251b1e7a8c1407"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://t.co/IyaPHGs7zr
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-13:"
+  ["diary"] => string(27) "201311131703405283b0ecf2532"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/hashtag/conferences?src=hash
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-06:"
+  ["diary"] => string(27) "2013060618252451b0d41400bf3"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://t.co/9DalyafDUB
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-07-09:"
+  ["diary"] => string(27) "201007091937074c377a6340b8b"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/hashtag/Conferences?src=hash
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-12:"
+  ["diary"] => string(27) "2013111217533652826b2018ca8"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://t.co/zrwz80AogG
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2015-07-28:"
+  ["diary"] => string(27) "2015072812483855b77a264cda6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://t.co/oD9cLoGnP7
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2012-09-02:"
+  ["diary"] => string(27) "201209021920375043b185ef245"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: http://www.tapuz.co.il/olamot/interests/%D7%97%D7%93%D7%A9%D7%95%D7%AA'
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/hashtag/Advertising?src=hash
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-12:"
+  ["diary"] => string(27) "2013111216002052825094cba29"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/hashtag/CrystalReports?src=hash
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2014-02-27:"
+  ["diary"] => string(27) "20140227142708530f4b3c7eae4"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/IDAutomation/status/1133764798930460672
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2012-01-17:"
+  ["diary"] => string(27) "201201171404524f15800404a4f"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/hashtag/Marketing?src=hash
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-08-31:"
+  ["diary"] => string(27) "201008310024084c7c4ba816ac5"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/hashtag/BusinessCards?src=hash
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2014-02-27:"
+  ["diary"] => string(27) "20140227115040530f26907c1a8"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://02e5532fac935f28bbc5-1ca2fe9a46ffb805852ae70dcefa28ba.ssl.cf2.rackcdn.com/banner_21_114.png
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-01:"
+  ["diary"] => string(27) "201010011553324ca603fcc53f3"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: http://02e5532fac935f28bbc5-1ca2fe9a46ffb805852ae70dcefa28ba.r98.cf2.rackcdn.com/logo_180.png
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-18:"
+  ["diary"] => string(27) "201010181349214cbc5061f0048"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://02e5532fac935f28bbc5-1ca2fe9a46ffb805852ae70dcefa28ba.ssl.cf2.rackcdn.com/banner_71_515.png
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-06:"
+  ["diary"] => string(27) "201010061331004cac7a14de999"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://t.co/Vk7QZbnoyt
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-12:"
+  ["diary"] => string(27) "201010121448344cb475424313c"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/IDAutomation/status/1138897014605996032
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-27:"
+  ["diary"] => string(27) "201009272109094ca107f52b79c"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: https://twitter.com/hashtag/events?src=hash
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-01-31:"
+  ["diary"] => string(27) "20130131135955510a78db3e0d6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: http://www.kunst-fuer-alle.de/deutsch/kunst/bilder/fotoprints/1/1202/index.htm
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-27:"
+  ["diary"] => string(27) "201009272105474ca1072b79bf6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T13:50:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.208.210
+HTTP_REFERER: http://www.kunst-fuer-alle.de/deutsch/kunst/bilder/fotoprints/1/2593/index.htm
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-23:"
+  ["diary"] => string(27) "201009231107214c9b34e9d0274"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T17:21:52+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.152
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T21:28:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.129.91.21
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-10-19T22:03:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 128.71.69.91
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

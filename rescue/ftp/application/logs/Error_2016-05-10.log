@@ -1,0 +1,278 @@
+2016-05-10T00:28:41+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 218.205.17.208
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T00:28:43+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 107.151.136.218
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T06:02:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.58
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T10:31:35+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 107.170.12.66
+HTTP_REFERER: http://graphicore.de/de/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T10:32:01+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 107.170.12.66
+HTTP_REFERER: http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T12:44:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.112.23
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["rsd"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T12:44:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.112.23
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T12:44:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.112.23
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T12:44:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.112.23
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T12:44:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.112.23
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T15:08:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 219.94.203.59
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T15:28:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 130.185.90.151
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T15:29:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 130.185.90.151
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T15:33:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.62.161.175
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T15:41:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 194.177.255.170
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T15:49:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.113.192.180
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T16:38:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 221.11.84.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "vwiqinstall"
+  ["action"] => string(13) "index.php.bak"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T16:38:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 221.11.84.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "install"
+  ["action"] => string(13) "index.php.bak"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T16:38:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 221.11.84.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "install"
+  ["action"] => string(13) "index.php.bak"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T18:55:32+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 194.187.168.223
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T19:34:32+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 40.77.167.84
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T21:25:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 81.22.98.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T22:03:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.78.237
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-10T22:06:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.78.237
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

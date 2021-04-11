@@ -1,0 +1,126 @@
+2010-09-18T10:39:58+00:00 ERR (3) 404 "2010-09-09_A-Brute-Font-Attack#graphicore_url_:de:archive:2010-09-09_A-Brute-Font-Attack" was not found.
+REMOTE_ADDR: 84.179.130.173
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(88) "2010-09-09_A-Brute-Font-Attack#graphicore_url_:de:archive:2010-09-09_A-Brute-Font-Attack"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-18T16:30:50+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 62.212.67.21
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/+%28200+ok%29+ACCEPTED
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-18T17:59:57+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-18T17:59:58+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "index.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-18T17:59:58+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "index.htm"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-18T17:59:58+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.htm"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-18T17:59:58+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "default.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-18T17:59:58+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "index.jsp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-18T17:59:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.jsp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-18T17:59:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(33) "rankflex_content_duplication_test"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-18T18:00:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "w3c"
+  ["action"] => string(7) "p3p.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

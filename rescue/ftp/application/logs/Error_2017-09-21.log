@@ -1,0 +1,90 @@
+2017-09-21T00:10:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 209.90.225.210
+HTTP_REFERER: http://graphicore.de/jm-ajax/upload_file/
+requested: array(3) {
+  ["controller"] => string(7) "jm-ajax"
+  ["action"] => string(11) "upload_file"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-21T08:59:22+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 77.75.76.161
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-21T21:15:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(15) "wlwmanifest.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-21T21:15:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-21T21:15:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-21T21:15:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-21T21:15:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "site"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-21T21:15:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "cms"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

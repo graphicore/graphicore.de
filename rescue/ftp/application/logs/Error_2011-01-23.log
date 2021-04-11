@@ -1,0 +1,80 @@
+2011-01-23T14:36:15+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 188.143.232.10
+HTTP_REFERER: http://graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-23T15:45:56+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 85.17.26.68
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-23T15:45:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 85.17.26.68
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-23T15:45:56+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 85.17.26.68
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-23T17:11:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.120.144.247
+HTTP_REFERER: http://graphicore.de/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php?type=file&folder=
+requested: array(8) {
+  ["controller"] => string(7) "plugins"
+  ["action"] => string(7) "editors"
+  ["tinymce"] => string(8) "jscripts"
+  ["tiny_mce"] => string(7) "plugins"
+  ["tinybrowser"] => string(15) "tinybrowser.php"
+  ["module"] => string(7) "default"
+  ["type"] => string(4) "file"
+  ["folder"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-23T17:58:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.37.156.146
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

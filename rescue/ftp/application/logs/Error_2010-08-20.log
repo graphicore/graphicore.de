@@ -1,0 +1,319 @@
+2010-08-20T00:32:28+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T00:32:32+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(14) "dieKulturlosen"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T00:32:36+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(10) "stadtnatur"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T00:32:41+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T00:32:46+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T00:32:51+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T00:32:57+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(14) "dieKulturlosen"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T00:33:02+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(10) "helloWorld"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T00:33:07+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "online"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T00:33:12+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(10) "stadtnatur"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T01:50:31+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 78.159.112.200
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T01:51:59+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 91.214.45.103
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T04:10:24+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(9) "impressum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T04:10:30+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(7) "kontakt"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T04:10:35+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(9) "impressum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T04:10:40+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(7) "kontakt"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T04:10:45+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T04:10:51+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 208.115.111.248
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T07:18:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 82.195.246.196
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T08:21:18+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 213.5.70.203
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/+%28200+ok%29+ACCEPTED
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T16:01:15+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 212.66.42.134
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T20:39:03+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 82.81.52.152
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-20T22:00:09+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 67.195.115.87
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "online"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

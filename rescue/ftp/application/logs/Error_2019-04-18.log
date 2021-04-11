@@ -1,0 +1,132 @@
+2019-04-18T00:10:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.170.44.92
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T00:17:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.185.4.157
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T00:31:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.62.161.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T00:39:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 81.88.49.6
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T00:45:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.199
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T05:38:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.86.51.247
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(8) "register"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T12:58:25+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 104.148.64.26
+HTTP_REFERER: http://graphicore.de/modules/simpleslideshow/uploadimage.php
+requested: array(3) {
+  ["controller"] => string(7) "modules"
+  ["action"] => string(15) "simpleslideshow"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T15:18:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 138.201.200.97
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T15:18:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 138.201.200.97
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(17) "sitemap-index.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T15:18:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 138.201.200.97
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "sitemaps"
+  ["action"] => string(11) "sitemap.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T19:54:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 38.99.62.93
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-18T22:20:11+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 104.148.64.26
+HTTP_REFERER: http://ufojs.org/modules/simpleslideshow/uploadimage.php
+requested: array(3) {
+  ["controller"] => string(7) "modules"
+  ["action"] => string(15) "simpleslideshow"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

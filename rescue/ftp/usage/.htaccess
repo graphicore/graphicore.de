@@ -1,0 +1,7 @@
+RewriteEngine off
+DirectoryIndex webalizer.html
+AuthUserFile /www/htdocs/w005c17d/usage/.htpasswd
+AuthGroupFile /dev/null
+AuthName 'ByPassword'
+AuthType Basic
+require valid-user

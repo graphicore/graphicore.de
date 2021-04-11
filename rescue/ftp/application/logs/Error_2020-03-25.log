@@ -1,0 +1,247 @@
+2020-03-25T03:34:56+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.119.124.13
+HTTP_REFERER: https://home-task.com/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T03:34:57+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.119.124.13
+HTTP_REFERER: https://home-task.com/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T03:34:57+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.119.124.13
+HTTP_REFERER: https://home-task.com/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T07:34:34+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.239.91
+HTTP_REFERER: https://predmety.in.ua/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T07:34:35+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.239.91
+HTTP_REFERER: https://predmety.in.ua/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T07:34:35+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.239.91
+HTTP_REFERER: https://predmety.in.ua/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T11:47:48+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 37.229.204.51
+HTTP_REFERER: https://home-task.com/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T11:47:49+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 37.229.204.51
+HTTP_REFERER: https://home-task.com/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T16:38:36+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://villa-krym.ru/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T16:38:37+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://villa-krym.ru/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T16:38:37+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://villa-krym.ru/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T16:38:38+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://villa-krym.ru/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T16:38:38+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://villa-krym.ru/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T20:49:54+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://ukr-lit.com/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T20:49:54+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://schoolessay.ru/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T20:49:54+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://ukr-lit.com/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T20:49:54+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://schoolessay.ru/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T20:49:55+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://ukr-lit.com/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-03-25T20:49:55+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.81.217
+HTTP_REFERER: https://schoolessay.ru/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

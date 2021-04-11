@@ -1,0 +1,782 @@
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "_editor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "FCKnew"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["upload"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(7) "editors"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(11) "_editor_old"
+  ["action"] => string(6) "editor"
+  ["_filemanager"] => string(6) "upload"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "_editor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(6) "upload"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(11) "_editor_new"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(6) "upload"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(3) "fck"
+  ["editor"] => string(11) "filemanager"
+  ["upload"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "FCKnew"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "_FCKEditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(7) "include"
+  ["classes"] => string(10) "_fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["upload"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "_editor"
+  ["action"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(4) "_bak"
+  ["action"] => string(5) "admin"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(7) "include"
+  ["classes"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["upload"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(7) "editors"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(6) "upload"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(7) "classes"
+  ["fck"] => string(6) "editor"
+  ["filemanager"] => string(6) "upload"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "_fckeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(7) "classes"
+  ["fck"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(6) "upload"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(8) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "modules"
+  ["key"] => string(9) "fckeditor"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(5) "admin"
+  ["system"] => string(6) "inside"
+  ["lib"] => string(6) "editor"
+  ["editor"] => string(6) "editor"
+  ["filemanager"] => string(6) "upload"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(7) {
+  ["controller"] => string(11) "application"
+  ["action"] => string(7) "maxsite"
+  ["plugins"] => string(16) "editor_fckeditor"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(7) "modules"
+  ["action"] => string(9) "fckeditor"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(9) "framework"
+  ["action"] => string(4) "Form"
+  ["js"] => string(8) "ckeditor"
+  ["plugins"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(6) "news22"
+  ["FCKeditor"] => string(6) "editor"
+  ["filemanager"] => string(6) "upload"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(7) "adminka"
+  ["action"] => string(6) "engine"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "plugins"
+  ["action"] => string(13) "TinyMCEPlugin"
+  ["tiny_mce"] => string(7) "plugins"
+  ["smimage"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(11) "application"
+  ["action"] => string(7) "maxsite"
+  ["plugins"] => string(12) "file_manager"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(6) "netcat"
+  ["action"] => string(7) "editors"
+  ["FCKeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(6) "engine"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "engine"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "assets"
+  ["action"] => string(2) "js"
+  ["jeditable"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(3) "cms"
+  ["action"] => string(2) "js"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "jed"
+  ["action"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "chips"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "mod"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(7) {
+  ["controller"] => string(11) "application"
+  ["action"] => string(7) "maxsite"
+  ["plugins"] => string(9) "FCKeditor"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "sites"
+  ["action"] => string(3) "all"
+  ["modules"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "vendors"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["ckeditor-for-wordpress"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(6) "simpla"
+  ["action"] => string(6) "design"
+  ["js"] => string(8) "tiny_mce"
+  ["plugins"] => string(7) "smimage"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(8) "user_cms"
+  ["action"] => string(7) "modules"
+  ["addons"] => string(9) "imperator"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(4) "temp"
+  ["action"] => string(7) "modules"
+  ["fckeditor"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "plugins"
+  ["action"] => string(7) "tinyMCE"
+  ["plugins"] => string(7) "smimage"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(9) "templates"
+  ["action"] => string(5) "admin"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(7) "plugins"
+  ["action"] => string(11) "p_fckeditor"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "sites"
+  ["action"] => string(3) "all"
+  ["libraries"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(7) {
+  ["controller"] => string(5) "sites"
+  ["action"] => string(3) "all"
+  ["modules"] => string(9) "fckeditor"
+  ["fckeditor"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T00:38:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.98.6.136
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(4) "poll"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T03:23:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.190.53
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T03:23:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.190.53
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T05:10:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 199.19.104.163
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "license.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T08:51:58+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 209.90.225.210
+HTTP_REFERER: http://graphicore.de/wp-content/themes/headway-162/style.css
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(6) "themes"
+  ["headway-162"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T13:39:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.190.53
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T13:39:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.190.53
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-03T20:39:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.70.186.146
+HTTP_REFERER: http://graphicore.de/blog/
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

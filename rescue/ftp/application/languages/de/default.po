@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: graphicore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-15 16:51+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Lasse Fister <commander@graphicore.de>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: translate;->_(\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ./application\n"
+"X-Poedit-SearchPath-1: ./library/Custom\n"
+"X-Poedit-SearchPath-2: public\n"
+"X-Poedit-SearchPath-3: library/GC\n"
+
+#: application/modules/common/views/helpers/LanguageSwitch.php:62
+#, php-format
+msgid ""
+"Display this page in %1$s. The interface is translated, but not all articles "
+"necessarily are."
+msgstr ""
+"Zeige diese Seite auf %1$s. Die Benutzerschnittstelle ist übersetzt, aber "
+"nicht unbedingt alle Artikel."
+
+#: application/modules/default/controllers/ErrorController.php:25
+msgid "Page not found"
+msgstr "Seite nicht gefunden"
+
+#: application/modules/default/controllers/ErrorController.php:30
+msgid "Application error"
+msgstr "Fehler der Anwendungssoftware"
+
+#: application/modules/default/controllers/ErrorController.php:54
+msgid "Forbidden"
+msgstr "Verboten"
+
+#: application/modules/default/controllers/IndexController.php:116
+msgid "Diary entry"
+msgstr "Tagebucheintrag"
+
+#: application/modules/default/controllers/IndexController.php:154
+#: application/modules/default/controllers/IndexController.php:159
+msgid "Diary"
+msgstr "Tagebuch"
+
+#: application/modules/default/controllers/IndexController.php:154
+msgid "Filter"
+msgstr "Filter"
+
+#: application/modules/backend/forms/DiaryCreate.php:9
+#: application/modules/backend/forms/GroupCreate.php:9
+#: application/modules/backend/forms/FilterCreate.php:9
+#: application/modules/backend/forms/PageCreate.php:9
+#: application/modules/backend/forms/UserCreate.php:9
+msgid "Create"
+msgstr "Anlegen"
+
+#: application/modules/backend/forms/UserUpdate.php:9
+#: application/modules/backend/forms/DiaryUpdate.php:9
+#: application/modules/backend/forms/PageUpdate.php:9
+#: application/modules/backend/forms/FilterUpdate.php:9
+#: application/modules/backend/forms/GroupUpdate.php:9
+msgid "Update"
+msgstr "Aktualisierung"
+
+#: application/modules/backend/forms/Delete.php:9
+msgid "Delete"
+msgstr "Lösche"
+
+#: application/modules/backend/forms/UserPassword.php:8
+msgid "Generate a new Password and send it to the User."
+msgstr "Generiere ein neues Passwort und sende es dem Benutzer"
+
+#: application/modules/backend/forms/UserForgotten.php:19
+msgid "Request a new password."
+msgstr "Fordere ein neues Passwort."
+
+#: application/modules/backend/forms/UserForgotten.php:26
+msgid "Give me that."
+msgstr "Gib mir das."
+
+#: application/modules/backend/forms/UserLogin.php:19
+msgid "Login"
+msgstr "Anmelden"
+
+#: application/modules/backend/forms/UserLogin.php:25
+msgid "name"
+msgstr "Name"
+
+#: application/modules/backend/forms/UserLogin.php:31
+#: application/modules/backend/forms/Unit/User.php:19
+msgid "password"
+msgstr "Passwort"
+
+#: application/modules/backend/forms/UserLogin.php:37
+msgid "Let me in"
+msgstr "Lass mich rein"
+
+#: application/modules/backend/forms/UserSetup.php:19
+msgid "User Setup"
+msgstr "Bemutzereinstellungen"
+
+#: application/modules/backend/forms/UserSetup.php:26
+msgid "update"
+msgstr "aktualisieren"
+
+#: application/modules/backend/forms/Confirm.php:33
+msgid "No"
+msgstr "Nein"
+
+#: application/modules/backend/forms/Confirm.php:41
+msgid "Yes"
+msgstr "Ja"
+
+#: application/modules/backend/forms/Confirm.php:48
+msgid "Confirm"
+msgstr "Bestätige"
+
+#: application/modules/backend/forms/Unit/ReCaptcha.php:16
+msgid "Type the two words"
+msgstr "Tippe die beiden Wörter ein"
+
+#: application/modules/backend/forms/Unit/User.php:13
+#: application/modules/backend/forms/Unit/UserForgotten.php:13
+msgid "username"
+msgstr "Benutzername"
+
+#: application/modules/backend/forms/Unit/User.php:25
+msgid "confirm the password"
+msgstr "bestätige das Passwort"
+
+#: application/modules/backend/forms/Unit/User.php:31
+#: application/modules/backend/forms/Unit/UserForgotten.php:19
+#: application/modules/backend/forms/Unit/UserSetup.php:31
+msgid "email"
+msgstr "Email"
+
+#: application/modules/backend/forms/Unit/User.php:36
+msgid "select a group"
+msgstr "wähle eine Gruppe"
+
+#: application/modules/backend/forms/Unit/User.php:38
+#: application/modules/backend/controllers/UserController.php:28
+#: library/Custom/Render.php:874
+msgid "none"
+msgstr "keiner"
+
+#: application/modules/backend/forms/Unit/DiaryI18n.php:15
+#: application/modules/backend/forms/Unit/Filter.php:27
+#: application/modules/backend/forms/Unit/PageI18n.php:15
+msgid "not published"
+msgstr "nicht veröffentlicht"
+
+#: application/modules/backend/forms/Unit/DiaryI18n.php:16
+#: application/modules/backend/forms/Unit/Filter.php:28
+#: application/modules/backend/forms/Unit/PageI18n.php:16
+msgid "published"
+msgstr "veröffentlicht"
+
+#: application/modules/backend/forms/Unit/DiaryI18n.php:24
+msgid "title for the <title> tag and such"
+msgstr "Titel für den <title> Tag und so"
+
+#: application/modules/backend/forms/Unit/DiaryI18n.php:31
+msgid "teaser"
+msgstr "Teaser"
+
+#: application/modules/backend/forms/Unit/DiaryI18n.php:38
+#: application/modules/backend/forms/Unit/PageI18n.php:31
+msgid "html page content"
+msgstr "html Seiteninhalt"
+
+#: application/modules/backend/forms/Unit/FilterI18n.php:13
+msgid "Name"
+msgstr ""
+
+#: application/modules/backend/forms/Unit/FilterI18n.php:20
+#: application/modules/backend/forms/Unit/Group.php:20
+msgid "description"
+msgstr "Beschreibung"
+
+#: application/modules/backend/forms/Unit/Filter.php:13
+#: application/modules/backend/forms/Unit/Diary.php:15
+#: application/modules/backend/forms/Unit/Page.php:13
+msgid "URL-Id"
+msgstr ""
+
+#: application/modules/backend/forms/Unit/Filter.php:19
+msgid "weight"
+msgstr "Gewicht"
+
+#: application/modules/backend/forms/Unit/PageI18n.php:24
+msgid "title like for the <title> tag"
+msgstr "Titel, wie für den <titel> Tag"
+
+#: application/modules/backend/forms/Unit/Diary.php:21
+#: library/Custom/Render.php:800
+#: library/Custom/Controller/Plugin/Navigation.php:110
+msgid "Filters"
+msgstr "Filter"
+
+#: application/modules/backend/forms/Unit/Diary.php:23
+msgid "there are no Filters"
+msgstr "es gibt keine Filter"
+
+#: application/modules/backend/forms/Unit/Diary.php:31
+msgid "this Articles Date (YYYY-MM-DD HH:MI:SS)"
+msgstr "Das Datum dieses Artikels (YYYY-MM-DD HH:MI:SS)"
+
+#: application/modules/backend/forms/Unit/Diary.php:32
+msgid "the Timezone is"
+msgstr "die Zeitzohne ist"
+
+#: application/modules/backend/forms/Unit/UserSetup.php:13
+msgid "old password"
+msgstr "altes Passwort"
+
+#: application/modules/backend/forms/Unit/UserSetup.php:19
+msgid "new password"
+msgstr "neues Passwort"
+
+#: application/modules/backend/forms/Unit/UserSetup.php:25
+msgid "confirm the new password"
+msgstr "bestätige das neue Passwort"
+
+#: application/modules/backend/forms/Unit/Group.php:14
+msgid "groupname"
+msgstr "Gruppenname"
+
+#: application/modules/backend/views/helpers/EditingLanguageSwitch.php:22
+#, php-format
+msgid ""
+"<div class=\"editingLanguageSwitch\">You are editing in <strong class="
+"\"current-lang\">%2$s (%1$s)</strong> change it to: <ul>%3$s</ul></div>"
+msgstr ""
+"<div class=\"editingLanguageSwitch\">Du editierst auf <strong class="
+"\"current-lang\">%2$s (%1$s)</strong> ändere dies zu: <ul>%3$s</ul></div>"
+
+#: application/modules/backend/views/helpers/EditingLanguageSwitch.php:28
+#, php-format
+msgid "<div>editing Language is %1$s</div>"
+msgstr "<div>die bearbeitete Sprache ist %1$s</div>"
+
+#: library/Custom/Render.php:182
+msgid "Donate with PayPal."
+msgstr "Mit PayPal spenden."
+
+#: library/Custom/Render.php:182
+msgid "Donate"
+msgstr "Spende"
+
+#: library/Custom/Render.php:801
+msgid "Permalink"
+msgstr ""
+
+#: library/Custom/Render.php:894
+msgid "all Entries"
+msgstr "alle Einträge"
+
+#: library/Custom/Render.php:939
+#: library/Custom/Controller/Plugin/Navigation.php:116
+msgid "All"
+msgstr "Alle"
+
+#: library/Custom/Render.php:992
+msgid "Go to the first page."
+msgstr "Gehe zur ersten Seite."
+
+#: library/Custom/Render.php:999
+msgid "Go to the previous page (number {%page_number})."
+msgstr "Gehe zur vorherigen Seite (Nummer {%page_number})."
+
+#: library/Custom/Render.php:1006
+msgid "Go to page number {%page}."
+msgstr "Gehe zur Seitenummer {%page}."
+
+#: library/Custom/Render.php:1013
+msgid "Go to the next page (number {%page_number})."
+msgstr "Gehe zur nächsten Seite (Nummer {%page_number})."
+
+#: library/Custom/Render.php:1020
+msgid "Go to the last page (number {%page_number})."
+msgstr "Gehe zur letzten Seite (Nummer {%page_number})."
+
+#: library/Custom/Controller/Plugin/Navigation.php:15
+msgid "About us"
+msgstr "Über uns"
+
+#: library/Custom/Controller/Plugin/Navigation.php:67
+msgid "Lasse"
+msgstr ""
+
+#: library/Custom/Controller/Plugin/Navigation.php:81
+msgid "Anne"
+msgstr ""
+
+#: library/Custom/Controller/Plugin/Navigation.php:95
+msgid "Competences"
+msgstr "Kompetenzen"
+
+#: library/Custom/Controller/Plugin/Navigation.php:117
+msgid "list all articles"
+msgstr "alle Artikel auflisten"
+
+#~ msgid "Pages"
+#~ msgstr "Seiten"
+
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Employ Lasse"
+#~ msgstr "Lasse engagieren"
+
+#~ msgid "Users"
+#~ msgstr "Benutzer"
+
+#~ msgid "Groups"
+#~ msgstr "Gruppen"
+
+#~ msgid "You are logged in as:"
+#~ msgstr "Du bist eingeloggt als:"
+
+#~ msgid "logout"
+#~ msgstr "abmelden"
+
+#~ msgid "You are not logged in"
+#~ msgstr "Du bist nicht angemeldet"
+
+#~ msgid "Password Recovery"
+#~ msgstr "Passwort zurück holen"
+
+#~ msgid "login"
+#~ msgstr "anmelden"
+
+#~ msgid "the website of Lasse Fister"
+#~ msgstr "die Webseite von Lasse Fister"
+
+#~ msgid "You are Deleting "
+#~ msgstr "Du löschst"
+
+#~ msgid "create a new"
+#~ msgstr "Neu anlegen"
+
+#~ msgid "delete"
+#~ msgstr "löschen"
+
+#~ msgid "Rather delete the whole"
+#~ msgstr "Lösche lieber alles"
+
+#~ msgid "You can delete other languages here:"
+#~ msgstr "Du kannst andere Sprachen hier löschen:"
+
+#~ msgid "You might prefer deleting only a specific language:"
+#~ msgstr "Du ziehst es vielleicht vor nur eine bestimmte Sprache zu löschen:"
+
+#~ msgid "create a new user"
+#~ msgstr "einen neuen Benutzer anlegen"
+
+#~ msgid "create a new group"
+#~ msgstr "eine neue Gruppe anlegen"
+
+#~ msgid "Look at this:"
+#~ msgstr "Schau dir das an:"
+
+#~ msgid "Bookmark this on Delicious"
+#~ msgstr "Setze ein Lesezeichen auf Delicious"
+
+#~ msgid "Add this page to Mister Wong"
+#~ msgstr "Füge diese Seite zu Mister Wong hinzu"
+
+#~ msgid "Share this with AddThis"
+#~ msgstr "Teile dies mit AddThis"
+
+#~ msgid "Share this on %1$s"
+#~ msgstr "Teile dies auf %1$s"
+
+#~ msgid "to the top"
+#~ msgstr "nach oben"
+
+#~ msgid "Mission"
+#~ msgstr "Mission"
+
+#~ msgid "Peru"
+#~ msgstr "Peru"
+
+#~ msgid "Bolivia"
+#~ msgstr "Bolivien"
+
+#~ msgid "support"
+#~ msgstr "Unterstützung"

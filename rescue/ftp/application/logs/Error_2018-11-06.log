@@ -1,0 +1,12 @@
+2018-11-06T04:03:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 88.16.157.200
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

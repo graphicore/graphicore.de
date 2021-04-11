@@ -1,0 +1,68 @@
+2014-10-26T05:37:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.131.119.211
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "misc"
+  ["action"] => string(9) "drupal.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-26T06:47:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 217.69.133.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-26T20:41:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.7.159.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(12) "wp-login.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-26T20:41:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.7.159.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "administrator"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-26T20:41:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.7.159.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "admin.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-26T22:57:38+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

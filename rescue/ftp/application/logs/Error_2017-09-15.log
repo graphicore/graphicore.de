@@ -1,0 +1,147 @@
+2017-09-15T06:17:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.234.153.122
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "33"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T06:17:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.234.153.122
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "34"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T06:18:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.234.153.122
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "37"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T06:18:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.234.153.122
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "41"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T08:36:22+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 104.131.89.92
+HTTP_REFERER: http://graphicore.de/de/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T08:36:32+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 104.131.89.92
+HTTP_REFERER: http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T11:23:30+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 194.95.188.5
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T13:09:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.110.71.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(6) "themes"
+  ["RightNow"] => string(8) "includes"
+  ["uploadify"] => string(25) "upload_settings_image.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T13:09:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.110.71.26
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "uploads"
+  ["settingsimages"] => string(10) "xb9987.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T13:09:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.110.71.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "assets"
+  ["action"] => string(7) "modules"
+  ["evogallery"] => string(2) "js"
+  ["uploadify"] => string(13) "uploadify.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T13:09:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.110.71.26
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "xb9987.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-15T15:18:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.108.27.94
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

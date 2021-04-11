@@ -1,0 +1,22 @@
+2019-05-31T10:20:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.208.220.226
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(8) "register"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-31T13:55:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.42.67.157
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

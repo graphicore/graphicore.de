@@ -1,0 +1,28 @@
+2010-09-02T05:51:41+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 67.195.110.176
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-02T12:48:30+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 188.92.75.41
+HTTP_REFERER: http://damau.org/wp-content/uploads/2008/10/rolex-replica/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,69 @@
+.stage,
+.footer
+{
+    overflow: hidden;
+}
+.stage hr
+{
+    color: #7ED406;
+}
+.stage .content .contentContainer,
+.header .menu-bar .menu li,
+.header .menu-bar span,
+.diaryEntryFooter .sharelinks li,
+.content h2.twitter span.imageDrop,
+.diaryList .entries li.diaryEntryTeaser a.entryLink
+{
+    display:inline;
+    zoom:1;
+}
+
+html .diaryList .entries .filters li a,
+html .diaryEntry .diaryEntryFooter .filters li a
+{
+    /* ? */
+    width: 8em;
+}
+.diaryList .entries li .title,
+.contentContainer.diaryList .entries li .title
+{
+    width:auto
+}
+/*
+ * this is black magic
+ * a dirty for ::before and ::after in ie7 and ie6
+ * the expression will run once per element because it replaces itself
+  */
+.diaryList .entries li.diaryEntryTeaser
+{
+    text-decoration: expression(
+    (function(element)
+    {
+        element.style.textDecoration = 'none'
+        var span = document.createElement('span')
+        span.className = 'ie-after'
+        element.appendChild(span)
+   })(this))
+}
+
+.footer .inner
+{
+    text-decoration: expression(
+    (function(element)
+    {
+        element.style.textDecoration = 'none'
+        var span = document.createElement('span')
+        span.className = 'ie-before'
+        span.innerHTML = String.fromCharCode(0X25B2)
+        if(element.firstChild)
+        {
+            element.insertBefore(span ,element.firstChild)
+        }
+        else
+        {
+            element.appendChild(span)
+        }
+
+
+   })(this))
+}

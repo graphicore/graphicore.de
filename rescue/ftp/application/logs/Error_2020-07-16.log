@@ -1,0 +1,926 @@
+2020-07-16T01:53:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.71.142.35
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "humans.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T01:53:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.71.142.35
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T02:18:20+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.25.177.187
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T02:33:52+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.25.177.187
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T02:41:44+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.177.187
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T03:05:34+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.177.187
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(4) "php5"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "php.cgi"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(8) "php4.cgi"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(8) "php5.cgi"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(3) "php"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(4) "php4"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(4) "php5"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(7) "php.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(8) "php4.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(8) "php5.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(7) "php-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(8) "php4-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(8) "php5-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(3) "php"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(4) "php4"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(4) "php5"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(7) "php.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(8) "php4.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(8) "php5.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(7) "php-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(8) "php4-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(8) "php5-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T06:29:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.185.127.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(3) "App"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["content"] => string(15) "die(sha1(xyzt))"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-08-31:"
+  ["diary"] => string(27) "201008310024084c7c4ba816ac5"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2014-02-27:"
+  ["diary"] => string(27) "20140227115040530f26907c1a8"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-07:"
+  ["diary"] => string(27) "2013060714011251b1e7a8c1407"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2015-07-28:"
+  ["diary"] => string(27) "2015072812483855b77a264cda6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-06:"
+  ["diary"] => string(27) "201010061331004cac7a14de999"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-07-09:"
+  ["diary"] => string(27) "201007091937074c377a6340b8b"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-12:"
+  ["diary"] => string(27) "201010121448344cb475424313c"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2012-09-02:"
+  ["diary"] => string(27) "201209021920375043b185ef245"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-13:"
+  ["diary"] => string(27) "201311131703405283b0ecf2532"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-27:"
+  ["diary"] => string(27) "201009272109094ca107f52b79c"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-12:"
+  ["diary"] => string(27) "2013111217533652826b2018ca8"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-06:"
+  ["diary"] => string(27) "2013060618252451b0d41400bf3"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-27:"
+  ["diary"] => string(27) "201009272105474ca1072b79bf6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-23:"
+  ["diary"] => string(27) "201009231107214c9b34e9d0274"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T08:09:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.61
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-18:"
+  ["diary"] => string(27) "201010181349214cbc5061f0048"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T13:02:41+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.177.187
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T13:05:21+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.177.187
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T13:13:20+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.25.177.187
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T15:04:05+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.185.196
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T16:20:43+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 62.210.188.218
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T17:20:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 68.65.123.228
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(3) "dev"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(4) "php5"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "php.cgi"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(8) "php4.cgi"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(8) "php5.cgi"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(3) "php"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(4) "php4"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(4) "php5"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(7) "php.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(8) "php4.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(8) "php5.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(7) "php-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(8) "php4-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(3) "cgi"
+  ["action"] => string(8) "php5-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(3) "php"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(4) "php4"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(4) "php5"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(7) "php.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(8) "php4.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(8) "php5.cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(7) "php-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(8) "php4-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(8) "php5-cgi"
+  ["module"] => string(7) "default"
+  ["-d_allow_url_include=on_-d_safe_mode=off_-d_suhosin_simulation=on_-d_disable_functions=""_-d_open_basedir=none_-d_auto_prepend_file=php://input_-d_cgi_force_redirect=0_-d_cgi_redirect_status_env=0_-n"] => string(0) ""
+  ["<?php_echo_md5("blahblah")_;exit(0);?>"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-16T21:42:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.242.113.224
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(3) "App"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["content"] => string(15) "die(sha1(xyzt))"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+<?php
+$this->layout()->disableLayout();
+$feed = new Zend_Feed_Writer_Feed();
+$feed->setTitle('test');
+$feed->setLink('http://www.testtest.org');
+$feed->setFeedLink('http://www.testtest.org/feed', 'atom');
+$feed->setDescription('test articles');
+$feed->setId('http://www.testtest.org/feed/atom/');
+$feed->setEncoding('UTF-8');
+$feed->addAuthor(array(
+    'name'  => 'test',
+    'email' => 'test@testtest.org',
+    'uri'   => 'http://www.testtest.org',
+));
+$feed->setDateModified(new Zend_Date());
+
+$entry = $feed->createEntry();
+$entry->setTitle('test article');
+$entry->setId('http://www.testtest.org/feed/testarticle1id');
+$entry->setDateCreated(new Zend_Date());
+$entry->setDateModified(new Zend_Date());
+//using html_entity_decode to get a utf-8 no breaking space
+$htmlSnipped = '<h1>Test'.html_entity_decode('&nbsp;', ENT_COMPAT, 'UTF-8').'Content</h1>';
+$entry->setContent($htmlSnipped);
+$entry->setDescription('test Description');
+$feed->addEntry($entry);
+echo $feed->export('atom');

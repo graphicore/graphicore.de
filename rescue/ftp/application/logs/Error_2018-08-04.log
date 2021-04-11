@@ -1,0 +1,141 @@
+2018-08-04T08:01:17+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.9.94.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-08-04T08:43:18+00:00 ERR (3) 404 "anne" was not found.
+REMOTE_ADDR: 40.77.167.164
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(4) "anne"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-08-04T11:27:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 148.72.11.36
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "downloader"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-08-04T20:01:59+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-08-04T20:02:04+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-08-04T20:02:46+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-08-04T20:02:48+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-08-04T23:27:18+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 37.187.56.76
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-08-04T23:27:21+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 37.187.56.76
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-08-04T23:27:59+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 37.187.56.76
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-08-04T23:27:59+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 37.187.56.76
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

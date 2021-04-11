@@ -1,0 +1,12 @@
+2017-07-31T06:47:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 209.90.225.227
+HTTP_REFERER: http://graphicore.de/wp-content/themes/purevision/style.css
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(6) "themes"
+  ["purevision"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

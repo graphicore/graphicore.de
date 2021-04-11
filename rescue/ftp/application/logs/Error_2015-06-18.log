@@ -1,0 +1,46 @@
+2015-06-18T12:12:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.61.103.195
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-18T12:12:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.61.103.195
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-18T12:18:28+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 46.161.41.199
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-18T12:22:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 37.104.214.114
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

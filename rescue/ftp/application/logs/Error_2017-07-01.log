@@ -1,0 +1,471 @@
+2017-07-01T01:30:27+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 180.76.15.138
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T03:50:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(7) "sql.tar"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T03:52:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(10) "db.sql.bz2"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T03:53:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(7) "sql.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T03:54:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(10) "sql.tar.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T03:56:39+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(8) "dump.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T03:58:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(8) "dump.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:06:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(9) "users.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:07:12+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(6) "sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:12:07+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(12) "dump.sql.tgz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:12:42+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(8) "dump.tgz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:13:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(13) "db_backup.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:21:48+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(9) "db.tar.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:24:08+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(6) "db.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:24:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(14) "backup.sql.bz2"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:40:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(8) "dump.tar"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:40:54+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(5) "1.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:43:57+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(10) "dbdump.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:46:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(8) "temp.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:49:48+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(12) "dump.sql.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:50:27+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(9) "db.sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:52:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(9) "mysql.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T04:53:07+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(11) "dump.tar.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:11:36+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(8) "data.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:13:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(6) "db.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:18:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(13) "dbdump.sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:20:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(6) "db.tar"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:21:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(7) "sql.tgz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:28:50+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(8) "site.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:29:42+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(7) "dump.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:30:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(7) "sql.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:32:07+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(10) "db.sql.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:41:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.190.253.233
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(9) "mysql.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:42:49+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(10) "backup.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T05:55:08+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(11) "dump.sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T06:12:03+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.108.108.14
+HTTP_REFERER: ufojs.org
+requested: array(3) {
+  ["controller"] => string(13) "backup.sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T11:33:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.85.2.40
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T11:33:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.85.2.40
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T11:33:19+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.85.2.40
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T16:18:06+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.196.90.82
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T19:48:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 216.244.86.114
+HTTP_REFERER: http://graphicore.de/wp-content/plugins/wp-symposium/readme.txt
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["wp-symposium"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-01T23:42:38+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.90
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

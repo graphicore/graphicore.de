@@ -1,0 +1,22 @@
+2011-04-08T10:03:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 85.25.184.209
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "span.no-spam"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-08T15:27:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.210.43.4
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

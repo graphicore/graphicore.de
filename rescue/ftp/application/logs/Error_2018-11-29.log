@@ -1,0 +1,55 @@
+2018-11-29T01:24:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.236.1.14
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-11-29T07:16:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 205.172.168.141
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(6) "config"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-11-29T19:41:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 115.186.177.243
+HTTP_REFERER: http://www.google.com.hk
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-11-29T19:41:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 115.186.177.243
+HTTP_REFERER: http://www.google.com.hk
+requested: array(3) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-11-29T22:59:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.229.168.134
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

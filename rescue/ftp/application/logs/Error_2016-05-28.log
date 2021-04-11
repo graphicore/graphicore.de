@@ -1,0 +1,272 @@
+2016-05-28T03:14:58+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T03:29:42+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T05:03:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.210.17.86
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T05:03:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.210.17.86
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T05:20:38+00:00 ERR (3) 404 "2014-02-27_kaufland-firewall-service" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(36) "2014-02-27_kaufland-firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T08:00:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 146.255.102.1
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "CHANGELOG.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T08:00:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 146.255.102.1
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "drupal"
+  ["action"] => string(13) "CHANGELOG.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T08:00:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 146.255.102.1
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "site"
+  ["action"] => string(13) "CHANGELOG.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T08:00:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 146.255.102.1
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "store"
+  ["action"] => string(13) "CHANGELOG.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T08:00:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 146.255.102.1
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(13) "CHANGELOG.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T08:00:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 146.255.102.1
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "shop"
+  ["action"] => string(13) "CHANGELOG.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T08:00:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 146.255.102.1
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "CHANGELOG.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T08:00:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 146.255.102.1
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(13) "CHANGELOG.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T08:43:18+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T09:22:53+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 51.255.51.68
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T09:47:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 187.45.189.58
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T11:59:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.210.17.86
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T11:59:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.210.17.86
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T14:40:42+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T22:45:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 169.38.69.75
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(14) "admin-ajax.php"
+  ["module"] => string(7) "default"
+  ["client_action"] => string(13) "update_plugin"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T22:45:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 169.38.69.75
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["revslider"] => string(4) "temp"
+  ["update_extract"] => string(22) "NULLpOint7r__gijeh.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T22:45:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 169.38.69.75
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(14) "admin-ajax.php"
+  ["module"] => string(7) "default"
+  ["client_action"] => string(13) "update_plugin"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-28T22:45:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 169.38.69.75
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["showbiz"] => string(4) "temp"
+  ["update_extract"] => string(22) "NULLpOint7r__szowv.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

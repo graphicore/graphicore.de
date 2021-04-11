@@ -1,0 +1,112 @@
+2018-07-05T01:47:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.237.41.157
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-05T01:47:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.237.41.157
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-05T01:47:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.237.41.157
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-05T07:22:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 92.247.181.16
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-05T07:22:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 92.247.181.16
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-05T07:27:05+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 77.75.77.62
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-05T09:13:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.129.68.159
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-05T13:13:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 158.69.225.35
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-05T13:14:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 158.69.225.35
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-05T15:19:13+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 54.167.117.193
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

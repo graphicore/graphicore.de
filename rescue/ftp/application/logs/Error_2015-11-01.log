@@ -1,0 +1,135 @@
+2015-11-01T05:41:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 166.78.0.253
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T05:41:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 166.78.0.253
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T06:23:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 183.206.175.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "fck"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T06:26:14+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 68.180.229.121
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T09:52:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.61.122.250
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T09:52:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.61.122.250
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T14:29:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.123.246.48
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T14:29:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.123.246.48
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T18:46:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.9.10.227
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T19:48:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.92.73.126
+HTTP_REFERER: http://ufojs.org/dump.sql
+requested: array(3) {
+  ["controller"] => string(8) "dump.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T21:51:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 185.93.187.46
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-01T21:51:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 185.93.187.46
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

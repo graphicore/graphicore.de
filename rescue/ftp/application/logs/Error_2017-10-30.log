@@ -1,0 +1,702 @@
+2017-10-30T00:02:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 187.188.195.156
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T00:56:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 72.252.113.210
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T01:30:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 219.65.103.103
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T02:25:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 202.130.109.90
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T02:36:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.72
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2012-09-02:"
+  ["diary"] => string(27) "201209021920375043b185ef245"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T02:44:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.73.134
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-07-09:"
+  ["diary"] => string(27) "201007091937074c377a6340b8b"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T03:06:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.67
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-06:"
+  ["diary"] => string(27) "201010061331004cac7a14de999"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T03:10:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.67
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-12:"
+  ["diary"] => string(27) "2013111217533652826b2018ca8"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T03:18:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.255.224.205
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T04:02:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 78.231.81.113
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T04:11:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.73.134
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-12:"
+  ["diary"] => string(27) "201010121448344cb475424313c"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T04:37:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.73.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2012-01-17:"
+  ["diary"] => string(27) "201201171404524f15800404a4f"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T04:52:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.72
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-27:"
+  ["diary"] => string(27) "201009272105474ca1072b79bf6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T05:15:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.32.19.242
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T06:21:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 190.197.21.34
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T06:28:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 125.238.74.85
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T06:50:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.236.1.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T07:09:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.153.32.109
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T07:44:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 133.204.232.221
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T09:08:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.9.10.167
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T09:10:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.76.253.34
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T09:21:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 177.185.95.40
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T10:53:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.62.233.91
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T11:51:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 124.120.232.95
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T11:54:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 186.233.50.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T12:05:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 177.91.20.176
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T13:27:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 210.195.178.24
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T13:52:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 49.207.53.245
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T14:54:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 78.249.54.92
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T15:07:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 81.165.187.226
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T15:37:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.201.186.209
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T16:57:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 179.181.139.186
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T17:14:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.24.125.148
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T17:18:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 92.99.18.146
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T17:25:17+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 45.55.221.203
+HTTP_REFERER: http://graphicore.de/de/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T17:25:27+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 45.55.221.203
+HTTP_REFERER: http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T17:35:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.120.133.105
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T18:07:31+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T18:07:46+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T18:17:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 113.199.150.67
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T18:35:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.177.39.114
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T18:51:42+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 176.9.2.236
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T18:51:45+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 176.9.2.236
+HTTP_REFERER: http://graphicore.de/en/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T18:55:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.73.88.130
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T19:08:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 105.73.27.134
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T19:17:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 182.185.64.103
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T19:32:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 115.64.28.16
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T19:55:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.148.253.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T20:02:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 181.223.79.229
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T20:03:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.60.122.242
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T21:03:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 168.181.164.30
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T21:08:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.29.112.66
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T21:15:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 41.90.56.4
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T21:18:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 41.199.62.244
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T21:21:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 41.248.167.99
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T21:41:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 101.161.139.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T22:21:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.45.12.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T22:29:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.126.134.163
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T22:30:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.98.162.95
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T22:46:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 36.102.236.178
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T22:48:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.140.144.234
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-10-30T23:46:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 82.19.232.22
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

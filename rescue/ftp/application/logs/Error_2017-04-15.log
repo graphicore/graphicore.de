@@ -1,0 +1,348 @@
+2017-04-15T00:02:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(8) "tiny_mce"
+  ["action"] => string(7) "plugins"
+  ["elfinder"] => string(13) "elfinder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(10) "components"
+  ["com_akquickicons"] => string(8) "includes"
+  ["elfinder"] => string(13) "elfinder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "erfurt"
+  ["action"] => string(13) "administrator"
+  ["components"] => string(16) "com_akquickicons"
+  ["includes"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(6) "erfurt"
+  ["action"] => string(6) "erfurt"
+  ["administrator"] => string(10) "components"
+  ["com_akquickicons"] => string(8) "includes"
+  ["elfinder"] => string(13) "elfinder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(6) "erfurt"
+  ["action"] => string(5) "gotha"
+  ["administrator"] => string(10) "components"
+  ["com_akquickicons"] => string(8) "includes"
+  ["elfinder"] => string(13) "elfinder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "gotha"
+  ["action"] => string(6) "erfurt"
+  ["administrator"] => string(10) "components"
+  ["com_akquickicons"] => string(8) "includes"
+  ["elfinder"] => string(13) "elfinder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "gotha"
+  ["action"] => string(13) "administrator"
+  ["components"] => string(16) "com_akquickicons"
+  ["includes"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "gotha"
+  ["action"] => string(5) "gotha"
+  ["administrator"] => string(10) "components"
+  ["com_akquickicons"] => string(8) "includes"
+  ["elfinder"] => string(13) "elfinder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "backup"
+  ["action"] => string(9) "preview_1"
+  ["admin"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "backup"
+  ["action"] => string(9) "preview_2"
+  ["admin"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "backup"
+  ["action"] => string(13) "preview_Jan27"
+  ["admin"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "backup"
+  ["action"] => string(12) "preview_Jan9"
+  ["admin"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "backup"
+  ["action"] => string(15) "preview_problem"
+  ["admin"] => string(8) "elfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(14) "lightupfashion"
+  ["action"] => string(8) "includes"
+  ["elfinder"] => string(13) "elfinder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "vendor"
+  ["action"] => string(8) "barryvdh"
+  ["elfinder-builds"] => string(13) "elfinder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:02:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.42.45.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(8) "allinone"
+  ["action"] => string(13) "administrator"
+  ["components"] => string(15) "com_jvframework"
+  ["libraries"] => string(16) "elfinder-2.0-rc1"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:09:57+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 64.140.169.42
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T00:10:01+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 64.140.169.42
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T17:27:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 191.252.45.199
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T17:36:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.71.188.30
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T17:44:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 162.244.33.16
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T17:53:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.93.144.156
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T18:01:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 184.168.200.30
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T18:10:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.210.200.145
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T20:33:45+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.66.64
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T22:26:46+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.54
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T23:56:43+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 188.165.234.68
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-15T23:57:17+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 188.165.234.68
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

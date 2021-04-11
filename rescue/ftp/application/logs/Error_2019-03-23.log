@@ -1,0 +1,46 @@
+2019-03-23T12:13:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.251.94.72
+HTTP_REFERER: http://graphicore.de/forum/
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-23T14:59:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 14.248.137.211
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "CHANGELOG.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-23T14:59:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 14.248.137.211
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "core"
+  ["action"] => string(13) "CHANGELOG.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-23T15:04:39+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.6.105
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,1459 @@
+2021-01-28T06:26:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.244.65.98
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T09:49:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.22
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "atom.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T10:39:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 142.93.188.38
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "vendor"
+  ["action"] => string(7) "phpunit"
+  ["phpunit"] => string(3) "src"
+  ["Util"] => string(3) "PHP"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T10:39:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 142.93.188.38
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(7) "laravel"
+  ["action"] => string(6) "vendor"
+  ["phpunit"] => string(7) "phpunit"
+  ["src"] => string(4) "Util"
+  ["PHP"] => string(14) "eval-stdin.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T10:39:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 142.93.188.38
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(6) "vendor"
+  ["phpunit"] => string(7) "phpunit"
+  ["src"] => string(4) "Util"
+  ["PHP"] => string(14) "eval-stdin.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T10:39:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 142.93.188.38
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(3) "api"
+  ["action"] => string(6) "vendor"
+  ["phpunit"] => string(7) "phpunit"
+  ["src"] => string(4) "Util"
+  ["PHP"] => string(14) "eval-stdin.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T10:39:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 142.93.188.38
+HTTP_REFERER: 
+requested: array(7) {
+  ["controller"] => string(5) "sites"
+  ["action"] => string(3) "all"
+  ["libraries"] => string(9) "mailchimp"
+  ["vendor"] => string(7) "phpunit"
+  ["phpunit"] => string(3) "src"
+  ["Util"] => string(3) "PHP"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T10:40:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 142.93.188.38
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(3) "app"
+  ["action"] => string(6) "vendor"
+  ["phpunit"] => string(7) "phpunit"
+  ["src"] => string(4) "Util"
+  ["PHP"] => string(14) "eval-stdin.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T10:40:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 142.93.188.38
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(7) "modules"
+  ["action"] => string(12) "gamification"
+  ["vendor"] => string(7) "phpunit"
+  ["phpunit"] => string(3) "src"
+  ["Util"] => string(3) "PHP"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T10:40:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 142.93.188.38
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(7) "modules"
+  ["action"] => string(11) "autoupgrade"
+  ["vendor"] => string(7) "phpunit"
+  ["phpunit"] => string(3) "src"
+  ["Util"] => string(3) "PHP"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:23:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "config"
+  ["action"] => string(12) "database.yml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:23:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "perl-status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:23:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(18) "Dockerrun.aws.json"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:23:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(6) "config"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:23:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "owncloud"
+  ["action"] => string(6) "config"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:23:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "airflow.cfg"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:23:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "ansible.cfg"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:23:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "config"
+  ["action"] => string(12) "database.yml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:39:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "package.json"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:39:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "_profiler"
+  ["action"] => string(11) "phpinfo.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:39:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(17) "package-lock.json"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:39:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "_profiler"
+  ["action"] => string(7) "phpinfo"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:39:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "app"
+  ["action"] => string(3) "etc"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:39:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "store"
+  ["action"] => string(3) "app"
+  ["etc"] => string(9) "local.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:57:38+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".svn"
+  ["action"] => string(7) "entries"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:57:39+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "opcache-status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:57:41+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".svn"
+  ["action"] => string(9) "prop-base"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:57:42+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(18) "php-opcache-status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:57:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".svn"
+  ["action"] => string(9) "text-base"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T13:57:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "opcache-status"
+  ["action"] => string(11) "opcache.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T14:12:57+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "composer.json"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T14:12:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "composer.lock"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T14:13:01+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) ".composer"
+  ["action"] => string(13) "composer.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T14:13:03+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "vendor"
+  ["action"] => string(8) "composer"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T14:28:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) ".env.dev.local"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T14:28:22+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(22) ".env.development.local"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T14:28:24+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(15) ".env.prod.local"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T14:28:25+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(21) ".env.production.local"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:17:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "config"
+  ["action"] => string(13) "databases.yml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:18:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "_profiler"
+  ["action"] => string(5) "empty"
+  ["search"] => string(7) "results"
+  ["module"] => string(7) "default"
+  ["limit"] => string(2) "10"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:19:36+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "web.config"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:19:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(48) "%61%27%22%3e%3c%69%6e%6a%65%63%74%61%62%6c%65%3e"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:19:57+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "elmah.axd"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:29:43+00:00 ERR (3) 404 "'&gt;&quot;&lt;svg/onload=confirm('testing-xss14')&gt;" was not found.
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(18) {
+  ["module"] => string(7) "default"
+  ["lang"] => string(2) "en"
+  ["controller"] => string(5) "index"
+  ["action"] => string(5) "index"
+  ["q"] => string(39) "'>"<svg/onload=confirm('testing-xss1')>"
+  ["s"] => string(39) "'>"<svg/onload=confirm('testing-xss2')>"
+  ["search"] => string(39) "'>"<svg/onload=confirm('testing-xss3')>"
+  ["id"] => string(39) "'>"<svg/onload=confirm('testing-xss4')>"
+  ["keyword"] => string(39) "'>"<svg/onload=confirm('testing-xss6')>"
+  ["query"] => string(39) "'>"<svg/onload=confirm('testing-xss7')>"
+  ["page"] => string(39) "'>"<svg/onload=confirm('testing-xss8')>"
+  ["keywords"] => string(39) "'>"<svg/onload=confirm('testing-xss9')>"
+  ["url"] => string(40) "'>"<svg/onload=confirm('testing-xss10')>"
+  ["view"] => string(40) "'>"<svg/onload=confirm('testing-xss11')>"
+  ["cat"] => string(40) "'>"<svg/onload=confirm('testing-xss12')>"
+  ["name"] => string(40) "'>"<svg/onload=confirm('testing-xss13')>"
+  ["key"] => string(40) "'>"<svg/onload=confirm('testing-xss14')>"
+  ["p"] => string(40) "'>"<svg/onload=confirm('testing-xss15')>"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:49:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "static.."
+  ["action"] => string(4) ".git"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:49:03+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "js.."
+  ["action"] => string(4) ".git"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:49:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "images.."
+  ["action"] => string(4) ".git"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:49:08+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "img.."
+  ["action"] => string(4) ".git"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:49:10+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "css.."
+  ["action"] => string(4) ".git"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:49:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "assets.."
+  ["action"] => string(4) ".git"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:49:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "content.."
+  ["action"] => string(4) ".git"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:49:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "events.."
+  ["action"] => string(4) ".git"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:49:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "media.."
+  ["action"] => string(4) ".git"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T15:49:27+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "lib.."
+  ["action"] => string(4) ".git"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:05:26+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "php.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:05:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "phpinfo.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:05:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "info.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:05:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "infophp.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:05:38+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "test.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:05:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "i.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:05:49+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "phpversion.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:41:49+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "1238a92f573a48e58d356c42ca2c9610"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:41:54+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "Trace.axd"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:43:54+00:00 ERR (3) 404 "'&gt;&quot;&lt;svg/onload=confirm('testing-xss14')&gt;" was not found.
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(18) {
+  ["module"] => string(7) "default"
+  ["lang"] => string(2) "en"
+  ["controller"] => string(5) "index"
+  ["action"] => string(5) "index"
+  ["q"] => string(39) "'>"<svg/onload=confirm('testing-xss1')>"
+  ["s"] => string(39) "'>"<svg/onload=confirm('testing-xss2')>"
+  ["search"] => string(39) "'>"<svg/onload=confirm('testing-xss3')>"
+  ["id"] => string(39) "'>"<svg/onload=confirm('testing-xss4')>"
+  ["keyword"] => string(39) "'>"<svg/onload=confirm('testing-xss6')>"
+  ["query"] => string(39) "'>"<svg/onload=confirm('testing-xss7')>"
+  ["page"] => string(39) "'>"<svg/onload=confirm('testing-xss8')>"
+  ["keywords"] => string(39) "'>"<svg/onload=confirm('testing-xss9')>"
+  ["url"] => string(40) "'>"<svg/onload=confirm('testing-xss10')>"
+  ["view"] => string(40) "'>"<svg/onload=confirm('testing-xss11')>"
+  ["cat"] => string(40) "'>"<svg/onload=confirm('testing-xss12')>"
+  ["name"] => string(40) "'>"<svg/onload=confirm('testing-xss13')>"
+  ["key"] => string(40) "'>"<svg/onload=confirm('testing-xss14')>"
+  ["p"] => string(40) "'>"<svg/onload=confirm('testing-xss15')>"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T16:43:58+00:00 ERR (3) 404 "'&gt;&quot;&lt;svg/onload=confirm('testing-xss14')&gt;" was not found.
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(18) {
+  ["module"] => string(7) "default"
+  ["lang"] => string(2) "en"
+  ["controller"] => string(5) "index"
+  ["action"] => string(5) "index"
+  ["q"] => string(39) "'>"<svg/onload=confirm('testing-xss1')>"
+  ["s"] => string(39) "'>"<svg/onload=confirm('testing-xss2')>"
+  ["search"] => string(39) "'>"<svg/onload=confirm('testing-xss3')>"
+  ["id"] => string(39) "'>"<svg/onload=confirm('testing-xss4')>"
+  ["keyword"] => string(39) "'>"<svg/onload=confirm('testing-xss6')>"
+  ["query"] => string(39) "'>"<svg/onload=confirm('testing-xss7')>"
+  ["page"] => string(39) "'>"<svg/onload=confirm('testing-xss8')>"
+  ["keywords"] => string(39) "'>"<svg/onload=confirm('testing-xss9')>"
+  ["url"] => string(40) "'>"<svg/onload=confirm('testing-xss10')>"
+  ["view"] => string(40) "'>"<svg/onload=confirm('testing-xss11')>"
+  ["cat"] => string(40) "'>"<svg/onload=confirm('testing-xss12')>"
+  ["name"] => string(40) "'>"<svg/onload=confirm('testing-xss13')>"
+  ["key"] => string(40) "'>"<svg/onload=confirm('testing-xss14')>"
+  ["p"] => string(40) "'>"<svg/onload=confirm('testing-xss15')>"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:01:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "server-status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:03:22+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "wp-json"
+  ["action"] => string(2) "wp"
+  ["v2"] => string(5) "users"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:43:11+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(16) "evil%E3%80%82com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:27+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "1.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "backup.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "database.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "data.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:35+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "db_backup.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "dbdump.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:39+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "db.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "dump.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:42+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(17) "graphicore.de.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "localhost.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "mysqldump.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:47+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "mysql.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:49+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "site.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "sql.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:53+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "temp.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:55+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "translate.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T17:55:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "users.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:15:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) ".ksh_history"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:15:52+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".sh_history"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:15:54+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) ".zsh_history"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:44:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(16) "graphicore.de.7z"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:44:57+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(17) "graphicore.de.bz2"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(16) "graphicore.de.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:01+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(16) "graphicore.de.lz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(17) "graphicore.de.rar"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:03+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "graphicore.de.tar.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(16) "graphicore.de.xz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:07+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(17) "graphicore.de.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(15) "graphicore.de.z"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:10+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(19) "graphicore.de.tar.z"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:12+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(16) "graphicore.de.db"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:13+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "graphicore.de.sqlite"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(22) "graphicore.de.sqlitedb"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:17+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "graphicore.de.sql.7z"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(21) "graphicore.de.sql.bz2"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "graphicore.de.sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:25+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "graphicore.de.sql.lz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:27+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(21) "graphicore.de.sql.rar"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(24) "graphicore.de.sql.tar.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "graphicore.de.sql.xz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:35+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(21) "graphicore.de.sql.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:36+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(19) "graphicore.de.sql.z"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:45:38+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(23) "graphicore.de.sql.tar.z"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "log"
+  ["action"] => string(9) "error.log"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:04+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "log"
+  ["action"] => string(10) "errors.log"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "errors"
+  ["action"] => string(10) "errors.log"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "error"
+  ["action"] => string(9) "error.log"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:08+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "errors.log"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "error.log"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:10+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "error.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:12+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "errors.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:13+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(4) "logs"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(4) "logs"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:17+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(3) "log"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(4) "logs"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "error.log"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:48:21+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 103.61.108.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(10) "errors.log"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-28T18:51:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.217.31.90
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "fm.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

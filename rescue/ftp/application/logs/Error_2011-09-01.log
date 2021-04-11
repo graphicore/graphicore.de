@@ -1,0 +1,39 @@
+2011-09-01T08:44:51+00:00 ERR (3) 404 "zimmer-frei" was not found.
+REMOTE_ADDR: 89.246.75.78
+HTTP_REFERER: http://www.facebook.com/l.php?u=http%3A%2F%2Fgraphicore.de%2Fde%2Fpage%2Fzimmer-frei&h=WAQC3tFANAQDuPfkWtPGMv6L8R1faBMjROyVQ6AuWd8BLkA
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "zimmer-frei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-09-01T08:44:51+00:00 ERR (3) 404 "zimmer-frei" was not found.
+REMOTE_ADDR: 66.220.149.247
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "zimmer-frei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-09-01T09:30:50+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 157.55.16.87
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

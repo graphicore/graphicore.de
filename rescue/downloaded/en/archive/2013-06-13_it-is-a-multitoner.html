@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+    >
+<head>
+<meta charset="UTF-8" />
+<meta name="google-site-verification" content="Y_i7yzBmF0Bv9KGdv0QZmGBXAfljS57aRs7Lq7NNcE0" />
+
+<meta name="geo.position" content="52.4809428;13.4490089" />
+<meta name="ICBM" content="52.4809428,13.4490089" />
+<meta name="geo.placename" content="Werrastr. 10A, 12049 Berlin, Deutschland" />
+<meta name="geo.region" content="DE-BE" />
+<meta name="keywords" content="Lasse Fister, graphicore, Berlin, Design, Visuelle Kommunikation, Grafikdesign, Web Development, Interaction Desgin, Printmedien, Webdesign, Layout, Typografie, typography, font design, Schriftgestaltung, Open Source, Libre Graphics, Logo, opensource design, internet, Bauhaus" />
+<meta name="author" content="Lasse Fister" />
+
+<meta name="robots" content="index, follow" />
+    <title>Under Development: Multitoner Tool | Diary entry | graphicore.de</title>
+    <link type="image/gif" rel="icon" href="http://www.graphicore.de/favicon.gif" />
+<link rel="alternate" type="application/atom+xml" title="atom-feed Diary | graphicore.de" href="/en/feed/atom" /><link rel="alternate" type="application/rss+xml" title="rss-feed Diary | graphicore.de" href="/en/feed/rss" />    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.8.3/dijit/themes/nihilo/nihilo.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/style/style.css" />
+    <!--[if lt IE 8]>
+    <link type="text/css" rel="stylesheet" media="screen" href="/style/ielt8.css" />
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/dojo/1.8.3/dojo/dojo.js" data-dojo-config="async:true"></script>
+
+            <script type="text/javascript" src="/js/dmain.js"></script>
+
+  </head>
+<body class="nihilo noscript">
+<div class="stage">
+<div class="header">
+    <ul class="language-switch"><li title="Zeige diese Seite auf Deutsch. Die Benutzerschnittstelle ist übersetzt, aber nicht unbedingt alle Artikel." class="first de"  ><a hreflang="de" rel="alternate" href="/de/archive/2013-06-13_it-is-a-multitoner">Deutsch</a></li><li title="Display this page in English. The interface is translated, but not all articles necessarily are." class="en active"  ><a hreflang="en" rel="alternate" href="/en/archive/2013-06-13_it-is-a-multitoner">English</a></li></ul>    <div class="to-the-top">
+                <a href="#"><span>top</span></a></div>
+    <div class="logo">
+            <a rel="me" href="/en"><span>home</span></a>
+            </div>
+    <div class="menu-bar">
+        <span>Filters</span><ul class="menu blog"><li><a title="list all articles" href="/en/diary">All</a></li><li><a title="Announcements, notifications, news, alterations." href="/en/diary/news">News</a></li><li><a title="Web developement, web design, programming and self made tools." href="/en/diary/code">Web and Code</a></li><li><a title="Typefaces designed by me." href="/en/diary/typedesign">Type Design</a></li><li><a title="Images, layouts, printed matter, books, logos, posters, etc." href="/en/diary/graphicdesign">Graphic Design</a></li><li><a title="Idea centered development. Development of Ideas." href="/en/diary/conception">Conception</a></li></ul><span>About</span><ul class="menu pages"><li><a rel="me" href="/en/page/lasse">Lasse</a></li></ul>    </div>
+</div>
+    
+    <div id="graphicore_url_:en:archive:2013-06-13_it-is-a-multitoner" class="content white"><div class="contentContainer diaryEntry" xml:lang="en" lang="en"><h1>Under Development: Multitoner Tool</h1><p class="teaser">An application for the DTP and prepress domain to create multitone images for print reproduction.</p><div class="gridRow">
+<div class="gridWidth3 gridPos0">
+<h2>Motivation</h2>
+<p><a href="/en/archive/2013-06-06_silber-und-blei">Silber &amp; Blei</a> will produce exclusively with 
+<a href="http://en.wikipedia.org/wiki/Free/Libre_Open_Source_Software" title="free/libre open source software">FLOS-Software</a>. Because it’s important to us to have <strong>control over our tools</strong>. We’ll make <strong>first class print products with free software</strong>. The consequence of this decision is that we write missing software ourselves. A program to create multitone images is missing in the free software world so far. The Multitoner Tool will be released under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GNU General Public License version 3">GPLv3</a>.
+</p>
+</div>
+
+<div class="gridPos3 gridWidth4">
+<h2>What is Multitone</h2>
+<p>
+When offset printing black and white images with just one ink—black in the standard case—the results appear dully and without depth. That’s because one color channel in printing can render ca. 50 differnt shades, see: <a href="http://en.wikipedia.org/wiki/Gamut">Gamut</a>. For comparison: a black and white image on a computer monitor is rendered with ca. 256 shades. <strong>To print black and white images in high quality</strong>, so that they show a depth comparable to a photographic print, multiple inks are used for one image. For instance: black for deep tones and gray for mid-tones. The gamut of the result can be increased depending on the count of the used colors.</p>
+
+</div>
+<div class="gridPos7 gridWidth3">
+<h2>Terms</h2><p>When one ink is used it’s called “monotone”, with two inks it’s “duotone”, three is “tritone” and four is “quadtone”. The whole topic is summarized with “multitone”.
+</p>
+</div>
+</div>
+
+<hr /><div class="gridRow">
+<h2>The Tool</h2>
+<p><img src="/images/diary/multitoner-tool-screenshot_2013-06-13.png" alt="screenshot of the current Multitoner Tool" /></p>
+<div class="gridRow">
+
+
+<div class="gridWidth4 gridPos0">
+<p>
+The core function is setting up the inks that are going to be used (up to ten), where there is a control curve for each ink. The curve assigns for every input value—from black to white–the quantity of the ink to print— from full application to none. There are diffrent curve types to interpolate between the control points: linear, cubic splines, monotone cubic splines.</p>
+</div><div class="gridWidth6 gridPos4">
+<p>
+The inks are getting a name, to identify them clearly later in the process. CMYK-values are assigned for the screen preview. The order of the inks can be varied, this is needed because it affects the print result.</p>
+<p>
+For preview a color stripe is shown for each ink. It displays the output value after application of the control curve. A further color stripe visualizes the combination of all inks. Also, there is a preview image with the settings applied to it.
+</p>
+</div>
+</div>
+</div>
+<hr /><div class="gridRow">
+<div class="gridWidth4 gridPos0">
+<h2>Technical Notes</h2>
+<p>The tool is written in <strong>Python</strong>. The <em title="General User Interface">GUI</em> implemented with <strong>GTK+</strong>. The control curves are calculated with <strong>SciPy</strong> and <strong>NumPy</strong>. The widget for display and manipulation of the control curves is self-made (as GtkDrawingArea). Color preview and preview image are rendered using <strong>Ghostscript</strong>. Colormanagement shall be achieved through Ghostscript in the future.</p>
+</div>
+<div class="gridWidth6 gridPos4">
+<h2>Roadmap</h2>
+<p>Here a rough scatch on how I conceive the projects further progression:</p>
+<ul><li><strong>current status:</strong> the core functions are implemented</li>
+<li>loading and saving of projects</li>
+<li>creation of multitone-EPS-images from black and white images with commandline tool and GUI</li>
+<li>cleanup, more code comments, licence notices, README</li>
+<li><strong>publication of the repository</strong></li>
+<li>public testing and first production uses</li>
+<li><strong>Color management:</strong> (research and implementation) to obtain optimal previews ICC-profiles shall be used in future. See also the option <em>‑sDeviceNProfile</em> in the <a href="http://www.ghostscript.com/doc/current/Use.htm">Ghostscript manual</a> and <a href="http://ghostscript.com/doc/current/GS9_Color_Management.pdf">GS9_Color_Management.pdf</a>.</li>
+<li>better batch processing and handling of exceptions there: different curves for the same set of colors</li>
+</ul></div>
+</div><div class="diaryEntryFooter"><a class="permalink" href="/en/archive/2013-06-13_it-is-a-multitoner">Permalink</a> Thursday, June 13, 2013 11:03:43 AM Europe/Berlin<div class="filters">Filters: <ul><li><a rel="tag" href="/en/diary/code">Web and Code</a></li><li><a rel="tag" href="/en/diary/news">News</a></li></ul></div></div></div></div>
+<div class="simple-footer">
+<a rel="me" href="/en/page/lasse">Impressum</a>, Copyright © 2009 – 2021 by <a rel="me" href="/en/page/lasse">Lasse Fister</a>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+2010-05-30T11:39:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: http://localhost/graphicore2/public/
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-30T11:39:41+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: http://localhost/graphicore2/public/
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-30T12:55:57+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: http://localhost/graphicore2/public/
+requested: array(3) {
+  ["controller"] => string(8) "head.svg"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

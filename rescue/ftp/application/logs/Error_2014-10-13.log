@@ -1,0 +1,325 @@
+2014-10-13T03:09:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 27.159.227.15
+HTTP_REFERER: http://graphicore.de/admin/fckeditor/editor/filemanager/browser/default/connectors/test.html
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(9) "test.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T03:09:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 27.159.227.15
+HTTP_REFERER: http://graphicore.de/editor/filemanager/browser/default/connectors/test.html
+requested: array(5) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(9) "test.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T03:09:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 27.159.227.15
+HTTP_REFERER: http://graphicore.de/manage/fckeditor/editor/filemanager/browser/default/connectors/test.html
+requested: array(6) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(9) "test.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T03:09:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 27.159.227.15
+HTTP_REFERER: http://graphicore.de/system/fckeditor/editor/filemanager/browser/default/connectors/test.html
+requested: array(6) {
+  ["controller"] => string(6) "system"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(9) "test.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T14:24:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 59.58.113.83
+HTTP_REFERER: http://graphicore.de/editor/dialog/fck_about.html
+requested: array(3) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "dialog"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T14:24:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 59.58.113.83
+HTTP_REFERER: http://graphicore.de/FCKeditor/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["dialog"] => string(14) "fck_about.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T14:24:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 59.58.113.83
+HTTP_REFERER: http://graphicore.de/FCK/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(3) "FCK"
+  ["action"] => string(6) "editor"
+  ["dialog"] => string(14) "fck_about.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T14:24:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 59.58.113.83
+HTTP_REFERER: http://graphicore.de/admin/FCKeditor/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(6) "dialog"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T14:24:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 59.58.113.83
+HTTP_REFERER: http://graphicore.de/manage/FCKeditor/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(6) "dialog"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T14:24:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 59.58.113.83
+HTTP_REFERER: http://graphicore.de/editor/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["dialog"] => string(14) "fck_about.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T14:24:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 59.58.113.83
+HTTP_REFERER: http://graphicore.de/editor/FCKeditor/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(6) "dialog"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T17:57:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.74.244.153
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "admin.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T17:57:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.74.244.153
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T17:57:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.74.244.153
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T18:48:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 78.34.63.77
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(40) "apple-touch-icon-120x120-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T18:48:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 78.34.63.77
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(28) "apple-touch-icon-120x120.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T18:48:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 78.34.63.77
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T18:48:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 78.34.63.77
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T20:50:13+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 78.46.105.91
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T20:50:13+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 78.46.105.91
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T22:59:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 204.197.244.13
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "components"
+  ["action"] => string(13) "com_community"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T22:59:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 204.197.244.13
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "components"
+  ["action"] => string(15) "com_oziogallery"
+  ["imagin"] => string(13) "scripts_ralcr"
+  ["filesystem"] => string(15) "writeToFile.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T22:59:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 204.197.244.13
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "components"
+  ["action"] => string(16) "com_oziogallery2"
+  ["imagin"] => string(13) "scripts_ralcr"
+  ["filesystem"] => string(15) "writeToFile.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T22:59:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 204.197.244.13
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(10) "jdownloads"
+  ["screenshots"] => string(8) "nyet.gif"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T22:59:54+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 204.197.244.13
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "nyet.gif"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T22:59:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 204.197.244.13
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "nyet.gif"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-13T23:46:07+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 202.46.50.96
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

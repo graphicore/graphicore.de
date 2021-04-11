@@ -1,0 +1,67 @@
+<?php
+echo '<h2>'.$this->message.'</h2>';
+
+$urlController = $this->urlArray;
+
+$urlCreate = $urlController;
+$urlCreate['action'] = 'create';
+$urlUpdate = $urlController;
+$urlUpdate['action'] = 'update';
+$urlUpdate['id'] = Null;
+$urlDelete = $urlController;
+$urlDelete['action'] = 'delete';
+$urlDelete['id'] = Null;
+
+$translate = GC_Translate::get();
+
+
+
+echo '<a href="'
+    .$this->url($urlCreate,'modules_i18n',True)
+    .'">'
+    .$translate->_('create a new').' '.$this->typeName
+    .'</a>';
+
+$listItemFormat =
+    '<li>'
+    .   '%1$s '
+    .   ' <a href="%2$s">'.$translate->_('update').'</a>'
+    .   ' <a href="%3$s">'.$translate->_('delete').'</a>'
+    .'</li>';
+
+$linklist = array();
+foreach($this->list as $item)
+{
+    $urlUpdate['id'] = $item['id'];
+    $urlDelete['id'] = $item['id'];
+    $sprintfNameArray = array($this->indexListItemFormat);
+
+    if(count($this->view->indexListItemFields) === 1)
+    {
+        $sprintfNameArray[] = $item[$this->indexListItemFields[0]];
+    }
+    else
+    {
+        foreach($this->indexListItemFields as $itemKey)
+        {
+            $sprintfNameArray[] = $item[$itemKey];
+        }
+    }
+    $name = call_user_func_array('sprintf',$sprintfNameArray);
+
+    $linklist[] = sprintf
+    (
+        $listItemFormat,
+        $name,
+        $this->url($urlUpdate,'modules_i18n',True),
+        $this->url($urlDelete,'modules_i18n',True)
+    );
+}
+if(count($linklist) > 0)
+{
+    echo '<ul>'.join('',$linklist).'</ul>';
+}
+if($this->dump)
+{
+    GC_Debug::dump($this->dump,true);
+}

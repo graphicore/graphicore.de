@@ -1,0 +1,22 @@
+2012-09-13T11:33:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.71.82
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "tests"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-09-13T11:33:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.71.82
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "lib"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,246 @@
+2020-11-25T00:27:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 37.1.204.92
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(16) "phpminiadmin.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T00:28:42+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.244
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T01:22:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.93.192.153
+HTTP_REFERER: http://graphicore.de/administrator/index.php
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T01:26:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.227.216.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T01:26:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.227.216.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(14) "admin-ajax.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T02:13:53+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 94.130.64.96
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T02:15:08+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 94.130.64.96
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T02:15:11+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 94.130.64.96
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T04:13:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.151.35.126
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(4) "help"
+  ["en-GB"] => string(8) "toc.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T04:13:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.151.35.126
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(8) "language"
+  ["en-GB"] => string(11) "install.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T04:13:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.151.35.126
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "plugins"
+  ["action"] => string(6) "system"
+  ["debug"] => string(9) "debug.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T04:13:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.151.35.126
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(4) "view"
+  ["javascript"] => string(9) "common.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T04:13:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.151.35.126
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T04:38:44+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 66.249.64.154
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T10:44:55+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 114.119.150.1
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T10:59:44+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 54.36.148.121
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T11:30:54+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.244
+HTTP_REFERER: http://graphicore.de/en/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T11:30:56+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.244
+HTTP_REFERER: http://graphicore.de/de/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T11:30:57+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.244
+HTTP_REFERER: http://graphicore.de/en/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-25T21:19:57+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 114.119.156.49
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

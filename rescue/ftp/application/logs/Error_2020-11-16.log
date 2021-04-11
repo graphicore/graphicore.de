@@ -1,0 +1,92 @@
+2020-11-16T02:54:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 45.33.8.242
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-16T07:11:37+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 114.119.150.1
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-16T09:51:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.99.54.47
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "data"
+  ["action"] => string(5) "admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-16T19:40:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 34.107.103.239
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "server-info"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-16T19:40:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 34.107.103.239
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "server-status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-16T19:40:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 34.107.103.239
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "server-status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-16T19:40:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 34.107.103.239
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "server-info"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-16T23:49:37+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.242
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

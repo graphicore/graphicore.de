@@ -1,0 +1,139 @@
+2016-10-08T00:23:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.52
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(15) "assetlinks.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T00:30:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.52
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T00:33:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.52
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T05:00:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.38.94.207
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "license.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T05:52:01+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 40.77.167.19
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T10:05:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["rsd"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T10:05:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T10:05:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T10:05:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T10:05:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T15:47:14+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 77.75.79.36
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-08T16:47:36+00:00 ERR (3) 404 "2010-09-23_Neo-Bourgeois_GrafittiInternational" was not found.
+REMOTE_ADDR: 66.249.76.52
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(46) "2010-09-23_Neo-Bourgeois_GrafittiInternational"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,71 @@
+<?php
+$urlArray = $this->urlArray;
+$urlArray['action'] = 'delete';
+$urlArray['id'] = $this->id;
+
+printf('<h1>%2$s %3$s %1$s</h1>',
+    $this->typeName,
+    $this->verb,
+    preg_match("#^h?[aeiouäüö]+#ui", $this->typeName) ? 'an' : 'a');
+if($this->message)
+{
+    echo '<p class="message">'.$this->message.'</p>';
+}
+
+$translate = GC_Translate::get();
+if($this->deletingLanguages)
+{
+    echo '<p>'.$translate->_('You are Deleting ').'<strong>'.GC_I18n::translateLang($this->editingLanguage).' ('.$this->editingLanguage.')</strong></p>';
+
+    //link back to delete the whole model
+    echo sprintf('<p><a href="%1$s">%2$s</a></p>',
+       $this->url($urlArray, 'modules_i18n', True),
+       $translate->_('Rather delete the whole').' '.$this->typeName
+    );
+    $deleteUrlArray = $urlArray;
+    $deleteUrlArray[$this->editLangKey] = $this->editingLanguage;
+    $formUrl = $this->url($deleteUrlArray, 'modules_i18n', True);
+    $langchoosertext = $translate->_('You can delete other languages here:');
+}
+else
+{
+    echo '<p>'.$translate->_('You are Deleting ').'<strong>the whole '.$this->typeName.'</strong></p>';
+    //link back to delete the different languages
+    //what languages do we have?
+    $formUrl = $this->url($urlArray, 'modules_i18n', True);
+    $langchoosertext = $translate->_('You might prefer deleting only a specific language:');
+}
+
+$deleteLangsLinks = array();
+$deleteLangUrl = $urlArray;
+foreach($this->deleteableLangs as $lang)
+{
+    if($this->editingLanguage === $lang)
+    {
+        continue;
+    }
+    $deleteLangUrl[$this->editLangKey] = $lang;
+    $deleteLangsLinks[] = sprintf('<li><a href="%1$s">%3$s (%2$s)</a></li>',
+    $this->url($deleteLangUrl, 'modules_i18n', True),
+    $lang,
+    GC_I18n::translateLang($lang)
+    );
+}
+if(count($deleteLangsLinks) > 0)
+{
+    echo sprintf('<div class="editingLanguageSwitch">%1$s <ul>%2$s</ul></div>', $langchoosertext, join(' ',$deleteLangsLinks));
+}
+
+
+$this->form->setAction($formUrl)
+    ->output();
+
+if('development' === APPLICATION_ENV && $this->dump)
+{
+    ?><div class="development">
+    <h3>development information</h3>
+    <div class="content">
+    <?php echo GC_Debug::dump($this->dump,true); ?>
+    </div></div>
+    <?php
+}

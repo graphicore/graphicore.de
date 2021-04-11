@@ -1,0 +1,56 @@
+2020-04-24T16:37:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.92.121.77
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-24T16:37:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.92.121.77
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-24T16:37:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.92.121.77
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-24T16:37:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.92.121.77
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "new"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-24T19:20:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.172.66
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(14) "admin-ajax.php"
+  ["module"] => string(7) "default"
+  ["file"] => string(16) "../wp-config.php"
+}
+
+
+--------------------------------------------------------------------------------

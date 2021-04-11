@@ -1,0 +1,292 @@
+2015-09-09T00:01:50+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.126.38
+HTTP_REFERER: http://www.epanov-style.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T00:01:51+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.126.38
+HTTP_REFERER: http://www.razumeykin.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T00:01:51+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.126.38
+HTTP_REFERER: http://www.epanov-style.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T00:01:52+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.126.38
+HTTP_REFERER: http://www.epanov-style.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T00:01:52+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.126.38
+HTTP_REFERER: http://www.razumeykin.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T02:31:46+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.118.173
+HTTP_REFERER: http://www.design-parket.spb.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T02:31:48+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.118.173
+HTTP_REFERER: http://www.design-parket.spb.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T04:19:54+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.118.173
+HTTP_REFERER: http://aff.optitrade24.com/click.php?ctag=a787-b13-p
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T07:58:39+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.185.117.31
+HTTP_REFERER: http://nastroyke.net/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T07:58:39+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.185.117.31
+HTTP_REFERER: http://nastroyke.net/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T07:58:40+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.185.117.31
+HTTP_REFERER: http://nastroyke.net/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T10:09:20+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.92.63
+HTTP_REFERER: http://aviapanda.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T10:09:21+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.92.63
+HTTP_REFERER: http://rp9.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T10:09:22+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.92.63
+HTTP_REFERER: http://aff.optitrade24.com/click.php?ctag=a787-b13-p
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T10:09:22+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.92.63
+HTTP_REFERER: http://aff.optitrade24.com/click.php?ctag=a787-b13-p
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T10:09:23+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.92.63
+HTTP_REFERER: http://aviapanda.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T12:40:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 78.108.80.36
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "magmi"
+  ["action"] => string(3) "web"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T15:15:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 121.121.39.90
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T15:15:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 121.121.39.90
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T15:34:53+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.92.63
+HTTP_REFERER: http://na-telefon.biz/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T15:34:55+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.92.63
+HTTP_REFERER: http://na-telefon.biz/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T20:33:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 88.198.16.153
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-09T22:10:01+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 157.55.39.0
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+2013-01-30T18:03:21+00:00 ERR (3) 403 Forbidden
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: 
+requested: array (size=3)
+  'module' => string 'backend' (length=7)
+  'controller' => string 'index' (length=5)
+  'action' => string 'index' (length=5)
+
+
+--------------------------------------------------------------------------------
+2013-01-30T19:11:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: http://graphicore/de/archive/2013-01-30_big-business
+requested: array (size=3)
+  'controller' => string 'images' (length=6)
+  'action' => string 'diary' (length=5)
+  'module' => string 'default' (length=7)
+
+
+--------------------------------------------------------------------------------

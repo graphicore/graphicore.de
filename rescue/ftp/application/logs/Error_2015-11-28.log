@@ -1,0 +1,80 @@
+2015-11-28T03:27:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.75.152
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-28T06:58:57+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 180.76.15.8
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-28T10:45:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.90.2.15
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["galerie"] => string(5) "embed"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-28T11:18:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.123.240.150
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-28T11:18:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.123.240.150
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-11-28T11:52:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.131.246
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

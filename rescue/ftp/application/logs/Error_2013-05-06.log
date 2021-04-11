@@ -1,0 +1,27 @@
+2013-05-06T10:44:20+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 65.55.213.66
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-05-06T12:51:09+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 95.24.125.56
+HTTP_REFERER: http://graphicore.de/en/index/topic/intern/projekte/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

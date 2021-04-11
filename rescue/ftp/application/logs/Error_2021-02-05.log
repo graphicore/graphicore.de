@@ -1,0 +1,242 @@
+2021-02-05T01:37:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.46
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T04:52:04+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.243
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T06:08:48+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 173.231.59.211
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T13:16:16+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.243
+HTTP_REFERER: http://graphicore.de/en/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T13:16:18+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.243
+HTTP_REFERER: http://graphicore.de/de/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T13:16:19+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.243
+HTTP_REFERER: http://graphicore.de/en/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T14:50:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 194.107.178.236
+HTTP_REFERER: https://findclan.org/ads/enlister/3668
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T14:50:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 194.107.178.236
+HTTP_REFERER: https://findclan.org/ads/enlister/3668
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T14:51:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 194.107.178.236
+HTTP_REFERER: https://findclan.org/ads/enlister/3668
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T14:51:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 194.107.178.236
+HTTP_REFERER: https://findclan.org/ads/enlister/3668
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T20:30:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.221.213.22
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T22:44:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.23.3.43
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["rsd"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T22:44:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.23.3.43
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T22:44:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.23.3.43
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T22:44:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.23.3.43
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T22:44:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.23.3.43
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T22:44:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.23.3.43
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T22:44:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.23.3.43
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T22:44:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.23.3.43
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(13) "administrator"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T22:44:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.23.3.43
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "joomla"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-05T22:44:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.23.3.43
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "joomla"
+  ["action"] => string(13) "administrator"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,68 @@
+2011-12-08T08:28:46+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 77.21.147.173
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-08T11:29:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 59.175.117.153
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-08T12:05:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.178.143.188
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-08T14:33:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 96.127.184.58
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-08T18:27:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.166.143.47
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-12-08T18:32:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 115.74.11.83
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

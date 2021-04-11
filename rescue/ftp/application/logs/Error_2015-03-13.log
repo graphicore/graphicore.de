@@ -1,0 +1,117 @@
+2015-03-13T05:56:11+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 31.184.195.243
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "core"
+  ["action"] => string(5) "model"
+  ["phpthumb"] => string(5) "fonts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-13T07:36:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 82.76.87.136
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-13T07:36:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 82.76.87.136
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-13T09:19:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 151.55.112.160
+HTTP_REFERER: http://graphicore.de
+requested: array(5) {
+  ["controller"] => string(19) "ajax.googleapis.com"
+  ["action"] => string(4) "ajax"
+  ["libs"] => string(4) "dojo"
+  ["1.8.3"] => string(4) "dojo"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-13T09:19:38+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 151.55.112.160
+HTTP_REFERER: http://graphicore.de
+requested: array(5) {
+  ["controller"] => string(19) "ajax.googleapis.com"
+  ["action"] => string(4) "ajax"
+  ["libs"] => string(4) "dojo"
+  ["1.8.3"] => string(4) "dojo"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-13T09:47:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.197.186.210
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(9) "test.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-13T09:47:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.197.186.210
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(9) "test.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-13T09:47:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.197.186.210
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(14) "uploadtest.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-13T09:47:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.197.186.210
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(14) "uploadtest.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,99 @@
+2011-05-05T02:30:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.230.220.77
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-05T09:50:56+00:00 ERR (3) 404 "2010-10-18" was not found.
+REMOTE_ADDR: 178.63.23.142
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(10) "2010-10-18"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-05T09:51:07+00:00 ERR (3) 404 "2010-10-18" was not found.
+REMOTE_ADDR: 178.63.23.142
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(10) "2010-10-18"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-05T09:51:25+00:00 ERR (3) 404 "2010-07-09" was not found.
+REMOTE_ADDR: 178.63.23.142
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(10) "2010-07-09"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-05T09:51:35+00:00 ERR (3) 404 "2010-07-09" was not found.
+REMOTE_ADDR: 178.63.23.142
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(10) "2010-07-09"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-05T11:04:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.230.220.77
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-05T14:04:58+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 178.94.80.242
+HTTP_REFERER: http://graphicore.de/de/index/topic/intern/news/%2B%28200%2Bok%29%2BACCEPTED
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-05T16:21:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.230.220.77
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

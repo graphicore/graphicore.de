@@ -1,0 +1,66 @@
+2021-03-01T12:35:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.227.50.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(12) "security.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-01T12:35:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.227.50.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "security.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-01T18:20:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 162.241.219.11
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-01T19:22:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.234.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(15) "configindex.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-01T21:19:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.119.1.185
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "checkout"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-01T21:42:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.99.194.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(19) "tinyfilemanager.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

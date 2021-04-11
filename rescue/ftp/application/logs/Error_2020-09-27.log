@@ -1,0 +1,57 @@
+2020-09-27T02:15:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 40.127.73.23
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-27T02:15:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 40.127.73.23
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-27T10:59:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.101.1.61
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "xxxss"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-27T12:17:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.101.1.61
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "css"
+  ["action"] => string(9) "album.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-27T20:25:08+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.243
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

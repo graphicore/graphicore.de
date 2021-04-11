@@ -1,0 +1,28 @@
+2019-08-24T13:15:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 145.239.32.197
+HTTP_REFERER: 
+requested: array(7) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["jekyll-exporter"] => string(6) "vendor"
+  ["phpunit"] => string(7) "phpunit"
+  ["src"] => string(4) "Util"
+  ["PHP"] => string(14) "eval-stdin.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-08-24T22:13:14+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.66.94
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

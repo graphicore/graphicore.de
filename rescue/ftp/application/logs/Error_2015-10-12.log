@@ -1,0 +1,244 @@
+2015-10-12T02:34:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.65.19
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T02:36:20+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 5.9.65.19
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T02:36:38+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.9.65.19
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T02:36:45+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.9.65.19
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T02:36:47+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 5.9.65.19
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T03:44:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.221.130.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T03:51:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.65.3.245
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T03:58:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 134.0.25.146
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T04:12:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.172.189.108
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T04:19:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.171.39.4
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T08:12:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.210.235.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T08:53:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.250.253.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T08:53:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.250.253.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T09:33:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 81.177.127.202
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T11:53:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 107.21.12.86
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-13:"
+  ["diary"] => string(27) "201311131703405283b0ecf2532"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T14:50:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.216.0.141
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "admin.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T15:37:21+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 188.143.232.15
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T19:02:05+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 151.80.31.140
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T22:48:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.164.241.206
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T22:48:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.164.241.206
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-12T22:48:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.164.241.206
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "admin.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,89 @@
+2020-04-06T06:21:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 157.245.239.104
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(11) "install.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-06T06:21:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 157.245.239.104
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(11) "install.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-06T06:21:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 157.245.239.104
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(9) "wordpress"
+  [""] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-06T07:27:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.100.182
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-06T07:27:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.100.194
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-06T07:27:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.100.195
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-06T07:27:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.100.19
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-06T07:27:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.58.100.182
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

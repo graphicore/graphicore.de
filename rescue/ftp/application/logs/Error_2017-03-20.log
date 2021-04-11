@@ -1,0 +1,91 @@
+2017-03-20T11:35:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 92.63.91.81
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["simple-ads-manager"] => string(18) "sam-ajax-admin.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-20T12:11:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 61.14.208.197
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "phpmyadmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-20T12:19:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 61.14.208.197
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "phpmyadmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-20T19:38:27+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 163.172.52.168
+HTTP_REFERER: http://graphicore.de/logo_img.php.suspected
+requested: array(3) {
+  ["controller"] => string(22) "logo_img.php.suspected"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-20T22:54:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.134
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-20T23:23:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.131
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(15) "assetlinks.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-20T23:25:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.64
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-03-20T23:51:54+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.199
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

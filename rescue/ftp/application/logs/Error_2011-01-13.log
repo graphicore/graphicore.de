@@ -1,0 +1,47 @@
+2011-01-13T08:07:02+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 212.117.168.24
+HTTP_REFERER: http://graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-13T15:31:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.117.61.5
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-13T22:21:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 208.109.209.32
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(19) "passion-contact.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-13T22:21:01+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 208.109.209.32
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "contact.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

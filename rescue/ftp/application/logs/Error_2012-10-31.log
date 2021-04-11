@@ -1,0 +1,386 @@
+2012-10-31T03:53:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.237.177.167
+HTTP_REFERER: http://graphicore.de/forum/index.php%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2BResult:%2B%ed%e5%2B%ed%e0%f8%eb%ee%f1%fc%2B%f4%ee%f0%ec%fb%2B%e4%eb%ff%2B%ee%f2%ef%f0%e0%e2%ea%e8%3b
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(232) "index.php%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2BResult:%2B%ed%e5%2B%ed%e0%f8%eb%ee%f1%fc%2B%f4%ee%f0%ec%fb%2B%e4%eb%ff%2B%ee%f2%ef%f0%e0%e2%ea%e8%3b"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:51:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "signup.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "signup.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(12) "register.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(4) {
+  ["controller"] => string(7) "ucp.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["mode"] => string(8) "register"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(10) "signup.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(8) "register"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(6) "signup"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(7) "account"
+  ["action"] => string(12) "register.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(8) "join.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(5) "blogs"
+  ["action"] => string(4) "load"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(8) "join.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(13) "join_form.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(6) "signup"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:52:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(6) "signup"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "join.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(10) "signup.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "YaBB.cgi"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "YaBB.pl"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(6) "member"
+  ["action"] => string(8) "register"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/index.php/forums/member/register
+requested: array(3) {
+  ["controller"] => string(6) "forums"
+  ["action"] => string(6) "member"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(6) "member"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(8) "register"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(10) "signup.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(10) "signup.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(12) "register.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:53:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(6) "member"
+  ["action"] => string(8) "join.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:54:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(6) "signup"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:54:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(5) "tools"
+  ["action"] => string(14) "quicklogin.one"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:54:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(8) "register"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:54:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(17) "tiki-register.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:54:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(6) "signup"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:54:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(12) "register.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:55:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-10-31T14:55:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 175.44.7.33
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "signup"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

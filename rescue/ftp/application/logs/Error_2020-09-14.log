@@ -1,0 +1,747 @@
+2020-09-14T00:25:56+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T00:26:02+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T00:27:47+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T00:29:45+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T00:30:12+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T00:32:48+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T02:29:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 52.152.163.213
+HTTP_REFERER: www.google.com
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["ioptimization"] => string(13) "IOptimize.php"
+  ["module"] => string(7) "default"
+  ["rchk"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T04:48:01+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T04:48:08+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T04:50:15+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T04:52:49+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T04:53:31+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T04:56:58+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T05:15:53+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 188.138.235.56
+HTTP_REFERER: http://graphicore.de
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T07:15:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.71.36.158
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "humans.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T07:15:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.71.2.171
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T10:03:47+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T10:03:52+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T10:05:48+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T10:07:40+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T10:08:08+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T10:10:49+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T12:53:50+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 114.119.145.36
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T13:09:33+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T13:09:41+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T13:36:42+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T13:40:49+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T13:41:48+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T13:47:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 108.167.132.33
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T13:49:46+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T13:50:37+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T13:50:52+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T14:12:49+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T14:16:48+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T14:17:38+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T15:52:44+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T15:53:12+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T15:53:26+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T17:53:08+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T17:57:05+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T17:58:08+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T18:05:45+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T18:06:26+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T18:06:38+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T19:06:36+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T19:11:18+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T19:12:23+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T19:20:43+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T19:21:31+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T19:21:42+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T20:14:12+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T20:50:42+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T20:51:48+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T20:54:34+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T20:54:50+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T20:54:56+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T20:56:38+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 216.18.204.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-14T22:03:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 161.35.22.140
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "vendor"
+  ["action"] => string(7) "phpunit"
+  ["phpunit"] => string(11) "phpunit.xsd"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

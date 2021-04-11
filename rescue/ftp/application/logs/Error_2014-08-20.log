@@ -1,0 +1,78 @@
+2014-08-20T08:58:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.46.13.79
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(19) "ajax.googleapis.com"
+  ["action"] => string(4) "ajax"
+  ["libs"] => string(4) "dojo"
+  ["1.8.3"] => string(4) "dojo"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-08-20T10:17:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.116.31.244
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-08-20T10:17:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.116.31.244
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-08-20T19:05:24+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 203.169.229.58
+HTTP_REFERER: http://www.google.com/
+requested: array(6) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["log"] => string(5) "admin"
+  ["pwd"] => string(3) "123"
+  ["rememberme"] => string(7) "forever"
+}
+
+
+--------------------------------------------------------------------------------
+2014-08-20T19:15:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 91.189.41.165
+HTTP_REFERER: http://www.google.com/
+requested: array(6) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["log"] => string(5) "admin"
+  ["pwd"] => string(6) "123123"
+  ["rememberme"] => string(7) "forever"
+}
+
+
+--------------------------------------------------------------------------------
+2014-08-20T19:24:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 106.186.127.60
+HTTP_REFERER: http://www.google.com/
+requested: array(6) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["log"] => string(5) "admin"
+  ["pwd"] => string(5) "admin"
+  ["rememberme"] => string(7) "forever"
+}
+
+
+--------------------------------------------------------------------------------

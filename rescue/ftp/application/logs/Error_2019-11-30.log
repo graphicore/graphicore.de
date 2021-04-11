@@ -1,0 +1,128 @@
+2019-11-30T03:20:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.220
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "lib"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-30T05:53:04+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 185.26.92.74
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-30T05:53:06+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 185.26.92.74
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-30T05:53:35+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 185.26.92.74
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-30T07:19:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.220
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(6) "Kleine"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-30T12:22:28+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 88.198.158.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-30T12:22:34+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.198.158.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-30T12:22:36+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.198.158.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-30T12:22:38+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 88.198.158.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-30T13:57:31+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 46.229.168.135
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

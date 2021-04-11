@@ -1,0 +1,35 @@
+2019-03-20T08:23:27+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 23.228.81.10
+HTTP_REFERER: http://graphicore.de/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(6) "themes"
+  ["ThisWay"] => string(8) "includes"
+  ["uploadify"] => string(25) "upload_settings_image.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-20T13:55:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.136.169.124
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(11) "install.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-20T22:49:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.236.1.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

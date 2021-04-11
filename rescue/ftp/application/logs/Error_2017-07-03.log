@@ -1,0 +1,98 @@
+2017-07-03T00:45:43+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.90
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-03T04:32:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 217.182.82.230
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "components"
+  ["action"] => string(14) "com_foxcontact"
+  ["sef_ext"] => string(18) "com_foxcontact.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-03T10:37:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.149.67.6
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-03T16:45:47+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.90
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-03T19:37:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 136.243.155.93
+HTTP_REFERER: http://www.graphicore.de/forum/viewtopic.php?t=13&
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-03T19:38:32+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 136.243.155.93
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-03T19:39:25+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 136.243.155.93
+HTTP_REFERER: http://graphicore.de/en/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-03T22:52:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 88.241.37.34
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,255 @@
+2020-01-18T00:45:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 121.238.222.159
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "downloads"
+  ["action"] => string(27) "generaltesting.tar.%20gz%20"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T00:57:57+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.9.94.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T01:00:48+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.9.94.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T01:01:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 3.8.48.203
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:10:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "kcfinder"
+  ["action"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(8) "kcfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "plugins"
+  ["action"] => string(8) "kcfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "assets"
+  ["action"] => string(8) "kcfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(6) "editor"
+  ["kcfinder"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(8) "ckeditor"
+  ["action"] => string(7) "plugins"
+  ["kcfinder"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "assets"
+  ["action"] => string(6) "plugin"
+  ["kcfinder"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "vendor"
+  ["action"] => string(8) "kcfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "kcfinder-2.51"
+  ["action"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "scripts"
+  ["action"] => string(8) "kcfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "core"
+  ["action"] => string(7) "scripts"
+  ["kcfinder"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "scripts"
+  ["action"] => string(13) "kcfinder-2.51"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(7) "scripts"
+  ["kcfinder"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "assets"
+  ["action"] => string(5) "admin"
+  ["js"] => string(8) "kcfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(2) "js"
+  ["kcfinder"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:11:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 165.22.244.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(8) "kcfinder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T13:25:36+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 66.249.64.92
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-18T15:35:48+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 3.8.48.203
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

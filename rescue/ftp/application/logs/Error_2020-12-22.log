@@ -1,0 +1,96 @@
+2020-12-22T00:11:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 49.12.102.81
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-22T09:55:25+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.254
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-22T10:26:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.116.71.162
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-22T17:44:47+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.254
+HTTP_REFERER: http://graphicore.de/en/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-22T17:44:49+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.254
+HTTP_REFERER: http://graphicore.de/de/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-22T17:45:01+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.254
+HTTP_REFERER: http://graphicore.de/en/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-22T18:52:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "sitemaps.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-22T22:22:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "sitemap.xml.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

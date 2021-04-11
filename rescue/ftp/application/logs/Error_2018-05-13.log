@@ -1,0 +1,163 @@
+2018-05-13T01:36:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 92.80.121.17
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T02:19:44+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 188.165.234.52
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T02:19:46+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 188.165.234.52
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T02:20:20+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 188.165.234.52
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T02:20:20+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 188.165.234.52
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T02:35:49+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 62.138.0.25
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T02:49:41+00:00 ERR (3) 404 "anne" was not found.
+REMOTE_ADDR: 66.249.69.99
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(4) "anne"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T03:27:34+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.210.234
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T04:01:38+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 62.138.0.25
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T04:24:14+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 62.138.0.25
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T05:46:15+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.69.102
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T22:55:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.79.186.194
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "shell.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-05-13T22:55:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.79.186.194
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "shell.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

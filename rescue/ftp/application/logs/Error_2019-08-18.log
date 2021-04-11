@@ -1,0 +1,38 @@
+2019-08-18T08:29:42+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.24.173
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "sites"
+  ["action"] => string(3) "all"
+  ["libraries"] => string(9) "mailchimp"
+  [""] => string(6) "vendor"
+  ["phpunit"] => string(7) "phpunit"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-08-18T19:57:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.251.14.67
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "span"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-08-18T22:52:09+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 185.6.9.201
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

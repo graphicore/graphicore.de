@@ -1,0 +1,11 @@
+2012-10-05T10:05:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 31.184.238.69
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

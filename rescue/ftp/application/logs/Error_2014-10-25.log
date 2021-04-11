@@ -1,0 +1,33 @@
+2014-10-25T08:52:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.208.184.251
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "CHANGELOG.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-25T23:18:25+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.120.125.250
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "CHANGELOG.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-25T23:18:26+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 77.120.125.250
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "CHANGELOG.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

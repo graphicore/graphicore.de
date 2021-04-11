@@ -1,0 +1,50 @@
+2013-03-19T10:59:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2013-03-19T13:12:20+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-03-19T20:02:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.167.5.20
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-03-19T21:04:24+00:00 ERR (3) 404 "2010-10-01_metropolis-wilderness                 Result: &eth;&aring;&ntilde;&oacute;&eth;&ntilde; &auml;&euml;&yuml; &iuml;&icirc;&ntilde;&ograve;&egrave;&iacute;&atilde;&agrave; &iacute;&aring;&iuml;&eth;&egrave;&atilde;&icirc;&auml;&aring;&iacute; (&euml;&egrave;&aacute;&icirc; &icirc;&ograve;&ntilde;&oacute;&ograve;&ntilde;&ograve;&acirc;&oacute;&aring;&ograve; &iuml;&icirc;&auml;&ecirc;&euml;&thorn;&divide;&aring;&iacute;&egrave;&aring; &ecirc; &egrave;&iacute;&ograve;&aring;&eth;&iacute;&aring;&ograve;&oacute;)" was not found.
+REMOTE_ADDR: 178.137.86.3
+HTTP_REFERER: http://graphicore.de/de/archive/2010-10-01_metropolis-wilderness+++++++++++++++++Result:+%F0%E5%F1%F3%F0%F1+%E4%EB%FF+%EF%EE%F1%F2%E8%ED%E3%E0+%ED%E5%EF%F0%E8%E3%EE%E4%E5%ED+%28%EB%E8%E1%EE+%EE%F2%F1%F3%F2%F1%F2%E2%F3%E5%F2+%EF%EE%E4%EA%EB%FE%F7%E5%ED%E8%E5+%EA+%E8%ED%F2%E5%F0%ED%E5%F2%F3%29
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(130) "2010-10-01_metropolis-wilderness                 Result: ������ ��� �������� ���������� (���� ����������� ����������� � ���������)"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

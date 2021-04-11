@@ -1,0 +1,145 @@
+2010-09-26T01:50:09+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 67.195.111.215
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(9) "pixelding"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T04:38:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.211.235.250
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T04:39:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.211.235.250
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(11) "graphicore2"
+  ["action"] => string(6) "public"
+  ["javascript"] => string(10) "blank.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T06:45:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.245
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T06:46:53+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 95.133.181.34
+HTTP_REFERER: http://graphicore.de/de/index/topic/intern/news/%2B%28200%2Bok%29%2BACCEPTED
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T12:04:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.91.94.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T12:04:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.91.94.110
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(11) "graphicore2"
+  ["action"] => string(6) "public"
+  ["javascript"] => string(10) "blank.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T12:40:05+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 67.195.111.215
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T18:32:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.91.94.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T18:33:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.91.94.110
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(11) "graphicore2"
+  ["action"] => string(6) "public"
+  ["javascript"] => string(10) "blank.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T19:50:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.121.183.134
+HTTP_REFERER: http://google.de
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-09-26T22:19:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.95.139.183
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,125 @@
+2020-05-14T06:05:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.46.13.72
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "atom.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-05-14T07:41:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.46.13.150
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-05-14T07:55:53+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.185.196
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-05-14T08:15:23+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.25.185.196
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-05-14T09:59:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 40.77.167.36
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(17) "sitemap_index.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-05-14T11:02:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 132.145.191.90
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "cgi-bin"
+  ["action"] => string(8) "test-cgi"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-05-14T11:02:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 132.145.191.90
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "horde"
+  ["action"] => string(3) "imp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-05-14T11:02:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 132.145.191.90
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "phpMyAdmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-05-14T11:02:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 132.145.191.90
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "phpmyadmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-05-14T12:32:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 40.77.167.36
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "atom.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-05-14T12:56:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.46.13.150
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "sitemap.xml.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

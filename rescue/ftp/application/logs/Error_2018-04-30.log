@@ -1,0 +1,118 @@
+2018-04-30T03:14:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 58.44.46.73
+HTTP_REFERER: 
+requested: array(10) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(10) "components"
+  ["com_xcloner-backupandrestore"] => string(10) "index2.php"
+  ["module"] => string(7) "default"
+  ["username"] => string(5) "admin"
+  ["task"] => string(7) "dologin"
+  ["option"] => string(10) "com_cloner"
+  ["hidemainmenu"] => string(1) "0"
+  ["boxchecked"] => string(1) "0"
+  ["password"] => string(5) "admin"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-30T11:31:04+00:00 ERR (3) 404 "anne" was not found.
+REMOTE_ADDR: 66.249.69.104
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(4) "anne"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-30T11:41:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.173.185.130
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-30T14:50:54+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-30T14:50:58+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-30T14:51:40+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-30T14:51:42+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-30T16:35:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 115.133.213.232
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-30T18:24:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.173.185.130
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

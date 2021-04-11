@@ -1,0 +1,75 @@
+2013-08-20T07:26:30+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 91.239.15.225
+HTTP_REFERER: http://graphicore.de/en/index/topic/intern/projekte/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-08-20T17:43:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.45.0.141
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-08-20T17:43:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.45.0.141
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-08-20T17:58:01+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.199.136.130
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-08-20T19:12:32+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.10.83.11
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-08-20T20:19:24+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.10.83.11
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+2017-01-19T06:52:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.129.148.190
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "forum.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["y"] => string(12) "die(pi()*2);"
+  ["x"] => string(6) "assert"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-19T21:00:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.123.23.1
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-19T21:00:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.123.23.1
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-19T22:18:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.64.207
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-19T22:19:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.64.207
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

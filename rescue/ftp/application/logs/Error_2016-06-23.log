@@ -1,0 +1,105 @@
+2016-06-23T03:48:16+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.153
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-06-23T06:30:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 67.215.191.148
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["galerie"] => string(5) "embed"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-06-23T07:01:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.163.144.211
+HTTP_REFERER: http://graphicore.de/blog
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-06-23T09:31:15+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-06-23T17:38:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.121.112.142
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-06-23T22:20:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.215.145
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "13"
+}
+
+
+--------------------------------------------------------------------------------
+2016-06-23T22:21:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.215.145
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(1) "8"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-06-23T22:47:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.163.144.211
+HTTP_REFERER: http://ufojs.org/blog
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

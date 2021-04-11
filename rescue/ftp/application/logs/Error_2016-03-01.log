@@ -1,0 +1,108 @@
+2016-03-01T01:30:33+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.182
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-03-01T05:48:11+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 78.46.196.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-03-01T08:59:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.9.10.227
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(4) "atom"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-03-01T08:59:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.9.10.227
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-03-01T13:00:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.252.118
+HTTP_REFERER: http://graphicore.de/license.php
+requested: array(4) {
+  ["controller"] => string(11) "license.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  [1] => string(1) "1"
+}
+
+
+--------------------------------------------------------------------------------
+2016-03-01T13:22:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.252.118
+HTTP_REFERER: http://www.googlebot.com/bot.html
+requested: array(3) {
+  ["controller"] => string(11) "archive.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-03-01T14:30:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.252.118
+HTTP_REFERER: http://www.googlebot.com/bot.html
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["revslider"] => string(4) "temp"
+  ["update_extract"] => string(11) "archive.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-03-01T19:06:47+00:00 ERR (3) 404 "2014-02-27_kaufland-firewall-service" was not found.
+REMOTE_ADDR: 66.249.64.66
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(36) "2014-02-27_kaufland-firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-03-01T22:54:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.9.10.227
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(4) "atom"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

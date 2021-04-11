@@ -1,0 +1,634 @@
+2016-08-11T02:02:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.78.225
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T02:05:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.78.225
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T03:24:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.78.231
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(15) "assetlinks.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T09:46:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.129.90
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "33"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T09:46:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.129.90
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "34"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T09:46:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.129.90
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "37"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T09:46:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.254.129.90
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "41"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T11:24:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 97.74.6.4
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T11:24:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 97.74.6.4
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T11:55:55+00:00 ERR (3) 404 ".google-analytics.com" was not found.
+REMOTE_ADDR: 91.13.20.102
+HTTP_REFERER: http://m.facebook.com/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(21) ".google-analytics.com"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T14:41:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.249.174.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T16:04:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.249.174.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "includes"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T16:54:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.255.51.28
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "46"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T16:54:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.255.51.28
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "67"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T16:54:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.255.51.28
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "71"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T17:26:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.249.174.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "scripts"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T18:50:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.249.174.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:15:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.249.174.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:30:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "13"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:30:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "14"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:30:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "15"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:30:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "17"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:30:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "19"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:30:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "21"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:30:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "22"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "23"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "24"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "42"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "44"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "45"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "46"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "48"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "50"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "51"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "54"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "57"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "58"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "59"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:31:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "60"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:32:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "61"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:32:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "62"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:32:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "63"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:32:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "64"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:32:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "67"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:32:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "71"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:32:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(1) "8"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:32:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(1) "9"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T20:32:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.202.48.240
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(1) "9"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T21:14:40+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.70
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T21:40:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.249.174.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T22:51:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 97.74.6.4
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T22:51:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 97.74.6.4
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-11T23:05:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.249.174.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "system"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

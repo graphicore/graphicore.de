@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+    >
+<head>
+<meta charset="UTF-8" />
+<meta name="google-site-verification" content="Y_i7yzBmF0Bv9KGdv0QZmGBXAfljS57aRs7Lq7NNcE0" />
+
+<meta name="geo.position" content="52.4809428;13.4490089" />
+<meta name="ICBM" content="52.4809428,13.4490089" />
+<meta name="geo.placename" content="Werrastr. 10A, 12049 Berlin, Deutschland" />
+<meta name="geo.region" content="DE-BE" />
+<meta name="keywords" content="Lasse Fister, graphicore, Berlin, Design, Visuelle Kommunikation, Grafikdesign, Web Development, Interaction Desgin, Printmedien, Webdesign, Layout, Typografie, typography, font design, Schriftgestaltung, Open Source, Libre Graphics, Logo, opensource design, internet, Bauhaus" />
+<meta name="author" content="Lasse Fister" />
+
+<meta name="robots" content="index, follow" />
+    <title>Curation Module for The ICONIST | Diary entry | graphicore.de</title>
+    <link type="image/gif" rel="icon" href="http://www.graphicore.de/favicon.gif" />
+<link rel="alternate" type="application/atom+xml" title="atom-feed Diary | graphicore.de" href="/en/feed/atom" /><link rel="alternate" type="application/rss+xml" title="rss-feed Diary | graphicore.de" href="/en/feed/rss" />    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.8.3/dijit/themes/nihilo/nihilo.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/style/style.css" />
+    <!--[if lt IE 8]>
+    <link type="text/css" rel="stylesheet" media="screen" href="/style/ielt8.css" />
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/dojo/1.8.3/dojo/dojo.js" data-dojo-config="async:true"></script>
+
+            <script type="text/javascript" src="/js/dmain.js"></script>
+
+  </head>
+<body class="nihilo noscript">
+<div class="stage">
+<div class="header">
+    <ul class="language-switch"><li title="Zeige diese Seite auf Deutsch. Die Benutzerschnittstelle ist übersetzt, aber nicht unbedingt alle Artikel." class="first de"  ><a hreflang="de" rel="alternate" href="/de/archive/2013-11-12_iconic_imports">Deutsch</a></li><li title="Display this page in English. The interface is translated, but not all articles necessarily are." class="en active"  ><a hreflang="en" rel="alternate" href="/en/archive/2013-11-12_iconic_imports">English</a></li></ul>    <div class="to-the-top">
+                <a href="#"><span>top</span></a></div>
+    <div class="logo">
+            <a rel="me" href="/en"><span>home</span></a>
+            </div>
+    <div class="menu-bar">
+        <span>Filters</span><ul class="menu blog"><li><a title="list all articles" href="/en/diary">All</a></li><li><a title="Announcements, notifications, news, alterations." href="/en/diary/news">News</a></li><li><a title="Web developement, web design, programming and self made tools." href="/en/diary/code">Web and Code</a></li><li><a title="Typefaces designed by me." href="/en/diary/typedesign">Type Design</a></li><li><a title="Images, layouts, printed matter, books, logos, posters, etc." href="/en/diary/graphicdesign">Graphic Design</a></li><li><a title="Idea centered development. Development of Ideas." href="/en/diary/conception">Conception</a></li></ul><span>About</span><ul class="menu pages"><li><a rel="me" href="/en/page/lasse">Lasse</a></li></ul>    </div>
+</div>
+    
+    <div id="graphicore_url_:en:archive:2013-11-12_iconic_imports" class="content white"><div class="contentContainer diaryEntry" xml:lang="en" lang="en"><h1>Curation Module for The ICONIST</h1><p class="teaser">At the site of The ICONIST »hand-picked home &amp; living products« are presented on a daily base. I wrote the first steps of the curation process for Compuccino.</p><div class="gridRow">
+<p>Link to the Site: <a href="http://iconist.de">The ICONIST</a> although what I did can't be viewed directly online.</p>
+</div>
+
+<h2>Import and Synchronization</h2>
+<div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<p>
+The programm collects product data of many different providers. Therefore an adapter Concept is used. Coming from different provider formats a unified representation is stored in the database. Hundreds of thousands of different products are beeing imported and kept up-to-date. The import is triggered via cron job automatically but it can be started through the webinterface, too.
+</p>
+</div><div class="gridWidth5 gridPos5"><p>
+A locking mechanism prevents that the same source is beeing multiply imported at the same time. The import state can be determined at any time, even when the import is run by another process. It can be queried with the web interface and as the admin with the terminal. The importer recognizes updates of the particular products as well as the deletion of products by the provider.
+</p>
+</div></div>
+
+
+<h2>Curation Webinterface</h2>
+<div class="gridRow">
+<p>
+<img src="/images/diary/iconic_imports.png" alt="Screenshot Curation Interface" /></p>
+</div>
+
+<div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<p>
+The editors choose products for a further selection process and for the enrichment of the data. The web interface offers a plenty of filters to master the big amount of data. Besides very simple filtering options like “shop” or “price range” a keyword search and a filter for categories are provided. The differing categories from provider to provider can be mapped to a common category tree in the curating module. The category tree can be created in the web interface. The mapping of foreign category to local categories is done by an editor.
+</p>
+</div><div class="gridWidth5 gridPos5">
+<p>
+Two concepts to represent the category tree are used in the database:  an <a href="http://en.wikipedia.org/wiki/Adjacency_list">adjacency list</a>, that means every category knows its parent category. With this the implementation of the tree management is easy. Besides that the informatio of the <a href="http://en.wikipedia.org/wiki/Nested_set_model">Nested-Set Model</a> are stored with the categories. So querying the tree is performant and easy.</p><p>
+For the curation process I wrote a small JavaScript application that reduced loading times distinctly by using AJAX and simplified the server routines a lot. E.g.  the management of the application state takes place in the client and needed no server side implementation using sessions.
+</p>
+</div></div>
+<h2>Technology</h2>
+<div class="gridRow">
+<p>
+The server code is written with PHP 5. I used Composer with Symphony 2 as a framework and wrote a lot of custom code myself. The webinterface uses  RequireJS and jQuery and a whole lot of my own modules.
+</p>
+</div>
+<div class="diaryEntryFooter"><a class="permalink" href="/en/archive/2013-11-12_iconic_imports">Permalink</a> Tuesday, November 12, 2013 4:53:17 PM Europe/Berlin<div class="filters">Filters: <ul><li><a rel="tag" href="/en/diary/code">Web and Code</a></li></ul></div></div></div></div>
+<div class="simple-footer">
+<a rel="me" href="/en/page/lasse">Impressum</a>, Copyright © 2009 – 2021 by <a rel="me" href="/en/page/lasse">Lasse Fister</a>
+</div>
+</div>
+</body>
+</html>

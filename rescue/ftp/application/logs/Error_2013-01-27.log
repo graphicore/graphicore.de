@@ -1,0 +1,77 @@
+2013-01-27T10:15:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.123.9.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(4) "dojo"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-01-27T10:15:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.123.9.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-01-27T18:22:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.7.180.14
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(4) "dojo"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-01-27T18:22:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.7.180.14
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-01-27T20:35:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.165.112.228
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-01-27T21:56:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.123.9.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(4) "dojo"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-01-27T21:56:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.123.9.49
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

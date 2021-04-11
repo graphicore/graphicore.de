@@ -1,0 +1,141 @@
+2016-04-18T03:08:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.30.201.98
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "48"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T03:08:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.30.201.98
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "50"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T03:08:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.30.201.98
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "51"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T07:44:28+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 69.30.213.202
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T11:05:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 40.69.30.202
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(4) "help"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T14:39:13+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 136.243.83.16
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T15:19:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.91.243.192
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T15:19:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.91.243.192
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T15:19:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.91.243.192
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T15:19:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.91.243.192
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T19:50:01+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.4
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-18T22:54:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.94.190.155
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "tmp"
+  ["action"] => string(7) "sfx.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

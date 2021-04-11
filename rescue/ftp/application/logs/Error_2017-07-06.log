@@ -1,0 +1,241 @@
+2017-07-06T03:36:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.72
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2014-02-27:"
+  ["diary"] => string(27) "20140227115040530f26907c1a8"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T06:30:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.67
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-06:"
+  ["diary"] => string(27) "201010061331004cac7a14de999"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(4) "root"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(1) "0"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(5) "12345"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(6) "123456"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(6) "Dr57fd"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(3) "far"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(3) "dev"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(5) "admin"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(4) "pass"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(2) "wp"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(8) "password"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(3) "123"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(6) "bitrix"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(6) "joomla"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(12) "qazwsx159357"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T17:30:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.57.209.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "far.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(1) "1"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-06T22:04:31+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.90
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+2012-07-15T19:28:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.196.26
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-07-15T21:43:12+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 65.52.109.149
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

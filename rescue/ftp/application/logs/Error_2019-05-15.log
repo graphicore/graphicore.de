@@ -1,0 +1,90 @@
+2019-05-15T10:09:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 104.148.64.26
+HTTP_REFERER: http://graphicore.de/upload/server/php/
+requested: array(3) {
+  ["controller"] => string(6) "upload"
+  ["action"] => string(6) "server"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-15T10:44:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.44
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-15T12:44:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 149.56.254.122
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-15T14:26:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.208.59.47
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-15T14:33:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 37.230.106.48
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-15T14:40:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 210.5.50.137
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-15T15:00:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.247.9.16
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-05-15T15:58:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 130.61.53.89
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "adminer.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

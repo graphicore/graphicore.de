@@ -1,0 +1,67 @@
+2010-08-24T03:38:16+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 95.108.155.251
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(9) "pixelding"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-24T10:09:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.163.216.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-24T12:17:01+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 212.95.54.37
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/+%28200+ok%29+ACCEPTED
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-24T13:09:49+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 95.108.155.251
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "typete"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-24T22:46:04+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 91.201.66.171
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

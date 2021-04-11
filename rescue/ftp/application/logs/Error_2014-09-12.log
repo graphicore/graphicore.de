@@ -1,0 +1,69 @@
+2014-09-12T18:35:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 192.185.4.37
+HTTP_REFERER: http://www.google.com/
+requested: array(6) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["log"] => string(5) "admin"
+  ["pwd"] => string(3) "123"
+  ["rememberme"] => string(7) "forever"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-12T18:44:30+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 157.55.39.115
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-12T18:45:52+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 187.45.241.210
+HTTP_REFERER: http://www.google.com/
+requested: array(6) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["log"] => string(5) "admin"
+  ["pwd"] => string(6) "123123"
+  ["rememberme"] => string(7) "forever"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-12T18:55:25+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 192.99.151.123
+HTTP_REFERER: http://www.google.com/
+requested: array(6) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["log"] => string(5) "admin"
+  ["pwd"] => string(5) "admin"
+  ["rememberme"] => string(7) "forever"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-12T19:04:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 174.136.12.106
+HTTP_REFERER: http://www.google.com/
+requested: array(6) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["log"] => string(5) "admin"
+  ["pwd"] => string(6) "123456"
+  ["rememberme"] => string(7) "forever"
+}
+
+
+--------------------------------------------------------------------------------

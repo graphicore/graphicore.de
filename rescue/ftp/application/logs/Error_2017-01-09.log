@@ -1,0 +1,182 @@
+2017-01-09T01:04:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.134
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T01:05:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.75.16
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T01:05:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.134
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(15) "assetlinks.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T01:20:22+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.76.134
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T03:37:50+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 195.154.181.162
+HTTP_REFERER: http://graphicore.de/plugin/index1.php
+requested: array(3) {
+  ["controller"] => string(6) "plugin"
+  ["action"] => string(10) "index1.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T07:06:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 143.95.38.87
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T07:14:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.240.174.105
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T07:23:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 72.47.228.11
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T07:31:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 72.47.244.20
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T07:39:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.46.81.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T07:47:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.180.68.68
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T10:21:26+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 195.154.181.162
+HTTP_REFERER: http://graphicore.de/images/logo_img.php
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(12) "logo_img.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T14:00:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.194.116
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(12) "logo_img.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T14:00:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.194.116
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(12) "logo_img.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T18:03:09+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 68.180.229.47
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-09T19:57:41+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.143
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

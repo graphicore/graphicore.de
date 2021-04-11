@@ -1,0 +1,87 @@
+2015-05-30T07:20:33+00:00 ERR (3) 404 "user" was not found.
+REMOTE_ADDR: 104.224.14.96
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(4) "user"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-05-30T07:20:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.224.14.96
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(8) "register"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-05-30T07:20:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.224.14.96
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "node"
+  ["action"] => string(3) "add"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-05-30T07:20:37+00:00 ERR (3) 404 "node" was not found.
+REMOTE_ADDR: 104.224.14.96
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(4) "node"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-05-30T08:23:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 146.0.32.165
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-05-30T19:42:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.8.155.8
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-05-30T19:42:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.8.155.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

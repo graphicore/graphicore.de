@@ -1,0 +1,78 @@
+2016-01-12T08:23:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.149.98.13
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-01-12T20:11:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["rsd"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-01-12T20:11:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-01-12T20:11:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-01-12T20:11:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-01-12T20:11:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-01-12T22:18:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 65.60.9.10
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

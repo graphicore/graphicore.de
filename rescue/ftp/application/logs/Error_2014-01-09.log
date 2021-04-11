@@ -1,0 +1,44 @@
+2014-01-09T03:38:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 202.46.51.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "galerie"
+  ["action"] => string(19) "Friedhofsengel.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-01-09T16:00:58+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 180.76.6.155
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "galerie"
+  ["action"] => string(19) "Neueste_Bilder.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-01-09T21:28:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 36.250.246.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "bokeapply.asp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-01-09T21:28:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 36.250.246.241
+HTTP_REFERER: http://www.graphicore.de/signup.php
+requested: array(3) {
+  ["controller"] => string(10) "signup.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

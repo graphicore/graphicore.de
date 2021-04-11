@@ -1,0 +1,207 @@
+2014-10-03T03:22:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.138.88.114
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T03:22:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.138.88.114
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T06:18:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.201.70.238
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T06:18:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.201.70.238
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T07:09:37+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T08:34:56+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.198.24.17
+HTTP_REFERER: http://graphicore.de/en/archive/2013-11-12_silber-und-blei
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T08:34:56+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.198.24.17
+HTTP_REFERER: http://graphicore.de/en/archive/2013-11-12_silber-und-blei
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T09:46:26+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 91.121.79.180
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T09:47:05+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 91.121.79.180
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T19:33:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.224.249.217
+HTTP_REFERER: http://graphicore.de/webmanage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(9) "webmanage"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T19:34:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.224.249.217
+HTTP_REFERER: http://graphicore.de/editor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T19:34:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.224.249.217
+HTTP_REFERER: http://graphicore.de/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T19:34:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.224.249.217
+HTTP_REFERER: http://graphicore.de/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T19:34:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.224.249.217
+HTTP_REFERER: http://graphicore.de/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(5) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T19:34:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.224.249.217
+HTTP_REFERER: http://graphicore.de/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-03T21:25:58+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

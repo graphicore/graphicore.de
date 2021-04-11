@@ -1,0 +1,36 @@
+2011-02-06T12:47:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 187.63.209.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-06T15:54:30+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 173.242.115.182
+HTTP_REFERER: http://graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-06T22:03:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.208.201.54
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

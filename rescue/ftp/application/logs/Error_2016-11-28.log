@@ -1,0 +1,149 @@
+2016-11-28T02:57:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.21.150.163
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T02:57:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.21.150.163
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T05:09:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.194.116
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "license.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T05:09:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.194.116
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "license.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T05:58:50+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.1
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T10:48:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.64.141
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T10:48:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.64.141
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(15) "assetlinks.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T10:49:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.64.136
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T12:07:51+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 208.43.225.84
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T17:39:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.194.192
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "_file-manager"
+  ["action"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T19:23:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.236.1.13
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T20:59:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.236.215.54
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-28T20:59:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.236.215.54
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

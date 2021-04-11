@@ -1,0 +1,67 @@
+2019-12-13T04:31:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.118.66
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(9) "component"
+  ["action"] => string(5) "users"
+  ["module"] => string(7) "default"
+  ["view"] => string(12) "registration"
+}
+
+
+--------------------------------------------------------------------------------
+2019-12-13T04:31:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.118.66
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "member"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-12-13T04:31:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.118.66
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "home.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-12-13T04:31:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.118.66
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.asp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-12-13T04:31:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.118.66
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "guestbook.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-12-13T22:03:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.238.206.251
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(6) "config"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

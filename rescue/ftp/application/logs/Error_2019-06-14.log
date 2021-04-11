@@ -1,0 +1,11 @@
+2019-06-14T15:10:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 213.213.195.20
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(10) "sprite.png"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,126 @@
+2019-02-14T00:40:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 150.242.58.34
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "horde"
+  ["action"] => string(3) "imp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-14T00:40:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 150.242.58.34
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "horde3"
+  ["action"] => string(3) "imp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-14T00:40:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 150.242.58.34
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "imp"
+  ["action"] => string(8) "test.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-14T00:49:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 167.114.250.111
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-14T07:17:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 147.135.60.157
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-14T08:46:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.43.251.186
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-14T10:19:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 147.135.60.157
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-14T10:47:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 23.228.96.82
+HTTP_REFERER: http://graphicore.de/wp-content/plugins/gravityforms/
+requested: array(3) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-14T18:00:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.19
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-14T20:14:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 129.213.21.173
+HTTP_REFERER: graphicore.de/wp-content/plugins/simple-social-buttons/readme.txt
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["simple-social-buttons"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-14T20:14:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 129.213.21.173
+HTTP_REFERER: graphicore.de/wp-content/plugins/simple-social-buttons/readme.txt
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["simple-social-buttons"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

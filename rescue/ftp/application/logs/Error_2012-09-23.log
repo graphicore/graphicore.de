@@ -1,0 +1,72 @@
+2012-09-23T01:22:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 217.69.133.28
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-09-23T04:25:08+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 180.76.5.52
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2012-09-23T16:03:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.102.172.161
+HTTP_REFERER: http://graphicore.de/
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-09-23T16:03:38+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.102.172.161
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-09-23T16:04:13+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.102.172.161
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-09-23T16:04:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.102.172.161
+HTTP_REFERER: http://graphicore.de/
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

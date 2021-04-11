@@ -1,0 +1,68 @@
+2020-09-06T00:52:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.101.65.235
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "xxsssseee"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-06T00:53:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 80.239.140.67
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["wp-file-manager"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-06T02:00:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 162.241.24.68
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-06T04:59:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.99.160.90
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "data"
+  ["action"] => string(5) "admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-06T06:16:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.213.191.175
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(14) "admin-post.php"
+  ["module"] => string(7) "default"
+  ["alg_wc_pif_download_file"] => string(28) "../../../../../wp-config.php"
+}
+
+
+--------------------------------------------------------------------------------
+2020-09-06T21:31:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.71.42.236
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(3) "OLD"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

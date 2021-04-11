@@ -1,0 +1,516 @@
+2015-09-23T02:08:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.141.160.51
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T02:08:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.141.160.51
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T02:16:28+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 188.138.41.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T02:25:11+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 188.138.41.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T02:44:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.163
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(2) "js"
+  ["fckeditor"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T05:08:32+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://golden-praga.ru/gimnazii-chehii
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T05:08:33+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://golden-praga.ru/gimnazii-chehii
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T05:08:34+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://golden-praga.ru/gimnazii-chehii
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T05:08:34+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://virtuallawer.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T05:08:35+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://virtuallawer.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T07:25:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.163
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "common"
+  ["action"] => string(6) "editor"
+  ["fckeditor"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T07:32:44+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 46.4.87.105
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T08:07:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 143.176.204.235
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T08:07:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 143.176.204.235
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T09:31:14+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.69.53
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:48:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "nckth12989.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:48:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["aspx"] => string(14) "connector.aspx"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:48:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["aspx"] => string(14) "connector.aspx"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(13) "connector.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["php"] => string(13) "connector.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(4) "aspx"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(4) "aspx"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["aspx"] => string(14) "connector.aspx"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["aspx"] => string(14) "connector.aspx"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["php"] => string(13) "connector.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["php"] => string(13) "connector.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T10:49:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 160.16.82.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T12:23:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.61.122.250
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T12:23:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.61.122.250
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T16:04:34+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: https://iqoption.com/promo/simple-demo/?aff=1167&afftrack=mork
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T16:49:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.163
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "controls"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T20:16:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 37.59.40.198
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(9) "SimplePie"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T21:00:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.92.73.126
+HTTP_REFERER: http://ufojs.org/spaw/dialogs/dialog.php?module=spawfm&dialog=spawfm&theme=spaw2lite&type=imagesundefined
+requested: array(3) {
+  ["controller"] => string(4) "spaw"
+  ["action"] => string(7) "dialogs"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T21:31:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.163
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(8) "fck_vxgm"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-23T23:49:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.141.27.41
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

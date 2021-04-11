@@ -1,0 +1,341 @@
+2015-12-17T00:49:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.121.140.188
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "news"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T00:50:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.121.140.188
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "demo"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T00:50:13+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 144.76.15.235
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T00:50:46+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 144.76.15.235
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T04:13:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "joomla"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T04:35:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "news"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T04:42:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.24.150.172
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T05:16:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T05:44:51+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.80
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T05:59:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T06:28:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.2.4.20
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T06:34:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.8.35
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T06:40:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.12.154.169
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T06:46:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 184.168.193.47
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T06:52:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.197.22
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T07:39:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.123.240.150
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T07:39:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.123.240.150
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T08:55:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.194.234.51
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "index.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T08:55:53+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 69.194.234.51
+HTTP_REFERER: 
+requested: array(7) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(0) ""
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T09:38:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.194.234.51
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "index.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T09:38:09+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 69.194.234.51
+HTTP_REFERER: 
+requested: array(7) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(0) ""
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T10:52:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "store"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T11:45:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "shop"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T12:40:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "blogs"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T12:52:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 4.30.111.131
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "site"
+  ["action"] => string(9) "libraries"
+  ["simplepie"] => string(10) "README.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T13:36:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 92.63.98.28
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "media"
+  ["action"] => string(3) "jui"
+  ["js"] => string(6) "cms.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T18:29:09+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 188.40.95.70
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-17T20:48:52+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.80
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

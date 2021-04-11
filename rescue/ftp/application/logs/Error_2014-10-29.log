@@ -1,0 +1,174 @@
+2014-10-29T01:33:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.76.141.231
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "cgi-sys"
+  ["action"] => string(17) "suspendedpage.cgi"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T02:40:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.91.17
+HTTP_REFERER: http://graphicore.de/webmanage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(9) "webmanage"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T02:40:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.91.17
+HTTP_REFERER: http://graphicore.de/editor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T02:40:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.91.17
+HTTP_REFERER: http://graphicore.de/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T02:40:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.91.17
+HTTP_REFERER: http://graphicore.de/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T02:40:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.91.17
+HTTP_REFERER: http://graphicore.de/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(5) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T02:40:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.91.17
+HTTP_REFERER: http://graphicore.de/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T05:14:32+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T08:31:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.200.12.75
+HTTP_REFERER: http://graphicore.de/admin/fckeditor/editor/filemanager/browser/default/connectors/test.html
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(9) "test.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T11:44:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 128.72.65.178
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T19:54:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.64.190
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T20:28:58+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 162.243.32.177
+HTTP_REFERER: http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-29T20:29:07+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 162.243.32.177
+HTTP_REFERER: http://graphicore.de/de/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

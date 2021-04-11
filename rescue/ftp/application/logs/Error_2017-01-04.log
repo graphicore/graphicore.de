@@ -1,0 +1,101 @@
+2017-01-04T04:53:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.188.22
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-04T04:53:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.188.22
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-04T11:01:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.199.101
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(26) "registration-functions.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-04T11:01:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.199.101
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(26) "registration-functions.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-04T21:32:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.160.175.176
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["cherry-plugin"] => string(17) "cherry-plugin.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-04T21:40:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.247.143.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-04T21:40:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.247.143.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-04T21:40:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.247.143.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-01-04T21:40:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.247.143.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+2020-06-14T02:51:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.236.1.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

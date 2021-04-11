@@ -1,0 +1,96 @@
+2020-04-19T00:53:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.234.129.211
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "test1"
+  ["action"] => string(11) "license.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-19T03:31:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 108.178.27.243
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "12"
+  ["action"] => string(11) "license.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-19T10:53:59+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.185.103
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-19T11:27:06+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.25.185.103
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-19T14:11:37+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.25.185.103
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-19T16:11:28+00:00 ERR (3) 404 "anne" was not found.
+REMOTE_ADDR: 5.102.173.71
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(4) "anne"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-19T16:55:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 162.241.16.20
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(3) "OLD"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-19T18:39:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.17.174.10
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(6) "config"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

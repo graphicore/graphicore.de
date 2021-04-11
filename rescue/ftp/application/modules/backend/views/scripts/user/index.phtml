@@ -1,0 +1,54 @@
+<?php
+echo '<h2>'.$this->message.'</h2>';
+
+
+$urlController = array(
+    'module'     => 'backend',
+    'controller' => 'user',
+);
+
+$urlCreate = $urlController;
+$urlCreate['action'] = 'create';
+$urlUpdate = $urlController;
+$urlUpdate['action'] = 'update';
+$urlUpdate['id'] = Null;
+$urlDelete = $urlController;
+$urlDelete['action'] = 'delete';
+$urlDelete['id'] = Null;
+
+$translate = GC_Translate::get();
+$format = '<li>'
+    .'%1$s '
+    .' <a href="%2$s">'.$translate->_('update').'</a>'
+    .' <a href="%3$s">'.$translate->_('delete').'</a>'
+    .'</li>';
+
+
+echo '<a href="'
+    .$this->url($urlCreate,'modules_i18n',True)
+    .'">'
+    .$translate->_('create a new user')
+    .'</a>';
+
+$linklist = array();
+foreach($this->list as $user)
+{
+    $urlUpdate['id'] = $user['id'];
+    $urlDelete['id'] = $user['id'];
+    $linklist[] = sprintf
+    (
+        $format,
+        $user['name'],
+        $this->url($urlUpdate,'modules_i18n',True),
+        $this->url($urlDelete,'modules_i18n',True)
+    );
+}
+if(count($linklist) > 0)
+{
+    echo '<ul>'.join('',$linklist).'</ul>';
+}
+
+if($this->dump)
+{
+    GC_Debug::dump($this->dump,true);
+}

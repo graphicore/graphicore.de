@@ -1,0 +1,39 @@
+2014-07-31T14:13:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 157.55.39.43
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(19) "ajax.googleapis.com"
+  ["action"] => string(4) "ajax"
+  ["libs"] => string(4) "dojo"
+  ["1.8.3"] => string(4) "dojo"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-07-31T20:21:12+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.198.24.17
+HTTP_REFERER: http://graphicore.de/en/archive/2013-11-12_silber-und-blei
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-07-31T20:21:12+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.198.24.17
+HTTP_REFERER: http://graphicore.de/en/archive/2013-11-12_silber-und-blei
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

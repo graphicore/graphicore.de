@@ -1,0 +1,61 @@
+2013-12-25T00:24:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 179.43.141.167
+HTTP_REFERER: http://graphicore.de/wp-content/themes/twentyeleven/404.php
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(6) "themes"
+  ["twentyeleven"] => string(7) "404.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-12-25T03:34:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2013-12-25T06:08:47+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.10.83.77
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-12-25T14:52:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.238.207.163
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-12-25T23:10:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.10.83.92
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+}
+
+
+--------------------------------------------------------------------------------

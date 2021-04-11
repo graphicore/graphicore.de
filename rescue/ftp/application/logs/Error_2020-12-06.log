@@ -1,0 +1,90 @@
+2020-12-06T03:45:16+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 114.119.130.111
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-06T04:28:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.158
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-06T05:09:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.76.231.228
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-06T10:08:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.76.231.228
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-06T10:37:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.161.98.107
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-06T12:53:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 37.1.204.92
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-06T15:07:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 212.227.174.234
+HTTP_REFERER: google.com
+requested: array(3) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-06T19:40:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 161.35.230.22
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,99 @@
+2016-10-14T05:07:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.142.150.242
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-14T05:07:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.142.150.242
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-14T05:07:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.142.150.242
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-14T05:07:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 17.142.150.242
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-14T05:59:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-14T13:03:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.210.145.120
+HTTP_REFERER: http://ufojs.org/blog/
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-14T21:32:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-14T22:38:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.51
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(15) "assetlinks.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-10-14T22:40:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

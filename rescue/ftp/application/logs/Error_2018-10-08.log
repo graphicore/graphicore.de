@@ -1,0 +1,283 @@
+2018-10-08T01:31:47+00:00 ERR (3) 404 "anne" was not found.
+REMOTE_ADDR: 54.36.148.243
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(4) "anne"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T04:49:21+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 180.76.15.29
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T05:37:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.78.145.174
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T05:37:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.78.145.174
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "phpMyAdmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T05:37:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.78.145.174
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "phpmyadmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T05:37:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.78.145.174
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "_phpMyAdmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T05:37:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.78.145.174
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T05:37:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.78.145.174
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "scripts"
+  ["action"] => string(9) "setup.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T05:37:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 120.78.145.174
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "pma"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T09:17:42+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 77.75.76.160
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T10:16:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.15.193.87
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["full"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T10:16:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.15.193.87
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "phpMyAdmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T10:16:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.15.193.87
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "phpmyadmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T10:16:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.15.193.87
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "_phpMyAdmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T10:16:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.15.193.87
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T10:16:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.15.193.87
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "scripts"
+  ["action"] => string(9) "setup.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T11:02:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.62.39.231
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T11:39:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.62.39.231
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T22:02:17+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.165.192.220
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "vb"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T22:02:17+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.165.192.220
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "forum.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T22:02:17+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.165.192.220
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T22:02:17+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.165.192.220
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "forum.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T22:02:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.165.192.220
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "forums"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T22:02:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.165.192.220
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "community"
+  ["action"] => string(5) "forum"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-08T22:02:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.165.192.220
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "community"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

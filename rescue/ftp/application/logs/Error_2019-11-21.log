@@ -1,0 +1,66 @@
+2019-11-21T03:00:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 71.6.165.200
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-21T03:00:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 71.6.165.200
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(12) "security.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-21T10:05:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.51.37.107
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "phpMyAdmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-21T10:05:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.51.37.107
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "phpmyadmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-21T10:05:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.51.37.107
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "sadad24"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-21T18:36:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.249.226.19
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

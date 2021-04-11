@@ -1,0 +1,478 @@
+2017-06-11T00:28:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.217.211.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T00:28:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.217.211.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T02:35:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.217.211.216
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T02:35:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.217.211.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T13:10:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.43.225.85
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T13:11:43+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 208.43.225.85
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T18:57:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(6) "sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T18:58:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(8) "dump.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:01:03+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(13) "db_backup.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:03:11+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(9) "mysql.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:04:12+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(11) "dump.tar.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:13:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(13) "backup.sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:13:58+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(8) "temp.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:21:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(14) "backup.sql.bz2"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:23:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(7) "dump.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:42:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(13) "dbdump.sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:45:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(8) "site.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:45:52+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(8) "dump.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:46:01+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(12) "dump.sql.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:48:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(7) "sql.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T19:54:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(10) "db.sql.bz2"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:07:54+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(9) "users.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:08:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(8) "dump.tar"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:09:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(11) "dump.sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:11:39+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(7) "sql.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:11:39+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(8) "dump.tgz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:11:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(6) "db.tar"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:12:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(10) "dbdump.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:13:47+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(9) "db.sql.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:15:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(10) "backup.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:20:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(10) "sql.tar.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:21:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(10) "db.sql.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:22:12+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(5) "1.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:22:27+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(12) "dump.sql.tgz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:26:10+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(9) "db.tar.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:26:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 78.109.32.154
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(7) "sql.tar"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:36:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(9) "mysql.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:38:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(6) "db.zip"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:40:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(7) "sql.tgz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:41:49+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(8) "data.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T20:41:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 94.23.252.150
+HTTP_REFERER: graphicore.de
+requested: array(3) {
+  ["controller"] => string(6) "db.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T23:53:42+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 188.65.144.2
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-06-11T23:53:49+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 144.217.161.119
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(8) "register"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

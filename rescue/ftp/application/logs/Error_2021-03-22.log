@@ -1,0 +1,236 @@
+2021-03-22T00:21:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.89.207.171
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(11) "install.php"
+  ["module"] => string(7) "default"
+  ["step"] => string(1) "1"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T00:21:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.89.207.171
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+  ["step"] => string(1) "1"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T00:21:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.89.207.171
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+  ["step"] => string(1) "1"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T00:21:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.89.207.171
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+  ["step"] => string(1) "1"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T00:21:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.89.207.171
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(3) "new"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+  ["step"] => string(1) "1"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T00:21:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.89.207.171
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+  ["step"] => string(1) "1"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T00:21:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 51.89.207.171
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+  ["step"] => string(1) "1"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T03:43:58+00:00 ERR (3) 404 "anne" was not found.
+REMOTE_ADDR: 66.249.66.83
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(4) "anne"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T06:42:00+00:00 ERR (3) 404 The filter "2013-06-06_silber-und-blei.png" was not found.
+REMOTE_ADDR: 13.66.139.113
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(30) "2013-06-06_silber-und-blei.png"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T12:37:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.227.50.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(12) "security.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T12:37:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.227.50.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "security.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T17:04:45+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 13.66.139.64
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(20) "abraum-catalog_2.png"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T18:29:18+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 13.66.139.113
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(22) "typete-klein-clean.png"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T19:09:08+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 13.66.139.64
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(22) "kulturlose-shot018.png"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T19:27:50+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 13.66.139.113
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(23) "abraum-poster_label.png"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T20:03:29+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 13.66.139.103
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(22) "kulturlose-shot007.png"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T20:14:10+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 13.66.139.103
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "feed"
+  ["key"] => string(22) "kulturlose-shot007.png"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T20:17:11+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 13.66.139.103
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(22) "kulturlose-shot026.png"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-22T22:44:13+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 13.66.139.64
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(39) "graphicoreBitmapFont-specimen_small.png"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

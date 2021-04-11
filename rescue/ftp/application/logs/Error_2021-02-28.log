@@ -1,0 +1,22 @@
+2021-02-28T13:15:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.168.125.39
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-28T17:06:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.234.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "aindex.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

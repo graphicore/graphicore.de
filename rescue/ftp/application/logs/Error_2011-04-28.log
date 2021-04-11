@@ -1,0 +1,138 @@
+2011-04-28T03:32:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.35.123.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-28T03:34:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.35.123.12
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(11) "graphicore2"
+  ["action"] => string(6) "public"
+  ["javascript"] => string(10) "blank.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-28T08:20:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.162.69.197
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-28T09:29:18+00:00 ERR (3) 404 "2010-10-18" was not found.
+REMOTE_ADDR: 178.63.23.142
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(10) "2010-10-18"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-28T09:29:29+00:00 ERR (3) 404 "2010-10-18" was not found.
+REMOTE_ADDR: 178.63.23.142
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(10) "2010-10-18"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-28T09:29:40+00:00 ERR (3) 404 "2010-09-09" was not found.
+REMOTE_ADDR: 178.63.23.142
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(10) "2010-09-09"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-28T09:29:51+00:00 ERR (3) 404 "2010-09-09" was not found.
+REMOTE_ADDR: 178.63.23.142
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(10) "2010-09-09"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-28T13:22:51+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 213.83.21.18
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-28T19:01:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.165.60.35
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-28T20:55:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.3
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-04-28T21:44:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 222.186.17.122
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

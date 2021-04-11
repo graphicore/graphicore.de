@@ -1,0 +1,73 @@
+2010-07-27T09:10:37+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 212.95.54.33
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-27T09:44:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 213.5.64.15
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-27T13:13:04+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 207.46.204.240
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(14) "dieKulturlosen"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-27T13:15:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.223.2.20
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-07-09:"
+  ["diary"] => string(27) "201007091937074c377a6340b8b"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-27T21:16:57+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "w3c"
+  ["action"] => string(7) "p3p.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-27T21:29:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.78.202.37
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

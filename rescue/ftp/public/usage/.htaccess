@@ -1,0 +1,9 @@
+RewriteEngine off
+DirectoryIndex webalizer.html
+AuthUserFile /www/htdocs/w005c17d//public/usage//.htpasswd
+AuthGroupFile /dev/null
+AuthName ByPassword
+AuthType Basic
+<Limit GET POST>
+require user commander
+</Limit>

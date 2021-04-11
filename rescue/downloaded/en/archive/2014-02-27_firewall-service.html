@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+    >
+<head>
+<meta charset="UTF-8" />
+<meta name="google-site-verification" content="Y_i7yzBmF0Bv9KGdv0QZmGBXAfljS57aRs7Lq7NNcE0" />
+
+<meta name="geo.position" content="52.4809428;13.4490089" />
+<meta name="ICBM" content="52.4809428,13.4490089" />
+<meta name="geo.placename" content="Werrastr. 10A, 12049 Berlin, Deutschland" />
+<meta name="geo.region" content="DE-BE" />
+<meta name="keywords" content="Lasse Fister, graphicore, Berlin, Design, Visuelle Kommunikation, Grafikdesign, Web Development, Interaction Desgin, Printmedien, Webdesign, Layout, Typografie, typography, font design, Schriftgestaltung, Open Source, Libre Graphics, Logo, opensource design, internet, Bauhaus" />
+<meta name="author" content="Lasse Fister" />
+
+<meta name="robots" content="index, follow" />
+    <title>Firewall-Configuration-Server for an international Trading-Concern | Diary entry | graphicore.de</title>
+    <link type="image/gif" rel="icon" href="http://www.graphicore.de/favicon.gif" />
+<link rel="alternate" type="application/atom+xml" title="atom-feed Diary | graphicore.de" href="/en/feed/atom" /><link rel="alternate" type="application/rss+xml" title="rss-feed Diary | graphicore.de" href="/en/feed/rss" />    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.8.3/dijit/themes/nihilo/nihilo.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/style/style.css" />
+    <!--[if lt IE 8]>
+    <link type="text/css" rel="stylesheet" media="screen" href="/style/ielt8.css" />
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/dojo/1.8.3/dojo/dojo.js" data-dojo-config="async:true"></script>
+
+            <script type="text/javascript" src="/js/dmain.js"></script>
+
+  </head>
+<body class="nihilo noscript">
+<div class="stage">
+<div class="header">
+    <ul class="language-switch"><li title="Zeige diese Seite auf Deutsch. Die Benutzerschnittstelle ist übersetzt, aber nicht unbedingt alle Artikel." class="first de"  ><a hreflang="de" rel="alternate" href="/de/archive/2014-02-27_firewall-service">Deutsch</a></li><li title="Display this page in English. The interface is translated, but not all articles necessarily are." class="en active"  ><a hreflang="en" rel="alternate" href="/en/archive/2014-02-27_firewall-service">English</a></li></ul>    <div class="to-the-top">
+                <a href="#"><span>top</span></a></div>
+    <div class="logo">
+            <a rel="me" href="/en"><span>home</span></a>
+            </div>
+    <div class="menu-bar">
+        <span>Filters</span><ul class="menu blog"><li><a title="list all articles" href="/en/diary">All</a></li><li><a title="Announcements, notifications, news, alterations." href="/en/diary/news">News</a></li><li><a title="Web developement, web design, programming and self made tools." href="/en/diary/code">Web and Code</a></li><li><a title="Typefaces designed by me." href="/en/diary/typedesign">Type Design</a></li><li><a title="Images, layouts, printed matter, books, logos, posters, etc." href="/en/diary/graphicdesign">Graphic Design</a></li><li><a title="Idea centered development. Development of Ideas." href="/en/diary/conception">Conception</a></li></ul><span>About</span><ul class="menu pages"><li><a rel="me" href="/en/page/lasse">Lasse</a></li></ul>    </div>
+</div>
+    
+    <div id="graphicore_url_:en:archive:2014-02-27_firewall-service" class="content white"><div class="contentContainer diaryEntry" xml:lang="en" lang="en"><h1>Firewall-Configuration-Server for an international Trading-Concern</h1><p class="teaser">In the course of a new IP-concept the stores of an international Trading-Concern are equiped with new firewalls. To be able to cope with the sheer amount of new configurations, I wrote a Server that generates the right data for each location.</p><div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<h2>Application Area</h2>
+<p>
+The server is only internally for the concern available and will be used in <strong>three different settings</strong>:
+</p>
+<ol><li><strong>Initially</strong> all new firewalls are set up with the generated configuration and then shipped to the location.</li>
+<li>In <strong>case of failure</strong> an engineer can generate the configuration for the replacement device.</li>
+<li>If <strong>changes of the configurations</strong> are necessary, this is the central place where the changes are incorporated.</li>
+</ol></div>
+<div class="gridWidth5 gridPos5">
+<h2>Interfaces</h2>
+<p>
+The server provides several interfaces with which configuration-files and metadata can be obtained:
+</p>
+<ul><li>The <strong>website of a store-location</strong> with configurations and additional informations like opening hours and address.
+</li>
+<li>The <strong>download of many different configurations</strong> as <em>ZIP-archive</em>, whereat the input is done by uploading a simple <em>CSV-file</em>.
+</li>
+<li>A <em>HTTP-GET API</em> with which configurations and metadata can be <strong>obtained directly</strong>.
+</li>
+<li>A <strong>maintenance/debugging user interface</strong>, that makes an <em>SNMP-Request</em> via <em>AJAX</em> and <em>JavaScript</em> and displays the result in a filterable fashion.
+</li>
+</ul></div>
+</div>
+<hr /><div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<h2>The right Tools</h2>
+<p>
+The Server is written in <a href="https://python.org/">Python</a>. As web-framework I used the <a href="http://flask.pocoo.org/">lightweight Flask</a>. The required data is picked up from several sources: <em>DNS</em>, <em>LDAP</em>, <em>SNMP</em>, a <em>HTTP-PUSH</em>-based system—through that data is received as <em>XML</em>, validated with <em>XSD</em> and updated—as well as further locally availale files.
+</p>
+
+</div>
+<div class="gridWidth5 gridPos5">
+<h2>Administration</h2>
+<p>
+<strong>The server-configuration is made by me</strong>, too. The <em>Apache2</em> webserver serves the page using <em>mod_wsgi</em>, <em>mod_authz_ldap</em> and <em>mod_ssl</em>. <strong>Access is limited</strong> via <em>LDAP-Groups</em> and <strong>always encrypted</strong> with <em>HTTPS</em>.</p>
+</div>
+</div>
+
+<hr /><div class="gridRow">
+<div class="gridWidth10 gridPos0">
+<h2>Screenshot</h2>
+<p>the design is limited to the  essentials and explains the available possibilities.</p>
+<p><img src="/images/diary/firewall-config-server-home.png" alt="Screenshot of the servers homepage" title="Screenshot" /></p></div>
+</div><div class="diaryEntryFooter"><a class="permalink" href="/en/archive/2014-02-27_firewall-service">Permalink</a> Thursday, February 27, 2014 3:22:48 PM Europe/Berlin<div class="filters">Filters: <ul><li><a rel="tag" href="/en/diary/code">Web and Code</a></li></ul></div></div></div></div>
+<div class="simple-footer">
+<a rel="me" href="/en/page/lasse">Impressum</a>, Copyright © 2009 – 2021 by <a rel="me" href="/en/page/lasse">Lasse Fister</a>
+</div>
+</div>
+</body>
+</html>

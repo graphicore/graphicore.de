@@ -1,0 +1,12 @@
+2019-05-12T21:50:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 104.148.64.26
+HTTP_REFERER: http://graphicore.de/wp-content/uploads/levoslideshow/1_uploadfolder/big/
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "uploads"
+  ["levoslideshow"] => string(14) "1_uploadfolder"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

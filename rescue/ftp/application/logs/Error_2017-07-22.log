@@ -1,0 +1,22 @@
+2017-07-22T04:05:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 14.215.176.143
+HTTP_REFERER: http://www.baidu.com/s?wd=www
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-07-22T21:41:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 14.215.176.135
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

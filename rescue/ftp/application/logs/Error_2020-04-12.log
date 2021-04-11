@@ -1,0 +1,98 @@
+2020-04-12T01:18:49+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.73.170
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-12T11:15:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 148.72.248.35
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(3) "dev"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-12T13:08:49+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 66.249.73.168
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-12T16:18:52+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.208.96.71
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-12T16:28:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 162.251.80.21
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(3) "OLD"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-12T19:12:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 31.22.4.144
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-12T20:07:21+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 77.75.77.119
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-04-12T22:36:53+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 77.75.76.166
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

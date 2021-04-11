@@ -1,0 +1,72 @@
+2011-02-11T02:15:51+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 210.64.59.131
+HTTP_REFERER: http://graphicore.de/de/index/topic/intern/news/%2B%28200%2Bok%29%2BACCEPTED
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-11T04:46:46+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 85.17.170.109
+HTTP_REFERER: http://graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-11T07:45:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.194.37.153
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-11T09:54:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.208.219.155
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-11T11:17:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.194.37.153
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-11T21:34:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.57.155.223
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

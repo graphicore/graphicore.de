@@ -1,0 +1,14 @@
+2011-01-29T18:41:50+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 91.212.226.93
+HTTP_REFERER: http://graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

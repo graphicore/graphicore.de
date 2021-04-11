@@ -1,0 +1,132 @@
+2020-01-07T10:13:12+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(15) "wlwmanifest.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T10:13:12+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T10:13:13+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T10:13:13+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T10:13:13+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "site"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T10:13:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "cms"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T14:53:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(15) "wlwmanifest.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T14:53:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T14:53:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T14:53:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T14:53:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "site"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-07T14:53:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 51.79.100.241
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "cms"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

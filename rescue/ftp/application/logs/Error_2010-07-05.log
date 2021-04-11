@@ -1,0 +1,39 @@
+2010-07-05T14:44:07+00:00 ERR (3) 404 "hire-me" was not found.
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: http://localhost/graphicore2/public/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(7) "hire-me"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-05T14:44:12+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-05T14:44:57+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

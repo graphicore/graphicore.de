@@ -1,0 +1,3030 @@
+2019-01-31T01:11:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 47.92.135.145
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "temp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T03:45:29+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.9.94.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T05:15:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.98.177.226
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "temp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T05:34:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.229.168.147
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/en/diary
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "en"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary/news
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary/code
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary/typedesign
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary/graphicdesign
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary/conception
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(4) "page"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2015-07-28_hello_metapolator
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2014-02-27_firewall-service
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2014-02-27_sibylle_frank
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2013-11-13_it-is-a-multitoner
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2013-11-12_silber-und-blei
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2013-11-12_iconic_imports
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2013-06-13_it-is-a-multitoner
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2013-06-10_refactoring-the-Superlative-Conspiracy
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2013-06-06_silber-und-blei
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2013-01-31_big-business
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2012-09-02_piece-of-prayer
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2012-01-17_ufoJS-is-not-a-bird
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2010-07-09_i-live-again
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2010-10-18_La_Mirada_de_Ella
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2010-10-12_serious_toys
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2010-10-06_underground_exhibition
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2010-10-01_metropolis-wilderness
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2010-09-27_a_stamp_chance
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2010-09-27_turbo_art_collective
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/archive/2010-09-23_Neo-Bourgeois_Grafitti
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:34+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/diary/news
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["diary"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:34+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/en/diary/news
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["diary"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:34+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/diary
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:34+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/diary/code
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["diary"] => string(4) "code"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:34+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/diary/typedesign
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["diary"] => string(10) "typedesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:34+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/diary/graphicdesign
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["diary"] => string(13) "graphicdesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:35+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/diary/conception
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["diary"] => string(10) "conception"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:35+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:35+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2015-07-28_hello_metapolator
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(28) "2015-07-28_hello_metapolator"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:35+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2013-11-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(29) "2013-11-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:35+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2013-11-12_silber-und-blei
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(26) "2013-11-12_silber-und-blei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:35+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2013-06-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(29) "2013-06-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:35+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2013-06-10_refactoring-the-Superlative-Conspiracy
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(49) "2013-06-10_refactoring-the-Superlative-Conspiracy"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:35+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2013-06-06_silber-und-blei
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(26) "2013-06-06_silber-und-blei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:35+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2013-01-31_big-business
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(23) "2013-01-31_big-business"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:36+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2012-01-17_ufoJS-is-not-a-bird
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(30) "2012-01-17_ufoJS-is-not-a-bird"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:36+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(30) "2010-09-09_A-Brute-Font-Attack"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:36+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2010-07-09_i-live-again
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(23) "2010-07-09_i-live-again"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:36+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/en/diary/code
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["diary"] => string(4) "code"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:36+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2014-02-27_firewall-service
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(27) "2014-02-27_firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:36+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2014-02-27_sibylle_frank
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(24) "2014-02-27_sibylle_frank"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:36+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2013-11-12_iconic_imports
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(25) "2013-11-12_iconic_imports"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:36+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2010-10-18_La_Mirada_de_Ella
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(28) "2010-10-18_La_Mirada_de_Ella"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:37+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2010-10-12_serious_toys
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(23) "2010-10-12_serious_toys"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:37+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/en/diary/typedesign
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["diary"] => string(10) "typedesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:37+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2012-09-02_piece-of-prayer
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(26) "2012-09-02_piece-of-prayer"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:37+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/en/diary/graphicdesign
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["diary"] => string(13) "graphicdesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:37+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2010-10-06_underground_exhibition
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(33) "2010-10-06_underground_exhibition"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:37+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2010-10-01_metropolis-wilderness
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(32) "2010-10-01_metropolis-wilderness"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:37+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2010-09-27_a_stamp_chance
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(25) "2010-09-27_a_stamp_chance"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:37+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2010-09-23_Neo-Bourgeois_Grafitti
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(33) "2010-09-23_Neo-Bourgeois_Grafitti"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:38+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/en/diary/conception
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["diary"] => string(10) "conception"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:38+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/diary/de/archive/2010-09-27_turbo_art_collective
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["archive"] => string(31) "2010-09-27_turbo_art_collective"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:38+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/page/de/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:38+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/page/en/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:38+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/page/de/diary
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:38+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/page/de/diary/news
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["diary"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:38+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/page/de/diary/code
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["diary"] => string(4) "code"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:39+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/page/de/diary/typedesign
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["diary"] => string(10) "typedesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:39+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/page/de/diary/graphicdesign
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["diary"] => string(13) "graphicdesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:39+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/page/de/diary/conception
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["diary"] => string(10) "conception"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:39+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/page/de/page/competences
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["page"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:39+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/feed/de/archive/2012-01-17_ufoJS-is-not-a-bird
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "de"
+  ["archive"] => string(30) "2012-01-17_ufoJS-is-not-a-bird"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:39+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/feed/de/archive/2013-06-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "de"
+  ["archive"] => string(29) "2013-06-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:39+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/feed/de/archive/2013-01-31_big-business
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "de"
+  ["archive"] => string(23) "2013-01-31_big-business"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:40+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/feed/de/archive/2013-06-06_silber-und-blei
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "de"
+  ["archive"] => string(26) "2013-06-06_silber-und-blei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:40+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/feed/de/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "de"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:40+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/feed/de/page/hire-lasse
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "de"
+  ["page"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:40+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/archive/2015-07-28_hello_metapolator
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(28) "2015-07-28_hello_metapolator"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:40+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/en/archive/2015-07-28_hello_metapolator
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(28) "2015-07-28_hello_metapolator"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:40+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:40+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/diary
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:41+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/diary/news
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["diary"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:41+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/diary/code
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["diary"] => string(4) "code"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:41+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/diary/typedesign
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["diary"] => string(10) "typedesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:41+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/diary/graphicdesign
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["diary"] => string(13) "graphicdesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:41+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/diary/conception
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["diary"] => string(10) "conception"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:41+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:41+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/archive/2012-01-17_ufoJS-is-not-a-bird
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(30) "2012-01-17_ufoJS-is-not-a-bird"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:41+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/archive/2014-02-27_firewall-service
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(27) "2014-02-27_firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:42+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/en/archive/2014-02-27_firewall-service
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(27) "2014-02-27_firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:42+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/archive/2014-02-27_sibylle_frank
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(24) "2014-02-27_sibylle_frank"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:42+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/en/archive/2014-02-27_sibylle_frank
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(24) "2014-02-27_sibylle_frank"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:42+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/archive/2013-11-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(29) "2013-11-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:42+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/en/archive/2013-11-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(29) "2013-11-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:42+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/archive/2013-06-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(29) "2013-06-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:42+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/archive/2013-11-12_silber-und-blei
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(26) "2013-11-12_silber-und-blei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:42+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/en/archive/2013-11-12_silber-und-blei
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(26) "2013-11-12_silber-und-blei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:43+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/archive/de/archive/2013-01-31_big-business
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(23) "2013-01-31_big-business"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/de/diary
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/diary
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/diary/news
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/diary/code
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/diary/typedesign
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/diary/graphicdesign
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/diary/conception
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:43+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(4) "page"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2015-07-28_hello_metapolator
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2014-02-27_firewall-service
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2014-02-27_sibylle_frank
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2013-11-13_it-is-a-multitoner
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2013-11-12_silber-und-blei
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2013-11-12_iconic_imports
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2013-06-13_it-is-a-multitoner
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2013-06-10_refactoring-the-Superlative-Conspiracy
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2013-06-06_silber-und-blei
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2013-01-31_big-business
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2012-09-02_piece-of-prayer
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2012-01-17_ufoJS-is-not-a-bird
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2010-07-09_i-live-again
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2010-10-18_La_Mirada_de_Ella
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2010-10-12_serious_toys
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2010-10-06_underground_exhibition
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2010-10-01_metropolis-wilderness
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2010-09-27_a_stamp_chance
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:46+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2010-09-27_turbo_art_collective
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:46+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/en/archive/2010-09-23_Neo-Bourgeois_Grafitti
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:46+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/de/diary/news
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["diary"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:46+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/diary/news
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["diary"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:46+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:46+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/diary
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:46+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/diary/code
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["diary"] => string(4) "code"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:46+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/diary/typedesign
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["diary"] => string(10) "typedesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:46+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/diary/graphicdesign
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["diary"] => string(13) "graphicdesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:47+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/diary/conception
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["diary"] => string(10) "conception"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:47+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:47+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2015-07-28_hello_metapolator
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(28) "2015-07-28_hello_metapolator"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:47+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2013-11-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(29) "2013-11-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:47+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2013-11-12_silber-und-blei
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(26) "2013-11-12_silber-und-blei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:47+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2013-06-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(29) "2013-06-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:47+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2013-06-10_refactoring-the-Superlative-Conspiracy
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(49) "2013-06-10_refactoring-the-Superlative-Conspiracy"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:47+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2013-06-06_silber-und-blei
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(26) "2013-06-06_silber-und-blei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:48+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2013-01-31_big-business
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(23) "2013-01-31_big-business"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:48+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2012-01-17_ufoJS-is-not-a-bird
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(30) "2012-01-17_ufoJS-is-not-a-bird"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:48+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(30) "2010-09-09_A-Brute-Font-Attack"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:48+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2010-07-09_i-live-again
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(23) "2010-07-09_i-live-again"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:48+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/de/diary/code
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["diary"] => string(4) "code"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:48+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2014-02-27_firewall-service
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(27) "2014-02-27_firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:48+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2014-02-27_sibylle_frank
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(24) "2014-02-27_sibylle_frank"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:48+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2013-11-12_iconic_imports
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(25) "2013-11-12_iconic_imports"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:49+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2010-10-18_La_Mirada_de_Ella
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(28) "2010-10-18_La_Mirada_de_Ella"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:49+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2010-10-12_serious_toys
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(23) "2010-10-12_serious_toys"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:49+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/de/diary/typedesign
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["diary"] => string(10) "typedesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:49+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2012-09-02_piece-of-prayer
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(26) "2012-09-02_piece-of-prayer"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:49+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/de/diary/graphicdesign
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["diary"] => string(13) "graphicdesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:49+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2010-10-06_underground_exhibition
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(33) "2010-10-06_underground_exhibition"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:49+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2010-10-01_metropolis-wilderness
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(32) "2010-10-01_metropolis-wilderness"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:49+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2010-09-27_a_stamp_chance
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(25) "2010-09-27_a_stamp_chance"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:50+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2010-09-23_Neo-Bourgeois_Grafitti
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(33) "2010-09-23_Neo-Bourgeois_Grafitti"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:50+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/de/diary/conception
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["diary"] => string(10) "conception"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:50+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/diary/en/archive/2010-09-27_turbo_art_collective
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["archive"] => string(31) "2010-09-27_turbo_art_collective"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:50+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/page/de/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:50+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/page/en/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:50+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/page/en
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:50+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/page/en/diary
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:50+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/page/en/diary/news
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["diary"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:51+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/page/en/diary/code
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["diary"] => string(4) "code"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:51+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/page/en/diary/typedesign
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["diary"] => string(10) "typedesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:51+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/page/en/diary/graphicdesign
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["diary"] => string(13) "graphicdesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:51+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/page/en/diary/conception
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["diary"] => string(10) "conception"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:51+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/page/en/page/competences
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["page"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:51+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/feed/en/archive/2012-01-17_ufoJS-is-not-a-bird
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "en"
+  ["archive"] => string(30) "2012-01-17_ufoJS-is-not-a-bird"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:51+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/feed/en/archive/2013-06-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "en"
+  ["archive"] => string(29) "2013-06-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:51+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/feed/en/archive/2013-01-31_big-business
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "en"
+  ["archive"] => string(23) "2013-01-31_big-business"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:51+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/feed/en/archive/2013-06-06_silber-und-blei
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "en"
+  ["archive"] => string(26) "2013-06-06_silber-und-blei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:52+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/feed/en/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "en"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:52+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/feed/en/page/hire-lasse
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "feed"
+  ["key"] => string(2) "en"
+  ["page"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:52+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/de/archive/2015-07-28_hello_metapolator
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(28) "2015-07-28_hello_metapolator"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:52+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/archive/2015-07-28_hello_metapolator
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(28) "2015-07-28_hello_metapolator"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:52+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:52+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/diary
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:52+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/diary/news
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["diary"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:52+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/diary/code
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["diary"] => string(4) "code"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:53+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/diary/typedesign
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["diary"] => string(10) "typedesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:53+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/diary/graphicdesign
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["diary"] => string(13) "graphicdesign"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:53+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/diary/conception
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["diary"] => string(10) "conception"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:53+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:53+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/archive/2012-01-17_ufoJS-is-not-a-bird
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(30) "2012-01-17_ufoJS-is-not-a-bird"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:53+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/de/archive/2014-02-27_firewall-service
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(27) "2014-02-27_firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:53+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/archive/2014-02-27_firewall-service
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(27) "2014-02-27_firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:53+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/de/archive/2014-02-27_sibylle_frank
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(24) "2014-02-27_sibylle_frank"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:54+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/archive/2014-02-27_sibylle_frank
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(24) "2014-02-27_sibylle_frank"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:54+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/de/archive/2013-11-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(29) "2013-11-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:54+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/archive/2013-11-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(29) "2013-11-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:54+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/archive/2013-06-13_it-is-a-multitoner
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(29) "2013-06-13_it-is-a-multitoner"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:54+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/de/archive/2013-11-12_silber-und-blei
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["archive"] => string(26) "2013-11-12_silber-und-blei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:54+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/archive/2013-11-12_silber-und-blei
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(26) "2013-11-12_silber-und-blei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:54+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/en/archive/en/archive/2013-01-31_big-business
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["archive"] => string(23) "2013-01-31_big-business"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/de/de/diary
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(2) "de"
+  ["de"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/en/de/diary
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(2) "en"
+  ["de"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/de/diary
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/de/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(2) "de"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/en/de/en/diary
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "en"
+  ["key"] => string(2) "de"
+  ["en"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/en/en/en/diary
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "en"
+  ["key"] => string(2) "en"
+  ["en"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/en/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/en/de/diary
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "en"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/en/de/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "en"
+  ["key"] => string(2) "de"
+  ["page"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/en
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary/de/de/diary
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["de"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary/en/de/diary
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["en"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary/
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary/de/diary
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["de"] => string(5) "diary"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/diary/de/page/lasse
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(5) "diary"
+  ["de"] => string(4) "page"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T17:56:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 116.203.43.169
+HTTP_REFERER: http://graphicore.de/de/de/page/de/de/page
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["key"] => string(4) "page"
+  ["de"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T18:39:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 117.29.130.207
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "cms"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T20:54:46+00:00 ERR (3) 404 "anne" was not found.
+REMOTE_ADDR: 66.249.64.35
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(4) "anne"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-01-31T22:18:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.98.176.180
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "cms"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

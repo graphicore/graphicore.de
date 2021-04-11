@@ -1,0 +1,112 @@
+2014-09-16T03:15:49+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-16T03:22:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.143.234.82
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-16T03:22:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.143.234.82
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-16T03:22:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.143.234.82
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "admin.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-16T07:33:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 76.191.115.5
+HTTP_REFERER: http://graphicore.de/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-16T07:33:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 76.191.115.5
+HTTP_REFERER: http://graphicore.de/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-16T07:33:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 76.191.115.5
+HTTP_REFERER: http://graphicore.de/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(5) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-16T07:33:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 76.191.115.5
+HTTP_REFERER: http://graphicore.de/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-09-16T23:26:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.173.12.232
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

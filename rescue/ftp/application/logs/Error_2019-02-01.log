@@ -1,0 +1,46 @@
+2019-02-01T12:02:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.98.56.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "cms"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-01T17:09:27+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 23.228.96.82
+HTTP_REFERER: http://graphicore.de/wp-content/plugins/fluid_forms/file-upload/server/php/index.php
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["fluid_forms"] => string(11) "file-upload"
+  ["server"] => string(3) "php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-01T19:17:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 85.93.93.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-01T23:20:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.229.168.132
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

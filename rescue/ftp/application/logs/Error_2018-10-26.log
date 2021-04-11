@@ -1,0 +1,46 @@
+2018-10-26T00:59:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 158.69.225.37
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-26T00:59:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 158.69.225.37
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-26T06:40:18+00:00 ERR (3) 404 "anne" was not found.
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(4) "anne"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-10-26T18:03:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.37.82.240
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

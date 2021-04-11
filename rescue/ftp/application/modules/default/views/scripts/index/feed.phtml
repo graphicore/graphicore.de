@@ -1,0 +1,75 @@
+<?php
+$this->layout()->disableLayout();
+$registry = Zend_Registry::get('config')->feed;
+$request = Zend_Controller_Front::getInstance()->getRequest();
+$getBaseUrl = $request->getBaseUrl();
+$host = $request->getScheme() . '://' . $request->getHttpHost();
+$translate = GC_Translate::get();
+$feedTypes = array(
+    'rss' => array(
+        'contentHeader' => 'application/rss+xml; charset=' . ENCODING,
+    ),
+    'atom' => array(
+        'contentHeader' => 'application/atom+xml; charset=' . ENCODING,
+    ),
+);
+$route = 'i18n';
+
+$feed = new Zend_Feed_Writer_Feed();
+$feed->setTitle($this->title($translate->_('Diary')));
+
+//Set a link to the HTML source
+$feed->setLink($host . $this->url($this->htmlUrlArray, $route, True));
+//xml feed, type
+
+$feedUrlArray = array(
+        'module' => 'default',
+        'controller' => 'index',
+        'action' => 'feed',
+        'lang' => GC_I18n::getLang(),
+        'key' => '',
+    );
+
+foreach($feedTypes as $key => $feedType)
+{
+    $feedUrlArray['key'] = $key;
+    $feed->setFeedLink($host . $this->url($feedUrlArray, $route, True), $key);
+}
+$feedType = $feedTypes[$this->feedType];
+
+
+
+$feed->setDescription($translate->_($registry->description));
+
+
+$feed->setId($registry->id.$this->feedType.'/');
+$feed->setEncoding(ENCODING);
+
+$feed->addAuthor($registry->author->toArray());
+
+$feed->setDateModified(new Zend_Date($this->diary[0]['updated_at'], Zend_Date::ISO_8601));
+
+foreach ($this->diary as $article)
+{
+    //throw new GC_Debug_Exception($entry);
+    $entry = $feed->createEntry();
+    
+    $entry->setTitle(html_entity_decode($article['title'], ENT_COMPAT | ENT_HTML401, 'UTF-8'));
+    $entry->setId($registry->id.$article['tagUrlPart']);
+    $entry->setLink($host . $article['url']);
+    $entry->setDateCreated(new Zend_Date($article['timestamp'], Zend_Date::ISO_8601));
+    $entry->setDateModified(new Zend_Date($article['timestamp'], Zend_Date::ISO_8601));
+
+    if(!empty($article['htmlContent']))
+    {
+        //parameter must be a non-empty string
+        $entry->setContent($article['htmlContent']);
+        $entry->setDescription(mb_substr(strip_tags($article['htmlContent']), 0, 50) . ' ...');
+    }
+
+    $feed->addEntry($entry);
+}
+//$response = Zend_Controller_Front::getInstance()->getResponse();
+//$response->setHeader('Content-Type', $feedType['contentHeader'], true);
+
+echo $feed->export($this->feedType);

@@ -1,0 +1,1007 @@
+2010-11-10T20:27:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(1) "#"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:28:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:28:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "index.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:28:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "index.htm"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:28:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.htm"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:28:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "default.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:28:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "index.jsp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:28:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "default.jsp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:28:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(33) "rankflex_content_duplication_test"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:28:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "w3c"
+  ["action"] => string(7) "p3p.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:30:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:30:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.169.26.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "sitemap"
+  ["action"] => string(11) "sitemap.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(8) "dmain.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:40+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(8) "dmain.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:41+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:41+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:41+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:41+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:41+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:55+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/page/hire-lasse
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/page/hire-lasse
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(8) "dmain.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/page/hire-lasse
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/page/hire-lasse
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(8) "dmain.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:36:57+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/page/hire-lasse
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:13+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/typedesign
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/typedesign
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/typedesign
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/typedesign
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(8) "dmain.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/typedesign
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(8) "dmain.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:15+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/typedesign
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:15+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/typedesign
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(8) "dmain.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:30+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:31+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:37:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  [""] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(8) "dmain.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:07+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(8) "dmain.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:07+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:08+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(6) "layout"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:08+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:08+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: http://graphicore.de/index.php/en/diary/code
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "diaryTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-11-10T20:38:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 88.75.118.77
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "index.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

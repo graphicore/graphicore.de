@@ -1,0 +1,23 @@
+<?php
+$urlArray = $this->urlArray;
+$urlArray['action'] = 'create';
+
+echo '<h2>'.$this->message.'</h2>';
+
+echo $this->editingLanguageSwitch(
+    $this->editLang,
+    $urlArray,
+    'modules_i18n',
+    $this->editLangKey
+);
+$urlCreate = $urlArray;
+$urlCreate[$this->editLangKey] = $this->editLang;
+$url = $this->url($urlCreate, 'modules_i18n', True);
+
+$this->form->setAction($url)
+    ->output();
+
+if($this->dump)
+{
+    GC_Debug::dump($this->dump,true);
+}

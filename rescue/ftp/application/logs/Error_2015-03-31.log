@@ -1,0 +1,47 @@
+2015-03-31T02:10:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 115.133.94.186
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-31T02:10:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 115.133.94.186
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-31T21:36:24+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.79.149
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-03-31T21:47:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 31.184.238.128
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+<?php
+$urlArray = $this->urlArray;
+$urlArray['action'] = 'update';
+//$urlArray[$this->editLangKey] = $this->editLang;
+$urlArray['id'] = $this->id;
+
+echo '<h2>'.$this->message.'</h2>';
+
+echo $this->editingLanguageSwitch
+(
+    $this->editLang, $urlArray, 'modules_i18n', $this->editLangKey
+);
+
+$urlUpdate = $urlArray;
+$urlUpdate[$this->editLangKey] = $this->editLang;
+$url = $this->url($urlUpdate, 'modules_i18n', True);
+
+$this->form->setAction($url)
+    ->output();
+
+if($this->dump)
+{
+    GC_Debug::dump($this->dump,true);
+}

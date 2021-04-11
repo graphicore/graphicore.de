@@ -1,0 +1,239 @@
+2015-09-26T00:45:47+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://www.saiding-plus.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T00:45:48+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://www.saiding-plus.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T00:45:48+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://mccpharmacy.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T00:45:48+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://www.saiding-plus.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T00:45:49+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://mccpharmacy.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T00:45:50+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: http://mccpharmacy.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T01:18:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.163
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "incs"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T04:54:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["rsd"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T04:54:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T04:54:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T04:54:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T04:54:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T08:56:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.165.15.41
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T11:52:49+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: https://iqoption.com/promo/simple-demo/?aff=1167&afftrack=mork
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T11:52:49+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: https://iqoption.com/promo/simple-demo/?aff=1167&afftrack=mork
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T11:52:50+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.89.217
+HTTP_REFERER: https://iqoption.com/promo/simple-demo/?aff=1167&afftrack=mork
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T15:17:26+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 46.229.164.100
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T17:09:20+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-26T23:39:36+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.150
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,115 @@
+2016-08-06T04:48:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.65.128
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(15) "assetlinks.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-06T05:11:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 31.184.238.125
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-06T05:53:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 110.86.69.155
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["mailpress"] => string(11) "mp-includes"
+  ["module"] => string(7) "default"
+  ["id"] => string(1) "3"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-06T11:34:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 85.222.33.132
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-06T11:34:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 85.222.33.132
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-06T13:11:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 199.101.185.138
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-06T13:11:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 199.101.185.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-06T22:49:13+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.7
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-06T23:36:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 85.222.33.132
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-06T23:36:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 85.222.33.132
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

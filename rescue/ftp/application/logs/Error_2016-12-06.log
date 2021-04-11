@@ -1,0 +1,80 @@
+2016-12-06T00:58:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.134
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-06T00:58:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.134
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(15) "assetlinks.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-06T02:54:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.194.179
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "license.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-06T02:54:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.194.179
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "license.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-06T08:27:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.31.8.97
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-06T08:27:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.31.8.97
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-06T23:58:24+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.97
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,94 @@
+2016-11-30T02:24:22+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.1
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-30T09:42:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 73.198.168.80
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-30T09:42:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 73.198.168.80
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-30T10:28:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.194.192
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(11) "wp-smtp.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["c"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-30T15:44:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.134
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-30T15:45:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.131
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(15) "assetlinks.json"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-30T15:46:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.76.131
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-11-30T15:51:47+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.1
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

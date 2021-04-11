@@ -1,0 +1,67 @@
+2010-07-20T06:08:29+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 66.249.66.146
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "typete"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-20T10:28:20+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 95.108.155.251
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(14) "dieKulturlosen"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-20T12:26:51+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 66.249.66.146
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "typete"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-20T13:07:54+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 95.108.155.251
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(10) "helloWorld"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-20T19:33:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.190.139.174
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

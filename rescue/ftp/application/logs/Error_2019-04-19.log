@@ -1,0 +1,22 @@
+2019-04-19T10:28:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.172.224
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-19T10:28:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 167.114.172.224
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

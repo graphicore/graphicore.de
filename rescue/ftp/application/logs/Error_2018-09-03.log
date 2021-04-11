@@ -1,0 +1,78 @@
+2018-09-03T00:40:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 213.32.243.107
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "umbraco"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-03T00:40:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 213.32.243.107
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "umbraco"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-03T00:40:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 213.32.243.107
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "sitecore"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-03T00:40:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 213.32.243.107
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "sitecore"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-03T05:45:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.145.223.233
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-03T08:52:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.145.223.233
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-03T10:47:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 38.99.62.93
+HTTP_REFERER: http://www.graphicore.de/ads.txt
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

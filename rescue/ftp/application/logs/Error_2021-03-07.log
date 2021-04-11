@@ -1,0 +1,22 @@
+2021-03-07T08:02:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.163.225.12
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(6) "backup"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-07T14:54:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.253.38
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "haccess.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+<?php
+if(True !== $this->isJson)
+{
+    echo is_array($this->dump) ? join("", $this->dump) : $this->dump;
+}
+else
+{
+    //Zend_Json::encode($this->daten);
+    $daten = array
+    (
+        'title'   => html_entity_decode($this->title($this->titleData), ENT_COMPAT | ENT_HTML401, 'UTF-8'),
+        'languageSwitch' => $this->languageSwitch($this->urlArray),
+        'type' => $this->resourceType,
+        'html' => is_array($this->dump) ? join('', $this->dump) : $this->dump,
+    );
+    if($this->ajaxMainMenu)
+    {
+        $daten['mainMenu'] = (string) $this->getMainMenu();
+    }
+    echo $this->json($daten);
+}

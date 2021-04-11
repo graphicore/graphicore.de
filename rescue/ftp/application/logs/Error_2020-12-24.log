@@ -1,0 +1,104 @@
+2020-12-24T04:54:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "sitemaps.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-24T10:35:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "sitemap.xml.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-24T13:10:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.34
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-24T13:13:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(17) "sitemap_index.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-24T13:28:23+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 178.63.51.106
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-24T13:28:32+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 178.63.51.106
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-24T14:07:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.114
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "sitemap.xml.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-24T17:52:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.168.239.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-12-24T20:29:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "sitemaps.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

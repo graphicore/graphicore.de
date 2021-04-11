@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+    >
+<head>
+<meta charset="UTF-8" />
+<meta name="google-site-verification" content="Y_i7yzBmF0Bv9KGdv0QZmGBXAfljS57aRs7Lq7NNcE0" />
+
+<meta name="geo.position" content="52.4809428;13.4490089" />
+<meta name="ICBM" content="52.4809428,13.4490089" />
+<meta name="geo.placename" content="Werrastr. 10A, 12049 Berlin, Deutschland" />
+<meta name="geo.region" content="DE-BE" />
+<meta name="keywords" content="Lasse Fister, graphicore, Berlin, Design, Visuelle Kommunikation, Grafikdesign, Web Development, Interaction Desgin, Printmedien, Webdesign, Layout, Typografie, typography, font design, Schriftgestaltung, Open Source, Libre Graphics, Logo, opensource design, internet, Bauhaus" />
+<meta name="author" content="Lasse Fister" />
+
+<meta name="robots" content="index, follow" />
+    <title>graphicore Bitmap Font Building—updated | Diary entry | graphicore.de</title>
+    <link type="image/gif" rel="icon" href="http://www.graphicore.de/favicon.gif" />
+<link rel="alternate" type="application/atom+xml" title="atom-feed Diary | graphicore.de" href="/en/feed/atom" /><link rel="alternate" type="application/rss+xml" title="rss-feed Diary | graphicore.de" href="/en/feed/rss" />    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.8.3/dijit/themes/nihilo/nihilo.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/style/style.css" />
+    <!--[if lt IE 8]>
+    <link type="text/css" rel="stylesheet" media="screen" href="/style/ielt8.css" />
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/dojo/1.8.3/dojo/dojo.js" data-dojo-config="async:true"></script>
+
+            <script type="text/javascript" src="/js/dmain.js"></script>
+
+  </head>
+<body class="nihilo noscript">
+<div class="stage">
+<div class="header">
+    <ul class="language-switch"><li title="Zeige diese Seite auf Deutsch. Die Benutzerschnittstelle ist übersetzt, aber nicht unbedingt alle Artikel." class="first de"  ><a hreflang="de" rel="alternate" href="/de/archive/2010-09-09_A-Brute-Font-Attack">Deutsch</a></li><li title="Display this page in English. The interface is translated, but not all articles necessarily are." class="en active"  ><a hreflang="en" rel="alternate" href="/en/archive/2010-09-09_A-Brute-Font-Attack">English</a></li></ul>    <div class="to-the-top">
+                <a href="#"><span>top</span></a></div>
+    <div class="logo">
+            <a rel="me" href="/en"><span>home</span></a>
+            </div>
+    <div class="menu-bar">
+        <span>Filters</span><ul class="menu blog"><li><a title="list all articles" href="/en/diary">All</a></li><li><a title="Announcements, notifications, news, alterations." href="/en/diary/news">News</a></li><li><a title="Web developement, web design, programming and self made tools." href="/en/diary/code">Web and Code</a></li><li><a title="Typefaces designed by me." href="/en/diary/typedesign">Type Design</a></li><li><a title="Images, layouts, printed matter, books, logos, posters, etc." href="/en/diary/graphicdesign">Graphic Design</a></li><li><a title="Idea centered development. Development of Ideas." href="/en/diary/conception">Conception</a></li></ul><span>About</span><ul class="menu pages"><li><a rel="me" href="/en/page/lasse">Lasse</a></li></ul>    </div>
+</div>
+    
+    <div id="graphicore_url_:en:archive:2010-09-09_A-Brute-Font-Attack" class="content white"><div class="contentContainer diaryEntry" xml:lang="en" lang="en"><h1>graphicore Bitmap Font Building—updated</h1><p class="teaser">This is the release of the typeface “graphicore Bitmap Font” and the script that built it: “graphicore Bitmap Font Building”—both as Free and Open Source Software under the SIL Open Font License (OFL) and GNU Affero General Public License (AGPL).</p><div class="gridRow">
+<div class="gridPos0 gridWidth7">
+There’s an update at the bottom of this page.
+<p class="pre" style="font-weight:bold;line-height:12px;font-size:15px;">...............................###.....##.........................
+......##......................###......##.........................
+.....###......................##..................................
+..####..###.##..##.##.##.###..#####..###...###...####.###.##..###.
+.##.###..##.##.##.###..##.###.###.##..##..##.##.##.###.##.##.##.##
+##...##..###..##...##..##..##.##..##..##.##....##...##.###..#####.
+###.##...##...##...##..##..##.##..##..##.##....##...##.##...##....
+.######..##...###.###..##.##..##..##..##.###.#.###.##..##...##..#.
+.....###.##....###.###.####...##..###.###.####..####...##....####.
+##....##...............##.........................................
+###..##................##.........................................
+.#####.................##.........................................</p>
+<div class="gridRow">
+
+<div class="gridPos0 gridWidth3">
+
+<h2>graphicore Bitmap Font</h2>
+
+<p>is a bitmap typeface that was early inspired by <a href="http://www.underware.nl/site2/index.php?id1=sauna&amp;id2=styles&amp;id3=bold_italic_swash">Underwares Sauna bold italic swash</a> and eventually went on its own way. It’s crisp on the screen at a size of 8 px and multiples thereof. However the intended use case lies rather in display sizes. Using these fonts is a statement  towards the core elements of perception of our times—pixels. Resolution is finite. Anti-aliasing is a lie!</p>
+<p>The typeface itself is defined in a custom format where the glyphs are stored in text-files idiomatically as bitmaps. Like in the ASCII art above a dot stands for “no pixel” and the number sign marks the opposite. This is what I believe a bitmap font should be like—made out of bitmaps. Character editing was done in a simple text editor program.</p>
+</div>
+
+<div class="gridPos6 gridWidth4">
+
+<h2>graphicore Bitmap Font Building</h2>
+
+<p>The fonts I make available here are build from a custom format “Bitmap Font” (BMF) into ready to use OpenType format by a <a href="http://www.python.org/">Python</a> program: “graphicore Bimap Font Building” (graphicoreBMFB). By using different parameters varying fonts are generated. The font files released here are thus a demonstration of the output of graphicoreBMFB. When the possibilities of graphicoreBMFB get more comprehensive the graphicore Bitmap Font family will eventually grow.</p>
+<p>Attached to the program is the source data of graphicore Bitmap Font in the BMF format. This opens following chances to you:</p>
+<ul><li>You can generate your own fonts if you don’t like the settings I chose.</li>
+  <li>You can study it as a working example and learn how to make your own typeface design.</li>
+  <li>You can write your own generator and built the typeface with that.</li>
+  <li>You can give your enhancements back to the world.</li>
+</ul></div>
+
+</div>
+</div>
+<div class="gridPos7 gridWidth3">
+
+<h2>What to Do</h2>
+
+<h3>Download the Fonts</h3>
+
+<p>Download the fonts package and enjoy writing with them:<br /><a href="http://github.com/downloads/graphicore/graphicoreBMFB/graphicoreBitmapFont_0.0004.tar.bz2">graphicoreBitmapFont.tar.bz2</a>
+<a href="http://github.com/downloads/graphicore/graphicoreBMFB/graphicoreBitmapFont_0.0004.zip">graphicoreBitmapFont.zip</a><br /><a href="http://github.com/graphicore/graphicoreBMFB/downloads">all downloads</a></p>
+<h3>Obtain the Code</h3>
+
+<p>Have an eye on the code and then make everything better and more—or just use it: <a href="http://github.com/graphicore/graphicoreBMFB">graphicoreBMFB</a>. It’s written in Python and uses the great <a href="http://fontforge.sourceforge.net/">FontForge</a> Python module to create outline fonts. You’ll need that, too.</p>
+
+<h3>Join Me</h3>
+
+<p>If you like this project or if the ideas keep on bubbling up from your subconsciousness <a href="/en/page/lasse">leave me a message</a>. If there’s enough interest in cooperation I’ll set up a central site for that.</p>
+
+<h3>Get Serious</h3>
+
+<p>If you need a custom typeface or special format that makes reading on your special matrix of special things pleasing, I’m your guy. Furthermore I’m good in internet issues and printed matter. If you value my work we might fit together. <a href="/en/page/hire-lasse">More information about my offer.</a></p>
+</div>
+</div><div class="gridRow">
+
+<h2>All Currently Contained Glyphs in the Typeface.</h2>
+<table class="bitmapFontCharTable"><tr><td><span title="Name: exclam, Unicode: U+0021">!</span></td>
+<td><span title="Name: quotedbl, Unicode: U+0022">"</span></td>
+<td><span title="Name: numbersign, Unicode: U+0023">#</span></td>
+<td><span title="Name: dollar, Unicode: U+0024">$</span></td>
+<td><span title="Name: percent, Unicode: U+0025">%</span></td>
+
+<td><span title="Name: ampersand, Unicode: U+0026">&amp;</span></td>
+<td><span title="Name: quotesingle, Unicode: U+0027">'</span></td>
+
+<td><span title="Name: parenleft, Unicode: U+0028">(</span></td>
+<td><span title="Name: parenright, Unicode: U+0029">)</span></td>
+<td><span title="Name: asterisk, Unicode: U+002A">*</span></td>
+<td><span title="Name: plus, Unicode: U+002B">+</span></td>
+<td><span title="Name: comma, Unicode: U+002C">,</span></td>
+<td><span title="Name: hyphen, Unicode: U+002D">-</span></td>
+<td><span title="Name: period, Unicode: U+002E">.</span></td>
+<td><span title="Name: slash, Unicode: U+002F">/</span></td>
+<td><span title="Name: zero, Unicode: U+0030">0</span></td>
+
+</tr><tr><td><span title="Name: one, Unicode: U+0031">1</span></td>
+<td><span title="Name: two, Unicode: U+0032">2</span></td>
+<td><span title="Name: three, Unicode: U+0033">3</span></td>
+<td><span title="Name: four, Unicode: U+0034">4</span></td>
+<td><span title="Name: five, Unicode: U+0035">5</span></td>
+
+<td><span title="Name: six, Unicode: U+0036">6</span></td>
+<td><span title="Name: seven, Unicode: U+0037">7</span></td>
+<td><span title="Name: eight, Unicode: U+0038">8</span></td>
+
+<td><span title="Name: nine, Unicode: U+0039">9</span></td>
+<td><span title="Name: colon, Unicode: U+003A">:</span></td>
+<td><span title="Name: semicolon, Unicode: U+003B">;</span></td>
+<td><span title="Name: less, Unicode: U+003C">&lt;</span></td>
+<td><span title="Name: equal, Unicode: U+003D">=</span></td>
+<td><span title="Name: greater, Unicode: U+003E">&gt;</span></td>
+<td><span title="Name: question, Unicode: U+003F">?</span></td>
+<td><span title="Name: at, Unicode: U+0040">@</span></td>
+</tr><tr><td><span title="Name: A, Unicode: U+0041">A</span></td>
+<td><span title="Name: B, Unicode: U+0042">B</span></td>
+
+<td><span title="Name: C, Unicode: U+0043">C</span></td>
+<td><span title="Name: D, Unicode: U+0044">D</span></td>
+<td><span title="Name: E, Unicode: U+0045">E</span></td>
+
+<td><span title="Name: F, Unicode: U+0046">F</span></td>
+<td><span title="Name: G, Unicode: U+0047">G</span></td>
+<td><span title="Name: H, Unicode: U+0048">H</span></td>
+<td><span title="Name: I, Unicode: U+0049">I</span></td>
+<td><span title="Name: J, Unicode: U+004A">J</span></td>
+
+<td><span title="Name: K, Unicode: U+004B">K</span></td>
+<td><span title="Name: L, Unicode: U+004C">L</span></td>
+<td><span title="Name: M, Unicode: U+004D">M</span></td>
+<td><span title="Name: N, Unicode: U+004E">N</span></td>
+<td><span title="Name: O, Unicode: U+004F">O</span></td>
+<td><span title="Name: P, Unicode: U+0050">P</span></td>
+</tr><tr><td><span title="Name: Q, Unicode: U+0051">Q</span></td>
+<td><span title="Name: R, Unicode: U+0052">R</span></td>
+<td><span title="Name: S, Unicode: U+0053">S</span></td>
+
+<td><span title="Name: T, Unicode: U+0054">T</span></td>
+<td><span title="Name: U, Unicode: U+0055">U</span></td>
+
+<td><span title="Name: V, Unicode: U+0056">V</span></td>
+<td><span title="Name: W, Unicode: U+0057">W</span></td>
+<td><span title="Name: X, Unicode: U+0058">X</span></td>
+<td><span title="Name: Y, Unicode: U+0059">Y</span></td>
+<td><span title="Name: Z, Unicode: U+005A">Z</span></td>
+<td><span title="Name: bracketleft, Unicode: U+005B">[</span></td>
+
+<td><span title="Name: backslash, Unicode: U+005C">\</span></td>
+<td><span title="Name: bracketright, Unicode: U+005D">]</span></td>
+<td><span title="Name: asciicircum, Unicode: U+005E">^</span></td>
+<td><span title="Name: underscore, Unicode: U+005F">_</span></td>
+<td><span title="Name: grave, Unicode: U+0060">`</span></td>
+</tr><tr><td><span title="Name: a, Unicode: U+0061">a</span></td>
+<td><span title="Name: b, Unicode: U+0062">b</span></td>
+<td><span title="Name: c, Unicode: U+0063">c</span></td>
+<td><span title="Name: d, Unicode: U+0064">d</span></td>
+
+<td><span title="Name: e, Unicode: U+0065">e</span></td>
+
+<td><span title="Name: f, Unicode: U+0066">f</span></td>
+<td><span title="Name: g, Unicode: U+0067">g</span></td>
+<td><span title="Name: h, Unicode: U+0068">h</span></td>
+<td><span title="Name: i, Unicode: U+0069">i</span></td>
+<td><span title="Name: j, Unicode: U+006A">j</span></td>
+<td><span title="Name: k, Unicode: U+006B">k</span></td>
+<td><span title="Name: l, Unicode: U+006C">l</span></td>
+
+<td><span title="Name: m, Unicode: U+006D">m</span></td>
+<td><span title="Name: n, Unicode: U+006E">n</span></td>
+<td><span title="Name: o, Unicode: U+006F">o</span></td>
+<td><span title="Name: p, Unicode: U+0070">p</span></td>
+</tr><tr><td><span title="Name: q, Unicode: U+0071">q</span></td>
+<td><span title="Name: r, Unicode: U+0072">r</span></td>
+<td><span title="Name: s, Unicode: U+0073">s</span></td>
+<td><span title="Name: t, Unicode: U+0074">t</span></td>
+<td><span title="Name: u, Unicode: U+0075">u</span></td>
+
+<td><span title="Name: v, Unicode: U+0076">v</span></td>
+<td><span title="Name: w, Unicode: U+0077">w</span></td>
+<td><span title="Name: x, Unicode: U+0078">x</span></td>
+<td><span title="Name: y, Unicode: U+0079">y</span></td>
+<td><span title="Name: z, Unicode: U+007A">z</span></td>
+<td><span title="Name: braceleft, Unicode: U+007B">{</span></td>
+<td><span title="Name: bar, Unicode: U+007C">|</span></td>
+<td><span title="Name: braceright, Unicode: U+007D">}</span></td>
+
+<td><span title="Name: asciitilde, Unicode: U+007E">~</span></td>
+<td><span title="Name: exclamdown, Unicode: U+00A1">¡</span></td>
+<td><span title="Name: cent, Unicode: U+00A2">¢</span></td>
+</tr><tr><td><span title="Name: sterling, Unicode: U+00A3">£</span></td>
+<td><span title="Name: currency, Unicode: U+00A4">¤</span></td>
+<td><span title="Name: yen, Unicode: U+00A5">¥</span></td>
+<td><span title="Name: brokenbar, Unicode: U+00A6">¦</span></td>
+<td><span title="Name: section, Unicode: U+00A7">§</span></td>
+
+<td><span title="Name: dieresis, Unicode: U+00A8">¨</span></td>
+<td><span title="Name: copyright, Unicode: U+00A9">©</span></td>
+<td><span title="Name: ordfeminine, Unicode: U+00AA">ª</span></td>
+<td><span title="Name: guillemotleft, Unicode: U+00AB">«</span></td>
+<td><span title="Name: logicalnot, Unicode: U+00AC">¬</span></td>
+<td><span title="Name: registered, Unicode: U+00AE">®</span></td>
+<td><span title="Name: macron, Unicode: U+00AF">¯</span></td>
+<td><span title="Name: degree, Unicode: U+00B0">°</span></td>
+<td><span title="Name: plusminus, Unicode: U+00B1">±</span></td>
+
+<td><span title="Name: twosuperior, Unicode: U+00B2">²</span></td>
+<td><span title="Name: threesuperior, Unicode: U+00B3">³</span></td>
+</tr><tr><td><span title="Name: acute, Unicode: U+00B4">´</span></td>
+<td><span title="Name: micro, Unicode: U+00B5">µ</span></td>
+<td><span title="Name: paragraph, Unicode: U+00B6">¶</span></td>
+<td><span title="Name: periodcentered, Unicode: U+00B7">·</span></td>
+<td><span title="Name: cedilla, Unicode: U+00B8">¸</span></td>
+
+<td><span title="Name: onesuperior, Unicode: U+00B9">¹</span></td>
+
+<td><span title="Name: ordmasculine, Unicode: U+00BA">º</span></td>
+<td><span title="Name: guillemotright, Unicode: U+00BB">»</span></td>
+<td><span title="Name: onequarter, Unicode: U+00BC">¼</span></td>
+<td><span title="Name: onehalf, Unicode: U+00BD">½</span></td>
+<td><span title="Name: threequarters, Unicode: U+00BE">¾</span></td>
+<td><span title="Name: questiondown, Unicode: U+00BF">¿</span></td>
+<td><span title="Name: Agrave, Unicode: U+00C0">À</span></td>
+<td><span title="Name: Aacute, Unicode: U+00C1">Á</span></td>
+<td><span title="Name: Acircumflex, Unicode: U+00C2">Â</span></td>
+
+<td><span title="Name: Atilde, Unicode: U+00C3">Ã</span></td>
+</tr><tr><td><span title="Name: Adieresis, Unicode: U+00C4">Ä</span></td>
+<td><span title="Name: Aring, Unicode: U+00C5">Å</span></td>
+<td><span title="Name: AE, Unicode: U+00C6">Æ</span></td>
+<td><span title="Name: Ccedilla, Unicode: U+00C7">Ç</span></td>
+<td><span title="Name: Egrave, Unicode: U+00C8">È</span></td>
+
+<td><span title="Name: Eacute, Unicode: U+00C9">É</span></td>
+<td><span title="Name: Ecircumflex, Unicode: U+00CA">Ê</span></td>
+
+<td><span title="Name: Edieresis, Unicode: U+00CB">Ë</span></td>
+<td><span title="Name: Igrave, Unicode: U+00CC">Ì</span></td>
+<td><span title="Name: Iacute, Unicode: U+00CD">Í</span></td>
+<td><span title="Name: Icircumflex, Unicode: U+00CE">Î</span></td>
+<td><span title="Name: Idieresis, Unicode: U+00CF">Ï</span></td>
+<td><span title="Name: Eth, Unicode: U+00D0">Ð</span></td>
+<td><span title="Name: Ntilde, Unicode: U+00D1">Ñ</span></td>
+<td><span title="Name: Ograve, Unicode: U+00D2">Ò</span></td>
+<td><span title="Name: Oacute, Unicode: U+00D3">Ó</span></td>
+
+</tr><tr><td><span title="Name: Ocircumflex, Unicode: U+00D4">Ô</span></td>
+<td><span title="Name: Otilde, Unicode: U+00D5">Õ</span></td>
+<td><span title="Name: Odieresis, Unicode: U+00D6">Ö</span></td>
+<td><span title="Name: multiply, Unicode: U+00D7">×</span></td>
+<td><span title="Name: Oslash, Unicode: U+00D8">Ø</span></td>
+
+<td><span title="Name: Ugrave, Unicode: U+00D9">Ù</span></td>
+<td><span title="Name: Uacute, Unicode: U+00DA">Ú</span></td>
+<td><span title="Name: Ucircumflex, Unicode: U+00DB">Û</span></td>
+
+<td><span title="Name: Udieresis, Unicode: U+00DC">Ü</span></td>
+<td><span title="Name: Yacute, Unicode: U+00DD">Ý</span></td>
+<td><span title="Name: Thorn, Unicode: U+00DE">Þ</span></td>
+<td><span title="Name: germandbls, Unicode: U+00DF">ß</span></td>
+<td><span title="Name: agrave, Unicode: U+00E0">à</span></td>
+<td><span title="Name: aacute, Unicode: U+00E1">á</span></td>
+<td><span title="Name: acircumflex, Unicode: U+00E2">â</span></td>
+<td><span title="Name: atilde, Unicode: U+00E3">ã</span></td>
+</tr><tr><td><span title="Name: adieresis, Unicode: U+00E4">ä</span></td>
+
+<td><span title="Name: aring, Unicode: U+00E5">å</span></td>
+<td><span title="Name: ae, Unicode: U+00E6">æ</span></td>
+<td><span title="Name: ccedilla, Unicode: U+00E7">ç</span></td>
+<td><span title="Name: egrave, Unicode: U+00E8">è</span></td>
+
+<td><span title="Name: eacute, Unicode: U+00E9">é</span></td>
+<td><span title="Name: ecircumflex, Unicode: U+00EA">ê</span></td>
+<td><span title="Name: edieresis, Unicode: U+00EB">ë</span></td>
+<td><span title="Name: igrave, Unicode: U+00EC">ì</span></td>
+
+<td><span title="Name: iacute, Unicode: U+00ED">í</span></td>
+<td><span title="Name: icircumflex, Unicode: U+00EE">î</span></td>
+<td><span title="Name: idieresis, Unicode: U+00EF">ï</span></td>
+<td><span title="Name: eth, Unicode: U+00F0">ð</span></td>
+<td><span title="Name: ntilde, Unicode: U+00F1">ñ</span></td>
+<td><span title="Name: ograve, Unicode: U+00F2">ò</span></td>
+<td><span title="Name: oacute, Unicode: U+00F3">ó</span></td>
+</tr><tr><td><span title="Name: ocircumflex, Unicode: U+00F4">ô</span></td>
+<td><span title="Name: otilde, Unicode: U+00F5">õ</span></td>
+
+<td><span title="Name: odieresis, Unicode: U+00F6">ö</span></td>
+<td><span title="Name: divide, Unicode: U+00F7">÷</span></td>
+<td><span title="Name: oslash, Unicode: U+00F8">ø</span></td>
+
+<td><span title="Name: ugrave, Unicode: U+00F9">ù</span></td>
+<td><span title="Name: uacute, Unicode: U+00FA">ú</span></td>
+<td><span title="Name: ucircumflex, Unicode: U+00FB">û</span></td>
+<td><span title="Name: udieresis, Unicode: U+00FC">ü</span></td>
+<td><span title="Name: yacute, Unicode: U+00FD">ý</span></td>
+
+<td><span title="Name: thorn, Unicode: U+00FE">þ</span></td>
+<td><span title="Name: ydieresis, Unicode: U+00FF">ÿ</span></td>
+<td><span title="Name: dotlessi, Unicode: U+0131">ı</span></td>
+<td><span title="Name: endash, Unicode: U+2013">–</span></td>
+<td><span title="Name: emdash, Unicode: U+2014">—</span></td>
+<td><span title="Name: quoteleft, Unicode: U+2018">‘</span></td>
+</tr><tr><td><span title="Name: quoteright, Unicode: U+2019">’</span></td>
+<td><span title="Name: quotesinglbase, Unicode: U+201A">‚</span></td>
+<td><span title="Name: quotedblleft, Unicode: U+201C">“</span></td>
+
+<td><span title="Name: quotedblright, Unicode: U+201D">”</span></td>
+<td><span title="Name: quotedblbase, Unicode: U+201E">„</span></td>
+
+<td><span title="Name: ellipsis, Unicode: U+2026">…</span></td>
+<td><span title="Name: guilsinglleft, Unicode: U+2039">‹</span></td>
+<td><span title="Name: guilsinglright, Unicode: U+203A">›</span></td>
+<td><span title="Name: zerosuperior, Unicode: U+2070">⁰</span></td>
+<td><span title="Name: foursuperior, Unicode: U+2074">⁴</span></td>
+<td><span title="Name: fivesuperior, Unicode: U+2075">⁵</span></td>
+
+<td><span title="Name: sixsuperior, Unicode: U+2076">⁶</span></td>
+<td><span title="Name: sevensuperior, Unicode: U+2077">⁷</span></td>
+<td><span title="Name: eightsuperior, Unicode: U+2078">⁸</span></td>
+<td><span title="Name: ninesuperior, Unicode: U+2079">⁹</span></td>
+<td><span title="Name: Euro, Unicode: U+20AC">€</span></td>
+</tr><tr><td><span title="Name: telephone, Unicode: U+2121">℡</span></td>
+<td><span title="Name: trademark, Unicode: U+2122">™</span></td>
+<td><span title="Name: blackstar, Unicode: U+2605">★</span></td>
+<td><span title="Name: envelope, Unicode: U+2709">✉</span></td>
+
+<td><span title="Name: bird, Unicode: U+E000"></span></td>
+
+<td><span title="Name: bird.alt, Unicode: U+E001"></span></td>
+<td><span title="Name: tape, Unicode: U+E002"></span></td>
+<td><span title="Name: ampersand.alt, Unicode: U+E003"></span></td>
+<td><span title="Name: envelope.alt, Unicode: U+E004"></span></td>
+<td><span title="Name: hacker, Unicode: U+E005"></span></td>
+<td><span title="Name: copyleft, Unicode: U+E006"></span></td>
+<td><span title="Name: vinyl, Unicode: U+E007"></span></td>
+
+<td><span title="Name: T_h, Unicode: U+E008"></span></td>
+<td><span title="Name: T_u, Unicode: U+E009"></span></td>
+<td><span title="Name: T_y, Unicode: U+E00A"></span></td>
+<td><span title="Name: c_h, Unicode: U+E00B"></span></td>
+</tr><tr><td><span title="Name: c_k, Unicode: U+E00C"></span></td>
+<td><span title="Name: f_j, Unicode: U+E00D"></span></td>
+<td><span title="Name: f_f_j, Unicode: U+E00E"></span></td>
+<td><span title="Name: l_l, Unicode: U+E00F"></span></td>
+<td><span title="Name: f_f, Unicode: U+FB00">ﬀ</span></td>
+
+<td><span title="Name: f_i, Unicode: U+FB01">ﬁ</span></td>
+<td><span title="Name: f_f_i, Unicode: U+FB03">ﬃ</span></td>
+<td><span title="Name: s_t, Unicode: U+FB06">ﬆ</span></td>
+</tr></table><hr /></div>
+<div class="gridRow">
+
+<div class="gridPos0 gridWidth4">
+<h2>The Styles and the Names</h2>
+<p>Each family of the graphicore Bitmap Font has its own characteristics. Because there is no system in the development of these characteristics I decided to number them—of course, I started counting at zero. Furthermore, it is easy to add new variants to the collection when new generators evolve. The drawback is that the name doesn’t describe what the font looks like.</p>
+<p>The styles differ in their corner radius and where the corners are rounded. In the first three families all corners of each “pixel” are handled the same. The corner radius of the third family makes the pixels to circles and the family therefore to a “dot matrix”.</p>
+<p>In the latter styles an algorithm decides where to draw rounded cornes. Number Three and Four have rounded corners where they should be. Five and Six add corners outside of the pixels, where actually is no content in the matrix. Seven and Eight got “outer” and “inner” rounded corners.</p>
+</div>
+
+<div class="gridPos4 gridWidth6"><p>
+<img class="gridGap" alt="The g of graphicore Bitmap Font 0 Medium" src="/images//diary/graphicoreBitmapFont0Medium.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 1 Medium" src="/images//diary/graphicoreBitmapFont1Medium.png" /><img alt="The g of graphicore Bitmap Font 2 Medium" src="/images//diary/graphicoreBitmapFont2Medium.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 3 Medium" src="/images//diary/graphicoreBitmapFont3Medium.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 4 Medium" src="/images//diary/graphicoreBitmapFont4Medium.png" /><img alt="The g of graphicore Bitmap Font 5 Medium" src="/images//diary/graphicoreBitmapFont5Medium.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 6 Medium" src="/images//diary/graphicoreBitmapFont6Medium.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 7 Medium" src="/images//diary/graphicoreBitmapFont7Medium.png" /><img alt="The g of graphicore Bitmap Font 8 Medium" src="/images//diary/graphicoreBitmapFont8Medium.png" /></p></div></div><hr /><div class="gridRow">
+
+<div class="gridPos0 gridWidth6">
+<p><img class="gridGap" alt="The g of graphicore Bitmap Font 4 Thin" src="/images//diary/graphicoreBitmapFont4Thin.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 4 Extra-Light" src="/images//diary/graphicoreBitmapFont4Extra-Light.png" /><img alt="The g of graphicore Bitmap Font 4 Light" src="/images//diary/graphicoreBitmapFont4Light.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 4 Book" src="/images//diary/graphicoreBitmapFont4Book.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 4 Regular" src="/images//diary/graphicoreBitmapFont4Regular.png" /><img alt="The g of graphicore Bitmap Font 4 Medium" src="/images//diary/graphicoreBitmapFont4Medium.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 4 Demi-Bold" src="/images//diary/graphicoreBitmapFont4Demi-Bold.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 4 Bold" src="/images//diary/graphicoreBitmapFont4Bold.png" /><img alt="The g of graphicore Bitmap Font 4 Heavy" src="/images//diary/graphicoreBitmapFont4Heavy.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 4 Black" src="/images//diary/graphicoreBitmapFont4Black.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 4 Extra-Black" src="/images//diary/graphicoreBitmapFont4Extra-Black.png" /><img alt="The g of graphicore Bitmap Font 4 Ultra-Black" src="/images//diary/graphicoreBitmapFont4Ultra-Black.png" /></p></div><div class="gridPos6 gridWidth4">
+<h2>The Weights</h2>
+<p>I did twelve different weights for each family. Weight means that the aperture of the pixel-elements differs between the fonts, while the center doesn’t move.</p><p>Within the range of Thin to Regular the underlying grid becomes clearly visible, because of the gap that emerges between the items. Medium is the weight where the elements match exactly the grids width. The weights beyond Medium grow above the boundaries of the grid units and make the font bold. Finally, with Extra-Black, one pixel is more than double of the size of a grid unit and Ultra-Black goes even one step further. The families with “outer” rounded corners initially receive no weights lighter than Medium, because I’m not pleased with the outcome now.</p>
+<p>To write on a screen at 8 px the Regular or the Book fonts are best suited, because the pixels are a little bit smaller than a grid unit thus preventing rounding errors. Medium should as well work good and be crisp. The bolder weights have their use cases at display sizes.</p>
+</div>
+</div><hr /><div class="gridRow">
+
+<div class="gridPos0 gridWidth4">
+<h2>All-in-One</h2>
+<p>Because it looks so great I stacked all the fonts of a family combined on a pile. The bolder fonts become the outlines of lighter ones, that creates an All-in-One family overview.</p></div>
+
+<div class="gridPos4 gridWidth6"><p>
+
+<img class="gridGap" alt="The g of graphicore Bitmap Font 0 Family" src="/images//diary/graphicoreBitmapFont0.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 1 Family" src="/images//diary/graphicoreBitmapFont1.png" /><img alt="The g of graphicore Bitmap Font 2 Family" src="/images//diary/graphicoreBitmapFont2.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 3 Family" src="/images//diary/graphicoreBitmapFont3.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 4 Family" src="/images//diary/graphicoreBitmapFont4.png" /><img alt="The g of graphicore Bitmap Font 5 Family" src="/images//diary/graphicoreBitmapFont5.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 6 Family" src="/images//diary/graphicoreBitmapFont6.png" /><img class="gridGap" alt="The g of graphicore Bitmap Font 7 Family" src="/images//diary/graphicoreBitmapFont7.png" /><img alt="The g of graphicore Bitmap Font 8 Family" src="/images//diary/graphicoreBitmapFont8.png" /></p></div>
+
+
+
+</div><hr /><div class="gridRow">
+Update:
+<h2>The Missing Type Specimens</h2>
+<p class="gridWidth7 gridPos0">Sometimes a simple type specimen is needed. Here are two in different sizes. There’s a <a href="http://graphicore.de/downloads/graphicoreBitmapFont-specimen_big.pdf">PDF</a> for the bigger specimen where you can zoom in and study the details.</p>
+</div><div class="gridRow">
+<div class="gridWidth7 gridPos0">
+<p><img src="/images//diary/graphicoreBitmapFont-specimen_big.png" alt="graphicoreBitmapFont-specimen_big.png" /></p>
+
+</div><div class="gridWidth3 gridPos7">
+<p>
+<img src="/images//diary/graphicoreBitmapFont-specimen_small.png" alt="graphicoreBitmapFont-specimen_small.png" /></p>
+</div>
+
+</div><div class="gridRow">
+
+<p>
+All examples on this page are available as high quality PDF, SVG and PNG in the “media”-folder of the font package. The contents of the “media”-folder in the font-package and this text are available under the <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</p>
+</div><div class="diaryEntryFooter"><a class="permalink" href="/en/archive/2010-09-09_A-Brute-Font-Attack">Permalink</a> Wednesday, September 15, 2010 6:58:24 PM Europe/Berlin<div class="filters">Filters: <ul><li><a rel="tag" href="/en/diary/news">News</a></li><li><a rel="tag" href="/en/diary/typedesign">Type Design</a></li><li><a rel="tag" href="/en/diary/code">Web and Code</a></li></ul></div></div></div></div>
+<div class="simple-footer">
+<a rel="me" href="/en/page/lasse">Impressum</a>, Copyright © 2009 – 2021 by <a rel="me" href="/en/page/lasse">Lasse Fister</a>
+</div>
+</div>
+</body>
+</html>

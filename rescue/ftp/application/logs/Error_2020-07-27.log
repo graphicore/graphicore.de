@@ -1,0 +1,218 @@
+2020-07-27T03:20:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 47.251.38.185
+HTTP_REFERER: http://graphicore.de/sites/all/libraries/dompdf/www/style.css
+requested: array(5) {
+  ["controller"] => string(5) "sites"
+  ["action"] => string(3) "all"
+  ["libraries"] => string(6) "dompdf"
+  ["www"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T12:12:01+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 135.181.2.159
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "vendor"
+  ["action"] => string(7) "phpunit"
+  ["phpunit"] => string(11) "phpunit.xsd"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T12:39:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 141.98.189.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "components"
+  ["action"] => string(10) "com_mailto"
+  ["views"] => string(4) "sent"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T12:39:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 141.98.189.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "components"
+  ["action"] => string(10) "com_mailto"
+  ["views"] => string(4) "sent"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T12:39:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 141.98.189.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "components"
+  ["action"] => string(10) "com_mailto"
+  ["views"] => string(4) "sent"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T12:39:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 141.98.189.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "templates"
+  ["khepri"] => string(11) "favicon.ico"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T12:39:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 141.98.189.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(11) "favicon.ico"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T12:39:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 141.98.189.50
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(9) "templates"
+  ["bluestork"] => string(6) "images"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T12:39:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 141.98.189.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "banners"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T12:39:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 141.98.189.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "banners"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T14:57:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.208.56.196
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T20:22:37+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.198.43.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T20:23:35+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.198.43.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T21:07:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 88.99.1.66
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T21:09:06+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.99.1.66
+HTTP_REFERER: http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T21:10:02+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.99.1.66
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T21:11:12+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 88.99.1.66
+HTTP_REFERER: http://graphicore.de/de/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-07-27T21:11:13+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 88.99.1.66
+HTTP_REFERER: http://graphicore.de/en/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

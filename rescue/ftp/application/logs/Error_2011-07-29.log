@@ -1,0 +1,195 @@
+2011-07-29T07:21:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "59"
+  ["sid"] => string(32) "e46dce32445e338e9e87bc03dfb5b476"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T07:46:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "60"
+  ["sid"] => string(32) "08ca98758a6450b72493d03c986b46a8"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T07:58:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "61"
+  ["sid"] => string(32) "e46dce32445e338e9e87bc03dfb5b476"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T09:25:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewforum.php"
+  ["module"] => string(7) "default"
+  ["f"] => string(1) "1"
+  ["sid"] => string(32) "bf43d85f5afcc8b9d8f0922dace8e2b3"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T12:33:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "62"
+  ["sid"] => string(32) "e46dce32445e338e9e87bc03dfb5b476"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T13:14:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "63"
+  ["sid"] => string(32) "e46dce32445e338e9e87bc03dfb5b476"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T13:46:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewforum.php"
+  ["module"] => string(7) "default"
+  ["f"] => string(1) "1"
+  ["sid"] => string(32) "ce512cecd93a5e5083d401f1ee6c867c"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T13:59:32+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 139.18.2.17
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T14:06:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "64"
+  ["sid"] => string(32) "e46dce32445e338e9e87bc03dfb5b476"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T17:38:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 213.171.204.104
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T18:48:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "71"
+  ["sid"] => string(32) "e46dce32445e338e9e87bc03dfb5b476"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T19:19:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 199.15.234.220
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T20:38:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.233
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "77"
+  ["sid"] => string(32) "e46dce32445e338e9e87bc03dfb5b476"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T22:43:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.71.111
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "80"
+  ["sid"] => string(32) "e46dce32445e338e9e87bc03dfb5b476"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-29T23:45:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.71.111
+HTTP_REFERER: 
+requested: array(9) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "12"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+  ["sid"] => string(32) "e46dce32445e338e9e87bc03dfb5b476"
+}
+
+
+--------------------------------------------------------------------------------

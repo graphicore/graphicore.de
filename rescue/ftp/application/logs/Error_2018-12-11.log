@@ -1,0 +1,538 @@
+2018-12-11T04:19:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 152.169.164.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T04:19:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 152.169.164.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T04:19:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 152.169.164.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T04:19:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 152.169.164.149
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T04:53:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.229.168.146
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T06:30:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 35.185.201.225
+HTTP_REFERER: http://www.google.com.hk
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T06:31:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 35.185.201.225
+HTTP_REFERER: http://www.google.com.hk
+requested: array(3) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T06:31:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 203.189.136.177
+HTTP_REFERER: http://www.google.com.hk
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T06:31:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 203.189.136.177
+HTTP_REFERER: http://www.google.com.hk
+requested: array(3) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T12:08:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.60.171.185
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T16:10:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 172.111.129.31
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T19:23:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 181.215.49.121
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T19:24:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 181.215.49.121
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T19:24:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 181.215.49.121
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T19:24:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 181.215.49.121
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "new"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T19:24:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 181.215.49.121
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T19:25:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 181.215.49.121
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T20:04:18+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 66.249.69.198
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:36:38+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:39:36+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.198
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-12:"
+  ["diary"] => string(27) "2013111216002052825094cba29"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.200
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-18:"
+  ["diary"] => string(27) "201010181349214cbc5061f0048"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.198
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-06:"
+  ["diary"] => string(27) "2013060618252451b0d41400bf3"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.200
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-12:"
+  ["diary"] => string(27) "2013061209052451b839d4ca32b"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.198
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-07:"
+  ["diary"] => string(27) "2013060714011251b1e7a8c1407"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.198
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-27:"
+  ["diary"] => string(27) "201009272109094ca107f52b79c"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.198
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2014-02-27:"
+  ["diary"] => string(27) "20140227142708530f4b3c7eae4"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-23:"
+  ["diary"] => string(27) "201009231107214c9b34e9d0274"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2015-07-28:"
+  ["diary"] => string(27) "2015072812483855b77a264cda6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.198
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-13:"
+  ["diary"] => string(27) "201311131703405283b0ecf2532"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2014-02-27:"
+  ["diary"] => string(27) "20140227115040530f26907c1a8"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-08-31:"
+  ["diary"] => string(27) "201008310024084c7c4ba816ac5"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-01-31:"
+  ["diary"] => string(27) "20130131135955510a78db3e0d6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-01:"
+  ["diary"] => string(27) "201010011553324ca603fcc53f3"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2012-09-02:"
+  ["diary"] => string(27) "201209021920375043b185ef245"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-07-09:"
+  ["diary"] => string(27) "201007091937074c377a6340b8b"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-06:"
+  ["diary"] => string(27) "201010061331004cac7a14de999"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-12:"
+  ["diary"] => string(27) "2013111217533652826b2018ca8"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-12:"
+  ["diary"] => string(27) "201010121448344cb475424313c"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2012-01-17:"
+  ["diary"] => string(27) "201201171404524f15800404a4f"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:40:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-27:"
+  ["diary"] => string(27) "201009272105474ca1072b79bf6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:59:10+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T21:59:46+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T22:25:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.195
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "lib"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T22:25:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.200
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "tests"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-12-11T23:36:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 172.111.129.31
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

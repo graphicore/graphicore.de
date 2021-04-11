@@ -1,0 +1,430 @@
+2020-11-29T00:21:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 81.169.203.188
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "vendor"
+  ["action"] => string(7) "phpunit"
+  ["phpunit"] => string(7) "LICENSE"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:38:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "search"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["kw"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:38:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "search"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["keyword"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:38:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "plus"
+  ["action"] => string(10) "search.php"
+  ["module"] => string(7) "default"
+  ["keyword"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:38:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "search"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["q"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:38:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "search.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["q"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:38:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "search"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["q"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:38:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "search"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["q"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:38:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "search"
+  ["action"] => string(14) "www.ymwears.cn"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:38:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(11) "search.html"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["q"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:38:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "search"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["query"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:39:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "plus"
+  ["action"] => string(10) "search.php"
+  ["module"] => string(7) "default"
+  ["q"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:39:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "search"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["query"] => string(14) "www.ymwears.cn"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T00:39:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 119.28.202.234
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "www.ymwears.cn"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T05:56:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 158.101.30.208
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T05:56:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 158.101.30.208
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "vendor"
+  ["action"] => string(4) ".env"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T05:56:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 158.101.30.208
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "storage"
+  ["action"] => string(4) ".env"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T05:56:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 158.101.30.208
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "public"
+  ["action"] => string(4) ".env"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T08:15:19+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.245
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T11:51:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.236.1.11
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T12:55:00+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 78.46.32.163
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T12:55:50+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 78.46.32.163
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T14:20:11+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 114.119.156.31
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T15:46:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.99.54.47
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "data"
+  ["action"] => string(5) "admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T17:14:21+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.245
+HTTP_REFERER: http://graphicore.de/en/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T17:14:34+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.245
+HTTP_REFERER: http://graphicore.de/de/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T17:14:40+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.245
+HTTP_REFERER: http://graphicore.de/en/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T18:13:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 35.242.231.157
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "server-status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T18:13:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 35.242.231.157
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "server-info"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T18:13:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 35.242.231.157
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "server-status"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T18:13:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 35.242.231.157
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "server-info"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T22:14:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 88.99.1.55
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T22:15:43+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.99.1.55
+HTTP_REFERER: http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T22:16:17+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.99.1.55
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T22:17:29+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 88.99.1.55
+HTTP_REFERER: http://graphicore.de/de/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-29T22:17:31+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 88.99.1.55
+HTTP_REFERER: http://graphicore.de/en/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

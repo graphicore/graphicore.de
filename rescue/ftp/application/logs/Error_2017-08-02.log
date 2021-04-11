@@ -1,0 +1,193 @@
+2017-08-02T00:34:14+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 173.24.143.74
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T03:43:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 79.135.230.116
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+  ["language"] => string(5) "en_US"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T09:16:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.225.168.46
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["zen-mobile-app-native"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T09:16:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.225.168.46
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["webapp-builder"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T09:16:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.225.168.46
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["wp2android-turn-wp-site-into-android-app"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T09:16:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.225.168.46
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["mobile-app-builder-by-wappress"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T09:16:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 23.225.168.46
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["mobile-friendly-app-builder-by-easytouch"] => string(10) "readme.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T13:45:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.138.0.25
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T17:48:41+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.112
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T18:54:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 92.222.81.69
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T23:19:49+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.210.41
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T23:58:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(15) "wlwmanifest.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T23:58:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T23:58:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T23:58:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-08-02T23:58:37+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 201.18.18.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "site"
+  ["action"] => string(11) "wp-includes"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

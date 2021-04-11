@@ -1,0 +1,44 @@
+2021-02-22T00:15:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.26.126.55
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-22T12:16:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 52.89.143.146
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-22T13:59:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.245.60.76
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(13) "emergency.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-02-22T21:54:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.252.246.44
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

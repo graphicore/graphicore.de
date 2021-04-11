@@ -1,0 +1,61 @@
+2018-07-03T00:55:14+00:00 ERR (3) 404 "2014-02-27_sibylle_frankCosmetica" was not found.
+REMOTE_ADDR: 66.249.69.40
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(33) "2014-02-27_sibylle_frankCosmetica"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-03T02:06:06+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 54.174.54.203
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-03T02:06:06+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 54.174.54.203
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-03T20:34:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 35.173.226.4
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-03T21:45:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 34.227.59.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,411 @@
+2015-10-30T01:17:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.182.94.10
+HTTP_REFERER: http://ru.drugspowerstore.com/
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T01:17:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.182.94.10
+HTTP_REFERER: http://ru.drugspowerstore.com/
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T01:17:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.182.94.10
+HTTP_REFERER: http://ru.drugspowerstore.com/
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:00:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "bigdump"
+  ["action"] => string(11) "bigdump.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:00:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "bigdump.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:00:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "dump"
+  ["action"] => string(11) "bigdump.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:00:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(11) "bigdump.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:00:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(4) "dump"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:00:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "backup"
+  ["action"] => string(11) "bigdump.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:01:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "backup"
+  ["action"] => string(7) "bigdump"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:01:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "dump"
+  ["action"] => string(7) "bigdump"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:01:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(2) "js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:01:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "media"
+  ["action"] => string(6) "system"
+  ["js"] => string(10) "caption.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:01:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "misc"
+  ["action"] => string(8) "batch.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T03:01:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.244.68.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(9) "prototype"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T08:17:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.174.53.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T08:17:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.174.53.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "shop"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T08:17:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.174.53.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "shop"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T08:17:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.174.53.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "store"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T08:17:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.174.53.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "store"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T09:36:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.4.32.75
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T10:53:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 184.73.241.151
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "shop"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T10:53:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 184.73.241.151
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "store"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T12:22:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.92.73.125
+HTTP_REFERER: http://graphicore.de/conns.php
+requested: array(4) {
+  ["controller"] => string(9) "conns.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["yt"] => string(14) "echo md5(123);"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T12:22:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.92.73.100
+HTTP_REFERER: http://ufojs.org/license.php
+requested: array(3) {
+  ["controller"] => string(11) "license.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T14:11:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 183.206.175.50
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T15:16:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.123.22.232
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T15:16:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.123.22.232
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T19:24:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.146.248.6
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(40) "apple-touch-icon-120x120-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T19:24:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.146.248.6
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(28) "apple-touch-icon-120x120.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T19:24:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.146.248.6
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T19:24:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.146.248.6
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T22:49:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["rsd"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T22:49:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T22:49:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T22:49:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-30T22:49:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

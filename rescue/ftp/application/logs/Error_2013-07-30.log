@@ -1,0 +1,100 @@
+2013-07-30T00:32:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.164.211.244
+HTTP_REFERER: http://graphicore.de/++++++++++++++++++++++++++++++++++++++++++++++++++++++++Result:+%f0%e5%f1%f3%f0%f1+%e4%eb%ff+%ef%ee%f1%f2%e8%ed%e3%e0+%ed%e5%ef%f0%e8%e3%ee%e4%e5%ed+%28%eb%e8%e1%ee+%ee%f2%f1%f3%f2%f1%f2%e2%f3%e5%f2+%ef%ee%e4%ea%eb%fe%f7%e5%ed%e8%e5+%ea+%e8%ed%f2%e5%f0%ed%e5%f2%f3%29
+requested: array(3) {
+  ["controller"] => string(267) "++++++++++++++++++++++++++++++++++++++++++++++++++++++++Result:+%f0%e5%f1%f3%f0%f1+%e4%eb%ff+%ef%ee%f1%f2%e8%ed%e3%e0+%ed%e5%ef%f0%e8%e3%ee%e4%e5%ed+%28%eb%e8%e1%ee+%ee%f2%f1%f3%f2%f1%f2%e2%f3%e5%f2+%ef%ee%e4%ea%eb%fe%f7%e5%ed%e8%e5+%ea+%e8%ed%f2%e5%f0%ed%e5%f2%f3%29"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-07-30T03:24:56+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-07-30T06:48:28+00:00 ERR (3) 404 The filter "en" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-07-30T06:48:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2013-07-30T10:48:37+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-07-30T16:22:10+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.10.83.28
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-07-30T22:07:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.106.115.213
+HTTP_REFERER: http://graphicore.de/forum/++++++++++++++++++++++++++++++++++++++++++++++++++Result:+%f0%e5%f1%f3%f0%f1+%e4%eb%ff+%ef%ee%f1%f2%e8%ed%e3%e0+%ed%e5%ef%f0%e8%e3%ee%e4%e5%ed+%28%eb%e8%e1%ee+%ee%f2%f1%f3%f2%f1%f2%e2%f3%e5%f2+%ef%ee%e4%ea%eb%fe%f7%e5%ed%e8%e5+%ea+%e8%ed%f2%e5%f0%ed%e5%f2%f3%29
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(261) "++++++++++++++++++++++++++++++++++++++++++++++++++Result:+%f0%e5%f1%f3%f0%f1+%e4%eb%ff+%ef%ee%f1%f2%e8%ed%e3%e0+%ed%e5%ef%f0%e8%e3%ee%e4%e5%ed+%28%eb%e8%e1%ee+%ee%f2%f1%f3%f2%f1%f2%e2%f3%e5%f2+%ef%ee%e4%ea%eb%fe%f7%e5%ed%e8%e5+%ea+%e8%ed%f2%e5%f0%ed%e5%f2%f3%29"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-07-30T22:43:09+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 65.55.213.43
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

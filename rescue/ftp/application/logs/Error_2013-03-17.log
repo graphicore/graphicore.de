@@ -1,0 +1,69 @@
+2013-03-17T06:07:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.220.254.71
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-03-17T11:47:59+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 198.58.104.251
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(12) "wp-login.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-03-17T14:42:44+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 198.58.104.251
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-03-17T16:08:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.199.114.91
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+}
+
+
+--------------------------------------------------------------------------------
+2013-03-17T21:00:47+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2013-03-17T21:17:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 199.188.246.181
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,355 @@
+2015-09-19T01:02:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.188.27
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T01:02:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 62.210.188.27
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T01:13:42+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.91.248
+HTTP_REFERER: http://porno.weprik.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T01:13:43+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.91.248
+HTTP_REFERER: http://porno.weprik.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T01:13:44+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 176.8.91.248
+HTTP_REFERER: http://porno.weprik.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T01:23:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 162.213.25.87
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T01:23:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 162.213.25.87
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T05:44:57+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.84
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T06:19:37+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.93.29
+HTTP_REFERER: http://highlandmedia.net/tags/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T06:19:39+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.93.29
+HTTP_REFERER: http://highlandmedia.net/tags/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T06:19:40+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.93.29
+HTTP_REFERER: http://highlandmedia.net/tags/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T08:32:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.208.125.209
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T08:32:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.208.125.209
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T11:28:06+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.234.21
+HTTP_REFERER: http://prahaprint.cz/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T11:28:06+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.234.21
+HTTP_REFERER: http://prahaprint.cz/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T11:28:06+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.234.21
+HTTP_REFERER: http://prahaprint.cz/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T12:18:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.193.5.244
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T12:18:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.193.5.244
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T15:53:24+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.93.29
+HTTP_REFERER: http://softtor.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T15:53:25+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.93.29
+HTTP_REFERER: http://softtor.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T17:30:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.121.101.54
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "index.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T17:30:19+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 91.121.101.54
+HTTP_REFERER: 
+requested: array(7) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(0) ""
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T17:48:27+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 94.23.162.215
+HTTP_REFERER: 
+requested: array(7) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(0) ""
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T17:48:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.23.162.215
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "index.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T21:26:26+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.140
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T23:16:16+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.234.21
+HTTP_REFERER: https://iqoption.com/promo/simple-demo/?aff=1167&afftrack=mork
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T23:16:17+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.234.21
+HTTP_REFERER: https://iqoption.com/promo/simple-demo/?aff=1167&afftrack=mork
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-19T23:16:17+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.234.21
+HTTP_REFERER: https://iqoption.com/promo/simple-demo/?aff=1167&afftrack=mork
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

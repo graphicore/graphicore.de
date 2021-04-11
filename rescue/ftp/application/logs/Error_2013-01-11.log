@@ -1,0 +1,49 @@
+2013-01-11T10:22:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 180.96.62.21
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-01-11T10:26:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 60.173.26.42
+HTTP_REFERER: http://graphicore.de/p?url=http%253A%252F%252Fgraphicore.de%252F
+requested: array(4) {
+  ["controller"] => string(1) "p"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["url"] => string(29) "http%3A%2F%2Fgraphicore.de%2F"
+}
+
+
+--------------------------------------------------------------------------------
+2013-01-11T10:52:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2013-01-11T13:14:57+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

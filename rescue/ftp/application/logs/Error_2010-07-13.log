@@ -1,0 +1,379 @@
+2010-07-13T01:47:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.99
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "storyTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T01:47:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.99
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "storyTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T01:47:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.99
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(7) "managed"
+  ["en"] => string(11) "storyTeaser"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T04:43:37+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 195.191.54.159
+HTTP_REFERER: http://www.graphicore.de/en/index/topic/intern/projekte/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T06:12:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.30.149.89
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T12:14:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.220.93.62
+HTTP_REFERER: http://images.google.com/images?q=typografie+bauhaus&hl=de&safe=off&gbv=2&tbs=isch:1&ei=qFg8TI7sPMuTjAe1-L3WDg&sa=N&start=54&ndsp=18
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(9) "unordered"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T12:44:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.220.93.62
+HTTP_REFERER: http://images.google.com/images?hl=de&source=hp&q=bauhaus%20typo&gbv=2&aq=f&oq=
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(9) "unordered"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T13:02:46+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 67.195.115.87
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:01:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 211.138.124.202
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:01:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.103.185.181
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:01:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 121.11.158.158
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:01:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.103.185.181
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:01:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 60.217.232.86
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.80.24.201
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 8.12.33.159
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.200.82.161
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 211.138.124.202
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 221.130.17.17
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 98.192.18.97
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.103.185.181
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 60.217.232.86
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 60.217.248.90
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 211.161.159.74
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:02:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 211.161.159.74
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T15:37:54+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 91.214.44.59
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T16:05:50+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 66.249.66.18
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T16:56:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 84.172.233.219
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(9) "unordered"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T16:57:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.223.2.20
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "sdfghjkl%C3%B6"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T19:18:14+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 66.249.66.140
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "typete"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T20:51:22+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 66.249.66.140
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T20:59:13+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 66.249.66.140
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(9) "pixelding"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-07-13T21:38:34+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 66.249.66.140
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(14) "dieKulturlosen"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

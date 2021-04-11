@@ -1,0 +1,67 @@
+2018-09-01T07:32:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.8.253.137
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) ".DS_Store"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-01T07:57:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 148.163.87.145
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-01T08:04:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.8.253.137
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) ".DS_Store"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-01T11:10:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.8.253.137
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) ".DS_Store"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-01T15:36:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 148.163.87.145
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-09-01T16:26:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 185.93.180.201
+HTTP_REFERER: http://graphicore.de/
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

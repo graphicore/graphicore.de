@@ -1,0 +1,271 @@
+2015-10-10T02:11:30+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.117.53
+HTTP_REFERER: http://avtomatoff.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T02:11:30+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.117.53
+HTTP_REFERER: http://avtomatoff.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T02:11:31+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.117.53
+HTTP_REFERER: http://avtomatoff.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T03:45:03+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.132
+HTTP_REFERER: http://horoshieokna.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T03:45:04+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.132
+HTTP_REFERER: http://horoshieokna.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T03:45:04+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.132
+HTTP_REFERER: http://horoshieokna.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T13:57:28+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.117.53
+HTTP_REFERER: http://link.ac/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T13:57:28+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.117.53
+HTTP_REFERER: http://prof-edinstvo.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T13:57:29+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.117.53
+HTTP_REFERER: http://link.ac/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T13:57:29+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.117.53
+HTTP_REFERER: http://link.ac/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T13:57:30+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.117.53
+HTTP_REFERER: http://prof-edinstvo.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T18:38:25+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.52.69
+HTTP_REFERER: http://vintovye-svai-perm.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T18:38:25+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.52.69
+HTTP_REFERER: http://vintovye-svai-perm.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T18:38:26+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.52.69
+HTTP_REFERER: http://vintovye-svai-perm.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T22:17:02+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.52.69
+HTTP_REFERER: http://wormix-cheats.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T22:17:02+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.52.69
+HTTP_REFERER: http://gk-atlant.info/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T22:17:02+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.52.69
+HTTP_REFERER: http://wormix-cheats.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T22:17:02+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.52.69
+HTTP_REFERER: http://gk-atlant.info/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T22:17:03+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.52.69
+HTTP_REFERER: http://wormix-cheats.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T22:17:03+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.52.69
+HTTP_REFERER: http://gk-atlant.info/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-10T23:53:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.30.214.38
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

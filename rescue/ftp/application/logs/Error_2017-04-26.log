@@ -1,0 +1,125 @@
+2017-04-26T01:10:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.74.111.222
+HTTP_REFERER: http://graphicore.de/forum/
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-26T01:47:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 23.25.242.25
+HTTP_REFERER: http://www.iheartpublix.com/2010/05/privacy-policy/
+requested: array(3) {
+  ["controller"] => string(32) "k6d5OXk6LpWohvX8zApRXuDa4ZSBH.js"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-26T05:31:39+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.76.52
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-26T06:18:54+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 50.51.71.88
+HTTP_REFERER: http://www.styleathome.com/decorating/design-lesson/article/8-brilliant-rules-for-decorating-an-open-concept-space
+requested: array(3) {
+  ["controller"] => string(26) "IY53REghkFKRKS5KQqoGrst.js"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-26T12:30:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 98.126.85.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "config.php~"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-26T13:05:34+00:00 ERR (3) 404 "2014-02-27_kaufland-firewall-service" was not found.
+REMOTE_ADDR: 66.249.76.52
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(36) "2014-02-27_kaufland-firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-26T16:27:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 98.126.85.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "includes"
+  ["action"] => string(11) "config.php~"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-26T19:02:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 98.126.85.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "includes"
+  ["action"] => string(11) "dbconn.php~"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-26T21:48:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 98.126.85.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "configs"
+  ["action"] => string(11) "dbconn.php~"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-26T22:47:26+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 50.39.177.70
+HTTP_REFERER: http://www.nationalpost.com/most-popular/index.html
+requested: array(3) {
+  ["controller"] => string(20) "yaf4OBGMMj3gBKEQU.js"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-04-26T23:53:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 79.151.22.252
+HTTP_REFERER: http://www.menupages.com/restaurants/all-areas/all-neighborhoods/sushi/
+requested: array(3) {
+  ["controller"] => string(32) "773RIiL4kkJMzlpYhL1122NeBaWyK.js"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

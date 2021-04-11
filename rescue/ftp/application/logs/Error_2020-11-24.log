@@ -1,0 +1,100 @@
+2020-11-24T14:41:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.85.158.191
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(17) "graphicore.de.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-24T14:41:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.85.158.191
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "dump.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-24T16:48:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.186.245.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-24T16:48:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.186.245.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "vendor"
+  ["action"] => string(4) ".env"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-24T16:48:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.186.245.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "storage"
+  ["action"] => string(4) ".env"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-24T16:48:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.186.245.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "public"
+  ["action"] => string(4) ".env"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-24T18:04:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 40.74.65.189
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-24T20:34:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 196.18.3.183
+HTTP_REFERER: http://graphicore.de/wp-json/wp/v2/users
+requested: array(4) {
+  ["controller"] => string(7) "wp-json"
+  ["action"] => string(2) "wp"
+  ["v2"] => string(5) "users"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-24T22:00:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 137.135.204.204
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

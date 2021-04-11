@@ -1,0 +1,35 @@
+<h1>gcbackend story create</h1>
+<?php
+$urlArray = array(
+    'module'     => 'gcbackend',
+    'controller' => 'story',
+    'action'     => 'create',
+//    'language'   => $this->editingLanguage
+);
+
+
+/*
+echo '$editingLanguage is '.$this->editingLanguage.' change to: ';
+$langLinks = array();
+foreach(Zend_Registry::getInstance()->allowedLocales as $lang)
+{
+    if($this->editingLanguage === $lang)
+    {
+        continue;
+    }
+    $urlArray['language'] = $lang;
+    $url = $this->url($urlArray, 'modules_i18n', True);
+    $langLinks[] = '<a href="'.$url.'">'.$lang.'</a>';
+}
+echo join(', ',$langLinks).'<br />';
+$urlArray['language'] = $this->editingLanguage;
+*/
+
+
+
+$url = $this->url($urlArray, 'modules_i18n', True);
+
+$this->form->setAction($url)
+    ->output();
+
+GC_Debug::Dump($this->dump, True);

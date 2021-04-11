@@ -1,0 +1,57 @@
+2020-11-27T02:56:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.51
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "sitemaps.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-27T14:40:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 34.123.160.251
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-27T14:40:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 34.123.160.251
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-27T14:40:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 34.123.160.251
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "vendor"
+  ["action"] => string(7) "phpunit"
+  ["phpunit"] => string(3) "src"
+  ["Util"] => string(3) "PHP"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-11-27T19:23:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 47.244.235.248
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

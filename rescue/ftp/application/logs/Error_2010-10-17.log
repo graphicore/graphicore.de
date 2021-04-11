@@ -1,0 +1,110 @@
+2010-10-17T08:39:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.76
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(5) "diary"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-10-17T08:43:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.76
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(5) "diary"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-10-17T08:47:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.76
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(5) "diary"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-10-17T16:45:25+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 87.106.26.182
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "hello"
+  ["action"] => string(14) "YellowFish.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-10-17T16:45:26+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 87.106.26.182
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-10-17T16:45:26+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 87.106.26.182
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "Admin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-10-17T16:45:27+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 87.106.26.182
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "db"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-10-17T16:45:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 87.106.26.182
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "dbadmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-10-17T16:45:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 87.106.26.182
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "myadmin"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-10-17T16:45:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 87.106.26.182
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "mysql"
+  ["action"] => string(7) "scripts"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

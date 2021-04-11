@@ -1,0 +1,1663 @@
+2010-05-18T20:13:46+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:32+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery.tools.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:33+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:34+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:35+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:35+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:35+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(18) "box_content_en.jpg"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:16:37+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:22+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:24+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:24+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:24+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:24+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:24+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery.tools.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:24+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:25+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:25+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:26+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:26+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(18) "box_content_en.jpg"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:17:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery.tools.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:02+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:03+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:03+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(18) "box_content_en.jpg"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery.tools.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:21+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:21+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(18) "box_content_en.jpg"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:20:23+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:49+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:49+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:49+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:49+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:50+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery.tools.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:50+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:50+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:50+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:53+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:53+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:53+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:53+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:53+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:53+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(18) "box_content_en.jpg"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:53+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T20:23:53+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:03+00:00 ERR (3) 42 SQLSTATE[42S02]: Base table or view not found: 1146 Table 'graphicore2.gc_dc_static' doesn't exist
+REMOTE_ADDR: 127.0.0.1
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["controller"] => string(5) "index"
+  ["action"] => string(6) "static"
+  ["static"] => string(14) "callforentries"
+  ["module"] => string(7) "default"
+}
+exception 'Doctrine_Connection_Mysql_Exception' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'graphicore2.gc_dc_static' doesn't exist' in /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Connection.php:1082
+Stack trace:
+#0 /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Connection/Statement.php(269): Doctrine_Connection->rethrowException(Object(PDOException), Object(Doctrine_Connection_Statement))
+#1 /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Connection.php(1006): Doctrine_Connection_Statement->execute(Array)
+#2 /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Query/Abstract.php(976): Doctrine_Connection->execute('SELECT g.id AS ...', Array)
+#3 /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Query/Abstract.php(1026): Doctrine_Query_Abstract->_execute(Array)
+#4 /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Query.php(281): Doctrine_Query_Abstract->execute(Array, NULL)
+#5 /home/commander/web/webroot/graphicore2/application/modules/default/models/Controller.php(20): Doctrine_Query->fetchOne()
+#6 /home/commander/web/webroot/graphicore2/application/modules/default/controllers/IndexController.php(42): Default_Model_Controller->findOneStaticByUrlAlias('callforentries', 3, true)
+#7 /home/commander/web/libraries/ZendFramework-1.10.4-PATCHED/library/Zend/Controller/Action.php(513): IndexController->staticAction()
+#8 /home/commander/web/libraries/ZendFramework-1.10.4-PATCHED/library/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('staticAction')
+#9 /home/commander/web/libraries/ZendFramework-1.10.4-PATCHED/library/Zend/Controller/Front.php(954): Zend_Controller_Dispatcher_Standard->dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#10 /home/commander/web/libraries/ZendFramework-1.10.4-PATCHED/library/Zend/Application/Bootstrap/Bootstrap.php(97): Zend_Controller_Front->dispatch()
+#11 /home/commander/web/libraries/ZendFramework-1.10.4-PATCHED/library/Zend/Application.php(366): Zend_Application_Bootstrap_Bootstrap->run()
+#12 /home/commander/web/webroot/graphicore2/public/index.php(22): Zend_Application->run()
+#13 {main}
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery.tools.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:05+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:06+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:07+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:07+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:08+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:08+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(18) "box_content_en.jpg"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:09+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:16+00:00 ERR (3) 42 SQLSTATE[42S02]: Base table or view not found: 1146 Table 'graphicore2.gc_dc_static' doesn't exist
+REMOTE_ADDR: 127.0.0.1
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["controller"] => string(5) "index"
+  ["action"] => string(6) "static"
+  ["static"] => string(9) "workshops"
+  ["module"] => string(7) "default"
+}
+exception 'Doctrine_Connection_Mysql_Exception' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'graphicore2.gc_dc_static' doesn't exist' in /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Connection.php:1082
+Stack trace:
+#0 /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Connection/Statement.php(269): Doctrine_Connection->rethrowException(Object(PDOException), Object(Doctrine_Connection_Statement))
+#1 /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Connection.php(1006): Doctrine_Connection_Statement->execute(Array)
+#2 /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Query/Abstract.php(976): Doctrine_Connection->execute('SELECT g.id AS ...', Array)
+#3 /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Query/Abstract.php(1026): Doctrine_Query_Abstract->_execute(Array)
+#4 /home/commander/web/libraries/Doctrine-1.2.2/lib/Doctrine/Query.php(281): Doctrine_Query_Abstract->execute(Array, NULL)
+#5 /home/commander/web/webroot/graphicore2/application/modules/default/models/Controller.php(20): Doctrine_Query->fetchOne()
+#6 /home/commander/web/webroot/graphicore2/application/modules/default/controllers/IndexController.php(42): Default_Model_Controller->findOneStaticByUrlAlias('workshops', 3, true)
+#7 /home/commander/web/libraries/ZendFramework-1.10.4-PATCHED/library/Zend/Controller/Action.php(513): IndexController->staticAction()
+#8 /home/commander/web/libraries/ZendFramework-1.10.4-PATCHED/library/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('staticAction')
+#9 /home/commander/web/libraries/ZendFramework-1.10.4-PATCHED/library/Zend/Controller/Front.php(954): Zend_Controller_Dispatcher_Standard->dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#10 /home/commander/web/libraries/ZendFramework-1.10.4-PATCHED/library/Zend/Application/Bootstrap/Bootstrap.php(97): Zend_Controller_Front->dispatch()
+#11 /home/commander/web/libraries/ZendFramework-1.10.4-PATCHED/library/Zend/Application.php(366): Zend_Application_Bootstrap_Bootstrap->run()
+#12 /home/commander/web/webroot/graphicore2/public/index.php(22): Zend_Application->run()
+#13 {main}
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery.tools.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:21+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:21+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:21+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:22+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:22+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(18) "box_content_en.jpg"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:22+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:22+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T21:07:22+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:14+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery-1.4.2.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery.tools.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:16+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:17+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(19) "jquery.tools.min.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:17+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "jquery.pwi-simplified.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:18+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(7) "main.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(15) "jquery.slimbox2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(18) "box_content_en.jpg"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T22:11:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(6) "styles"
+  ["action"] => string(7) "default"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:27:53+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(6) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(16) "ruhn.typepad.com"
+  ["lotta_bruhn_illustration"] => string(6) "images"
+  [2008] => string(2) "01"
+  [18] => string(20) "elephant_pattern.gif"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:27:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(12) "_pattern.gif"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:28:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(6) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(16) "ruhn.typepad.com"
+  ["lotta_bruhn_illustration"] => string(6) "images"
+  [2008] => string(2) "01"
+  [18] => string(8) "elephant"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:28:04+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(6) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(16) "ruhn.typepad.com"
+  ["lotta_bruhn_illustration"] => string(6) "images"
+  [2008] => string(2) "01"
+  [18] => string(8) "elephant"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:31:11+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(20) "rosses-3.svg.med.png"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:31:48+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(25) "ern-circles-2.svg.med.png"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:32:29+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(34) "squares-and-octagons-1.svg.med.png"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:32:42+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(34) "squares-and-octagons-1.svg.med.png"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:33:42+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(31) "ern-diamond-cubes-2.svg.med.png"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:39:19+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(48) "th-d-effect-seamless-vector-pattern-20204353.jpg"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:41:13+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(8) "137034,2"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:43:10+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(22) "iley%2C_Cataract_3.jpg"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-05-18T23:43:12+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 127.0.0.1
+requested: array(3) {
+  ["controller"] => string(5) "style"
+  ["action"] => string(1) "g"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

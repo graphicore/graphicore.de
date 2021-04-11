@@ -1,0 +1,33 @@
+2019-02-11T08:56:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 129.213.21.173
+HTTP_REFERER: graphicore.de/adminer.php
+requested: array(3) {
+  ["controller"] => string(11) "adminer.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-11T08:57:00+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 129.213.21.173
+HTTP_REFERER: graphicore.de/adminer.php
+requested: array(3) {
+  ["controller"] => string(11) "adminer.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-02-11T11:36:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.209.49.164
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(14) "admin-ajax.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

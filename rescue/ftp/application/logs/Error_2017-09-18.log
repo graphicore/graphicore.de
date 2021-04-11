@@ -1,0 +1,117 @@
+2017-09-18T00:48:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 115.239.212.5
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+  ["User-Agent"] => string(130) "SAMSUNG-SGH-G508E%2FG508EZCIG2 SHP%2FVPP%2FR5 NetFront%2F3.4 Qtv5.3 SMM-MMS%2F1.2.0 profile%2FMIDP-2.0 configuration%2FCLDC-1.1%0A"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-18T00:48:52+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 115.239.212.9
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-18T08:54:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 31.129.170.42
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-18T08:54:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 31.129.170.42
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-18T18:12:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 37.17.172.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(4) "atom"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-18T18:12:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 37.17.172.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(7) "tag:gra"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-18T18:15:08+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 37.17.172.122
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-18T18:15:36+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 37.17.172.122
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-18T21:27:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 108.61.62.227
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "language"
+  ["action"] => string(5) "en-GB"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2017-09-18T23:39:38+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.210.234
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

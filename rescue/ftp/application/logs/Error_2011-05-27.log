@@ -1,0 +1,58 @@
+2011-05-27T05:03:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 70.38.38.103
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-27T09:08:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.230.246.194
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-27T11:32:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 78.52.187.145
+HTTP_REFERER: http://www.gimy.de/guestbooks/app/319790?page=19
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(9) "unordered"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-27T12:02:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 173.242.116.112
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-27T15:57:16+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 188.27.84.57
+HTTP_REFERER: http://graphicore.de/en/index/topic/intern/projekte/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

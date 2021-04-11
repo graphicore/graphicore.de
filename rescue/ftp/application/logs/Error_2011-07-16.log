@@ -1,0 +1,76 @@
+2011-07-16T00:21:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.131
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "26"
+  ["sid"] => string(32) "0f9df61b9fce347ce8bf3bdcfc61d6ef"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-16T02:51:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.162.68.246
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-16T07:28:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.131
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "28"
+  ["sid"] => string(32) "0f9df61b9fce347ce8bf3bdcfc61d6ef"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-16T10:34:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.131
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "29"
+  ["sid"] => string(32) "0f9df61b9fce347ce8bf3bdcfc61d6ef"
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-16T14:34:56+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 130.83.163.231
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-07-16T17:46:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.72.131
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "30"
+  ["sid"] => string(32) "0f9df61b9fce347ce8bf3bdcfc61d6ef"
+}
+
+
+--------------------------------------------------------------------------------

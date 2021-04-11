@@ -1,0 +1,48 @@
+2021-03-12T03:04:15+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 62.210.143.6
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-12T09:32:45+00:00 ERR (3) 404 unkown Type requested
+REMOTE_ADDR: 94.130.34.83
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "feed"
+  ["key"] => string(1) "r"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-12T17:25:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.204.1.224
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "RPC2"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-03-12T17:26:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.204.1.224
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "RPC2"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

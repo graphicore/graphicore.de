@@ -1,0 +1,28 @@
+2010-06-08T12:08:24+00:00 ERR (3) 404 "mission" was not found.
+REMOTE_ADDR: 192.168.2.3
+HTTP_REFERER: http://192.168.2.2/graphicore2/public/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["controller"] => string(5) "index"
+  ["action"] => string(4) "page"
+  ["key"] => string(7) "mission"
+  ["module"] => string(7) "default"
+  ["ajax"] => string(4) "true"
+}
+
+
+--------------------------------------------------------------------------------
+2010-06-08T14:39:24+00:00 ERR (3) 404 "contact" was not found.
+REMOTE_ADDR: 192.168.2.3
+HTTP_REFERER: http://192.168.2.2/graphicore2/public/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["controller"] => string(5) "index"
+  ["action"] => string(4) "page"
+  ["key"] => string(7) "contact"
+  ["module"] => string(7) "default"
+  ["ajax"] => string(4) "true"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+2019-06-01T16:05:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 196.52.84.6
+HTTP_REFERER: http://graphicore.de/
+requested: array(4) {
+  ["controller"] => string(9) "__media__"
+  ["action"] => string(2) "js"
+  ["module"] => string(7) "default"
+  ["d"] => string(10) "alpxxx.com"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-01T23:36:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.90.186.102
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(8) "register"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

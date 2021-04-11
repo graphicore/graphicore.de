@@ -1,0 +1,79 @@
+2011-06-19T02:33:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 70.38.38.103
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-06-19T07:12:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.211.124.202
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(20) "'%20+%20href%20+%20'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-06-19T08:17:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 88.77.227.151
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-06-19T12:54:05+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 89.182.173.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-06-19T15:57:39+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 67.195.112.239
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(15) "SlurpConfirm404"
+  ["action"] => string(9) "wopastewp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-06-19T20:09:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.187.37.25
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-06-19T21:10:56+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 67.195.112.239
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(15) "SlurpConfirm404"
+  ["action"] => string(12) "DeesPage.htm"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+2012-05-11T02:28:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 184.98.176.43
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-05-11T09:56:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.111.163.124
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-05-11T18:00:04+00:00 ERR (3) 404 "zimmer-frei" was not found.
+REMOTE_ADDR: 69.171.228.244
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "zimmer-frei"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,106 @@
+2010-08-08T05:38:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 67.238.15.115
+HTTP_REFERER: http://app.singaporeedu.gov.sg/asp/common/extlink.asp?url=http://www.f3w.org?
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-08T13:00:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.119.242.80
+HTTP_REFERER: http://www.graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-08T14:05:53+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 95.108.155.251
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(9) "pixelding"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-08T16:10:15+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 94.102.57.131
+HTTP_REFERER: http://www.graphicore.de/de/index/topic/intern/news/
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-08T19:50:56+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 67.195.115.87
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(7) "kontakt"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-08T21:20:53+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 95.108.155.251
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(14) "dieKulturlosen"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-08T21:47:03+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 67.195.115.87
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "typete"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2010-08-08T22:37:20+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 66.249.66.131
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(14) "dieKulturlosen"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

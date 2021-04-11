@@ -1,0 +1,50 @@
+2011-02-13T03:59:15+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 213.148.186.97
+HTTP_REFERER: http://graphicore.de/de/index/topic/intern/news/%2B%28200%2Bok%29%2BACCEPTED
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-13T13:10:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.123.55.67
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-13T19:03:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.210.224.224
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-13T19:19:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 88.255.116.92
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(9) "index.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["option"] => string(8) "com_user"
+  ["view"] => string(5) "reset"
+  ["layout"] => string(7) "confirm"
+}
+
+
+--------------------------------------------------------------------------------

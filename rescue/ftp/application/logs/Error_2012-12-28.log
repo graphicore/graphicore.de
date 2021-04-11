@@ -1,0 +1,155 @@
+2012-12-28T00:48:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "archive"
+  ["action"] => string(28) "2010-10-18_La_Mirada_de_Ella"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "archive"
+  ["action"] => string(23) "2010-07-09_i-live-again"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "archive"
+  ["action"] => string(30) "2010-09-09_A-Brute-Font-Attack"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "archive"
+  ["action"] => string(30) "2012-01-17_ufoJS-is-not-a-bird"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "archive"
+  ["action"] => string(26) "2012-09-02_piece-of-prayer"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(13) "graphicdesign"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(4) "news"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(10) "conception"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(10) "typedesign"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(4) "code"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "page"
+  ["action"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T00:48:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.80.154.70
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "page"
+  ["action"] => string(5) "lasse"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2012-12-28T01:27:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+<h1>gcbackend types index</h1>
+<?php
+$urlArray = array(
+    'module'     => 'gcbackend',
+    'controller' => 'type',
+    'action'     => 'index',
+);
+$urlArray['action'] = 'create';
+$url = $this->url($urlArray, 'modules_i18n', True);
+echo '<a href="'.$url.'">create a new Type</a><br />';
+
+$types = array();
+foreach($this->types as $type)
+{
+    $render = array();
+
+    $render[] = '<h2>'.$type['intern'].'</h2>';
+
+    $actions = array();
+    $urlArray['action'] = 'update';
+    $urlArray['id'] = $type['id'];
+    $url =  $this->url($urlArray, 'modules_i18n', True);
+    $actions[] = '<a href="'.$url.'">update</a>';
+
+    $urlArray['action'] = 'delete';
+    $url =  $this->url($urlArray, 'modules_i18n', True);
+    $actions[] = '<a href="'.$url.'">delete</a>';
+
+    $urlArray['action'] = 'deletetranslations';
+    $url =  $this->url($urlArray, 'modules_i18n', True);
+    $actions[] = '<a href="'.$url.'">delete translations</a>';
+
+    $render[] = join(', ', $actions);
+
+    $render[] = 'translated in: '.(join(', ', array_keys($type['Translation']))) ;
+
+
+    $render[] = 'it\'s '.(($type['published'])? 'published': 'not published');
+    $types[] = '<li>'.join("<br />\n\t", $render).'</li>';
+}
+print (count($types) > 0)? '<ul>'.join("\n\t",$types).'</ul>' : 'there are no types';
+
+GC_Debug::Dump($this->dump, True);

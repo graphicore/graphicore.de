@@ -1,0 +1,391 @@
+2015-09-30T02:29:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.17.11.85
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T02:29:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.17.11.85
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T02:35:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.163
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(3) "fck"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T03:24:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.165.198.30
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "index.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T03:24:21+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 188.165.198.30
+HTTP_REFERER: 
+requested: array(7) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(0) ""
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T03:27:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.165.198.30
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "index.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T03:27:17+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 188.165.198.30
+HTTP_REFERER: 
+requested: array(7) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(0) ""
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T03:43:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.69.45
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T05:41:42+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://v-chelyabinske.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T05:41:43+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://v-chelyabinske.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T05:41:43+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://v-chelyabinske.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T07:49:28+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.80.148
+HTTP_REFERER: http://plohaya-kreditnaya-istoriya.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T07:49:28+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.80.148
+HTTP_REFERER: http://plohaya-kreditnaya-istoriya.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T07:49:30+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.80.148
+HTTP_REFERER: http://plohaya-kreditnaya-istoriya.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T09:06:23+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.80.148
+HTTP_REFERER: http://ledstudio.org/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T09:06:23+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.80.148
+HTTP_REFERER: http://ledstudio.org/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T09:38:27+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 188.165.198.30
+HTTP_REFERER: 
+requested: array(7) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(0) ""
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T09:38:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.165.198.30
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "index.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T09:38:30+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 188.165.198.30
+HTTP_REFERER: 
+requested: array(7) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(0) ""
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T09:38:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.165.198.30
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(9) "index.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["option"] => string(10) "com_myblog"
+  ["task"] => string(10) "ajaxupload"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T11:21:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.163
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "ewebedit"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T12:00:36+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 62.210.169.2
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T13:37:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.154.187.115
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T14:54:39+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://domik-derevne.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T14:54:39+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://domik-derevne.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T14:54:40+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://domik-derevne.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T17:53:34+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.150
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T22:18:40+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 94.153.10.11
+HTTP_REFERER: http://cineworks.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T22:18:41+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 94.153.10.11
+HTTP_REFERER: http://cineworks.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-30T22:18:41+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 94.153.10.11
+HTTP_REFERER: http://cineworks.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,1179 @@
+2016-08-30T09:15:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["rsd"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:15:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:15:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:15:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:15:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.119.127.129
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(12) "wp-check.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["z"] => string(35) "ZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(9) "start.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["n7f2521"] => string(35) "ZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(11) "general.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["n3c60b2"] => string(35) "ZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(9) {
+  ["controller"] => string(9) "cache.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["blog"] => string(1) "1"
+  ["ne"] => string(1) "1"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(9) "ooimg.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["e"] => string(48) "CJMUJTWRF240FGWPL1WgJTcJoIbjFSSOoIMUJzWBoT9vDHcA"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "11.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["x"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "get.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["key"] => string(47) "sdfadsgh4513sdGG435341FDGWWDFGDFHDFGDSFGDFSGDFG"
+  ["fack"] => string(35) "ZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(7) "tmp.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["1354htra32gf"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["vua3gex4pa"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["d5xxujk4"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["cwv575m4"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(11) "upgrade.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["z"] => string(1) "1"
+  ["z0"] => string(47) "ZXZhbCgnZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTsnKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(10) "cfiles.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["login"] => string(6) "assert"
+  ["password"] => string(29) "eval(urldecode($_POST[code]))"
+  ["re_password"] => string(1) "1"
+  ["code"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(8) "modx.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ne"] => string(1) "1"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(9) "stats.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(5) "shits"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(8) "news.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["niu!@#$123"] => string(1) "1"
+  ["z0"] => string(47) "ZXZhbCgnZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTsnKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(21) "news_parser.class.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ne"] => string(1) "1"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(13) "configbak.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["z"] => string(1) "1"
+  ["z0"] => string(47) "ZXZhbCgnZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTsnKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(7) {
+  ["controller"] => string(9) "shell.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(11) "xmlrppc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ne"] => string(1) "1"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(15) "adodb.class.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["array"] => string(47) "ZXZhbCgnZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTsnKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(20) "configurationbak.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  [1] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(18) "wp-blog-header.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(59) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B;"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(59) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B;"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(16) "wp-trackback.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(59) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B;"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(12) "database.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ne"] => string(1) "1"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(15) "wp-checking.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["z"] => string(35) "ZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(13) "CHANGELOG.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(59) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B;"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(15) "wp-activate.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(59) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B;"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(12) "home.bak.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["x0x0"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["x5x6"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(13) "error-log.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ice"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(8) "gemb.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["login"] => string(6) "assert"
+  ["password"] => string(29) "eval(urldecode($_POST[code]))"
+  ["re_password"] => string(1) "1"
+  ["code"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:40:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(18) ".cpanel_config.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:41:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(19) "wp-object-cache.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:41:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(19) "wp-installation.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:41:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "filess.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:41:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "mide.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:41:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "popup-pomo.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:41:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "uu.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:41:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "license.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T09:41:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.238.72.217
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "tempfs.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T15:53:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.71.228.58
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T16:02:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 158.199.144.10
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T16:11:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 213.251.182.107
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T16:19:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 210.209.123.81
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T16:27:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 217.160.90.93
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T16:35:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 151.80.18.196
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(12) "wp-check.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["z"] => string(35) "ZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(9) "start.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["n7f2521"] => string(35) "ZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(11) "general.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["n3c60b2"] => string(35) "ZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(9) {
+  ["controller"] => string(9) "cache.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["blog"] => string(1) "1"
+  ["ne"] => string(1) "1"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(9) "ooimg.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["e"] => string(48) "CJMUJTWRF240FGWPL1WgJTcJoIbjFSSOoIMUJzWBoT9vDHcA"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(6) "11.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["x"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(7) "get.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["key"] => string(47) "sdfadsgh4513sdGG435341FDGWWDFGDFHDFGDSFGDFSGDFG"
+  ["fack"] => string(35) "ZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(7) "tmp.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["1354htra32gf"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["vua3gex4pa"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["d5xxujk4"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["cwv575m4"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(11) "upgrade.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["z"] => string(1) "1"
+  ["z0"] => string(47) "ZXZhbCgnZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTsnKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(10) "cfiles.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["login"] => string(6) "assert"
+  ["password"] => string(29) "eval(urldecode($_POST[code]))"
+  ["re_password"] => string(1) "1"
+  ["code"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(8) "modx.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ne"] => string(1) "1"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(9) "stats.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["pass"] => string(5) "shits"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(8) "news.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["niu!@#$123"] => string(1) "1"
+  ["z0"] => string(47) "ZXZhbCgnZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTsnKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(21) "news_parser.class.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ne"] => string(1) "1"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(13) "configbak.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["z"] => string(1) "1"
+  ["z0"] => string(47) "ZXZhbCgnZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTsnKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(7) {
+  ["controller"] => string(9) "shell.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(11) "xmlrppc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ne"] => string(1) "1"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(15) "adodb.class.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["array"] => string(47) "ZXZhbCgnZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTsnKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(20) "configurationbak.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  [1] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(18) "wp-blog-header.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(59) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B;"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(59) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B;"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(16) "wp-trackback.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(59) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B;"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:49:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(12) "database.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ne"] => string(1) "1"
+  ["ajax"] => string(1) "1"
+  ["a"] => string(3) "Php"
+  ["p1"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(15) "wp-checking.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["z"] => string(35) "ZWNobyAoMTIzNDU0MzIwKzEpO2V4aXQoKTs"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(13) "CHANGELOG.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(59) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B;"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(15) "wp-activate.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(59) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B;"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(12) "home.bak.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["x0x0"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["x5x6"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(13) "error-log.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["ice"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(8) "gemb.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["login"] => string(6) "assert"
+  ["password"] => string(29) "eval(urldecode($_POST[code]))"
+  ["re_password"] => string(1) "1"
+  ["code"] => string(80) "eval(urldecode(urldecode($_POST[chr(99).chr(111).chr(100).chr(101).chr(122)])));"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(18) ".cpanel_config.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["codez"] => string(58) "echo%2520%2528123454320%252B1%2529%253Bexit%2528%2529%253B"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(19) "wp-object-cache.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(19) "wp-installation.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "filess.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "mide.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "popup-pomo.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "uu.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "license.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T17:50:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 50.63.196.21
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "tempfs.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T19:48:25+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.76.44
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T20:05:30+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 107.170.136.225
+HTTP_REFERER: http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T20:05:45+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 107.170.136.225
+HTTP_REFERER: http://graphicore.de/de/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T23:38:14+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.62
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-08-30T23:47:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 85.7.255.176
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(4) "mage"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

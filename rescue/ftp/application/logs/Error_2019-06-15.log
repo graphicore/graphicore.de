@@ -1,0 +1,162 @@
+2019-06-15T01:31:12+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 35.190.193.225
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T01:31:12+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 35.190.193.225
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T01:31:44+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 35.190.193.225
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T01:31:44+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 35.190.193.225
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T01:31:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 35.190.193.225
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "util"
+  ["action"] => string(10) "login.aspx"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T01:31:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 35.190.193.225
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(15) "magento_version"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T01:31:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 35.190.193.225
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "install.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T03:12:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.104.205.72
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "b.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T03:57:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.87
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T04:42:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.128.0.34
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(12) "security.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T05:00:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.67
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T06:24:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 34.214.55.116
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T13:36:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 39.104.205.65
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "wp-config.php.backup"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-15T19:15:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 37.146.75.106
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(15) "wlwmanifest.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

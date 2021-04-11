@@ -1,0 +1,89 @@
+2013-10-15T03:52:47+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 68.233.228.195
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(4) "news"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-10-15T09:53:22+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 213.239.208.23
+HTTP_REFERER: http://graphicore.de/en/archive/2013-06-10_refactoring-the-Superlative-Conspiracy
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-10-15T09:53:24+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 213.239.208.23
+HTTP_REFERER: http://graphicore.de/en/archive/2010-10-06_underground_exhibition
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-10-15T14:39:14+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 176.9.120.182
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-10-15T15:49:40+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 128.68.113.105
+HTTP_REFERER: http://graphicore.de/en/index/topic/intern/projekte/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-10-15T16:56:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.91.24.203
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2013-10-15T19:37:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.27.69.31
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

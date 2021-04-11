@@ -1,0 +1,168 @@
+2015-06-11T05:39:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 88.198.16.153
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(4) "atom"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T05:39:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 88.198.16.153
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T15:56:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 177.200.193.218
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T15:56:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 177.200.193.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T17:54:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 213.251.182.102
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T18:04:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 76.163.252.153
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T18:13:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 104.131.22.194
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T18:23:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 64.71.32.30
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T18:33:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.21.59.214
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T18:41:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.28.17.231
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T19:21:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 177.200.193.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T19:21:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 177.200.193.218
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T20:04:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.29.175.68
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T20:04:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 89.29.175.68
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-06-11T20:06:03+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 5.56.60.47
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(14) "admin-ajax.php"
+  ["module"] => string(7) "default"
+  ["amp;/__/__/wp-config_php"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

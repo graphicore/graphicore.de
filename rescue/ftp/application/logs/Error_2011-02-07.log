@@ -1,0 +1,47 @@
+2011-02-07T09:49:34+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.208.213.176
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-07T11:23:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 78.159.122.254
+HTTP_REFERER: 
+requested: array(6) {
+  ["controller"] => string(7) "plugins"
+  ["action"] => string(7) "editors"
+  ["tinymce"] => string(8) "jscripts"
+  ["tiny_mce"] => string(7) "plugins"
+  ["tinybrowser"] => string(10) "upload.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-07T21:42:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 82.10.82.20
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-02-07T22:49:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.211.44.20
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

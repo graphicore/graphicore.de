@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="de"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="de"
+    >
+<head>
+<meta charset="UTF-8" />
+<meta name="google-site-verification" content="Y_i7yzBmF0Bv9KGdv0QZmGBXAfljS57aRs7Lq7NNcE0" />
+
+<meta name="geo.position" content="52.4809428;13.4490089" />
+<meta name="ICBM" content="52.4809428,13.4490089" />
+<meta name="geo.placename" content="Werrastr. 10A, 12049 Berlin, Deutschland" />
+<meta name="geo.region" content="DE-BE" />
+<meta name="keywords" content="Lasse Fister, graphicore, Berlin, Design, Visuelle Kommunikation, Grafikdesign, Web Development, Interaction Desgin, Printmedien, Webdesign, Layout, Typografie, typography, font design, Schriftgestaltung, Open Source, Libre Graphics, Logo, opensource design, internet, Bauhaus" />
+<meta name="author" content="Lasse Fister" />
+
+<meta name="robots" content="index, follow" />
+    <title>In Entwicklung: Multitoner Tool | Tagebucheintrag | graphicore.de</title>
+    <link type="image/gif" rel="icon" href="http://www.graphicore.de/favicon.gif" />
+<link rel="alternate" type="application/atom+xml" title="atom-feed Tagebuch | graphicore.de" href="/de/feed/atom" /><link rel="alternate" type="application/rss+xml" title="rss-feed Tagebuch | graphicore.de" href="/de/feed/rss" />    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.8.3/dijit/themes/nihilo/nihilo.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/style/style.css" />
+    <!--[if lt IE 8]>
+    <link type="text/css" rel="stylesheet" media="screen" href="/style/ielt8.css" />
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/dojo/1.8.3/dojo/dojo.js" data-dojo-config="async:true"></script>
+
+            <script type="text/javascript" src="/js/dmain.js"></script>
+
+  </head>
+<body class="nihilo noscript">
+<div class="stage">
+<div class="header">
+    <ul class="language-switch"><li title="Zeige diese Seite auf Deutsch. Die Benutzerschnittstelle ist übersetzt, aber nicht unbedingt alle Artikel." class="first de active"  ><a hreflang="de" rel="alternate" href="/de/archive/2013-06-13_it-is-a-multitoner">Deutsch</a></li><li title="Display this page in English. The interface is translated, but not all articles necessarily are." class="en"  ><a hreflang="en" rel="alternate" href="/en/archive/2013-06-13_it-is-a-multitoner">English</a></li></ul>    <div class="to-the-top">
+                <a href="#"><span>top</span></a></div>
+    <div class="logo">
+            <a rel="me" href="/"><span>home</span></a>
+            </div>
+    <div class="menu-bar">
+        <span>Filter</span><ul class="menu blog"><li><a title="alle Artikel auflisten" href="/de/diary">Alle</a></li><li><a title="Ankündingungen, Mitteilungen, Neuigkeiten, Änderungen." href="/de/diary/news">Neues</a></li><li><a title="Web-Entwicklung, Webdesign, Programmierung und selbst gemachte Werkzeuge." href="/de/diary/code">Web und Code</a></li><li><a title="Von mir gestaltete Schriftarten." href="/de/diary/typedesign">Schriftgestaltung</a></li><li><a title="Bilder, Layouts, Drucksachen, Bücher, Logos, Plakate, etc." href="/de/diary/graphicdesign">Grafikdesign</a></li><li><a title="Ideen-zentrierte Entwicklung. Entwicklung von Ideen." href="/de/diary/conception">Konzeption</a></li></ul><span>About</span><ul class="menu pages"><li><a rel="me" href="/de/page/lasse">Lasse</a></li></ul>    </div>
+</div>
+    
+    <div id="graphicore_url_:de:archive:2013-06-13_it-is-a-multitoner" class="content white"><div class="contentContainer diaryEntry" xml:lang="de" lang="de"><h1>In Entwicklung: Multitoner Tool</h1><p class="teaser">Eine Anwendung für den Bereich DTP und Druckvorstufe zur Herstellung von <em title="auf Englisch: multitone">Multiplex</em>-Bildern zur Print-Reproduktionen.</p><div class="gridRow">
+<div class="gridWidth3 gridPos0">
+<h2>Motivation</h2>
+<p><a href="/de/archive/2013-06-06_silber-und-blei">Silber &amp; Blei</a> wird ausschließlich mit 
+<a href="http://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software" title="Free/Libre Open Source Software">FLOS-Software</a> produzieren, denn es ist uns wichtig <strong>die Kontrolle über unsere Werkzeuge</strong> zu haben. Wir werden <strong>erstklassige Print-Erzeugnisse mit Freier Software</strong> herstellen. Die Konsequenz dieser Entscheidung ist, dass wir fehlende Software selbst schreiben. Ein Programm für die Herstellung von Multiplex-Bildern fehlt bislang in der freien Software-Welt. Das Multitoner Tool wird unter der <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GNU General Public License Version 3">GPLv3</a> veröffentlicht.
+</p>
+</div>
+
+<div class="gridPos3 gridWidth4">
+<h2>Was ist Multiplex</h2>
+<p>
+Druckt man Schwarzweißbilder im Offset mit nur einer Druckfarbe – Schwarz im Normalfall – so erscheinen die Ergebnisse stumpf und ohne Tiefe. Das liegt daran, dass ein Farbkanal im Druck nur ca. 50 verschiedene Töne wiedergeben kann, Stichwort: <a href="http://de.wikipedia.org/wiki/Gamut">Gamut</a>. Zum Vergleich: ein Schwarzeißbild am Computermonitor wird mit ca. 256 Tönen dargestellt. <strong>Um Schwarzweißbilder hochwertig zu drucken</strong>, sodass sie eine Tiefe vergleichbar mit Fotoabzügen zeigen, verwendet man mehrere Druckfarben für ein Bild. Beispielsweise Schwarz für die tiefen Farbtöne und Grau für die mittleren Farbtöne. Der Gamut des Ergebnisses kann je nach Anzahl der verwendeten Farben gesteigert werden.</p>
+
+</div>
+<div class="gridPos7 gridWidth3">
+<h2>Begriffe</h2><p>Wird eine Farbe verwendet, nennt man das »Simplex«, bei zwei Farben »Duplex«, drei Farben ist »Triplex« und vier ist »Quadruplex«. Der ganze Komplex könnte als »Multiplex« zusammengefasst werden. Die analogen englischen Begriffe <strong>Monotone, Duotone, Tritone, Quadtone,  Multitone</strong> sind eindeutiger, da sie nicht mehrfach belegt sind: <strong>Duplex</strong> – <em>eine Seite im Office-Drucker beidseitig bedrucken</em>; <strong>Multiplex</strong> – <em>Sperrholz, Kino mit vielen Sälen, Methode zur Signalübertragung</em>.
+</p>
+</div>
+</div>
+<hr /><div class="gridRow">
+<h2>Das Tool</h2>
+<p><img src="/images/diary/multitoner-tool-screenshot_2013-06-13.png" alt="Screenshot des aktuellen Multitoner Tools" /></p>
+<div class="gridRow">
+
+
+<div class="gridWidth4 gridPos0">
+<p>
+Die Kernfunktion ist das Anlegen der zu verwendenden Druckfarben (bis zu 10), wobei es für jede Druckfarbe eine Steuerkurve gibt. Die Kurve ordnet jedem Eingabewert – von Schwarz bis Weiß – die Menge der zu druckenden Farbe – von voller Farbauftrag bis kein Farbauftrag – zu.
+Es gibt unterschiedliche Kurvenarten, um zwischen den Kontrollpunkten zu interpolieren: linear, kubische Splines, monoton kubische Splines.
+</p>
+</div><div class="gridWidth6 gridPos4">
+<p>Die Druckfarben erhalten einen Namen, damit man sie später im Prozess eindeutig identifizieren kann. Für die Vorschau am Bildschirm werden CMYK-Werte vergeben. Die Reihenfolge der Druckfarben kann verändert werden, das ist nötig, weil es Auswirkungen auf das Druckergebnis hat.</p>
+<p>
+Für die Vorschau wird je Druckfarbe ein Farbstreifen abgebildet, der die Ausgabewerte nach der Anwendung der Steuerkurve darstellt. Ein weiterer Farbstreifen visualisiert die Kombination aller Farben. Es gibt auch ein Vorschaubild, auf das die Einstellungen angewendet werden.
+</p>
+</div>
+</div>
+</div>
+<hr /><div class="gridRow">
+<div class="gridWidth4 gridPos0">
+<h2>Technisches</h2>
+<p>Das Tool ist in <strong>Python</strong> geschrieben. Das <em title="General User Interface: grafische Benutzeroberfläche">GUI</em> ist mit <strong>GTK+</strong> umgesetzt. Die Steuerkurven werden mit <strong>SciPy</strong> und <strong>NumPy</strong> ermittelt. Das Widget  zur Darstellung und Manipulation der Steuerkurven ist selbst geschrieben (als GtkDrawingArea). Farbvorschau und Vorschaubild werden mit <strong>Ghostscript</strong> gerendert. Farbmanagement soll in Zukunft durch Ghostscript erreicht werden.</p>
+</div>
+<div class="gridWidth6 gridPos4">
+<h2>Roadmap</h2>
+<p>Hier eine grobe Skizze, wie ich mir den weiteren Projektverlauf vorstelle:</p>
+<ul><li><strong>aktueller Stand:</strong> Die Kernfunktionen sind hergestellt</li>
+<li>Laden und Speichern von Projekten</li>
+<li>Erstellung von Multitone-EPS-Bildern aus Schwarzweiß-Bildern mit Commandline Tool und über die GUI</li>
+<li>Aufräumen, mehr Code-Kommentare, Lizenzvermerke, README</li>
+<li><strong>Veröffentlichung des Repositories</strong></li>
+<li>Öffentliches Testen und erste Produktiveinsätze</li>
+<li><strong>Farbmanagement:</strong> (Recherche und Implementierung) Um eine optimale Vorschau zu erhalten, sollen zukünftig ICC-Profile verwendet werden. Siehe auch die Option <em>‑sDeviceNProfile</em> im <a href="http://www.ghostscript.com/doc/current/Use.htm">Ghostscript Handbuch</a> und <a href="http://ghostscript.com/doc/current/GS9_Color_Management.pdf">GS9_Color_Management.pdf</a>.</li>
+<li>Bessere Stapelverarbeitung und Ausnahmeverwaltung: unterschiedliche Kurven für das gleiche Set an Farben</li>
+</ul></div>
+</div><div class="diaryEntryFooter"><a class="permalink" href="/de/archive/2013-06-13_it-is-a-multitoner">Permalink</a> Donnerstag, 13. Juni 2013 11:03:43 Europe/Berlin<div class="filters">Filter: <ul><li><a rel="tag" href="/de/diary/code">Web und Code</a></li><li><a rel="tag" href="/de/diary/news">Neues</a></li></ul></div></div></div></div>
+<div class="simple-footer">
+<a rel="me" href="/de/page/lasse">Impressum</a>, Copyright © 2009 – 2021 by <a rel="me" href="/de/page/lasse">Lasse Fister</a>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+2013-10-09T03:31:28+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.10.83.2
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2013-10-09T10:48:27+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 88.98.68.2
+HTTP_REFERER: http://graphicore.de/en/archive/2013-01-31_big-business
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["ajax"] => string(4) "true"
+}
+
+
+--------------------------------------------------------------------------------
+2013-10-09T13:04:30+00:00 ERR (3) 404 The filter "de" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "diary"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

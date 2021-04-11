@@ -1,0 +1,18 @@
+<h1 class="script">Dear <?php
+    $user = (Zend_Registry::getInstance()->userName)
+        ? Zend_Registry::getInstance()->userName
+        : Zend_Registry::getInstance()->userRole;
+    echo mb_strtoupper(mb_substr($user, 0,1)).mb_strtolower(mb_substr($user,1));
+    ?>,</h1>
+<p class="script">welcome to the Backend of <strong><?php echo Zend_Registry::getInstance()->config->system->title; ?></strong>. To navigate please use the buttons in the green bar above.</p>
+<?php
+if('development' === APPLICATION_ENV && $this->dump)
+{
+    ?><div class="development">
+    <h3>development information</h3>
+    <div class="content">
+
+    <?php echo GC_Debug::dump($this->dump, true); ?>
+    </div></div>
+    <?php
+}

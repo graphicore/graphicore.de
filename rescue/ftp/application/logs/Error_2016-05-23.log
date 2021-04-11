@@ -1,0 +1,206 @@
+2016-05-23T04:45:16+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.84
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T09:00:06+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T10:43:58+00:00 ERR (3) 404 "2010-10-18_La_Mirada_de_Ella'A=0" was not found.
+REMOTE_ADDR: 78.132.166.226
+HTTP_REFERER: http://graphicore.de/en/archive/2010-10-18_La_Mirada_de_Ella'A=0
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(32) "2010-10-18_La_Mirada_de_Ella'A=0"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T10:45:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.76.8.132
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(17) "tag:graphicore.de"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T13:26:10+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T15:49:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 31.31.73.93
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(4) "atom"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T18:11:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 223.147.183.201
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T18:16:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.64.61
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T18:18:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.64.66
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) ".well-known"
+  ["action"] => string(26) "apple-app-site-association"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T18:42:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 223.147.183.201
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T19:14:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 223.147.183.201
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T19:45:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 223.147.183.201
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T20:15:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 223.147.183.201
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "sysadmin"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T20:44:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 223.147.183.201
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T21:15:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 223.147.183.201
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "common"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T21:46:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 223.147.183.201
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "scripts"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T22:14:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 223.147.183.201
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "includes"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-05-23T22:46:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 223.147.183.201
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "include"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

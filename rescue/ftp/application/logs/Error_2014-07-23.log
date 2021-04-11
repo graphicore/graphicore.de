@@ -1,0 +1,44 @@
+2014-07-23T15:06:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 85.105.74.155
+HTTP_REFERER: http://graphicore.de/default.php
+requested: array(3) {
+  ["controller"] => string(11) "default.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-07-23T15:06:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.125.243.4
+HTTP_REFERER: http://graphicore.de/default.php
+requested: array(3) {
+  ["controller"] => string(11) "default.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-07-23T23:49:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 69.160.68.5
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-07-23T23:58:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 174.123.47.58
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(9) "wordpress"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

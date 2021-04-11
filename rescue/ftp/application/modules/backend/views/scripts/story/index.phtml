@@ -1,0 +1,40 @@
+<h1>gcbackend story index</h1>
+<?php
+$urlArray = array(
+    'module'     => 'gcbackend',
+    'controller' => 'story',
+    'action'     => 'index',
+);
+$urlArray['action'] = 'create';
+$url = $this->url($urlArray, 'modules_i18n', True);
+echo '<a href="'.$url.'">create a new Story</a><br />';
+
+$stories = array();
+foreach($this->stories as $story)
+{
+    $render = array();
+
+    $render[] = '<h2>'.$story['intern'].'</h2>';
+
+    $actions = array();
+    $urlArray['action'] = 'update';
+    $urlArray['id'] = $story['id'];
+    $url =  $this->url($urlArray, 'modules_i18n', True);
+    $actions[] = '<a href="'.$url.'">update</a>';
+
+    $urlArray['action'] = 'delete';
+    $url =  $this->url($urlArray, 'modules_i18n', True);
+    $actions[] = '<a href="'.$url.'">delete</a>';
+
+    $urlArray['action'] = 'deletetranslations';
+    $url =  $this->url($urlArray, 'modules_i18n', True);
+    $actions[] = '<a href="'.$url.'">delete translations</a>';
+
+    $render[] = join(', ', $actions);
+    $render[] = 'translated in: '.(join(', ', array_keys($story['Translation']))) ;
+
+    $stories[] = '<li>'.join("<br />\n\t", $render).'</li>';
+}
+print (count($stories) > 0)? '<ul>'.join("\n\t",$stories).'</ul>' : 'there are no stories';
+
+GC_Debug::Dump($this->dump, True);

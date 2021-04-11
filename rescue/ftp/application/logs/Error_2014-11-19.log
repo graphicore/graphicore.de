@@ -1,0 +1,267 @@
+2014-11-19T00:28:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.167.89.9
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T00:40:28+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 192.95.29.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T00:41:13+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 192.95.29.116
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T01:06:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.151.52.38
+HTTP_REFERER: http://graphicore.de/webmanage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(9) "webmanage"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T01:06:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.151.52.38
+HTTP_REFERER: http://graphicore.de/editor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T01:06:57+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.151.52.38
+HTTP_REFERER: http://graphicore.de/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T01:06:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.151.52.38
+HTTP_REFERER: http://graphicore.de/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T01:06:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.151.52.38
+HTTP_REFERER: http://graphicore.de/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(5) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T01:06:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.151.52.38
+HTTP_REFERER: http://graphicore.de/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T04:12:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.81.171.36
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T12:06:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T13:15:26+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T13:57:32+00:00 ERR (3) 404 "2010-09-09_A-Brute-Font-Attack&amp;sa" was not found.
+REMOTE_ADDR: 207.46.13.39
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(33) "2010-09-09_A-Brute-Font-Attack&sa"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T21:04:12+00:00 ERR (3) 404 "2014-02-27_kaufland-firewall-service" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(36) "2014-02-27_kaufland-firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T21:26:14+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 202.46.61.156
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T21:51:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 138.128.170.226
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "wp-admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T22:00:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 68.142.232.15
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "test"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T22:09:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.104.160.96
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T22:27:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.126.200.2
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T22:36:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 219.94.129.109
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "old"
+  ["action"] => string(8) "wp-admin"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-11-19T22:57:54+00:00 ERR (3) 404 "2014-02-27_kaufland-firewall-service" was not found.
+REMOTE_ADDR: 208.115.111.73
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(36) "2014-02-27_kaufland-firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

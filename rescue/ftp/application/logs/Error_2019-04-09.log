@@ -1,0 +1,81 @@
+2019-04-09T08:45:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.217.71.103
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-09T08:46:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.217.71.103
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-09T09:04:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.88
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-09T10:05:17+00:00 ERR (3) 404 "2010-09-27_turbo_art_collectiveKari" was not found.
+REMOTE_ADDR: 66.249.66.93
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(35) "2010-09-27_turbo_art_collectiveKari"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-09T11:04:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 3.84.217.173
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-09T22:25:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.236.1.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-04-09T23:59:42+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.9.94.207
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

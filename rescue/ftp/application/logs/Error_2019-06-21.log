@@ -1,0 +1,258 @@
+2019-06-21T00:54:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 194.11.28.10
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "register"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T01:03:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.63
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T08:18:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.66
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T11:00:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.66
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T13:30:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.93
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-06:"
+  ["diary"] => string(27) "2013060618252451b0d41400bf3"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T13:30:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.94
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-23:"
+  ["diary"] => string(27) "201009231107214c9b34e9d0274"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T13:30:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.93
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-12:"
+  ["diary"] => string(27) "2013111216002052825094cba29"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T21:47:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.93
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-01-31:"
+  ["diary"] => string(27) "20130131135955510a78db3e0d6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T22:44:51+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.93
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-27:"
+  ["diary"] => string(27) "201009272105474ca1072b79bf6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T22:56:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.229.168.132
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:01:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.93
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-12:"
+  ["diary"] => string(27) "201010121448344cb475424313c"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:02:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.93
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-01:"
+  ["diary"] => string(27) "201010011553324ca603fcc53f3"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:02:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.94
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-07:"
+  ["diary"] => string(27) "2013060714011251b1e7a8c1407"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:04:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.95
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-08-31:"
+  ["diary"] => string(27) "201008310024084c7c4ba816ac5"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:05:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.95
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2015-07-28:"
+  ["diary"] => string(27) "2015072812483855b77a264cda6"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:09:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.95
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-10-06:"
+  ["diary"] => string(27) "201010061331004cac7a14de999"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:10:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 92.192.244.52
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:10:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 92.192.244.52
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:21:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.93
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-07-09:"
+  ["diary"] => string(27) "201007091937074c377a6340b8b"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:24:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.93
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2010-09-27:"
+  ["diary"] => string(27) "201009272109094ca107f52b79c"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:25:18+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.93
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-06-12:"
+  ["diary"] => string(27) "2013061209052451b839d4ca32b"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-06-21T23:29:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.66.94
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(29) "tag:graphicore.de,2013-11-12:"
+  ["diary"] => string(27) "2013111217533652826b2018ca8"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

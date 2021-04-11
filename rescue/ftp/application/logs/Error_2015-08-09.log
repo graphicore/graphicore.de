@@ -1,0 +1,135 @@
+2015-08-09T00:24:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 92.222.81.182
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["connectors"] => string(15) "uploadtest.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-08-09T00:26:40+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 46.165.197.141
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-08-09T01:28:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(6) "Editor"
+  ["assetmanager"] => string(16) "assetmanager.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-08-09T03:07:26+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 151.80.31.126
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-08-09T05:48:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(6) "Editor"
+  ["assetmanager"] => string(17) "assetmanager.aspx"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-08-09T09:33:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(6) "Editor"
+  ["assetmanager"] => string(16) "assetmanager.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-08-09T13:05:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 37.79.255.63
+HTTP_REFERER: http://graphicore.de/default.php
+requested: array(4) {
+  ["controller"] => string(11) "default.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["e"] => string(36) "Pw09nxW2GzSiI0SIo2x5IUS2GzkiLxSXGD=="
+}
+
+
+--------------------------------------------------------------------------------
+2015-08-09T13:17:52+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(13) "administrator"
+  ["action"] => string(17) "SiteEngineManager"
+  ["components"] => string(6) "Editor"
+  ["assetmanager"] => string(16) "assetmanager.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-08-09T17:08:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(12) "assetmanager"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-08-09T19:56:46+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 5.102.173.71
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-08-09T21:38:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(12) "assetmanager"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

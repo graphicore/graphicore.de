@@ -1,0 +1,109 @@
+2018-07-11T02:56:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 169.61.157.77
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "user"
+  ["action"] => string(8) "register"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-11T04:00:23+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 148.251.238.6
+HTTP_REFERER: http://graphicore.de/de/archive/2010-09-23_Neo-Bourgeois_Grafitti
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-11T04:00:25+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 148.251.238.6
+HTTP_REFERER: http://graphicore.de/en/diary/typedesign
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-11T04:00:27+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 148.251.238.6
+HTTP_REFERER: http://graphicore.de/de/archive/2013-06-10_refactoring-the-Superlative-Conspiracy
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-11T04:00:28+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 148.251.238.6
+HTTP_REFERER: http://graphicore.de/de/diary/conception
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-11T10:04:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 144.76.137.254
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "diary"
+  ["action"] => string(4) "atom"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-11T11:48:04+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 173.208.130.202
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-11T18:26:51+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 54.144.32.236
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "ads.txt"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-07-11T20:07:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 96.71.178.226
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(4) "HEAD"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

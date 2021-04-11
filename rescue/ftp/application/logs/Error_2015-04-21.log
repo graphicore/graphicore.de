@@ -1,0 +1,154 @@
+2015-04-21T03:30:40+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.53.8
+HTTP_REFERER: http://777s.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T03:30:40+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.53.8
+HTTP_REFERER: http://red-chair.net/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T03:30:41+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.53.8
+HTTP_REFERER: http://red-chair.net/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T03:30:41+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.53.8
+HTTP_REFERER: http://777s.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T03:30:42+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.53.8
+HTTP_REFERER: http://red-chair.net/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T05:19:52+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.119.113.155
+HTTP_REFERER: http://fin48.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T05:19:52+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.119.113.155
+HTTP_REFERER: http://fin48.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T05:19:53+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.119.113.155
+HTTP_REFERER: http://fin48.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T06:34:06+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.85.64
+HTTP_REFERER: http://steelbuildings.com.ua/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T06:34:06+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.85.64
+HTTP_REFERER: http://steelbuildings.com.ua/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T06:34:07+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.85.64
+HTTP_REFERER: http://steelbuildings.com.ua/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-21T19:13:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 176.109.183.114
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,47 @@
+2011-05-22T00:11:00+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 94.142.128.140
+HTTP_REFERER: http://graphicore.de/en/index/topic/intern/projekte/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-22T07:22:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.163.65.189
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-22T09:44:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 94.45.53.2
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-05-22T11:49:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.121.198.236
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

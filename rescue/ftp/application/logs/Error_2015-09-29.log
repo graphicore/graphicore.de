@@ -1,0 +1,354 @@
+2015-09-29T03:16:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 178.44.151.114
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T06:53:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.235.156.66
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T06:53:12+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.235.156.66
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T08:46:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.163
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(7) "dzbwcms"
+  ["action"] => string(3) "inc"
+  ["editor"] => array(2) {
+    [0] => string(9) "fckeditor"
+    [1] => NULL
+  }
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T09:30:03+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 180.76.15.142
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T11:44:48+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 162.243.110.96
+HTTP_REFERER: http://graphicore.de/de/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T11:45:03+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 162.243.110.96
+HTTP_REFERER: http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T13:23:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.163
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "edit"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T13:26:55+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 144.76.15.235
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T13:27:23+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 144.76.15.235
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T18:49:55+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.80.148
+HTTP_REFERER: http://ostroike.org/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T18:49:55+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.80.148
+HTTP_REFERER: http://ostroike.org/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T18:49:56+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 178.137.80.148
+HTTP_REFERER: http://ostroike.org/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T19:11:56+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 94.153.10.11
+HTTP_REFERER: http://krasivoe-hd.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T19:12:21+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://carswithmuscles.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T19:12:21+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://carswithmuscles.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T19:12:22+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://carswithmuscles.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T22:14:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 192.187.126.163
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T22:17:01+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 157.55.39.48
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T22:36:17+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://djvureader-free.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T22:36:17+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://djvureader-free.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T22:36:18+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 46.118.115.65
+HTTP_REFERER: http://djvureader-free.ru/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T23:12:02+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.234.21
+HTTP_REFERER: http://www.pozvonim.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T23:12:03+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.234.21
+HTTP_REFERER: http://www.pozvonim.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T23:12:03+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 134.249.234.21
+HTTP_REFERER: http://www.pozvonim.com/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T23:24:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.56.242.164
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T23:24:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 83.56.242.164
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-09-29T23:27:41+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 83.56.242.164
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(6) "https:"
+  ["key"] => string(0) ""
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+2012-06-18T02:11:52+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 213.83.21.18
+HTTP_REFERER: 
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

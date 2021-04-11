@@ -1,0 +1,84 @@
+2016-04-26T01:02:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 80.139.175.62
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-26T02:09:56+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.154
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-26T06:00:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 66.249.78.231
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(26) "apple-app-site-association"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-26T19:25:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.246.81.79
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-26T20:05:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.149.254.109
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-26T20:31:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.246.81.79
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-04-26T23:09:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.92.73.125
+HTTP_REFERER: http://graphicore.de/backup.sql
+requested: array(3) {
+  ["controller"] => string(10) "backup.sql"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,70 @@
+2011-10-31T01:38:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.22.100.221
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-10-31T01:38:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.22.100.221
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-10-31T01:39:00+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.22.100.221
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-10-31T01:39:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 95.22.100.221
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-10-31T10:02:53+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 130.83.167.153
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-10-31T22:11:00+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 130.83.167.153
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------

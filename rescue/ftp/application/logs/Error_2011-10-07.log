@@ -1,0 +1,80 @@
+2011-10-07T00:20:52+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 77.20.40.169
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-10-07T09:57:37+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 87.174.232.102
+HTTP_REFERER: http://www.yasni.de/index.php?action=webprofile&name=Christina%20Willkomm&number=174988&dlg=1
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-10-07T09:57:54+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 87.174.232.102
+HTTP_REFERER: http://graphicore.de/en/index/story/intern/abraum
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-10-07T09:57:57+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 87.174.232.102
+HTTP_REFERER: http://graphicore.de/de/index/story/intern/abraum
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-10-07T09:57:59+00:00 ERR (3) 404 "story" was not found.
+REMOTE_ADDR: 87.174.232.102
+HTTP_REFERER: http://graphicore.de/en/index/story/intern/abraum
+requested: array(6) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "story"
+  ["intern"] => string(6) "abraum"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-10-07T23:16:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.122.26.192
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

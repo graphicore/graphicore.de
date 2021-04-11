@@ -1,0 +1,133 @@
+2016-12-22T00:04:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 138.201.59.34
+HTTP_REFERER: http://www.graphicore.de/forum/viewtopic.php?t=13&
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-22T03:57:53+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.29
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-22T05:08:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.129.148.190
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(18) "class-comments.php"
+  ["module"] => string(7) "default"
+  ["blog"] => string(1) "1"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-22T06:02:32+00:00 ERR (3) 404 "de" was not found.
+REMOTE_ADDR: 216.244.66.243
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(2) "de"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-22T09:39:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.209.51.22
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "19"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-22T09:39:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.209.51.22
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "54"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-22T09:39:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.209.51.22
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "57"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-22T09:40:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.209.51.22
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["p"] => string(2) "58"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-22T16:51:45+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 195.154.181.162
+HTTP_REFERER: http://graphicore.de/up.php
+requested: array(3) {
+  ["controller"] => string(6) "up.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-22T21:22:18+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 207.46.13.29
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2016-12-22T21:52:10+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.129.148.190
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "hetlerx.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

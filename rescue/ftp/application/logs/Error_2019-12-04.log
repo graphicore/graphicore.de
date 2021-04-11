@@ -1,0 +1,72 @@
+2019-12-04T07:25:00+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 180.175.135.92
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-12-04T09:03:02+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 66.249.64.92
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-12-04T09:07:23+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 62.210.80.17
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-12-04T12:45:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.165.60.59
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-12-04T12:48:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 163.172.95.46
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-12-04T21:15:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 198.199.123.206
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

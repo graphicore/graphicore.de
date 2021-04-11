@@ -1,0 +1,197 @@
+2019-11-09T00:11:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T00:11:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T00:11:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T00:11:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T02:31:56+00:00 ERR (3) 404 "2014-02-27_sibylle_frankKleine" was not found.
+REMOTE_ADDR: 66.249.64.92
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(30) "2014-02-27_sibylle_frankKleine"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T06:46:28+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 46.229.168.163
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T08:02:42+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T08:02:42+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 23.237.4.26
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T08:21:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T08:21:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T08:21:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T08:21:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T15:29:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T15:29:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T15:29:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T15:29:49+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 5.9.98.8
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-09T19:07:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 185.206.225.51
+HTTP_REFERER: http://graphicore.de/skin/frontend/base/default/css/flexibleforms/flexibleforms.css
+requested: array(5) {
+  ["controller"] => string(4) "skin"
+  ["action"] => string(8) "frontend"
+  ["base"] => string(7) "default"
+  ["css"] => string(13) "flexibleforms"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

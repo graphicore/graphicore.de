@@ -1,0 +1,104 @@
+2015-12-08T04:51:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.200.19.14
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-08T04:51:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.200.19.14
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-08T06:57:58+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 78.46.50.246
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-08T11:36:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 195.242.80.40
+HTTP_REFERER: http://graphicore.de/?author=1
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-08T12:01:48+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.200.19.14
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-08T12:02:32+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 207.200.19.14
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-08T12:37:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.193.9.243
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(32) "apple-touch-icon-precomposed.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-08T12:37:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 93.193.9.243
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(20) "apple-touch-icon.png"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-12-08T19:47:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 193.201.225.101
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(7) "plugins"
+  ["revslider"] => string(2) "js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

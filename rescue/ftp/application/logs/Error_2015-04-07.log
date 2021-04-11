@@ -1,0 +1,369 @@
+2015-04-07T05:06:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 106.226.8.99
+HTTP_REFERER: http://graphicore.de/forum/index.php
+requested: array(3) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(9) "index.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T06:30:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 188.165.15.207
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "images"
+  ["action"] => string(5) "diary"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T10:32:43+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 66.249.64.53
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T17:37:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 82.146.32.138
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:11:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(9) "templates"
+  ["action"] => string(2) "cn"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:11:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(4) {
+  ["controller"] => string(8) "templets"
+  ["action"] => string(7) "default"
+  ["style"] => string(11) "dedecms.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:11:46+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(4) {
+  ["controller"] => string(8) "template"
+  ["action"] => string(7) "default"
+  ["common"] => string(10) "footer.htm"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:11:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(12) "transport.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:11:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(13) "Administrator"
+  ["action"] => string(9) "FCKeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:11:55+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(13) "Administrator"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:11:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(10) "_fckeditor"
+  ["action"] => string(12) "fckeditor.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:01+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(6) "editor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(6) "common"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:09+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(12) "fckeditor.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:11+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(12) "fckeditor.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:16+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(7) "include"
+  ["action"] => string(9) "fckeditor"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(11) "FCKEditorV2"
+  ["action"] => string(12) "fckeditor.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(9) "FCKeditor"
+  ["action"] => string(12) "fckeditor.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:25+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(4) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(2) "js"
+  ["fckeditor"] => string(12) "fckeditor.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:27+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(3) "fck"
+  ["action"] => string(12) "fckeditor.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(12) "fckeditor.js"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:33+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(4) "mage"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(11) "moadmin.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(7) "moadmin"
+  ["action"] => string(11) "moadmin.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(10) "phpmoadmin"
+  ["action"] => string(11) "moadmin.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(4) {
+  ["controller"] => string(7) "catalog"
+  ["action"] => string(4) "view"
+  ["javascript"] => string(9) "common.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:47+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(8) "includes"
+  ["action"] => string(10) "general.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(8) "tools.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(3) "css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(11) "wp-includes"
+  ["action"] => string(15) "wlwmanifest.xml"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-04-07T19:12:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.74.75.173
+HTTP_REFERER: http://graphicore.de
+requested: array(3) {
+  ["controller"] => string(8) "includes"
+  ["action"] => string(10) "general.js"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

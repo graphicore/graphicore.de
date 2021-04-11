@@ -1,0 +1,144 @@
+2021-01-03T11:23:33+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.242
+HTTP_REFERER: http://graphicore.de/de/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T12:03:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 221.152.197.151
+HTTP_REFERER: http://graphicore.de/pma/
+requested: array(3) {
+  ["controller"] => string(3) "pma"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T12:03:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 221.152.197.151
+HTTP_REFERER: http://graphicore.de/phpmyadmin/
+requested: array(3) {
+  ["controller"] => string(10) "phpmyadmin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T12:03:26+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 221.152.197.151
+HTTP_REFERER: http://graphicore.de/phpMyAdmin/
+requested: array(3) {
+  ["controller"] => string(10) "phpMyAdmin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T12:40:46+00:00 ERR (3) 404 "anne" was not found.
+REMOTE_ADDR: 66.249.66.85
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(4) "anne"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T13:31:07+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(17) "sitemap_index.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T14:01:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.110
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(8) "atom.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T14:39:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 13.66.139.114
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(14) "sitemap.xml.gz"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T20:24:31+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 95.216.96.242
+HTTP_REFERER: http://graphicore.de/en/feed/rss
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T20:24:32+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.242
+HTTP_REFERER: http://graphicore.de/de/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T20:24:42+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 95.216.96.242
+HTTP_REFERER: http://graphicore.de/en/page/lasse
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2021-01-03T22:20:33+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 54.36.149.65
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

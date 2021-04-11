@@ -1,0 +1,223 @@
+<?php
+$translate = GC_Translate::get();
+$request = Zend_Controller_Front::getInstance()->getRequest();
+$baseUrl =  $request->getBaseUrl();
+
+$meUrl = $this->url(array(
+    'module' => 'default',
+    'controller' => 'index',
+    'action' => 'page',
+    'key' => 'lasse'
+),'i18n', True);
+
+// IE goea quirks here as of http://blog.whatwg.org/xhtml5-in-a-nutshell
+//echo '<'.'?xml version="1.0" encoding="UTF-8" ?'.'>'."\n";
+
+// is not xhtml 1.0 strict anymore
+// echo $this->doctype();
+?>
+<!DOCTYPE html>
+<html lang="<?php echo GC_I18n::getLang();?>"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="<?php echo GC_I18n::getLang();?>"
+    <?php
+    /*
+    echo ' xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.w3.org/1999/xhtml
+                http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"';
+    */
+    ?>
+>
+<head>
+<meta charset="UTF-8" />
+<?php
+/*
+ the html5 validator doesn't like these:
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="MSSmartTagsPreventParsing" content="false" />
+*/
+?>
+<meta name="google-site-verification" content="Y_i7yzBmF0Bv9KGdv0QZmGBXAfljS57aRs7Lq7NNcE0" />
+
+<meta name="geo.position" content="52.4809428;13.4490089" />
+<meta name="ICBM" content="52.4809428,13.4490089" />
+<meta name="geo.placename" content="Werrastr. 10A, 12049 Berlin, Deutschland" />
+<meta name="geo.region" content="DE-BE" />
+<meta name="keywords" content="Lasse Fister, graphicore, Berlin, Design, Visuelle Kommunikation, Grafikdesign, Web Development, Interaction Desgin, Printmedien, Webdesign, Layout, Typografie, typography, font design, Schriftgestaltung, Open Source, Libre Graphics, Logo, opensource design, internet, Bauhaus" />
+<meta name="author" content="Lasse Fister" />
+
+<meta name="robots" content="index, follow" />
+<?php /*we want some more title here! that means dynamically added ...*/?>
+    <title><?php echo $this->title($this->titleData); ?></title>
+    <link type="image/gif" rel="icon" href="http://www.graphicore.de/favicon.gif" />
+<?php
+    $feedUrlArray = array(
+        'module' => 'default',
+        'controller' => 'index',
+        'action' => 'feed',
+        'lang' => GC_I18n::getLang(),
+        'key' => '',
+    );
+    foreach(array('atom' => 'application/atom+xml', 'rss' => 'application/rss+xml') as $type => $mime)
+    {
+        $feedUrlArray['key'] = $type;
+        printf('<link rel="alternate" type="%1$s" title="%2$s" href="%3$s" />',
+            $mime,
+            $type.'-feed '.$this->title($translate->_('Diary')),
+            $this->url($feedUrlArray,'i18n', True)
+         );
+    }
+    $styleUrl = $baseUrl.'/style/';
+    $scriptUrl = $baseUrl.'/js/';
+    $imagesUrl = $baseUrl.'/images/';
+/*
+    $jscripts = array();
+    foreach($jscripts as $script)
+    {
+        printf('<script type="text/javascript" src="%1$s%2$s"></script>', $scriptUrl, $script);
+    }
+*/
+   ?>
+    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.8.3/dijit/themes/nihilo/nihilo.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="<?php echo $styleUrl;?>style.css" />
+    <!--[if lt IE 8]>
+    <link type="text/css" rel="stylesheet" media="screen" href="<?php echo $styleUrl;?>ielt8.css" />
+    <![endif]-->
+<?php /*
+    <script type="text/javascript" src="/javascript/dojo/dojo.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/dojo/1.5/dojo/dojo.xd.js"></script>
+*/ ?>
+    <script src="//ajax.googleapis.com/ajax/libs/dojo/1.8.3/dojo/dojo.js" data-dojo-config="async:true"></script>
+
+    <?php
+    if(('guest' === Zend_Registry::getInstance()->userRole)
+    && (Zend_Registry::get('config')->pageLocation === 'graphicore.de')){?>
+<?php /*
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1358369-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function(){
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+*/ ?>
+    <?php
+    } ?>
+    <script type="text/javascript" src="<?php echo $scriptUrl;?>dmain.js"></script>
+
+  <?php
+    //echo $this->headLink()->appendStylesheet('/gczend/public/css/reset.css')
+    //$this->headLink()->appendStylesheet('/rotor/toytoytoys/public/css/global.css')
+
+    //echo $this->headLink();
+    //echo $this->headScript();
+  ?>
+</head>
+<body class="nihilo noscript<?php /* grid*/?>">
+<div class="stage">
+<div class="header">
+    <?php echo $this->languageSwitch($this->urlArray); ?>
+    <div class="to-the-top">
+        <?php
+        //<object type="image/svg+xml" data="</?php echo $imagesUrl;?/>layout/arrow_smaller.svg"></object>
+
+        //the super tooltip will stay wherever the button was pressed, quickes is to remove the tooltip
+        //<a title="</a>?php echo $translate->_('to the top'); ?/>" href="#"><span>top</span></a></div>
+        ?>
+        <a href="#"><span>top</span></a></div>
+    <div class="logo">
+    <?php
+    /*
+    echo $this->url(
+        array(
+            'module'     => 'default',
+            'controller' => 'index',
+            'action'     => 'static',
+            'static'     => 'home',
+            'lang' => GC_I18n::getLang()
+        ),'i18n', True);
+    */
+    ?>
+        <a rel="me" href="<?php echo $this->url(array(
+            'module' => 'default',
+            'controller' => 'index',
+            'action' => 'index',
+            'lang' => GC_I18n::getLang()),'i18n', True);?>"><span>home</span></a>
+        <?php
+            //<object type="image/svg+xml" data="</object>?php echo $imagesUrl;?/>layout/head.svg"></object>
+        ?>
+    </div>
+    <div class="menu-bar">
+        <?php echo $this->getMainMenu(); ?>
+    </div>
+</div>
+    <?php
+    $klasses = array('page' => 'black', 'error' => 'error');
+
+    $klass = array_key_exists($this->resourceType, $klasses) ? $klasses[$this->resourceType] : 'white';
+    /*
+     * the id must be the same as the one the javascript in the frontend creates
+     * for conformance with the html specs an id
+     * must begin with A-Z or a-z
+     * consist of A-Za-z,0-9-_:.
+     *
+     * the javascript replacement
+     * href.replace(/[^A-Za-z0-9._:\-]/g, ':');
+     * the php replacement
+     * preg_replace('/[^A-Za-z0-9._:\-]/', ':', href);
+    */
+
+    ?>
+
+    <div id="<?php echo $this->uniqueHtmlID;
+    /*
+    if(!is_array($this->urlArray))
+    {
+        //almost only happens when the request went throu errorController
+        $this->urlArray = $request->getParams();
+        foreach(array_keys($this->urlArray) as $k)
+        {
+            //'error_handler' is an object
+            if(!is_string($k) || !is_string($this->urlArray[$k]))
+            {
+                unset($this->urlArray[$k]);
+            }
+        }
+    }
+    echo Zend_Controller_Front::getInstance()->getRenderer()->uniqueHtmlID((array)$this->urlArray);
+    */
+    ?>" class="content <?php echo $klass; ?>"><?php echo $this->layout()->content;?></div>
+<?php
+/*
+<div class="footer closed">
+    <div class="inner"><div class="footerContent">
+        <p class="bottomLine">
+        <?php
+        //echo 'The background image is created by <a href="http://suicidecrew.deviantart.com">suicidecrew</a> and can be found <a href="http://suicidecrew.deviantart.com/art/Fire-Seamless-tile-116721709">here</a>. Thanks a lot.<br />';
+            $meUrl = $this->url(array(
+                'module' => 'default',
+                'controller' => 'index',
+                'action' => 'page',
+                'key' => 'lasse'
+            ),'i18n', True);
+        ?>
+        <a rel="me" href="<?php echo $meUrl;?>">Impressum</a>, Copyright © 2009 - <?php echo date('Y') ?> by <a rel="me" href="<?php echo $meUrl;?>">Lasse Fister</a>
+    </p>
+    </div></div>
+</div>
+*/
+?>
+<div class="simple-footer">
+<a rel="me" href="<?php echo $meUrl;?>">Impressum</a>, Copyright © 2009 – <?php echo date('Y') ?> by <a rel="me" href="<?php echo $meUrl;?>">Lasse Fister</a>
+</div>
+</div>
+</body>
+</html>

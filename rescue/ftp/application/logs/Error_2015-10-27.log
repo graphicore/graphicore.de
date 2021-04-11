@@ -1,0 +1,90 @@
+2015-10-27T09:54:20+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 54.149.240.227
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-27T12:33:15+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.208.173.143
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-27T12:33:17+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 74.208.173.143
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "js"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-27T14:08:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(10) "xmlrpc.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+  ["rsd"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-27T14:08:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(10) "robots.txt"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-27T14:08:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-27T14:08:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2015-10-27T14:08:45+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.118.155.216
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

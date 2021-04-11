@@ -1,0 +1,11 @@
+2012-05-15T05:07:53+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 217.69.133.29
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

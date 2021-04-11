@@ -1,0 +1,60 @@
+<?php
+$urlArray = $this->urlArray;
+$urlArray['action'] = 'update';
+//$urlArray[$this->editLangKey] = $this->editLang;
+$urlArray['id'] = $this->id;
+
+$typeNameArticle = preg_match("#^h?[aeiouäüö]+#ui", $this->typeName) ? 'an' : 'a';
+printf((is_string($this->headlineFormat)) ? $this->headlineFormat : '<h1>%2$s %3$s %1$s</h1>',
+    $this->typeName,
+    $this->verb,
+    $typeNameArticle);
+if($this->message)
+{
+    echo '<p class="message">'.$this->message.'</p>';
+}
+
+echo $this->editingLanguageSwitch
+(
+    $this->editLang, $urlArray, 'modules_i18n', $this->editLangKey
+);
+
+$topLinks = array();
+$urlCreate = $urlArray;
+unset ($urlCreate['id']);
+$urlCreate['action'] = 'create';
+if(Zend_Registry::getInstance()->acl->check(
+    Zend_Registry::getInstance()->userRole,
+    $urlCreate['module'].'_'.$urlCreate['controller'], $urlCreate['action']
+    ))
+{
+    $url = $this->url($urlCreate, 'modules_i18n', True);
+    $topLinks[] = sprintf('<a href="%1$s">rather Create %2$s %3$s</a>', $url, $typeNameArticle, $this->typeName);
+}
+if($this->frontUrlArr)
+{
+    $this->frontUrlArr['lang'] = $this->editLang;
+    $url = $this->url($this->frontUrlArr, 'i18n', True);
+    $topLinks[] = sprintf('<a href="%1$s">view the page</a>', $url);
+}
+if(!empty($topLinks))
+{
+    printf('<p class="toplinks">%1$s</p>', join($topLinks, ', '));
+}
+
+$urlUpdate = $urlArray;
+$urlUpdate[$this->editLangKey] = $this->editLang;
+$url = $this->url($urlUpdate, 'modules_i18n', True);
+
+$this->form->setAction($url)
+    ->output();
+
+if('development' === APPLICATION_ENV && $this->dump)
+{
+    ?><div class="development">
+    <h3>development information</h3>
+    <div class="content">
+    <?php echo GC_Debug::dump($this->dump,true); ?>
+    </div></div>
+    <?php
+}

@@ -1,0 +1,50 @@
+2020-01-19T11:47:08+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 42.7.7.227
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-19T16:07:13+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 109.102.111.32
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "https:"
+  ["action"] => string(19) "silber-und-blei.com"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-19T17:30:49+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.25.185.196
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2020-01-19T17:33:20+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.25.185.196
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

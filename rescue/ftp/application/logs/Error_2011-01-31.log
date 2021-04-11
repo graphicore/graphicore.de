@@ -1,0 +1,60 @@
+2011-01-31T01:00:21+00:00 ERR (3) 404 "topic" was not found.
+REMOTE_ADDR: 89.28.3.241
+HTTP_REFERER: http://graphicore.de/en/index/topic/intern/projekte/
+requested: array(6) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(5) "topic"
+  ["intern"] => string(8) "projekte"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-31T01:56:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 85.137.187.122
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-31T04:35:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 212.123.143.152
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-31T09:10:21+00:00 ERR (3) 404 "" was not found.
+REMOTE_ADDR: 65.52.108.14
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+  ["key"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2011-01-31T14:51:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 87.210.43.4
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(1) "'"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

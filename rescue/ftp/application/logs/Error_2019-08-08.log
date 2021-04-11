@@ -1,0 +1,33 @@
+2019-08-08T22:46:28+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.121.209.213
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".env"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-08-08T22:46:29+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.121.209.213
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".git"
+  ["action"] => string(6) "config"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-08-08T22:46:30+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 91.121.209.213
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) ".aws"
+  ["action"] => string(11) "credentials"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

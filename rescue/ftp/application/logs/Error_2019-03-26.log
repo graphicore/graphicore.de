@@ -1,0 +1,25 @@
+2019-03-26T13:19:28+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 134.73.199.154
+HTTP_REFERER: http://graphicore.de/wp-content/themes/qualifire/style.css
+requested: array(4) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(6) "themes"
+  ["qualifire"] => string(9) "style.css"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-03-26T14:44:10+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 23.228.81.10
+HTTP_REFERER: http://graphicore.de/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php
+requested: array(5) {
+  ["controller"] => string(10) "wp-content"
+  ["action"] => string(6) "themes"
+  ["RightNow"] => string(8) "includes"
+  ["uploadify"] => string(25) "upload_settings_image.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

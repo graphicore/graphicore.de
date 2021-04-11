@@ -1,0 +1,230 @@
+2019-11-04T10:03:43+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.25.236.93
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T10:04:02+00:00 ERR (3) 404 "competences" was not found.
+REMOTE_ADDR: 85.25.236.93
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(11) "competences"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T10:19:40+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.236.93
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T10:25:13+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 85.25.236.93
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T12:08:43+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 40.77.167.208
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T13:22:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 46.229.168.136
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(11) "sitemap.xml"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "panel"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "_panel"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "manager"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "backoffice"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "cms"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "system"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(6) "_admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "back"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:23+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(5) "Admin"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "CMS"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(3) "adm"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2019-11-04T20:16:24+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 103.219.154.12
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "root"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

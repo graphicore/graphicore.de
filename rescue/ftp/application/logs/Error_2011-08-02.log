@@ -1,0 +1,11 @@
+2011-08-02T18:49:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 77.208.155.179
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(10) "javascript"
+  ["action"] => string(24) "%27%20+%20href%20+%20%27"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

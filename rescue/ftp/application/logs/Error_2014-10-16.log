@@ -1,0 +1,183 @@
+2014-10-16T04:17:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.220.126.250
+HTTP_REFERER: http://graphicore.de/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(9) "fckeditor"
+  ["action"] => string(6) "editor"
+  ["filemanager"] => string(7) "browser"
+  ["default"] => string(10) "connectors"
+  ["asp"] => string(13) "connector.asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T04:17:41+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.220.126.250
+HTTP_REFERER: http://graphicore.de/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T04:17:42+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.220.126.250
+HTTP_REFERER: http://graphicore.de/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(5) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T04:17:43+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 112.220.126.250
+HTTP_REFERER: http://graphicore.de/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+requested: array(6) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(11) "filemanager"
+  ["browser"] => string(7) "default"
+  ["connectors"] => string(3) "asp"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T08:08:19+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(8) {
+  ["controller"] => string(5) "forum"
+  ["action"] => string(13) "viewtopic.php"
+  ["module"] => string(7) "default"
+  ["t"] => string(2) "13"
+  ["start"] => string(1) "0"
+  ["postdays"] => string(1) "0"
+  ["postorder"] => string(3) "asc"
+  ["highlight"] => string(0) ""
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T08:28:19+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 141.8.189.118
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T09:20:05+00:00 ERR (3) 404 "en" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(7) "archive"
+  ["key"] => string(2) "en"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T11:18:55+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 141.8.147.20
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T13:21:31+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 27.159.204.192
+HTTP_REFERER: http://graphicore.de/FCK/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(3) "FCK"
+  ["action"] => string(6) "editor"
+  ["dialog"] => string(14) "fck_about.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T13:21:35+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 27.159.204.192
+HTTP_REFERER: http://graphicore.de/admin/FCKeditor/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(6) "dialog"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T13:22:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 27.159.204.192
+HTTP_REFERER: http://graphicore.de/manage/FCKeditor/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(6) "manage"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(6) "dialog"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T13:22:22+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 27.159.204.192
+HTTP_REFERER: http://graphicore.de/editor/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(6) "editor"
+  ["dialog"] => string(14) "fck_about.html"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T13:22:36+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 27.159.204.192
+HTTP_REFERER: http://graphicore.de/editor/FCKeditor/editor/dialog/fck_about.html
+requested: array(4) {
+  ["controller"] => string(6) "editor"
+  ["action"] => string(9) "FCKeditor"
+  ["editor"] => string(6) "dialog"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2014-10-16T17:22:37+00:00 ERR (3) 404 "2014-02-27_kaufland-firewall-service" was not found.
+REMOTE_ADDR: 208.115.113.89
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "de"
+  ["action"] => string(7) "archive"
+  ["key"] => string(36) "2014-02-27_kaufland-firewall-service"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

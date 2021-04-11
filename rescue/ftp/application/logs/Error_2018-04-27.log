@@ -1,0 +1,258 @@
+2018-04-27T00:27:50+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 115.133.214.221
+HTTP_REFERER: 
+requested: array(4) {
+  ["controller"] => string(6) "https:"
+  [""] => string(19) "silber-und-blei.com"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T02:17:58+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 181.45.28.179
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T02:34:02+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.244.73.98
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "wp"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T02:34:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.244.73.98
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(9) "wordpress"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T02:34:04+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.244.73.98
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "blog"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T02:34:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.244.73.98
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(7) "website"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T02:34:05+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.244.73.98
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(4) "site"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T02:34:06+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 216.244.73.98
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(2) "WP"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T03:19:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 78.167.92.220
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T03:33:21+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 189.49.246.71
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T04:46:56+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 41.208.71.182
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T04:49:37+00:00 ERR (3) 404 "hire-lasse" was not found.
+REMOTE_ADDR: 180.76.15.8
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(4) "page"
+  ["key"] => string(10) "hire-lasse"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T05:35:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 130.204.143.119
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T08:25:14+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 110.159.79.108
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T09:49:38+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 124.111.114.162
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T10:18:03+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 37.47.236.104
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T10:19:20+00:00 ERR (3) 404 Page not found
+REMOTE_ADDR: 163.172.197.129
+HTTP_REFERER: 
+requested: array(5) {
+  ["controller"] => string(5) "admin"
+  ["action"] => string(9) "fckeditor"
+  ["editor"] => string(6) "dialog"
+  ["fck_about"] => string(10) "search.php"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T11:35:59+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 41.199.189.108
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T12:45:54+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 31.14.232.139
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T14:54:40+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 222.239.55.187
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T16:43:08+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 72.132.144.79
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T20:46:44+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 110.140.56.37
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------
+2018-04-27T23:17:39+00:00 ERR (3) 404 Seite nicht gefunden
+REMOTE_ADDR: 181.92.218.207
+HTTP_REFERER: 
+requested: array(3) {
+  ["controller"] => string(12) "wp-login.php"
+  ["action"] => string(5) "index"
+  ["module"] => string(7) "default"
+}
+
+
+--------------------------------------------------------------------------------

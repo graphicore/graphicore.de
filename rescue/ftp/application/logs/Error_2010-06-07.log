@@ -1,0 +1,33 @@
+2010-06-07T16:25:21+00:00 ERR (3) 500 Expected Exception
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: http://localhost/graphicore2/public/
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["controller"] => string(5) "index"
+  ["action"] => string(11) "servererror"
+  ["module"] => string(7) "default"
+  ["ajax"] => string(4) "true"
+}
+exception 'Zend_Controller_Action_Exception' with message 'Expected Exception' in /home/commander/web/webroot/graphicore2/application/modules/default/controllers/IndexController.php:36
+Stack trace:
+#0 /home/commander/web/libraries/ZendFramework-1.10.5/library/Zend/Controller/Action.php(513): IndexController->servererrorAction()
+#1 /home/commander/web/libraries/ZendFramework-1.10.5/library/Zend/Controller/Dispatcher/Standard.php(295): Zend_Controller_Action->dispatch('servererrorActi...')
+#2 /home/commander/web/libraries/ZendFramework-1.10.5/library/Zend/Controller/Front.php(954): Zend_Controller_Dispatcher_Standard->dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#3 /home/commander/web/libraries/ZendFramework-1.10.5/library/Zend/Application/Bootstrap/Bootstrap.php(97): Zend_Controller_Front->dispatch()
+#4 /home/commander/web/libraries/ZendFramework-1.10.5/library/Zend/Application.php(366): Zend_Application_Bootstrap_Bootstrap->run()
+#5 /home/commander/web/webroot/graphicore2/public/index.php(22): Zend_Application->run()
+#6 {main}
+
+--------------------------------------------------------------------------------
+2010-06-07T16:25:39+00:00 ERR (3) 403 Forbidden
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: http://localhost/graphicore2/public/
+requested: array(4) {
+  ["module"] => string(7) "backend"
+  ["controller"] => string(5) "index"
+  ["action"] => string(5) "index"
+  ["ajax"] => string(4) "true"
+}
+
+
+--------------------------------------------------------------------------------

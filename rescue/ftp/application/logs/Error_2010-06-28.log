@@ -1,0 +1,13 @@
+2010-06-28T15:07:39+00:00 ERR (3) 404 "archive" was not found.
+REMOTE_ADDR: 127.0.0.1
+HTTP_REFERER: 
+requested: array(5) {
+  ["lang"] => string(2) "en"
+  ["action"] => string(5) "index"
+  ["key"] => string(7) "archive"
+  ["module"] => string(7) "default"
+  ["controller"] => string(5) "index"
+}
+
+
+--------------------------------------------------------------------------------

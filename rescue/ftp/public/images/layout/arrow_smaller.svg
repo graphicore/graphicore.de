@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   id="svg2"
+   xml:space="preserve">
+<defs
+   id="defs4">
+</defs>
+<polygon
+   points="11,30 11,45 21,45 21,30 31,30 31,25 26,25 26,20 21,20 21,15 11,15 11,20 6,20 6,25 1,25 1,30 "
+   transform="translate(0,-14)"
+   id="polygon6"
+   style="stroke:#333333;stroke-width:2" />
+<linearGradient
+   x1="19.5"
+   y1="60"
+   x2="19.5"
+   y2="29"
+   id="XMLID_1_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="translate(0,-14)">
+	<stop
+   id="stop9"
+   style="stop-color:#75cd10;stop-opacity:1"
+   offset="0" />
+	<stop
+   id="stop11"
+   style="stop-color:#75cd10;stop-opacity:1"
+   offset="0.2568" />
+	<stop
+   id="stop13"
+   style="stop-color:#74d110;stop-opacity:1"
+   offset="0.2938" />
+	<stop
+   id="stop15"
+   style="stop-color:#6ed908;stop-opacity:1"
+   offset="0.4145" />
+	<stop
+   id="stop17"
+   style="stop-color:#7bda00;stop-opacity:1"
+   offset="0.537" />
+	<stop
+   id="stop19"
+   style="stop-color:#7dd504;stop-opacity:1"
+   offset="0.68940002" />
+	<stop
+   id="stop21"
+   style="stop-color:#7ed406;stop-opacity:1"
+   offset="0.92220002" />
+</linearGradient>
+<path
+   d="M 1,16 H 11 V 31 H 21 V 16 H 31 V 15 H 1 v 1 z m 33,-1 v 31 h 4 V 15 h -4 z"
+   id="path23"
+   style="fill:url(#XMLID_1_)" />
+<linearGradient
+   x1="19.5"
+   y1="29"
+   x2="19.5"
+   y2="2.8421709e-14"
+   id="XMLID_2_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="translate(0,-14)">
+	<stop
+   id="stop26"
+   style="stop-color:#76e500;stop-opacity:1"
+   offset="0.0545" />
+	<stop
+   id="stop28"
+   style="stop-color:#78e100;stop-opacity:1"
+   offset="0.1105" />
+	<stop
+   id="stop30"
+   style="stop-color:#7bda00;stop-opacity:1"
+   offset="0.23999999" />
+	<stop
+   id="stop32"
+   style="stop-color:#7dd504;stop-opacity:1"
+   offset="0.4138" />
+	<stop
+   id="stop34"
+   style="stop-color:#7ed406;stop-opacity:1"
+   offset="0.8132" />
+</linearGradient>
+<path
+   d="M 26,6 H 21 V 1 H 11 V 6 H 6 v 5 H 1 v 4 H 31 V 11 H 26 V 6 z m 8,-20 v 29 h 4 v -29 h -4 z"
+   id="path36"
+   style="fill:url(#XMLID_2_)" />
+<polygon
+   points="6,20 6,25 1,25 1,30 2,29 2,26 7,26 7,21 12,21 12,16 20,16 21,15 11,15 11,20 "
+   transform="translate(0,-14)"
+   id="polygon38"
+   style="opacity:0.72000002;fill:#ffffff" />
+<polygon
+   points="26,25 26,20 25,21 25,26 "
+   transform="translate(0,-14)"
+   id="polygon40"
+   style="opacity:0.37000002;fill:#666666" />
+<polygon
+   points="21,20 21,15 20,16 20,21 "
+   transform="translate(0,-14)"
+   id="polygon42"
+   style="opacity:0.37000002;fill:#666666" />
+<polygon
+   points="31,25 26,25 25,26 30,26 "
+   transform="translate(0,-14)"
+   id="polygon44"
+   style="opacity:0.72000002;fill:#ffffff" />
+<polygon
+   points="26,20 21,20 20,21 25,21 "
+   transform="translate(0,-14)"
+   id="polygon46"
+   style="opacity:0.72000002;fill:#ffffff" />
+<polygon
+   points="31,25 30,26 30,29 20,29 20,44 12,44 11,45 21,45 21,30 31,30 "
+   transform="translate(0,-14)"
+   id="polygon48"
+   style="opacity:0.37000002;fill:#666666" />
+<polygon
+   points="1,30 11,30 12,29 2,29 "
+   transform="translate(0,-14)"
+   id="polygon50"
+   style="opacity:0.37000002;fill:#666666" />
+<polygon
+   points="12,29 11,30 11,45 12,44 "
+   transform="translate(0,-14)"
+   id="polygon52"
+   style="opacity:0.72000002;fill:#ffffff" />
+</svg>
