@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Diary | graphicore.de</title>
+  <subtitle type="text">The Graphicore News</subtitle>
+  <updated>2015-07-28T18:03:27+00:00</updated>
+  <generator uri="http://framework.zend.com" version="1.10.8">Zend_Feed_Writer</generator>
+  <link rel="alternate" type="text/html" href="http://graphicore.de/en/diary"/>
+  <link rel="self" type="application/rss+xml" href="http://graphicore.de/en/feed/rss"/>
+  <link rel="self" type="application/atom+xml" href="http://graphicore.de/en/feed/atom"/>
+  <id>http://graphicore.de/diary/atom/</id>
+  <author>
+    <name>Lasse Fister</name>
+    <email>commander@graphicore.de</email>
+    <uri>http://graphicore.de</uri>
+  </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Hello Metapolator]]></title>
+    <summary type="html"><![CDATA[Hello MetapolatorLearn more about Metapolator and  ...]]></summary>
+    <published>2015-07-28T12:45:00+00:00</published>
+    <updated>2015-07-28T12:45:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2015-07-28_hello_metapolator"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2015-07-28:/diary/2015072812483855b77a264cda6</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Hello Metapolator</xhtml:h1>
+<xhtml:p>Learn more about Metapolator and visit the <xhtml:a href="http://metapolator.com">project homepage</xhtml:a> and the <xhtml:a href="https://github.com/metapolator/metapolator/">github
+repository</xhtml:a>.</xhtml:p>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth6 gridPos1">
+<xhtml:h2>A Short Personal Project History</xhtml:h2>
+<xhtml:p>The reason for me not updating my blog for a long while is that
+I was very busy. I'm still busy now, but yet writing. Something
+must have changed.<xhtml:br/>
+Metapolator is a next generation font creation tool. I started
+working on it roughly more than one year ago. We can consider the
+<xhtml:a href="http://libregraphicsmeeting.org/2014/">Libre Graphics
+Meeting 2014</xhtml:a> in Leipzig in April 2-5 as my initiation into the
+project and the start of the current phase. More about the project
+history can be found at <xhtml:a href="http://metapolator.com">metapolator.com</xhtml:a>. Our Team gathered
+later that year again at the <xhtml:a href="http://automatic-type-design.anrt-nancy.fr/index_en.php">Automatic
+Type Design conference</xhtml:a> at the ANRT in Nancy in May 6-7 2014. In
+the meantime I was working on the previous prototype of Metapolator
+and shaped my mind about what it did then and what I thought it
+should be. It was in Nancy where we laid the foundation for the
+current incarnation of Metapolator technology.<xhtml:br/>
+Many people contributed to the project, but at Nancy I met <xhtml:em>Paul
+Sladen</xhtml:em>, whose kind help, being a good listener, and giving
+valuable advice, helped me to form concepts strong enough to get my
+hands dirty and start working. <xhtml:strong>I left Nancy with a keen
+excitement in the project.</xhtml:strong></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth6 gridPos3">
+<xhtml:h2>Things keep changing</xhtml:h2>
+<xhtml:p>After more than one year later the Metapolator Project entered
+an interesting new phase. Some of the old concepts got replaced by
+better ones but the general direction has proven right. We have a
+great product vision and a well conceived ux-design through the
+work of <xhtml:em>Peter Sikking</xhtml:em>. Soon we will present a minimal
+viable product that supports designers with designing font
+families. To implement all of our plans and to reach version 1.0
+will take some more time however.</xhtml:p>
+<xhtml:p>My role in the project is less about the creation of the
+<xhtml:strong>“Metapolator” interface</xhtml:strong>; instead I am the inventor
+of the underlying <xhtml:strong>“Metapolator Technology”</xhtml:strong>. There
+are a couple of modules that I realized will be useful in a vastly
+broader range of applications and tools than just Metapolator. This
+led to my decision to take parts out of the repositories of
+Metapolator, and also <xhtml:a href="https://github.com/graphicore/ufoJS/">ufoJS</xhtml:a>, a library I began
+developing <xhtml:a href="/en/archive/2012-01-17_ufoJS-is-not-a-bird">some years ago</xhtml:a>
+that is a key component of Metapolator.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth6 gridPos1">
+<xhtml:h2>The Plan</xhtml:h2>
+<xhtml:p><xhtml:strong>I hope I can use parts of Metapolator, especially
+<xhtml:em title="Cascading Properties Sheets">CPS</xhtml:em>, to teach people
+how to make exciting new tools for font and graphic
+design.</xhtml:strong></xhtml:p>
+<xhtml:p>Taking modules out of Metapolator to create stand-alone projects
+has primarily didactical reasons. It will be easier to <xhtml:strong>show
+and explain</xhtml:strong> the technology of Metapolator by looking at
+one part at a the time, instead of everything at once. It will also
+be easier to <xhtml:strong>write specific documentation</xhtml:strong> for
+these projects without having to consider the highly specialized
+nature of Metapolator. Lastly and most exciting for me: we will be
+able to create cool little projects with our technology to
+<xhtml:strong>attract, inspire and teach</xhtml:strong> the community. These
+projects will form an ecosystem around Metapolator: The developer
+tool for <xhtml:em title="Cascading Properties Sheets">CPS</xhtml:em> that I'm
+working on right now will be available for all <xhtml:em title="Cascading Properties Sheets">CPS</xhtml:em> based projects as an ad-hoc
+interface.</xhtml:p>
+<xhtml:p>In the long run we will establish <xhtml:strong>Metapolator technology
+as a platform to build the next generation of type design
+tools</xhtml:strong>, or any other domain as well. Metapolator will be
+positioned as a highly sophisticated application that spawned new
+core technologies and on the way stimulates and enables new
+tools.</xhtml:p>
+<xhtml:p>I want to see more people participating in Metapolator
+technology in the future; particularly because we offer
+<xhtml:strong>interesting and genuinely new approaches for parametric
+design applications</xhtml:strong>, and can enable everything between
+professional type design/engineering tools to ultra creative
+graphic design tools <xhtml:em>that are fun both to make and to
+use</xhtml:em>.</xhtml:p>
+<xhtml:p>For a FLOSS project like ours it is crucial to gain a diverse
+community. Each part of the project will profit from discussing and
+solving issues raised by users from any background. <xhtml:strong>We have
+topics ranging from computer language design to user
+interaction</xhtml:strong>. The more people use our tools the more ideas
+and feedback will be available to further advance our mission.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth6 gridPos3">
+<xhtml:h2>Coming up next</xhtml:h2>
+<xhtml:p>Metapolator’s minimal viable product and the <xhtml:em title="Cascading Properties Sheets">CPS</xhtml:em> Developer Tool are being
+developed in parallel at the moment. When I have finished the
+developer tool I will start to <xhtml:strong>decouple some
+modules</xhtml:strong>, namely: <xhtml:em title="Cascading Properties Sheets">CPS</xhtml:em> plus the object model
+basics, <xhtml:em title="Metapolator Object Model">MOM</xhtml:em> (maybe), our
+IO modules, the pen APIs and a collection of pens, and the
+<xhtml:em title="Cascading Properties Sheets">CPS</xhtml:em> Developer Tool
+itself. I am also planning <xhtml:strong>a series of blog posts</xhtml:strong>
+to document the workings of these modules on a fairly high level
+and finally one about Metapolator that builds upon that knowledge.
+These articles will become part of the Metapolator documentation as
+well. I also have ideas for up to three <xhtml:strong>fun
+projects</xhtml:strong> that will prove the claims I made above and
+attract new people to this ecosystem; I expect one of these will be
+created soon after the isolation of <xhtml:em title="Cascading Properties Sheets">CPS</xhtml:em>.</xhtml:p>
+<xhtml:h3>Comments</xhtml:h3>
+<xhtml:p>I have no comments feature on my blog for several reasons. You
+can discuss this post at the <xhtml:a href="https://plus.google.com/+LasseFister/posts/9BUVmNzQJCx">Metapolator
+g+ community</xhtml:a>, write me an email or chat to me on twitter.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Firewall-Configuration-Server for an international Trading-Concern]]></title>
+    <summary type="html"><![CDATA[Firewall-Configuration-Server for an international ...]]></summary>
+    <published>2014-02-27T14:22:48+00:00</published>
+    <updated>2014-02-27T14:22:48+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2014-02-27_firewall-service"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2014-02-27:/diary/20140227142708530f4b3c7eae4</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Firewall-Configuration-Server for an international
+Trading-Concern</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:h2>Application Area</xhtml:h2>
+<xhtml:p>The server is only internally for the concern available and will
+be used in <xhtml:strong>three different settings</xhtml:strong>:</xhtml:p>
+<xhtml:ol>
+<xhtml:li><xhtml:strong>Initially</xhtml:strong> all new firewalls are set up with
+the generated configuration and then shipped to the location.</xhtml:li>
+<xhtml:li>In <xhtml:strong>case of failure</xhtml:strong> an engineer can generate
+the configuration for the replacement device.</xhtml:li>
+<xhtml:li>If <xhtml:strong>changes of the configurations</xhtml:strong> are
+necessary, this is the central place where the changes are
+incorporated.</xhtml:li>
+</xhtml:ol>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:h2>Interfaces</xhtml:h2>
+<xhtml:p>The server provides several interfaces with which
+configuration-files and metadata can be obtained:</xhtml:p>
+<xhtml:ul>
+<xhtml:li>The <xhtml:strong>website of a store-location</xhtml:strong> with
+configurations and additional informations like opening hours and
+address.</xhtml:li>
+<xhtml:li>The <xhtml:strong>download of many different configurations</xhtml:strong>
+as <xhtml:em>ZIP-archive</xhtml:em>, whereat the input is done by uploading a
+simple <xhtml:em>CSV-file</xhtml:em>.</xhtml:li>
+<xhtml:li>A <xhtml:em>HTTP-GET API</xhtml:em> with which configurations and metadata
+can be <xhtml:strong>obtained directly</xhtml:strong>.</xhtml:li>
+<xhtml:li>A <xhtml:strong>maintenance/debugging user interface</xhtml:strong>, that
+makes an <xhtml:em>SNMP-Request</xhtml:em> via <xhtml:em>AJAX</xhtml:em> and
+<xhtml:em>JavaScript</xhtml:em> and displays the result in a filterable
+fashion.</xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+</xhtml:div>
+<xhtml:hr/>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:h2>The right Tools</xhtml:h2>
+<xhtml:p>The Server is written in <xhtml:a href="https://python.org/">Python</xhtml:a>. As web-framework I used the
+<xhtml:a href="http://flask.pocoo.org/">lightweight Flask</xhtml:a>. The
+required data is picked up from several sources: <xhtml:em>DNS</xhtml:em>,
+<xhtml:em>LDAP</xhtml:em>, <xhtml:em>SNMP</xhtml:em>, a <xhtml:em>HTTP-PUSH</xhtml:em>-based
+system—through that data is received as <xhtml:em>XML</xhtml:em>, validated
+with <xhtml:em>XSD</xhtml:em> and updated—as well as further locally availale
+files.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:h2>Administration</xhtml:h2>
+<xhtml:p><xhtml:strong>The server-configuration is made by me</xhtml:strong>, too.
+The <xhtml:em>Apache2</xhtml:em> webserver serves the page using
+<xhtml:em>mod_wsgi</xhtml:em>, <xhtml:em>mod_authz_ldap</xhtml:em> and <xhtml:em>mod_ssl</xhtml:em>.
+<xhtml:strong>Access is limited</xhtml:strong> via <xhtml:em>LDAP-Groups</xhtml:em> and
+<xhtml:strong>always encrypted</xhtml:strong> with <xhtml:em>HTTPS</xhtml:em>.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:hr/>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0">
+<xhtml:h2>Screenshot</xhtml:h2>
+<xhtml:p>the design is limited to the essentials and explains the
+available possibilities.</xhtml:p>
+<xhtml:p><xhtml:img src="/images/diary/firewall-config-server-home.png" alt="Screenshot of the servers homepage" title="Screenshot"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Small business stationery for Sibylle Frank]]></title>
+    <summary type="html"><![CDATA[Small business stationery for Sibylle Frank
+Link t ...]]></summary>
+    <published>2014-02-27T11:47:59+00:00</published>
+    <updated>2014-02-27T11:47:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2014-02-27_sibylle_frank"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2014-02-27:/diary/20140227115040530f26907c1a8</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Small business stationery for Sibylle Frank</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:p>Link to the website: <xhtml:a href="http://www.sibyllefrank.de/">Sibylle Frank</xhtml:a></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0">
+<xhtml:h2>The Website</xhtml:h2>
+<xhtml:p>is in the form of a profile and <xhtml:strong>informs factually and
+plainly</xhtml:strong>. The website implementation is responsive, thus
+the site adopts itself to different screensizes.</xhtml:p>
+<xhtml:p><xhtml:img src="/images/diary/sibylle-frank-web-desktop.png" alt="Wide view of the website of Sibylle Frank" title="Screenshot wide screen"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth6 gridPos0">
+<xhtml:h2>The Design</xhtml:h2>
+<xhtml:p>is based on a <xhtml:strong>thrilling combination of type</xhtml:strong>. On
+the one hand the modern and very plain webfont “<xhtml:em>Source Sans
+Pro</xhtml:em>” by Adobe is used. It displays the wordmark in its
+ExtraLight style and delivers the texts with its Light variant.
+Special emphases and subheadings are displayed with »<xhtml:em>Magenta
+Open Cosmetica Bold</xhtml:em>«—a free version of the “<xhtml:em>Optima</xhtml:em>”
+font by <xhtml:strong>Hermann Zapf</xhtml:strong> and therfore a real classic.
+The bold “<xhtml:em>Cosmetica</xhtml:em>” contrasts the fine “<xhtml:em>Source
+Sans</xhtml:em>” also by its design idiom. A <xhtml:strong>beautiful graphical
+link</xhtml:strong> between the topics of Sibylle Frank is
+made—architecture and heritage conservation.</xhtml:p>
+<xhtml:h3>The right Tools</xhtml:h3>
+<xhtml:p>The static HTML of the Website was realized with <xhtml:a href="http://hyde.github.io/">Hyde</xhtml:a>—a static website generator
+written in Python. This optimizes development times and especially
+makes the hosting very easy and cost-efficient.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth4 gridPos6">
+<xhtml:p><xhtml:img src="/images/diary/sibylle-frank-web-mobile.png" alt="Small view of the website of Sibylle Frank" title="Screenshot small screen"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0">
+<xhtml:h2>The Letterhead</xhtml:h2>
+<xhtml:p>is realized in the same design as the website. The pages—beeing
+designed <xhtml:em>in accordance to the <xhtml:span title="german ISO">DIN</xhtml:span></xhtml:em> standard—captivate with their
+<xhtml:strong>clear appearance</xhtml:strong> and the same thrilling
+combination of fonts as seen at the website.</xhtml:p>
+<xhtml:p><xhtml:img src="/images/diary/sibylle-frank-letterhead.png" alt="Letterhead of Sibylle Frank" style="padding-bottom:12px;"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[The Multitoner arrived]]></title>
+    <summary type="html"><![CDATA[The Multitoner arrived
+
+
+
+
+Repository
+Visit the Mu ...]]></summary>
+    <published>2013-11-13T16:59:11+00:00</published>
+    <updated>2013-11-13T16:59:11+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2013-11-13_it-is-a-multitoner"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2013-11-13:/diary/201311131703405283b0ecf2532</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>The Multitoner arrived</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos2 gridWidth6">
+<xhtml:p><xhtml:img src="/images/diary/multitoner_logo.png" alt="logo of the Multitoner"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:hr/>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:h2>Repository</xhtml:h2>
+<xhtml:p>Visit the <xhtml:a href="https://github.com/graphicore/multitoner">Multitoner at Github</xhtml:a>
+and make shure to read README.md at the bottom of the landing
+page.</xhtml:p>
+<xhtml:h2>About</xhtml:h2>
+<xhtml:p><xhtml:a href="https://silber-und-blei.com">Silber &amp; Blei</xhtml:a>
+needs a FLOS-Software to create multitone images. More information
+about this Project and its story can be found <xhtml:a href="/en/archive/2013-06-13_it-is-a-multitoner">here</xhtml:a>.</xhtml:p>
+<xhtml:h2>Call for Help: Color Management</xhtml:h2>
+<xhtml:p>I'd really like to see the best possible print preview with the
+Multitoner. I think Ghostscript has everything we need to get
+there. I’d love to see some help from people with experience and/or
+interest in this issue. See the README.md file in the repo and the
+Roadmap on the right side for more info.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:h2>Roadmap</xhtml:h2>
+<xhtml:p>Here an updated version of the Roadmap.</xhtml:p>
+<xhtml:ul>
+<xhtml:li><xhtml:del>the core functions are implemented</xhtml:del></xhtml:li>
+<xhtml:li><xhtml:del>loading and saving of projects</xhtml:del></xhtml:li>
+<xhtml:li><xhtml:del>creation of multitone-EPS-images from black and white
+images with commandline tool and GUI</xhtml:del></xhtml:li>
+<xhtml:li><xhtml:del>cleanup, more code comments, licence notices,
+README</xhtml:del></xhtml:li>
+<xhtml:li><xhtml:del><xhtml:strong>publication of the repository</xhtml:strong></xhtml:del></xhtml:li>
+<xhtml:li><xhtml:strong>current status:</xhtml:strong> public testing and first
+production uses</xhtml:li>
+<xhtml:li><xhtml:strong>Color management:</xhtml:strong> (research and
+implementation) to obtain optimal previews ICC-profiles shall be
+used in future. See also the option <xhtml:em>‑sDeviceNProfile</xhtml:em> in
+the <xhtml:a href="http://www.ghostscript.com/doc/current/Use.htm">Ghostscript
+manual</xhtml:a> and <xhtml:a href="http://ghostscript.com/doc/current/GS9_Color_Management.pdf">GS9_Color_Management.pdf</xhtml:a>.</xhtml:li>
+<xhtml:li>better batch processing and handling of exceptions there:
+different curves for the same set of colors</xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:h2>Screenshot</xhtml:h2>
+<xhtml:p><xhtml:img src="/images/diary/multitoner-screenshot_2013-11-13.png" alt="screenshot of the current Multitoner"/></xhtml:p>
+<xhtml:div class="gridRow"/>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[silber-und-blei.com]]></title>
+    <summary type="html"><![CDATA[silber-und-blei.com
+Link to the website: Silber &a ...]]></summary>
+    <published>2013-11-12T17:50:43+00:00</published>
+    <updated>2013-11-12T17:50:43+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2013-11-12_silber-und-blei"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2013-11-12:/diary/2013111217533652826b2018ca8</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>silber-und-blei.com</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:p>Link to the website: <xhtml:a title="Silver &amp; Lead" href="https://silber-und-blei.com">Silber &amp; Blei</xhtml:a></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth9 gridPos0">
+<xhtml:p><xhtml:img src="/images/diary/silber-und-blei-screenshot.png" alt="Screenshot of silber-und-blei.com 2 responsive sizes" title="Screenshot of the Silber &amp; Blei website"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth3 gridPos0">
+<xhtml:h2>Webdesign</xhtml:h2>
+<xhtml:p>The webdesign is made by us, as well as the realization. We
+relied on current technology and designed a sterling page.
+Beautiful webfonts are deployed and the site is responsive. It fits
+itself into the size of the browser window, so that it stays
+optimally readable on the smartphone as well as on the desktop.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth4 gridPos3">
+<xhtml:h2>Statically generated with Hyde/Python</xhtml:h2>
+<xhtml:p>There are completely static pages on the server, just plain
+HTML-files. The trick: the site is generated with the static
+website generator <xhtml:a href="http://hyde.github.io/">Hyde</xhtml:a> and
+then uploaded. That has enormous advantages: the site is fast,
+secure, low-maintenance and still comfortably usable. We didn't
+want to waive a newsfeed, so this is generated by Hyde in the
+ATOM-format. For our image gallery we extended Hyde with a plugin,
+of which more later.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth3 gridPos7">
+<xhtml:h2>The Image Gallery</xhtml:h2>
+<xhtml:p>We want to present our images particularly nice, that’s why we
+went to great effort with the image gallery. The centerpiece of the
+gallery is the photo album viewer. I summarized here some
+noticeable properties of the slider.</xhtml:p>
+<xhtml:p>Here embedded the album »<xhtml:a title="Latest Images" href="https://silber-und-blei.com/galerie/Neueste_Bilder.html">Neuste
+Bilder</xhtml:a>« of Silber &amp; Blei:</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:iframe width="100%" height="736px" src="https://silber-und-blei.com/galerie/embed/Neueste_Bilder.html" allowfullscreen="" frameborder="0"/>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth2 gridPos0">
+<xhtml:h3>responsive</xhtml:h3>
+<xhtml:p>The album viewer is completely responsive and adapts fully to
+the available space. You can try this yourself on an <xhtml:a href="http://silber-und-blei.com/galerie/Friedhofsengel.html">album
+page</xhtml:a>. Just change the size of the browser window and observe
+what happens.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth2 gridPos2">
+<xhtml:h3>versatile</xhtml:h3>
+<xhtml:p>There are different cases in which an album is integrated. On
+the one hand the page of the album itself, on the other hand an
+album can be included on every other page. Furthermore all albums
+have their own address to embed them as Iframe on other webpages.
+Provided that the browser supports it, an album can even activate
+<xhtml:strong>full screen mode</xhtml:strong>.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth2 gridPos4">
+<xhtml:h3>embeddable</xhtml:h3>
+<xhtml:p>As you see on this page, an album can be embedded on another
+webpage. Special web pages are genearted for this. An album knows
+the address of its embed-version and offers a small code-generator.
+Thanks to the great adaptability of the slider, concerning the
+format, we took a pass on requiring static sizes. The author of the
+foreign page can fit in the album just right. Of course we hope to
+gain bigger reach with this feature and we’d be happy about
+spottings of our albums in the wilderness.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth2 gridPos6">
+<xhtml:h3>universal</xhtml:h3>
+<xhtml:p>Each instance of the album uses the same code, may it be as
+Iframe or on the album page. Its the progression of code of
+<xhtml:a href="/en/archive/2013-01-31_big-business">das Auto.
+Magazine</xhtml:a>. The thumbnails and the big display of the images are
+using the same base. By extending the objects and by different
+configuration the two forms come into being. To change into full
+screen mode an album doesn’t even need new initialization.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth2 gridPos8">
+<xhtml:h3>simple</xhtml:h3>
+<xhtml:p>For image management we wrote a plugin for Hyde in Python. The
+plugin generates thumbnails and the big images when the site is
+processed. An album is a configuration file mainly consisting of a
+list of images. To include an album its enough to know its internal
+name: <xhtml:code title="jinja2 the template language is jinja2">{{make_album(
+'Neueste_Bilder', ['autoplay', 'no-thumbs']) }}</xhtml:code>. The example
+is taken straight from our homepage.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Curation Module for The ICONIST]]></title>
+    <summary type="html"><![CDATA[Curation Module for The ICONIST
+Link to the Site:  ...]]></summary>
+    <published>2013-11-12T15:53:17+00:00</published>
+    <updated>2013-11-12T15:53:17+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2013-11-12_iconic_imports"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2013-11-12:/diary/2013111216002052825094cba29</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Curation Module for The ICONIST</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:p>Link to the Site: <xhtml:a href="http://iconist.de">The ICONIST</xhtml:a>
+although what I did can't be viewed directly online.</xhtml:p>
+</xhtml:div>
+<xhtml:h2>Import and Synchronization</xhtml:h2>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:p>The programm collects product data of many different providers.
+Therefore an adapter Concept is used. Coming from different
+provider formats a unified representation is stored in the
+database. Hundreds of thousands of different products are beeing
+imported and kept up-to-date. The import is triggered via cron job
+automatically but it can be started through the webinterface,
+too.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:p>A locking mechanism prevents that the same source is beeing
+multiply imported at the same time. The import state can be
+determined at any time, even when the import is run by another
+process. It can be queried with the web interface and as the admin
+with the terminal. The importer recognizes updates of the
+particular products as well as the deletion of products by the
+provider.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:h2>Curation Webinterface</xhtml:h2>
+<xhtml:div class="gridRow">
+<xhtml:p><xhtml:img src="/images/diary/iconic_imports.png" alt="Screenshot Curation Interface"/></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:p>The editors choose products for a further selection process and
+for the enrichment of the data. The web interface offers a plenty
+of filters to master the big amount of data. Besides very simple
+filtering options like “shop” or “price range” a keyword search and
+a filter for categories are provided. The differing categories from
+provider to provider can be mapped to a common category tree in the
+curating module. The category tree can be created in the web
+interface. The mapping of foreign category to local categories is
+done by an editor.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:p>Two concepts to represent the category tree are used in the
+database: an <xhtml:a href="http://en.wikipedia.org/wiki/Adjacency_list">adjacency list</xhtml:a>,
+that means every category knows its parent category. With this the
+implementation of the tree management is easy. Besides that the
+informatio of the <xhtml:a href="http://en.wikipedia.org/wiki/Nested_set_model">Nested-Set
+Model</xhtml:a> are stored with the categories. So querying the tree is
+performant and easy.</xhtml:p>
+<xhtml:p>For the curation process I wrote a small JavaScript application
+that reduced loading times distinctly by using AJAX and simplified
+the server routines a lot. E.g. the management of the application
+state takes place in the client and needed no server side
+implementation using sessions.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:h2>Technology</xhtml:h2>
+<xhtml:div class="gridRow">
+<xhtml:p>The server code is written with PHP 5. I used Composer with
+Symphony 2 as a framework and wrote a lot of custom code myself.
+The webinterface uses RequireJS and jQuery and a whole lot of my
+own modules.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Under Development: Multitoner Tool]]></title>
+    <summary type="html"><![CDATA[Under Development: Multitoner Tool
+
+Motivation
+Sil ...]]></summary>
+    <published>2013-06-13T09:03:43+00:00</published>
+    <updated>2013-06-13T09:03:43+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2013-06-13_it-is-a-multitoner"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2013-06-12:/diary/2013061209052451b839d4ca32b</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Under Development: Multitoner Tool</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth3 gridPos0">
+<xhtml:h2>Motivation</xhtml:h2>
+<xhtml:p><xhtml:a href="/en/archive/2013-06-06_silber-und-blei">Silber &amp;
+Blei</xhtml:a> will produce exclusively with <xhtml:a href="http://en.wikipedia.org/wiki/Free/Libre_Open_Source_Software" title="free/libre open source software">FLOS-Software</xhtml:a>. Because
+it’s important to us to have <xhtml:strong>control over our
+tools</xhtml:strong>. We’ll make <xhtml:strong>first class print products with
+free software</xhtml:strong>. The consequence of this decision is that we
+write missing software ourselves. A program to create multitone
+images is missing in the free software world so far. The Multitoner
+Tool will be released under the <xhtml:a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GNU General Public License version 3">GPLv3</xhtml:a>.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridPos3 gridWidth4">
+<xhtml:h2>What is Multitone</xhtml:h2>
+<xhtml:p>When offset printing black and white images with just one
+ink—black in the standard case—the results appear dully and without
+depth. That’s because one color channel in printing can render ca.
+50 differnt shades, see: <xhtml:a href="http://en.wikipedia.org/wiki/Gamut">Gamut</xhtml:a>. For comparison: a
+black and white image on a computer monitor is rendered with ca.
+256 shades. <xhtml:strong>To print black and white images in high
+quality</xhtml:strong>, so that they show a depth comparable to a
+photographic print, multiple inks are used for one image. For
+instance: black for deep tones and gray for mid-tones. The gamut of
+the result can be increased depending on the count of the used
+colors.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridPos7 gridWidth3">
+<xhtml:h2>Terms</xhtml:h2>
+<xhtml:p>When one ink is used it’s called “monotone”, with two inks it’s
+“duotone”, three is “tritone” and four is “quadtone”. The whole
+topic is summarized with “multitone”.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:hr/>
+<xhtml:div class="gridRow">
+<xhtml:h2>The Tool</xhtml:h2>
+<xhtml:p><xhtml:img src="/images/diary/multitoner-tool-screenshot_2013-06-13.png" alt="screenshot of the current Multitoner Tool"/></xhtml:p>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth4 gridPos0">
+<xhtml:p>The core function is setting up the inks that are going to be
+used (up to ten), where there is a control curve for each ink. The
+curve assigns for every input value—from black to white–the
+quantity of the ink to print— from full application to none. There
+are diffrent curve types to interpolate between the control points:
+linear, cubic splines, monotone cubic splines.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth6 gridPos4">
+<xhtml:p>The inks are getting a name, to identify them clearly later in
+the process. CMYK-values are assigned for the screen preview. The
+order of the inks can be varied, this is needed because it affects
+the print result.</xhtml:p>
+<xhtml:p>For preview a color stripe is shown for each ink. It displays
+the output value after application of the control curve. A further
+color stripe visualizes the combination of all inks. Also, there is
+a preview image with the settings applied to it.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+<xhtml:hr/>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth4 gridPos0">
+<xhtml:h2>Technical Notes</xhtml:h2>
+<xhtml:p>The tool is written in <xhtml:strong>Python</xhtml:strong>. The <xhtml:em title="General User Interface">GUI</xhtml:em> implemented with
+<xhtml:strong>GTK+</xhtml:strong>. The control curves are calculated with
+<xhtml:strong>SciPy</xhtml:strong> and <xhtml:strong>NumPy</xhtml:strong>. The widget for
+display and manipulation of the control curves is self-made (as
+GtkDrawingArea). Color preview and preview image are rendered using
+<xhtml:strong>Ghostscript</xhtml:strong>. Colormanagement shall be achieved
+through Ghostscript in the future.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth6 gridPos4">
+<xhtml:h2>Roadmap</xhtml:h2>
+<xhtml:p>Here a rough scatch on how I conceive the projects further
+progression:</xhtml:p>
+<xhtml:ul>
+<xhtml:li><xhtml:strong>current status:</xhtml:strong> the core functions are
+implemented</xhtml:li>
+<xhtml:li>loading and saving of projects</xhtml:li>
+<xhtml:li>creation of multitone-EPS-images from black and white images
+with commandline tool and GUI</xhtml:li>
+<xhtml:li>cleanup, more code comments, licence notices, README</xhtml:li>
+<xhtml:li><xhtml:strong>publication of the repository</xhtml:strong></xhtml:li>
+<xhtml:li>public testing and first production uses</xhtml:li>
+<xhtml:li><xhtml:strong>Color management:</xhtml:strong> (research and
+implementation) to obtain optimal previews ICC-profiles shall be
+used in future. See also the option <xhtml:em>‑sDeviceNProfile</xhtml:em> in
+the <xhtml:a href="http://www.ghostscript.com/doc/current/Use.htm">Ghostscript
+manual</xhtml:a> and <xhtml:a href="http://ghostscript.com/doc/current/GS9_Color_Management.pdf">GS9_Color_Management.pdf</xhtml:a>.</xhtml:li>
+<xhtml:li>better batch processing and handling of exceptions there:
+different curves for the same set of colors</xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Refactoring for WeSC]]></title>
+    <summary type="html"><![CDATA[Refactoring for WeSCJoint with Uli Schöberl, the S ...]]></summary>
+    <published>2013-06-10T13:25:33+00:00</published>
+    <updated>2013-06-10T13:25:33+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2013-06-10_refactoring-the-Superlative-Conspiracy"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2013-06-07:/diary/2013060714011251b1e7a8c1407</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Refactoring for WeSC</xhtml:h1>
+<xhtml:p>Joint with <xhtml:a href="http://aplusplus.org/wesc/">Uli
+Schöberl</xhtml:a>, the Site <xhtml:a href="http://wesc.com">WeSC.com</xhtml:a>
+experienced a renovation. Here’s a short list of what I did:</xhtml:p>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth4 gridPos0"><xhtml:img src="/images/diary/WeSC.png" alt="the logo of WeSC"/></xhtml:div>
+<xhtml:div class="gridWidth6 gridPos4">
+<xhtml:ul>
+<xhtml:li>A caching-mechanism of the CakePHP Frameworks in use was
+supplemented by a new approach. Finer control of the
+cache-invalidation has been established. The automatic clearing of
+the caches is considerably improved.</xhtml:li>
+<xhtml:li>Some Functions were taken together and implemented centrally.
+All in the spirit of <xhtml:a href="https://de.wikipedia.org/wiki/DRY" title="Don't Repeat Yourself">DRY</xhtml:a>.</xhtml:li>
+<xhtml:li>The import of product data was simplified. A process running in
+the background is launched after uploading the data. The progress
+can be tracked via AJAX.</xhtml:li>
+<xhtml:li>More maintenance work was accomplished and more new features
+were implemented.</xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Announcement: Silber & Blei]]></title>
+    <summary type="html"><![CDATA[Announcement: Silber&nbsp;&amp;&nbsp;Blei»Silber u ...]]></summary>
+    <published>2013-06-06T18:24:39+00:00</published>
+    <updated>2013-06-06T18:24:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2013-06-06_silber-und-blei"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2013-06-06:/diary/2013060618252451b0d41400bf3</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Announcement: Silber &amp; Blei</xhtml:h1>
+<xhtml:p>»Silber und Blei« is German for “Silver and Lead”</xhtml:p>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0">
+<xhtml:p style="background:#333;padding:48px 0;text-align:center;">
+<xhtml:img src="/images/diary/silber-und-blei.png" alt="Signet: Silber und Blei.png"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:h2>Anne is silver and I am lead</xhtml:h2>
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:p>Anne is a trained photographer and has a diploma in geography.
+Silver is the metal of photography. It’s required to make the
+light-sensitive coating of photographic film. As designer, I
+devoted myself to type and typography. Lead is the metal of
+letterpress printing since Johannes Gutenberg employed it to cast
+his type sorts.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:p>Together we are eager to manufacture marvelous books. Beautiful
+items with love for detail and high demands on craftsmanship. We
+will deliver the contents, too. It’s about giving a good form to
+creative subjects. We already have a lot of ideas. Thus we are
+looking forward to the journey and are curious what's expecting
+us.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth5">
+<xhtml:h2>The Wordmark</xhtml:h2>
+<xhtml:p>The word <xhtml:strong>Silber</xhtml:strong> is an interpretation of
+<xhtml:em>Bodoni Italic</xhtml:em>. The letters appear noble and playful. The
+instroke of “l” and “b” as well as the terminal (serif) of the “r”
+prepare for the following combination of typefaces.<xhtml:br/>
+<xhtml:strong>&amp; Blei</xhtml:strong> is set with <xhtml:em>Wilhelm Klingspor
+Gotisch</xhtml:em> and provides a strong contrast. The wonderfully
+historicizing typeface emphasizes that this is the lead of the
+typesetters.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridPos5 gridWidth5">
+<xhtml:h2>The Logo</xhtml:h2>
+<xhtml:p>In our logo the letters of <xhtml:strong>Ag</xhtml:strong> and
+<xhtml:strong>Pb</xhtml:strong>—the chemical symbols of silver and lead—merge
+to a unit. This is the heart of our work: The compound of
+photography and printing.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[I’m self-employed again]]></title>
+    <summary type="html"><![CDATA[I’m self-employed again
+
+
+I gained a lot of experi ...]]></summary>
+    <published>2013-01-31T13:58:45+00:00</published>
+    <updated>2013-01-31T13:58:45+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2013-01-31_big-business"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2013-01-31:/diary/20130131135955510a78db3e0d6</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>I’m self-employed again</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0">
+<xhtml:p>I gained a lot of experience in the last two years at <xhtml:a href="http://compuccino.com/">compuccino</xhtml:a>. Some of the clients are:
+<xhtml:strong>Puma</xhtml:strong>, <xhtml:strong>Volkswagen</xhtml:strong>, <xhtml:strong title="World Wide Fund for Nature">WWF</xhtml:strong>, <xhtml:strong title="Cologne Trade Fair">Koelnmesse (gamescom, photokina)</xhtml:strong>,
+<xhtml:strong title="The insurance company.">Allianz</xhtml:strong>,
+<xhtml:strong title="A German newspaper.">Die Welt</xhtml:strong>,
+<xhtml:strong>Heinz Ketchup</xhtml:strong>, <xhtml:strong title="The German national railway company.">die Deutsche Bahn</xhtml:strong>.
+For the most of them I did small to medium sized projects. I did
+various Facebook apps, applications that interact with Facebook and
+where users can login with their Facebook account. I presenet here
+two big projects.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:h2><xhtml:a href="http://www.dasauto-magazine.com">Volkswagen – Das
+Auto.Magazine</xhtml:a></xhtml:h2>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth9 gridPos0">
+<xhtml:p><xhtml:img src="/images/diary/selbstaendig-vw-das-auto.png" alt="Screenshot of the Volkswagen Das Auto. website in 3 responsive steps" title="Screenshots of the Volkswagen Das Auto.Magazine website in 3 responsive steps"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:p><xhtml:a href="http://compuccino.com/projekte/vw-magazin-responsive-cms-das-auto">
+Compuccino</xhtml:a> implemented together with <xhtml:a href="http://www.kircher-burkhardt.com/#/en/projects/volkswagen/">Kircher
+Burkhartd</xhtml:a> the online version of the Volkswagen brand magazine.
+The webmag is designed entirely <xhtml:em title="the design adjusts itself to different screen sizes.">responsive</xhtml:em>.
+From smartphone to desktop computer it can be consumed optimally.
+The mag will be available in 16 languages.</xhtml:p>
+<xhtml:p>My responsibillity was in implementing the JavaScript that
+controls the more complex behaviors. That is, for instance, the
+slideshows adapt their look and behavior depending on the screen
+size. The pages are modular, so that editors have a large degree of
+freedom in creating and designing articles.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:h3>Details</xhtml:h3>
+<xhtml:p>The JavaScript is loaded with <xhtml:a href="http://requirejs.org/">RequireJS</xhtml:a> and uses <xhtml:a href="http://jquery.com/">jQuery</xhtml:a> for <xhtml:em title="»Document Object Model« application programming interface for web pages">
+DOM</xhtml:em> interaction and event handling. The modules are well
+maintainable, configureable and implemented objekt
+orientated—functionallity can be added by inheritance. So, for
+instance, all slideshow modules share the same base. There is an
+API that allows iframes to interact smoothly with the parent
+document. Animations are realized either with CSS3 transitions or
+with jQuery, depending on the capabilities of the browser.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:hr/>
+<xhtml:h2><xhtml:a href="http://ausschnitt.de">AUSSCHNITT Medienbeobachtung</xhtml:a>
+– Social Media Dashboard</xhtml:h2>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0">
+<xhtml:p class="scrollX" style="white-space:nowrap;height:864px;">
+<xhtml:img title="The dashboard with 6 widgets, multiple of these pages can be organized with tabs." src="/images/diary/selbstaendig-ausschnitt-dashboard.png" class="gridGap" alt="Ausschnitt Dashboard"/><xhtml:img title="Detailed view of a widget, a finer filtering can be applied here." src="/images/diary/selbstaendig-ausschnitt-detail.png" class="gridGap" alt="Ausschnitt Dashboard detail"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:p>The clients browse and analyze the data that has been collected
+by “AUSSCHNITT Medienbeobachtung” on social media websites. In the
+process they formulate queries on the database trough the graphical
+user interface. My tasks where to query the database correctly, to
+visualize the data, the programming of the interactive user
+interface as well as most of the rest of the server
+requirements.</xhtml:p>
+<xhtml:p>The results of the queries are each displayed in a “widget”. The
+widgets can be rearranged and provide a detailed view as well as
+more filter options. Unique data points can be resolved to their
+individual members. The current state of the dashboard is saved
+automatically and restores at the next visit immediately. <xhtml:a href="http://compuccino.com/projekte/ausschnitt-social-media-dashboard">Here
+is even more information (in German) …</xhtml:a></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:h3>Details</xhtml:h3>
+<xhtml:p>The JavaScript is loaded with <xhtml:a href="http://requirejs.org/">RequireJS</xhtml:a> and uses <xhtml:a href="http://jquery.com/">jQuery</xhtml:a>. The JavaScript is written object
+orientated. The charts are displayed using the <xhtml:a href="https://developers.google.com/chart/">Google Chart Tools</xhtml:a>. The
+single requests are done via AJAX to a REST-API. The entire state
+of the Dashboard is saved on the server, serialized as JSON. The
+<xhtml:a href="http://cakephp.org/">CakePHP framework</xhtml:a> was used on the
+server.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[The @inpressulum font and a typographic tattoo]]></title>
+    <summary type="html"><![CDATA[The @inpressulum font and a typographic tattoo
+
+
+
+ ...]]></summary>
+    <published>2012-09-02T19:04:49+00:00</published>
+    <updated>2012-09-02T19:04:49+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2012-09-02_piece-of-prayer"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2012-09-02:/diary/201209021920375043b185ef245</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>The @inpressulum font and a typographic tattoo</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth6 gridPos2">
+<xhtml:p><xhtml:img src="/images/diary/inpressulum-tattoo.png" alt="Picture of the tattoo with Irish text: Ní dhoirtfear fuil neamhchiontach choíche. Ach sruthóidh fuil na n-olc mar abhainn. Leathfaidh an triúr a n-eiteoga dubhaithe agus beidh siad ina chasúr buailte Dé."/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow" style="padding-top:48px;">
+<xhtml:div class="gridWidth4 gridPos3">
+<xhtml:h2>The font</xhtml:h2>
+<xhtml:p>The font is called <xhtml:a href="https://twitter.com/inpressulum">@inpressulum</xhtml:a> after the
+twitter name of Marc who wears it on his calf. Its a free
+interpretation of <xhtml:a href="https://en.wikipedia.org/wiki/Gaelic_type">Gaelic script</xhtml:a>. The
+font contains only the characters visible in the artwork. Some of
+the glyphs where modified to form the horizontal bar of the
+cross.</xhtml:p>
+<xhtml:h2>The Content</xhtml:h2>
+<xhtml:p>The tattoo shows a verse of “The Family Prayer” of the movie
+<xhtml:a href="https://en.wikipedia.org/wiki/The_Boondock_Saints">The
+Boondock Saints</xhtml:a>. Its a translation in the Irish language from
+the following:</xhtml:p>
+<xhtml:p><xhtml:em>“Never shall innocent blood be shed. Yet the blood of the
+wicked shall flow like a river. The three shall spread their
+blackened wings and be the vengeful striking hammer of
+god.”</xhtml:em></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow"><xhtml:img src="/images/diary/inpressulums-legs.png" alt="the tattooed calf"/></xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth4 gridPos3">
+<xhtml:p>The legs of Marc after applying the tattoo on his right
+calf.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Introducing ufoJS]]></title>
+    <summary type="html"><![CDATA[Introducing ufoJS
+
+Fork, clone or download: ufoJS  ...]]></summary>
+    <published>2012-01-17T14:02:59+00:00</published>
+    <updated>2012-01-17T14:02:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2012-01-17_ufoJS-is-not-a-bird"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2012-01-17:/diary/201201171404524f15800404a4f</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Introducing ufoJS</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth10">
+<xhtml:p>Fork, clone or download: <xhtml:a href="https://github.com/graphicore/ufoJS">ufoJS on gitHub</xhtml:a>.</xhtml:p>
+<xhtml:h2>The Project</xhtml:h2>
+<xhtml:p>I <xhtml:del>was</xhtml:del> <xhtml:ins>am</xhtml:ins> tired of platform bound font
+editors, myself using Linux almost exclusively. Thus, beeing a
+web-developer most of my time, I naturally liked the idea of doing
+a font editor in the browser. So, last year I started porting parts
+of the Python libraries <xhtml:a href="http://sourceforge.net/projects/fonttools/">FontTools</xhtml:a> and
+<xhtml:a href="http://www.robofab.org">RoboFab</xhtml:a> to JavaScript in my
+spare time. With the first goal of rendering the path data of
+<xhtml:a href="http://unifiedfontobject.org">UFO — Unified Font
+Object</xhtml:a> .glif files in a browser. Now, most of the ported code
+is based around the pen APIs and I can show you something.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth7"><xhtml:object width="100%" height="1104px" data="/ufoJS/env/glif-renderer.xhtml"/></xhtml:div>
+<xhtml:div class="gridPos7 gridWidth3">
+<xhtml:h3>Look at it.</xhtml:h3>
+<xhtml:p>On the left side you can see the example application included
+from the project folder using an <xhtml:del>iframe</xhtml:del>
+<xhtml:ins>object</xhtml:ins> to include it here. It discovers the available
+glyphs by reading the contents.plist file of an UFO font and
+renders the path data of the selected .glif file using SVG. The
+font you can see is the DemoFont.ufo taken from the RoboFab
+package.</xhtml:p>
+<xhtml:h2>Technical</xhtml:h2>
+<xhtml:p>The library can be used in Gecko and Webkit browsers and in
+NodeJS. The latter has some external dependencies. The Browser
+dependent parts are yet only in the sample application but use dojo
+as well.</xhtml:p>
+<xhtml:h3>Loading</xhtml:h3>
+<xhtml:p>For Module loading I am using an <xhtml:a href="http://wiki.commonjs.org/wiki/Modules/AsynchronousDefinition">AMD
+(Asyncronous Module Definition) Loader</xhtml:a>. This nicely helps to
+organize code, is standardized and loads the stuff fast. In the
+browser facing code I'm using <xhtml:a href="http://bdframework.org/bdLoad/docs/bdLoad-tutorial/bdLoad-tutorial.html">
+bdload</xhtml:a>. For nodeJs <xhtml:a href="https://github.com/jrburke/r.js">r.js of the requireJS project</xhtml:a>
+is utilized.</xhtml:p>
+<xhtml:h3>Testing</xhtml:h3>
+<xhtml:p>Check out the <xhtml:a href="http://graphicore.de/ufoJS/env/tests.html">Test Page</xhtml:a>. This is
+done using the <xhtml:a href="http://dojotoolkit.org/reference-guide/util/doh.html">D.O.H: Dojo
+Objective Harness</xhtml:a> and this is the only thing you can run with
+nodeJS as well.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[graphicore Bitmap Font Building—updated]]></title>
+    <summary type="html"><![CDATA[graphicore Bitmap Font Building—updated
+
+There’s a ...]]></summary>
+    <published>2010-09-15T16:58:24+00:00</published>
+    <updated>2010-09-15T16:58:24+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2010-08-31:/diary/201008310024084c7c4ba816ac5</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>graphicore Bitmap Font Building—updated</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth7">There’s an update at the bottom of
+this page.
+<xhtml:p class="pre" style="font-weight:bold;line-height:12px;font-size:15px;">
+...............................###.....##.........................
+......##......................###......##.........................
+.....###......................##..................................
+..####..###.##..##.##.##.###..#####..###...###...####.###.##..###.
+.##.###..##.##.##.###..##.###.###.##..##..##.##.##.###.##.##.##.##
+##...##..###..##...##..##..##.##..##..##.##....##...##.###..#####.
+###.##...##...##...##..##..##.##..##..##.##....##...##.##...##....
+.######..##...###.###..##.##..##..##..##.###.#.###.##..##...##..#.
+.....###.##....###.###.####...##..###.###.####..####...##....####.
+##....##...............##.........................................
+###..##................##.........................................
+.#####.................##.........................................</xhtml:p>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth3">
+<xhtml:h2>graphicore Bitmap Font</xhtml:h2>
+<xhtml:p>is a bitmap typeface that was early inspired by <xhtml:a href="http://www.underware.nl/site2/index.php?id1=sauna&amp;id2=styles&amp;id3=bold_italic_swash">
+Underwares Sauna bold italic swash</xhtml:a> and eventually went on its
+own way. It’s crisp on the screen at a size of 8 px and multiples
+thereof. However the intended use case lies rather in display
+sizes. Using these fonts is a statement towards the core elements
+of perception of our times—pixels. Resolution is finite.
+Anti-aliasing is a lie!</xhtml:p>
+<xhtml:p>The typeface itself is defined in a custom format where the
+glyphs are stored in text-files idiomatically as bitmaps. Like in
+the ASCII art above a dot stands for “no pixel” and the number sign
+marks the opposite. This is what I believe a bitmap font should be
+like—made out of bitmaps. Character editing was done in a simple
+text editor program.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridPos6 gridWidth4">
+<xhtml:h2>graphicore Bitmap Font Building</xhtml:h2>
+<xhtml:p>The fonts I make available here are build from a custom format
+“Bitmap Font” (BMF) into ready to use OpenType format by a <xhtml:a href="http://www.python.org/">Python</xhtml:a> program: “graphicore Bimap Font
+Building” (graphicoreBMFB). By using different parameters varying
+fonts are generated. The font files released here are thus a
+demonstration of the output of graphicoreBMFB. When the
+possibilities of graphicoreBMFB get more comprehensive the
+graphicore Bitmap Font family will eventually grow.</xhtml:p>
+<xhtml:p>Attached to the program is the source data of graphicore Bitmap
+Font in the BMF format. This opens following chances to you:</xhtml:p>
+<xhtml:ul>
+<xhtml:li>You can generate your own fonts if you don’t like the settings
+I chose.</xhtml:li>
+<xhtml:li>You can study it as a working example and learn how to make
+your own typeface design.</xhtml:li>
+<xhtml:li>You can write your own generator and built the typeface with
+that.</xhtml:li>
+<xhtml:li>You can give your enhancements back to the world.</xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridPos7 gridWidth3">
+<xhtml:h2>What to Do</xhtml:h2>
+<xhtml:h3>Download the Fonts</xhtml:h3>
+<xhtml:p>Download the fonts package and enjoy writing with them:<xhtml:br/>
+<xhtml:a href="http://github.com/downloads/graphicore/graphicoreBMFB/graphicoreBitmapFont_0.0004.tar.bz2">
+graphicoreBitmapFont.tar.bz2</xhtml:a> <xhtml:a href="http://github.com/downloads/graphicore/graphicoreBMFB/graphicoreBitmapFont_0.0004.zip">
+graphicoreBitmapFont.zip</xhtml:a><xhtml:br/>
+<xhtml:a href="http://github.com/graphicore/graphicoreBMFB/downloads">all
+downloads</xhtml:a></xhtml:p>
+<xhtml:h3>Obtain the Code</xhtml:h3>
+<xhtml:p>Have an eye on the code and then make everything better and
+more—or just use it: <xhtml:a href="http://github.com/graphicore/graphicoreBMFB">graphicoreBMFB</xhtml:a>.
+It’s written in Python and uses the great <xhtml:a href="http://fontforge.sourceforge.net/">FontForge</xhtml:a> Python module to
+create outline fonts. You’ll need that, too.</xhtml:p>
+<xhtml:h3>Join Me</xhtml:h3>
+<xhtml:p>If you like this project or if the ideas keep on bubbling up
+from your subconsciousness <xhtml:a href="/en/page/lasse">leave me a
+message</xhtml:a>. If there’s enough interest in cooperation I’ll set up
+a central site for that.</xhtml:p>
+<xhtml:h3>Get Serious</xhtml:h3>
+<xhtml:p>If you need a custom typeface or special format that makes
+reading on your special matrix of special things pleasing, I’m your
+guy. Furthermore I’m good in internet issues and printed matter. If
+you value my work we might fit together. <xhtml:a href="/en/page/hire-lasse">More information about my offer.</xhtml:a></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:h2>All Currently Contained Glyphs in the Typeface.</xhtml:h2>
+<xhtml:table class="bitmapFontCharTable">
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: exclam, Unicode: U+0021">!</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: quotedbl, Unicode: U+0022">"</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: numbersign, Unicode: U+0023">#</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: dollar, Unicode: U+0024">$</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: percent, Unicode: U+0025">%</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ampersand, Unicode: U+0026">&amp;</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: quotesingle, Unicode: U+0027">'</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: parenleft, Unicode: U+0028">(</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: parenright, Unicode: U+0029">)</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: asterisk, Unicode: U+002A">*</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: plus, Unicode: U+002B">+</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: comma, Unicode: U+002C">,</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: hyphen, Unicode: U+002D">-</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: period, Unicode: U+002E">.</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: slash, Unicode: U+002F">/</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: zero, Unicode: U+0030">0</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: one, Unicode: U+0031">1</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: two, Unicode: U+0032">2</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: three, Unicode: U+0033">3</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: four, Unicode: U+0034">4</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: five, Unicode: U+0035">5</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: six, Unicode: U+0036">6</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: seven, Unicode: U+0037">7</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: eight, Unicode: U+0038">8</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: nine, Unicode: U+0039">9</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: colon, Unicode: U+003A">:</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: semicolon, Unicode: U+003B">;</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: less, Unicode: U+003C">&lt;</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: equal, Unicode: U+003D">=</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: greater, Unicode: U+003E">&gt;</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: question, Unicode: U+003F">?</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: at, Unicode: U+0040">@</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: A, Unicode: U+0041">A</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: B, Unicode: U+0042">B</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: C, Unicode: U+0043">C</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: D, Unicode: U+0044">D</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: E, Unicode: U+0045">E</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: F, Unicode: U+0046">F</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: G, Unicode: U+0047">G</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: H, Unicode: U+0048">H</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: I, Unicode: U+0049">I</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: J, Unicode: U+004A">J</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: K, Unicode: U+004B">K</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: L, Unicode: U+004C">L</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: M, Unicode: U+004D">M</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: N, Unicode: U+004E">N</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: O, Unicode: U+004F">O</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: P, Unicode: U+0050">P</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: Q, Unicode: U+0051">Q</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: R, Unicode: U+0052">R</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: S, Unicode: U+0053">S</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: T, Unicode: U+0054">T</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: U, Unicode: U+0055">U</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: V, Unicode: U+0056">V</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: W, Unicode: U+0057">W</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: X, Unicode: U+0058">X</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Y, Unicode: U+0059">Y</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Z, Unicode: U+005A">Z</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: bracketleft, Unicode: U+005B">[</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: backslash, Unicode: U+005C">\</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: bracketright, Unicode: U+005D">]</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: asciicircum, Unicode: U+005E">^</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: underscore, Unicode: U+005F">_</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: grave, Unicode: U+0060">`</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: a, Unicode: U+0061">a</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: b, Unicode: U+0062">b</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: c, Unicode: U+0063">c</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: d, Unicode: U+0064">d</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: e, Unicode: U+0065">e</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: f, Unicode: U+0066">f</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: g, Unicode: U+0067">g</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: h, Unicode: U+0068">h</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: i, Unicode: U+0069">i</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: j, Unicode: U+006A">j</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: k, Unicode: U+006B">k</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: l, Unicode: U+006C">l</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: m, Unicode: U+006D">m</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: n, Unicode: U+006E">n</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: o, Unicode: U+006F">o</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: p, Unicode: U+0070">p</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: q, Unicode: U+0071">q</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: r, Unicode: U+0072">r</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: s, Unicode: U+0073">s</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: t, Unicode: U+0074">t</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: u, Unicode: U+0075">u</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: v, Unicode: U+0076">v</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: w, Unicode: U+0077">w</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: x, Unicode: U+0078">x</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: y, Unicode: U+0079">y</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: z, Unicode: U+007A">z</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: braceleft, Unicode: U+007B">{</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: bar, Unicode: U+007C">|</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: braceright, Unicode: U+007D">}</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: asciitilde, Unicode: U+007E">~</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: exclamdown, Unicode: U+00A1">¡</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: cent, Unicode: U+00A2">¢</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: sterling, Unicode: U+00A3">£</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: currency, Unicode: U+00A4">¤</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: yen, Unicode: U+00A5">¥</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: brokenbar, Unicode: U+00A6">¦</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: section, Unicode: U+00A7">§</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: dieresis, Unicode: U+00A8">¨</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: copyright, Unicode: U+00A9">©</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ordfeminine, Unicode: U+00AA">ª</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: guillemotleft, Unicode: U+00AB">«</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: logicalnot, Unicode: U+00AC">¬</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: registered, Unicode: U+00AE">®</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: macron, Unicode: U+00AF">¯</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: degree, Unicode: U+00B0">°</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: plusminus, Unicode: U+00B1">±</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: twosuperior, Unicode: U+00B2">²</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: threesuperior, Unicode: U+00B3">³</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: acute, Unicode: U+00B4">´</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: micro, Unicode: U+00B5">µ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: paragraph, Unicode: U+00B6">¶</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: periodcentered, Unicode: U+00B7">·</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: cedilla, Unicode: U+00B8">¸</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: onesuperior, Unicode: U+00B9">¹</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ordmasculine, Unicode: U+00BA">º</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: guillemotright, Unicode: U+00BB">»</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: onequarter, Unicode: U+00BC">¼</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: onehalf, Unicode: U+00BD">½</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: threequarters, Unicode: U+00BE">¾</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: questiondown, Unicode: U+00BF">¿</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Agrave, Unicode: U+00C0">À</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Aacute, Unicode: U+00C1">Á</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Acircumflex, Unicode: U+00C2">Â</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Atilde, Unicode: U+00C3">Ã</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: Adieresis, Unicode: U+00C4">Ä</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Aring, Unicode: U+00C5">Å</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: AE, Unicode: U+00C6">Æ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Ccedilla, Unicode: U+00C7">Ç</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Egrave, Unicode: U+00C8">È</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Eacute, Unicode: U+00C9">É</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Ecircumflex, Unicode: U+00CA">Ê</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Edieresis, Unicode: U+00CB">Ë</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Igrave, Unicode: U+00CC">Ì</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Iacute, Unicode: U+00CD">Í</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Icircumflex, Unicode: U+00CE">Î</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Idieresis, Unicode: U+00CF">Ï</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Eth, Unicode: U+00D0">Ð</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Ntilde, Unicode: U+00D1">Ñ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Ograve, Unicode: U+00D2">Ò</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Oacute, Unicode: U+00D3">Ó</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: Ocircumflex, Unicode: U+00D4">Ô</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Otilde, Unicode: U+00D5">Õ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Odieresis, Unicode: U+00D6">Ö</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: multiply, Unicode: U+00D7">×</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Oslash, Unicode: U+00D8">Ø</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Ugrave, Unicode: U+00D9">Ù</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Uacute, Unicode: U+00DA">Ú</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Ucircumflex, Unicode: U+00DB">Û</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Udieresis, Unicode: U+00DC">Ü</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Yacute, Unicode: U+00DD">Ý</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Thorn, Unicode: U+00DE">Þ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: germandbls, Unicode: U+00DF">ß</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: agrave, Unicode: U+00E0">à</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: aacute, Unicode: U+00E1">á</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: acircumflex, Unicode: U+00E2">â</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: atilde, Unicode: U+00E3">ã</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: adieresis, Unicode: U+00E4">ä</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: aring, Unicode: U+00E5">å</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ae, Unicode: U+00E6">æ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ccedilla, Unicode: U+00E7">ç</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: egrave, Unicode: U+00E8">è</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: eacute, Unicode: U+00E9">é</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ecircumflex, Unicode: U+00EA">ê</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: edieresis, Unicode: U+00EB">ë</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: igrave, Unicode: U+00EC">ì</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: iacute, Unicode: U+00ED">í</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: icircumflex, Unicode: U+00EE">î</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: idieresis, Unicode: U+00EF">ï</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: eth, Unicode: U+00F0">ð</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ntilde, Unicode: U+00F1">ñ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ograve, Unicode: U+00F2">ò</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: oacute, Unicode: U+00F3">ó</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: ocircumflex, Unicode: U+00F4">ô</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: otilde, Unicode: U+00F5">õ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: odieresis, Unicode: U+00F6">ö</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: divide, Unicode: U+00F7">÷</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: oslash, Unicode: U+00F8">ø</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ugrave, Unicode: U+00F9">ù</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: uacute, Unicode: U+00FA">ú</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ucircumflex, Unicode: U+00FB">û</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: udieresis, Unicode: U+00FC">ü</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: yacute, Unicode: U+00FD">ý</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: thorn, Unicode: U+00FE">þ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ydieresis, Unicode: U+00FF">ÿ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: dotlessi, Unicode: U+0131">ı</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: endash, Unicode: U+2013">–</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: emdash, Unicode: U+2014">—</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: quoteleft, Unicode: U+2018">‘</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: quoteright, Unicode: U+2019">’</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: quotesinglbase, Unicode: U+201A">‚</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: quotedblleft, Unicode: U+201C">“</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: quotedblright, Unicode: U+201D">”</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: quotedblbase, Unicode: U+201E">„</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ellipsis, Unicode: U+2026">…</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: guilsinglleft, Unicode: U+2039">‹</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: guilsinglright, Unicode: U+203A">›</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: zerosuperior, Unicode: U+2070">⁰</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: foursuperior, Unicode: U+2074">⁴</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: fivesuperior, Unicode: U+2075">⁵</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: sixsuperior, Unicode: U+2076">⁶</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: sevensuperior, Unicode: U+2077">⁷</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: eightsuperior, Unicode: U+2078">⁸</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ninesuperior, Unicode: U+2079">⁹</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: Euro, Unicode: U+20AC">€</xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: telephone, Unicode: U+2121">℡</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: trademark, Unicode: U+2122">™</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: blackstar, Unicode: U+2605">★</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: envelope, Unicode: U+2709">✉</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: bird, Unicode: U+E000"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: bird.alt, Unicode: U+E001"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: tape, Unicode: U+E002"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: ampersand.alt, Unicode: U+E003"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: envelope.alt, Unicode: U+E004"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: hacker, Unicode: U+E005"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: copyleft, Unicode: U+E006"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: vinyl, Unicode: U+E007"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: T_h, Unicode: U+E008"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: T_u, Unicode: U+E009"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: T_y, Unicode: U+E00A"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: c_h, Unicode: U+E00B"></xhtml:span></xhtml:td>
+</xhtml:tr>
+<xhtml:tr>
+<xhtml:td><xhtml:span title="Name: c_k, Unicode: U+E00C"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: f_j, Unicode: U+E00D"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: f_f_j, Unicode: U+E00E"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: l_l, Unicode: U+E00F"></xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: f_f, Unicode: U+FB00">ﬀ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: f_i, Unicode: U+FB01">ﬁ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: f_f_i, Unicode: U+FB03">ﬃ</xhtml:span></xhtml:td>
+<xhtml:td><xhtml:span title="Name: s_t, Unicode: U+FB06">ﬆ</xhtml:span></xhtml:td>
+</xhtml:tr>
+</xhtml:table>
+<xhtml:hr/></xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth4">
+<xhtml:h2>The Styles and the Names</xhtml:h2>
+<xhtml:p>Each family of the graphicore Bitmap Font has its own
+characteristics. Because there is no system in the development of
+these characteristics I decided to number them—of course, I started
+counting at zero. Furthermore, it is easy to add new variants to
+the collection when new generators evolve. The drawback is that the
+name doesn’t describe what the font looks like.</xhtml:p>
+<xhtml:p>The styles differ in their corner radius and where the corners
+are rounded. In the first three families all corners of each
+“pixel” are handled the same. The corner radius of the third family
+makes the pixels to circles and the family therefore to a “dot
+matrix”.</xhtml:p>
+<xhtml:p>In the latter styles an algorithm decides where to draw rounded
+cornes. Number Three and Four have rounded corners where they
+should be. Five and Six add corners outside of the pixels, where
+actually is no content in the matrix. Seven and Eight got “outer”
+and “inner” rounded corners.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridPos4 gridWidth6">
+<xhtml:p><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 0 Medium" src="/images//diary/graphicoreBitmapFont0Medium.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 1 Medium" src="/images//diary/graphicoreBitmapFont1Medium.png"/><xhtml:img alt="The g of graphicore Bitmap Font 2 Medium" src="/images//diary/graphicoreBitmapFont2Medium.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 3 Medium" src="/images//diary/graphicoreBitmapFont3Medium.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 4 Medium" src="/images//diary/graphicoreBitmapFont4Medium.png"/><xhtml:img alt="The g of graphicore Bitmap Font 5 Medium" src="/images//diary/graphicoreBitmapFont5Medium.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 6 Medium" src="/images//diary/graphicoreBitmapFont6Medium.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 7 Medium" src="/images//diary/graphicoreBitmapFont7Medium.png"/><xhtml:img alt="The g of graphicore Bitmap Font 8 Medium" src="/images//diary/graphicoreBitmapFont8Medium.png"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:hr/>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth6">
+<xhtml:p><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 4 Thin" src="/images//diary/graphicoreBitmapFont4Thin.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 4 Extra-Light" src="/images//diary/graphicoreBitmapFont4Extra-Light.png"/><xhtml:img alt="The g of graphicore Bitmap Font 4 Light" src="/images//diary/graphicoreBitmapFont4Light.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 4 Book" src="/images//diary/graphicoreBitmapFont4Book.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 4 Regular" src="/images//diary/graphicoreBitmapFont4Regular.png"/><xhtml:img alt="The g of graphicore Bitmap Font 4 Medium" src="/images//diary/graphicoreBitmapFont4Medium.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 4 Demi-Bold" src="/images//diary/graphicoreBitmapFont4Demi-Bold.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 4 Bold" src="/images//diary/graphicoreBitmapFont4Bold.png"/><xhtml:img alt="The g of graphicore Bitmap Font 4 Heavy" src="/images//diary/graphicoreBitmapFont4Heavy.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 4 Black" src="/images//diary/graphicoreBitmapFont4Black.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 4 Extra-Black" src="/images//diary/graphicoreBitmapFont4Extra-Black.png"/><xhtml:img alt="The g of graphicore Bitmap Font 4 Ultra-Black" src="/images//diary/graphicoreBitmapFont4Ultra-Black.png"/></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridPos6 gridWidth4">
+<xhtml:h2>The Weights</xhtml:h2>
+<xhtml:p>I did twelve different weights for each family. Weight means
+that the aperture of the pixel-elements differs between the fonts,
+while the center doesn’t move.</xhtml:p>
+<xhtml:p>Within the range of Thin to Regular the underlying grid becomes
+clearly visible, because of the gap that emerges between the items.
+Medium is the weight where the elements match exactly the grids
+width. The weights beyond Medium grow above the boundaries of the
+grid units and make the font bold. Finally, with Extra-Black, one
+pixel is more than double of the size of a grid unit and
+Ultra-Black goes even one step further. The families with “outer”
+rounded corners initially receive no weights lighter than Medium,
+because I’m not pleased with the outcome now.</xhtml:p>
+<xhtml:p>To write on a screen at 8 px the Regular or the Book fonts are
+best suited, because the pixels are a little bit smaller than a
+grid unit thus preventing rounding errors. Medium should as well
+work good and be crisp. The bolder weights have their use cases at
+display sizes.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:hr/>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth4">
+<xhtml:h2>All-in-One</xhtml:h2>
+<xhtml:p>Because it looks so great I stacked all the fonts of a family
+combined on a pile. The bolder fonts become the outlines of lighter
+ones, that creates an All-in-One family overview.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridPos4 gridWidth6">
+<xhtml:p><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 0 Family" src="/images//diary/graphicoreBitmapFont0.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 1 Family" src="/images//diary/graphicoreBitmapFont1.png"/><xhtml:img alt="The g of graphicore Bitmap Font 2 Family" src="/images//diary/graphicoreBitmapFont2.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 3 Family" src="/images//diary/graphicoreBitmapFont3.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 4 Family" src="/images//diary/graphicoreBitmapFont4.png"/><xhtml:img alt="The g of graphicore Bitmap Font 5 Family" src="/images//diary/graphicoreBitmapFont5.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 6 Family" src="/images//diary/graphicoreBitmapFont6.png"/><xhtml:img class="gridGap" alt="The g of graphicore Bitmap Font 7 Family" src="/images//diary/graphicoreBitmapFont7.png"/><xhtml:img alt="The g of graphicore Bitmap Font 8 Family" src="/images//diary/graphicoreBitmapFont8.png"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:hr/>
+<xhtml:div class="gridRow">Update:
+<xhtml:h2>The Missing Type Specimens</xhtml:h2>
+<xhtml:p class="gridWidth7 gridPos0">Sometimes a simple type specimen is
+needed. Here are two in different sizes. There’s a <xhtml:a href="http://graphicore.de/downloads/graphicoreBitmapFont-specimen_big.pdf">
+PDF</xhtml:a> for the bigger specimen where you can zoom in and study the
+details.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth7 gridPos0">
+<xhtml:p><xhtml:img src="/images//diary/graphicoreBitmapFont-specimen_big.png" alt="graphicoreBitmapFont-specimen_big.png"/></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth3 gridPos7">
+<xhtml:p><xhtml:img src="/images//diary/graphicoreBitmapFont-specimen_small.png" alt="graphicoreBitmapFont-specimen_small.png"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:p>All examples on this page are available as high quality PDF, SVG
+and PNG in the “media”-folder of the font package. The contents of
+the “media”-folder in the font-package and this text are available
+under the <xhtml:a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons
+Attribution 3.0 Unported License</xhtml:a>.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[graphicore.de is online.]]></title>
+    <summary type="html"><![CDATA[graphicore.de is online.Joy, Joy,
+
+
+
+
+
+the relaunc ...]]></summary>
+    <published>2010-07-12T01:23:56+00:00</published>
+    <updated>2010-07-12T01:23:56+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2010-07-09_i-live-again"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2010-07-09:/diary/201007091937074c377a6340b8b</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>graphicore.de is online.</xhtml:h1>
+<xhtml:h2>Joy, Joy,</xhtml:h2>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth6">
+<xhtml:p>the relaunch of my website is done. I will present my works
+here. I think the website is pretty much self-explanatory, so I
+will focus more the not so obvious things.</xhtml:p>
+<xhtml:p>I decided to let the archive be empty at the beginning. So,
+dont't be surprised. That's because I want to take some time to
+process the projects appropriately. The page will evolve in a
+natural manner. After all a designer identifies himself with the
+documentation of his works—thus his portfolio.</xhtml:p>
+<xhtml:p>There will be no comment feature. But I'm always excited about
+your emails and if its inevitable I'll let myself be carried away
+to fix it. The concern here is the presentation of my work and not
+the discussion about it. As well I don't want to moderate, what
+would be unavoidable with comments.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridPos6 gridWidth4">
+<xhtml:p><xhtml:img src="/images//diary/numero-uno-teaser.png" alt="teaser for numero uno, a bitmap font by graphicore.de"/></xhtml:p>
+<xhtml:h3>Announcement</xhtml:h3>
+<xhtml:p>As a birthday present of graphicore.de, as next action I'll
+publish the pixel font of the graphicore logo alongside with the
+code that built it, that I built, under a free license. The font
+now has ca. 220 glyphs and covers our western languages. The code
+is rather for tinkerers. Coming back pays off!</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:h2>What's under the hood?</xhtml:h2>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth4">
+<xhtml:p>I have to answer this here. Because I built the Content
+Management System myself. Those who aren't up for the technics may
+leave now.</xhtml:p>
+<xhtml:p><xhtml:a href="http://zendframework.com/" class="image"><xhtml:img class="gridGap" alt="Zend Framework Logo" src="/images/diary/ZendFramework.png"/></xhtml:a><xhtml:a href="http://www.dojotoolkit.org/" class="image"><xhtml:img alt="Dojo Logo" src="/images/diary/dojo.png"/></xhtml:a></xhtml:p>
+<xhtml:p><xhtml:a href="http://www.doctrine-project.org/" class="image"><xhtml:img class="gridGap" alt="doctrine Logo" src="/images/diary/doctrine.png"/></xhtml:a><xhtml:a href="http://htmlpurifier.org/" class="image"><xhtml:img alt="HTMLPurifier Logo" src="/images/diary/HTMLPurifier.png"/></xhtml:a></xhtml:p>
+<xhtml:h3>Markup</xhtml:h3>
+<xhtml:p>Graphicore.de validates <xhtml:a href="http://validator.w3.org/check?uri=referer">here</xhtml:a> as XHTML 1.0
+Strict. That's important to me. Granted, the content-type is
+text/html, but I have still the advantage of a strict syntax and
+its possible for me to use other XML tools on my output. An example
+in this case is the Atom-Feed.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridPos4 gridWidth6">
+<xhtml:h3>Style</xhtml:h3>
+<xhtml:p><xhtml:a href="http://en.wikipedia.org/wiki/Progressive_enhancement">Progressive
+enhancement</xhtml:a>: I insisted on using some of the new CSS3
+properties. Including gradients, pseudo elements, and naturally
+@font-fontface. It was important to me that the display works even
+in browsers that don't support these features. The better the
+browser the better the display, quite simple.</xhtml:p>
+<xhtml:p>With 1000px the page is rather wide relative to our screen
+technology. In addition all contents load among one another and are
+therefore visible at the same time and directly compareable to each
+other. To keep the coherency of the layout I set up both a layout
+grid as well as a baseline grid. The execution is rather primitive
+compared to the available CSS-Frameworks. But in exchange it fits
+into 130 generous lines and meets my requirements. The baselinegrid
+works in all modern browsers ;)</xhtml:p>
+<xhtml:p>Here it is: <xhtml:img src="/style/images/grid10.png" alt="the element of the baselinegrid"/> the grid is a 24px high and
+99px wide image that gets repeated over and over again. When I
+wrote the CSS I had the image occasionally in the background to
+check against it. <xhtml:a href="javascript:%20dojo.toggleClass(dojo.body(),'grid')">click here to
+see it in action</xhtml:a>(JavaScript must be enabled).</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridPos0 gridWidth6">
+<xhtml:h3>Dynamic</xhtml:h3>
+<xhtml:p>I implemented the concept of <xhtml:a href="http://en.wikipedia.org/wiki/Unobtrusive_JavaScript">unobtrusive
+JavaScript</xhtml:a>. That means the page works without JavaScript.
+However, if JavaScript is available the entertainment factor
+rises.</xhtml:p>
+<xhtml:p>For the dynamic behavior of the website with JavaScript I used
+the <xhtml:a href="http://www.dojotoolkit.org/">Dojo Toolkit</xhtml:a> for the
+first time. The handling of Dojo is similarly sleek as the handling
+of jQuery. I'm very satisfied with Dojo.</xhtml:p>
+<xhtml:h3>graphicore cache</xhtml:h3>
+<xhtml:p>One thing I'm particularly proud of is my way of caching
+Ajax-Requests. A request gets always loaded in between the previous
+request and the main-menu. Before a request is made, if the result
+is loaded already, the page directly jumps to that location—the
+content is not loaded again.<xhtml:br/>
+If nobody made that before, I'd like to call it "graphicore cache"
+;)</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridPos6 gridWidth4">
+<xhtml:h3>Backend</xhtml:h3>
+<xhtml:p>I will make it shorter than the denseness of topic propably
+demands. But this post must come to an end, too. I built the
+backend using <xhtml:a href="http://zendframework.com/">Zend
+Framework</xhtml:a>, <xhtml:a href="http://www.doctrine-project.org/">Doctrine
+ORM</xhtml:a> and <xhtml:a href="http://htmlpurifier.org/">HTMLPurifier</xhtml:a>.
+Besides that one and a half Libraries that I cobbled together are
+employed.</xhtml:p>
+<xhtml:h3>i18n</xhtml:h3>
+<xhtml:p>One reason for me to build the backend myself was the rather bad
+support of existing solutions for internationalization. It's
+possible for me to localize all areas of the website and so I
+did.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Cinecita.org]]></title>
+    <summary type="html"><![CDATA[Cinecita.orghttp://www.cinecita.org
+
+
+
+
+
+
+Realisat ...]]></summary>
+    <published>2010-05-03T13:38:23+00:00</published>
+    <updated>2010-05-03T13:38:23+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2010-10-18_La_Mirada_de_Ella"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2010-10-18:/diary/201010181349214cbc5061f0048</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Cinecita.org</xhtml:h1>
+<xhtml:p><xhtml:a href="http://www.cinecita.org">http://www.cinecita.org</xhtml:a></xhtml:p>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0">
+<xhtml:p><xhtml:img src="/images/diary/cinecita_homepage.png" alt="Screenshot of the CineCita Website in English displaying the following text: CineCita is a travelling cinema and video laboratory, that will be on tour in the Central Andes in the fall of 2010. CineCita aims to improve general access to audiovisual media and to increase media literacy with rural populations in the region. During the tour, a smart travelling “cine-bus” visits villages in Ecuador, Peru and Bolivia, screening a selected programme of international short films and organizing participative video workshops for local communities. Screenings are free of charge and held at public places. The selected programme focuses on female perspectives, giving a voice to women’s narratives, from both Europe and Latin America. In the video workshops, young women learn to shoot their own short documentary video, empowering them with audiovisual skills and inspiring them to tell their own stories. An international team of organizers accompanies the workshop participants, while documenting an excerpt of their everyday lives on video themselves. Together, screenings and workshops provide a means of an exchange and networking between the Central Andean Region and Europe. At the conclusion of each tour stop, the young directors may present their work in form of a public screening. Their films are then sent on the road with CineCita and shown to further audiences in the region."/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:h2>Realisation</xhtml:h2>
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:h3>Content Management</xhtml:h3>
+<xhtml:p>The site is running a custom made content management system. I
+made it with <xhtml:a href="http://php.net/">PHP5</xhtml:a>, <xhtml:a href="http://zendframework.com/">Zend Framework</xhtml:a>, <xhtml:a href="http://www.doctrine-project.org/">Doctrine ORM</xhtml:a> and <xhtml:a href="http://htmlpurifier.org/">HTMLPurifier</xhtml:a>. Cinecita.org is the
+technical predecessor of graphicore.de.</xhtml:p>
+<xhtml:h3>Internationalisation</xhtml:h3>
+<xhtml:p>English and Spanish where necessary. The most ready-to-use CMSs
+have mean support for Internationalisation. This CMS was planned
+from the beginneng with multiple languages in mind. Translation is
+the only thing to do, but if one translation is missing an
+available one is taken as fallback. Technically the number of
+languages is not limited.</xhtml:p>
+<xhtml:h3><xhtml:a href="http://www.cinecita.org/en/index/diary/">Blog</xhtml:a></xhtml:h3>
+<xhtml:p>The site has a totally integrated blog with built in ATOM and
+RSS newsfeed. Some parts of the website are altered by the staff of
+CineCita while they are on tour. They can use a WYSIWYG-editor and
+don’t have to mess around with HTML so much.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:h3><xhtml:a href="http://www.cinecita.org/en/index/static/static/tour">An
+Interactive Map</xhtml:a></xhtml:h3>
+<xhtml:p>is providing a quick overview on the CineCita tour plan and lets
+the user navigate through the tourstops. The results of the
+workshops held by CineCita will be availabe there.</xhtml:p>
+<xhtml:h3>Animations</xhtml:h3>
+<xhtml:p>are transporting Emotions. You have to see this on the life
+site. The header is animated everywhere and when a submenu is
+loaded the little girl in the upper right corner is opening the
+curtain. No Flash was used at all, we tested how far we could go
+without it. Frontend tools where <xhtml:a href="http://jquery.com/">jQuery</xhtml:a>, <xhtml:a href="http://flowplayer.org/tools/index.html">jQuery Tools</xhtml:a> and of
+course <xhtml:a href="http://www.w3.org/TR/xhtml1/">XHTML 1.0
+Strict</xhtml:a></xhtml:p>
+<xhtml:h3>Ajax</xhtml:h3>
+<xhtml:p>Progressive enhancement ensures that the page works good without
+Javascript. However — when Javascript is running — the contents are
+cached and the page-frame must not be requested every time. This
+keeps the feeling of the page intact and improves the control over
+the animated curtain.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0">
+<xhtml:p><xhtml:img src="/images/diary/cinecita_interactive-map.png" alt="Screenshot of the CineCita website in spanish, showing a map with some dots that stand for tourstops. Over one tourstop a speech bubble is visible displaying the date and name of the stop."/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:hr/>
+<xhtml:div class="gridWidth4 gridPos0">
+<xhtml:h2>The Media Data is Outsourced</xhtml:h2>
+<xhtml:h3>Videos</xhtml:h3>
+<xhtml:p>are the core media of CineCita. At <xhtml:a href="http://www.cinecita.org/en/index/static/static/workshops">workshops</xhtml:a>
+videos are produced by local girls and women. The videos are
+delivered by the good and scaleable services of <xhtml:a href="http://vimeo.com/">Vimeo</xhtml:a> or <xhtml:a href="http://www.youtube.com">YouTube</xhtml:a>.</xhtml:p>
+<xhtml:h3>The Embedded Slideshows</xhtml:h3>
+<xhtml:p>are loading image albums from <xhtml:a href="http://picasaweb.google.com">Googles Picasa</xhtml:a> and displaying
+them in the article. The CineCita people are using this feature
+<xhtml:a href="http://www.cinecita.org/en/index/diary/filter/photo">a lot
+in their blog articles</xhtml:a> to show the wonderful places they visit
+on their journey.</xhtml:p>
+<xhtml:p>The code It is a very modified version of <xhtml:a href="http://pwi.googlecode.com/">pwi - Picasa Webalbum Integrator</xhtml:a>.
+Best Thing: the heavy lifting of massive image delivery is done by
+Google.</xhtml:p>
+<xhtml:h2>The Graphic Design</xhtml:h2>
+<xhtml:p>is by <xhtml:a href="http://10hoch16.de">10hoch16.de.</xhtml:a></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth6 gridPos4">
+<xhtml:p><xhtml:img src="/images/diary/cinecita_embedded-slideshow.png" alt="Part of a Screenshot of the CineCita website showing an embedded slideshow. A big image and below a line of thumbnail-images."/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Toytoytoys.de]]></title>
+    <summary type="html"><![CDATA[Toytoytoys.dewww.toytoytoys.de
+
+
+The Project
+The r ...]]></summary>
+    <published>2009-11-05T14:38:01+00:00</published>
+    <updated>2009-11-05T14:38:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2010-10-12_serious_toys"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2010-10-12:/diary/201010121448344cb475424313c</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Toytoytoys.de</xhtml:h1>
+<xhtml:p><xhtml:a href="http://www.toytoytoys.de">www.toytoytoys.de</xhtml:a></xhtml:p>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth7 gridPos0">
+<xhtml:h2>The Project</xhtml:h2>
+<xhtml:p>The reality has landed in the toy shop. The collected cruelty of
+the world packet into puppet form. Now, the very little ones can
+learn through play in what a world they live in.</xhtml:p>
+<xhtml:p>This project points with unique toys on relevant social topics.
+More Information on that is linked directly with the Products.</xhtml:p>
+<xhtml:h2>The Technique</xhtml:h2>
+<xhtml:p>The whole site is static, but generated by a PHP script. We have
+decided so because the site had to be very portable—it had to work
+from a thumb drive. At the same time the most advantages of a
+dynamic solution are kept—one can make updates fast and
+centrally.</xhtml:p>
+<xhtml:p>I have made the realization of the website. Therefor I used
+PHP5, HTML, CSS and JavaScript. The site validates as XHTML 1.0
+Strict.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth3 gridPos7">
+<xhtml:h2>Concept and Graphics</xhtml:h2>
+<xhtml:p>The design of the content and graphics of Toytoytoys was made by
+<xhtml:a href="http://10hoch16.de">Zehn hoch Sechzehn</xhtml:a>.</xhtml:p>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="http://www.amnesty.de/">www.amnesty.de</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.unicef.de/">www.unicef.de</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.kindersoldaten.de/">www.kindersoldaten.de</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.unhcr.de/">www.unhcr.de</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.vielfalt-tut-gut.de/">www.vielfalt-tut-gut.de</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.greenpeace.de/">www.greenpeace.de</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.helpedia.de/">www.helpedia.de</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.caritas-international.de/">www.caritas-international.de</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.nacoa.de/">www.nacoa.de</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.fruehehilfen.de/">www.fruehehilfen.de</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:p><xhtml:img src="/images/diary/toytoytoys_biafrika_klein.png" alt="toytoytoys_biafrika_klein.png"/></xhtml:p>
+<xhtml:p><xhtml:img src="/images/diary/toytoytoys_biafrika_detail.png" alt="Fast eine Milliarde Menschen weltweit leiden unter Hunger. Dabei ist die Ernährungssituation in 33 Ländern, wie z.B. in Afrika und Indien besonders prekär. Für weiterführende Informationen und die Möglichkeit dem Huger etwas entgegenzusetzen, besuchen Sie bitte: www.welthungerhilfe.de"/></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:p><xhtml:img src="/images/diary/toytoytoys_myLin_klein.png" alt="toytoytoys_myLin_klein.png"/></xhtml:p>
+<xhtml:p><xhtml:img src="/images/diary/toytoytoys_myLin_detail.png" alt="Laut ILO (International Labour Organisation) sind weltweit über 200 Millionen Kinder zu Arbeiten, welche ihre mentale, physische und emotionale Entwicklung beeinträchtigen, gezwungen. Davon sind nahezu dreiviertel dieser Kinder in die schlimmsten Formen des Kindesmissbrauchs, wie Kinderhandel, bewaffnete Konflikte, Sklaverei und sexuelle Ausbeutung verwickelt. Für weiterführende Informationen und die Möglichkeit selbst aktiv zu werden, besuchen Sie bitte: www.unicef.de oder www.kindernothilfe.de"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10">
+<xhtml:p><xhtml:img src="/images/diary/toytoytoys_ab-6-jahre.png" alt="toytoytoys_ab-6-jahre.png"/></xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Abraum]]></title>
+    <summary type="html"><![CDATA[Abraum
+
+
+
+
+The exhibition concerned with the topic ...]]></summary>
+    <published>2009-05-05T16:02:59+00:00</published>
+    <updated>2009-05-05T16:02:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2010-10-06_underground_exhibition"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2010-10-06:/diary/201010061331004cac7a14de999</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Abraum</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth8 gridPos0" style="height:1128px;"><xhtml:img src="/images/diary/abraum-poster.png" alt="abraum-poster.png"/></xhtml:div>
+<xhtml:div class="gridWidth2 gridPos8">
+<xhtml:p>The exhibition concerned with the topic basement — more precise,
+the discovery and interpretation of different semantic dimensions
+of basement rooms — and took place in the basement and thus the
+advertising had to invite to the basement. An audacious basement
+staircase visualizes the step into the underworld.</xhtml:p>
+<xhtml:p>The poster advertising in Marburg was applied double-staged.
+First the stairs should hang resplendent alone, a few days later
+the information was added. <xhtml:img src="/images/diary/abraum-poster_label.png" alt="abraum-poster_label.png"/> In the meantime the people had taken
+with them numerous posters — which I take for a compliment.</xhtml:p>
+<xhtml:p>The story of the project is at the <xhtml:a href="http://abraum-marburg.blogspot.com/">abraum blog</xhtml:a>.</xhtml:p>
+<xhtml:p>The Abraum-logo is made by <xhtml:a href="http://www.station-c.de/">Christina Willkomm</xhtml:a>.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth3 gridpos0">
+<xhtml:p><xhtml:img src="/images/diary/abraum-flyer.png" alt="komm mal runter"/> The flyer had as an aim the fridge doors of
+the Marburger students’ shared flats. »komm mal runter« can mean
+both “come down” and “calm down”.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth7 gridPos3">
+<xhtml:div class="scrollX" style="white-space:nowrap;height:456px;">
+<xhtml:img class="gridGap" src="/images/diary/abraum-catalog_1.png" alt="abraum-catalog_1.png"/><xhtml:img class="gridGap" src="/images/diary/abraum-catalog_2.png" alt="abraum-catalog_2.png"/><xhtml:img src="/images/diary/abraum-catalog_3.png" alt="abraum-catalog_3.png"/></xhtml:div>
+<xhtml:p>Building the bridge from basement to White Cube the catalog was
+a plainly designed, quadratic booklet. It explanatorily led the
+visitors through the exhibits.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[The Cultureless are here]]></title>
+    <summary type="html"><![CDATA[The Cultureless are here
+
+
+
+
+Concept
+
+The Idea is  ...]]></summary>
+    <published>2009-02-15T11:00:00+00:00</published>
+    <updated>2009-02-15T11:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2010-10-01_metropolis-wilderness"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2010-10-01:/diary/201010011553324ca603fcc53f3</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>The Cultureless are here</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth6 gridPos0">
+<xhtml:p><xhtml:img src="/images/diary/kulturlose-cover.png" alt="kulturlose-cover.png"/></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth4 gridPos6">
+<xhtml:h2>Concept</xhtml:h2>
+<xhtml:p>The Idea is to send people in their city with a distinct
+task—the search for wild animals. As a result they have to perceive
+their environment in a different manner – as habitat for wild
+animals. This was inspired by the <xhtml:a href="http://en.wikipedia.org/wiki/Situationist_International">situationist</xhtml:a>
+praxis of <xhtml:a href="http://en.wikipedia.org/wiki/D%C3%A9rive">Dérive</xhtml:a>, see also
+<xhtml:a href="http://en.wikipedia.org/wiki/Psychogeography">psychogeography</xhtml:a>.
+The »<xhtml:a title="Handbook of the wild growing city plants" href="http://5b4.blogspot.com/2009/08/handbuch-der-wildwachsenden.html">Handbuch
+der wildwachsenden Großstadtpflanzen</xhtml:a>« by Helmut Völter takes a
+similar line, too.</xhtml:p>
+<xhtml:p>The Book is my »<xhtml:a href="http://en.wikipedia.org/wiki/Diplom">Diplom</xhtml:a>« thesis. I have
+conceived, written and designed it. I was supervised by <xhtml:a href="http://www.czyk.de/">Alexander Branczyk</xhtml:a> and <xhtml:a href="http://www.uni-weimar.de/gestaltung/cms/struktur/visuelle-kommunikation/prof-jay-rutherford/">
+prof</xhtml:a> <xhtml:a href="http://www.jayrutherford.net/">Jay
+Rutherford</xhtml:a>. Summer term 2008, Faculty Design, <xhtml:a href="http://www.uni-weimar.de/">Bauhaus-University Weimar</xhtml:a>.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:p class="scrollX" style="white-space:nowrap;height:360px;">
+<xhtml:img src="/images/diary/kulturlose-shot002.png" class="gridGap" alt="kulturlose-shot002.png"/><xhtml:img src="/images/diary/kulturlose-shot003.png" class="gridGap" alt="kulturlose-shot003.png"/><xhtml:img src="/images/diary/kulturlose-shot005.png" class="gridGap" alt="kulturlose-shot005.png"/><xhtml:img src="/images/diary/kulturlose-shot017.png" class="gridGap" alt="kulturlose-shot017.png"/><xhtml:img src="/images/diary/kulturlose-shot019.png" class="gridGap" alt="kulturlose-shot019.png"/><xhtml:img src="/images/diary/kulturlose-shot020.png" class="gridGap" alt="kulturlose-shot020.png"/><xhtml:img src="/images/diary/kulturlose-shot023.png" class="gridGap" alt="kulturlose-shot023.png"/><xhtml:img src="/images/diary/kulturlose-shot024.png" alt="kulturlose-shot024.png"/></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:h2>Content</xhtml:h2>
+<xhtml:p>The Book is introducing in general tactics of tracking down wild
+metropolitans at the beginning. Later, the peculiarities of the
+animal species themselves are scrutinised. In the rear part of the
+book the habitats in the city are gone into. Concluding a list of
+all wild mamals that occur in the city is to be found.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:p class="scrollX" style="white-space:nowrap;height:360px;">
+<xhtml:img src="/images/diary/kulturlose-shot009.png" class="gridGap" title="I photographed the bat in Berln." alt="kulturlose-shot009.png"/><xhtml:img src="/images/diary/kulturlose-shot013.png" class="gridGap" title="Source: The muskrat is for demonstration and by naturespicsonline.com also commons.wikimedia.org/wiki/File:Muskrat.jpg" alt="kulturlose-shot013.png"/><xhtml:img src="/images/diary/kulturlose-shot010.png" class="gridGap" alt="kulturlose-shot010.png"/><xhtml:img src="/images/diary/kulturlose-shot011.png" class="gridGap" alt="kulturlose-shot011.png"/><xhtml:img src="/images/diary/kulturlose-shot012.png" class="gridGap" alt="kulturlose-shot012.png"/><xhtml:img src="/images/diary/kulturlose-shot014.png" title="extra material as a placeholder" alt="kulturlose-shot014.png"/></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:h2>Additional Spice</xhtml:h2>
+<xhtml:p>is given to the idea of the field trip, because the reader has
+to snap the appropriate animal pictures himself. Merely the pages
+are prepared so that images on standard 4 × 6 inch photo paper can
+be inserted.</xhtml:p>
+<xhtml:p>In order that the book doesn’t diverge—in its capacity as photo
+album—extra material had to be brought into the spine as a
+placeholder. The spine is broad enough to take all pictures.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth5 gridPos0">
+<xhtml:p class="scrollX" style="white-space:nowrap;height:360px;">
+<xhtml:img src="/images/diary/kulturlose-shot007.png" class="gridGap" alt="kulturlose-shot007.png"/><xhtml:img src="/images/diary/kulturlose-shot022.png" class="gridGap" alt="kulturlose-shot022.png"/><xhtml:img src="/images/diary/kulturlose-shot006.png" class="gridGap" alt="kulturlose-shot006.png"/><xhtml:img src="/images/diary/kulturlose-shot021.png" class="gridGap" alt="kulturlose-shot021.png"/><xhtml:img src="/images/diary/kulturlose-shot018.png" class="gridGap" alt="kulturlose-shot018.png"/><xhtml:img src="/images/diary/kulturlose-shot025.png" class="gridGap" alt="kulturlose-shot025.png"/><xhtml:img src="/images/diary/kulturlose-shot026.png" class="gridGap" alt="kulturlose-shot026.png"/><xhtml:img src="/images/diary/kulturlose-shot031.png" alt="kulturlose-shot031.png"/></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth5 gridPos5">
+<xhtml:h2>Details</xhtml:h2>
+<xhtml:p>There is a matching cross-reference between the animals and
+their habitats, so one doesn’t lose the way in the book. A running
+head had to be there, too. The design of the pages complies with a
+layout grid and the baseline grid.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Commemorative Stamp to the 200th Birthday of Hermann Schulze-Delitzsch.]]></title>
+    <summary type="html"><![CDATA[Commemorative Stamp to the 200th Birthday of Herma ...]]></summary>
+    <published>2007-06-15T10:00:00+00:00</published>
+    <updated>2007-06-15T10:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2010-09-27_a_stamp_chance"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2010-09-27:/diary/201009272109094ca107f52b79c</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Commemorative Stamp to the 200th Birthday of Hermann
+Schulze-Delitzsch.</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth2 gridPos1" style="height:120px;padding-top:24px;"><xhtml:img src="/images/diary/stamp_schulze-delitzsch_small.png" alt="stamp_schulze-delitzsch_small.png"/></xhtml:div>
+<xhtml:div class="gridWidth6 gridPos4">
+<xhtml:p>The chance of the attendance at a design competition of postage
+stamps one seldom gets. I sent a fancy layout even though the
+advisory council for art of the German ministry of finance often
+favors conventional design. The layout wasn't chosen—I still like
+it.</xhtml:p>
+<xhtml:p>The typeface is FF Seria by <xhtml:a href="http://www.martinmajoor.com/">Martin Majoor</xhtml:a>. The design was
+supervised by <xhtml:a href="http://www.uni-weimar.de/gestaltung/cms/struktur/visuelle-kommunikation/prof-jay-rutherford/">
+professor</xhtml:a> <xhtml:a href="http://www.jayrutherford.net/">Jay
+Rutherford</xhtml:a> at the <xhtml:a href="http://www.uni-weimar.de/">Bauhaus-University Weimar</xhtml:a> in the
+summer term 2007.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0" style="height:600px;"><xhtml:img src="/images/diary/stamp_schulze-delitzsch_big.png" alt="stamp_schulze-delitzsch_big.png"/></xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Turbine]]></title>
+    <summary type="html"><![CDATA[Turbine
+
+
+
+
+
+The documentation of our works is at  ...]]></summary>
+    <published>2007-06-15T09:00:00+00:00</published>
+    <updated>2007-06-15T09:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2010-09-27_turbo_art_collective"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2010-09-27:/diary/201009272105474ca1072b79bf6</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Turbine</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth8 gridPos0"><xhtml:a href="http://die-turbine.de/" style="border:none;"><xhtml:img src="/images/diary/turbine_screen1.png" alt="screenshot of the turbine website"/></xhtml:a></xhtml:div>
+<xhtml:div class="gridWidth2 gridPos8">
+<xhtml:p>The documentation of our works is at <xhtml:a href="http://die-turbine.de/">die-turbine.de</xhtml:a>. There it’s full of
+thrilling media and cool ideas.</xhtml:p>
+<xhtml:h2>Turbine is</xhtml:h2>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="http://benivonalemann.de/">Beni von Alemann</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.vildesvaner.com/">Anne Gorke</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.julianwagner.com">Julian Wagner</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://10hoch16.de/">Kari Wolf</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://ulischoeberl.com/">Uli Schöberl</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.tanjasannwald.de/">Tanja Sannwald</xhtml:a></xhtml:li>
+<xhtml:li>Jens Ole Mayer</xhtml:li>
+<xhtml:li><xhtml:a href="http://10hoch16.de/">Piet Machat</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://10hoch16.de/">Max Lisewski</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://10hoch16.de/">Simon Kiepe</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.45kilo.com/">Daniel Klapsing</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="http://www.wirhabenvielvor.de">Thomas Gnahm</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a rel="me" href="/en/page/lasse">Lasse Fister</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Typete—Typographic Wallpaper]]></title>
+    <summary type="html"><![CDATA[Typete—Typographic Wallpaper
+One Letter per Length ...]]></summary>
+    <published>2005-05-15T10:00:00+00:00</published>
+    <updated>2005-05-15T10:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="http://graphicore.de/en/archive/2010-09-23_Neo-Bourgeois_Grafitti"/>
+    <id>http://graphicore.de/diary/tag:graphicore.de,2010-09-23:/diary/201009231107214c9b34e9d0274</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:div class="diaryEntryContainer" xml:lang="en" lang="en">
+<xhtml:h1>Typete—Typographic Wallpaper</xhtml:h1>
+<xhtml:div class="gridRow">
+<xhtml:h2>One Letter per Length of Wallpaper,</xhtml:h2>
+<xhtml:div class="gridWidth2 gridPos0">
+<xhtml:p>that would make it possible to write in an elegant floral
+garment on the walls of your home. As illustration of that idea
+we’ve made this image back then in 2005.</xhtml:p>
+<xhtml:p>The font is Warnock Pro Regular. The floral filling of the
+characters was fitted in elaborate manual work.</xhtml:p>
+<xhtml:p>The small g has become one of the most beautiful chars.</xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth8 gridPos2"><xhtml:img src="/images/diary/typete-clean-g-big.png" alt="typete-klein-clean.png"/></xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0 scrollX" style="height:360px;">
+<xhtml:img height="336" src="/images/diary/typete-klein-clean.png" alt="typete-klein-clean.png"/></xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0">
+<xhtml:p>The subliminal message is read prettiest in defoliated state:
+»argwohn«. That’s German for “suspicion”.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0 scrollX" style="height:600px;">
+<xhtml:img height="600" src="/images/diary/typete-klein.png" alt="typete-klein.png"/></xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth10 gridPos0">
+<xhtml:p>In the finished artwork the type steps back but is denser
+overgrown than the it surrounding similar pattern. So the wallpaper
+is less obtrusive—in turn more homelike. The original design is
+5,58 meter to 2,56 meter in size.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+<xhtml:div class="gridRow">
+<xhtml:div class="gridWidth7 gridPos0">
+<xhtml:p><xhtml:img height="480" src="/images/diary/typete_designmai05.png" alt="typete_designmai05.png"/></xhtml:p>
+</xhtml:div>
+<xhtml:div class="gridWidth3 gridPos7">
+<xhtml:p>The Typete was exhibited in the course of <xhtml:a href="http://www.schoene-neue-warenwelt.de">Aldi Huxley, schöne neue
+Warenwelt</xhtml:a> (brave new product-world) at the <xhtml:a href="http://dmy-berlin.com/">Design Mai Youngsters 2005</xhtml:a> and at the
+<xhtml:a href="http://www.czyk.de/bauhaus-uni-weimar/B758462001/C1653933528/E804688907/index.html">
+Rundgang 2005</xhtml:a> of the <xhtml:a href="http://www.uni-weimar.de">Bauhaus-Universiy Weimar</xhtml:a>.</xhtml:p>
+<xhtml:p>It originated 2005 in the projekt »Schnellmodus International«.
+It was supervised by <xhtml:a href="http://www.czyk.de/">Alexander
+Branczyk</xhtml:a> and designed by <xhtml:a href="http://www.tanjasannwald.de/">Tanja Sannwald</xhtml:a>, <xhtml:a href="http://www.johannaschiegnitz.de/">Johanna Schiegnitz</xhtml:a>, Daniel
+Graf and <xhtml:a href="http://graphicore.de">Lasse Fister</xhtml:a>.</xhtml:p>
+<xhtml:p>The Typete attended the 2005 competition “New Walls, Please!”
+and appeared commendatory alluded in the catalog of the
+competition.</xhtml:p>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+</xhtml:div>
+    </content>
+  </entry>
+</feed>

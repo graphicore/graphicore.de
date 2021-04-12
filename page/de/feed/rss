@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Tagebuch | graphicore.de</title>
+    <description>The Graphicore News</description>
+    <pubDate>Tue, 28 Jul 2015 18:03:27 +0000</pubDate>
+    <generator>Zend_Feed_Writer 1.10.8 (http://framework.zend.com)</generator>
+    <link>http://graphicore.de/de/diary</link>
+    <author>commander@graphicore.de (Lasse Fister)</author>
+    <dc:creator>Lasse Fister</dc:creator>
+    <atom:link rel="self" type="application/rss+xml" href="http://graphicore.de/de/feed/rss"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://graphicore.de/de/feed/atom"/>
+    <item>
+      <title>Hello Metapolator</title>
+      <description><![CDATA[Hello MetapolatorLearn more about Metapolator and  ...]]></description>
+      <pubDate>Tue, 28 Jul 2015 12:45:00 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2015-07-28_hello_metapolator</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2015-07-28:/diary/2015072812483855b77a264cda6</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="en" lang="en"><h1>Hello Metapolator</h1><p>Learn more about Metapolator and visit the <a href="http://metapolator.com">project homepage</a> and the <a href="https://github.com/metapolator/metapolator/">github repository</a>.
+</p>
+
+
+<div class="gridRow">
+<div class="gridWidth6 gridPos1">
+<h2>A Short Personal Project History</h2>
+<p>
+The reason for me not updating my blog for a long while is that I was very busy. I'm still busy now, but yet writing. Something must have changed.<br />
+Metapolator is a next generation font creation tool. I started working on it roughly more than one year ago. We can consider the <a href="http://libregraphicsmeeting.org/2014/">Libre Graphics Meeting 2014</a> in Leipzig in April 2-5 as my initiation into the project and the start of the current phase. More about the project history can be found at <a href="http://metapolator.com">metapolator.com</a>. Our Team gathered later that year again at the <a href="http://automatic-type-design.anrt-nancy.fr/index_en.php">Automatic Type Design conference</a> at the ANRT in Nancy in May 6-7 2014. In the meantime I was working on the previous prototype of Metapolator and shaped my mind about what it did then and what I thought it should be. It was in Nancy where we laid the foundation for the current incarnation of Metapolator technology.<br />
+Many people contributed to the project, but at Nancy I met <em>Paul Sladen</em>, whose kind help, being a good listener, and giving valuable advice, helped me to form concepts strong enough to get my hands dirty and start working. <strong>I left Nancy with a keen excitement in the project.</strong>
+</p>
+</div></div>
+<div class="gridRow">
+<div class="gridWidth6 gridPos3">
+<h2>Things keep changing</h2>
+<p>
+After more than one year later the Metapolator Project entered an interesting new phase. Some of the old concepts got replaced by better ones but the general direction has proven right. We have a great product vision and a well conceived ux-design through the work of <em>Peter Sikking</em>. Soon we will present a minimal viable product that supports designers with designing font families. To implement all of our plans and to reach version 1.0 will take some more time however.
+</p><p>
+My role in the project is less about the creation of the <strong>“Metapolator” interface</strong>; instead I am the inventor of the underlying <strong>“Metapolator Technology”</strong>. There are a couple of modules that I realized will be useful in a vastly broader range of applications and tools than just Metapolator. This led to my decision to take parts out of the repositories of Metapolator, and also <a href="https://github.com/graphicore/ufoJS/">ufoJS</a>, a library I began developing <a href="/de/archive/2012-01-17_ufoJS-is-not-a-bird">some years ago</a> that is a key component of Metapolator.
+</p>
+</div></div>
+<div class="gridRow">
+<div class="gridWidth6 gridPos1">
+<h2>The Plan</h2>
+<p><strong>
+I hope I can use parts of Metapolator, especially <em title="Cascading Properties Sheets">CPS</em>, to teach people how to make exciting new tools for font and graphic design.</strong>
+</p><p>
+Taking modules out of Metapolator to create stand-alone projects has primarily didactical reasons. It will be easier to <strong>show and explain</strong> the technology of Metapolator by looking at one part at a the time, instead of everything at once. It will also be easier to <strong>write specific documentation</strong> for these projects without having to consider the highly specialized nature of Metapolator. Lastly and most exciting for me: we will be able to create cool little projects with our technology to <strong>attract, inspire and teach</strong> the community. These projects will form an ecosystem  around Metapolator: The developer tool for <em title="Cascading Properties Sheets">CPS</em> that I'm working on right now will be available for all <em title="Cascading Properties Sheets">CPS</em> based projects as an ad-hoc interface.
+</p><p>
+In the long run we will establish <strong>Metapolator technology as a platform to build the next generation of type design tools</strong>, or any other domain as well. Metapolator will be positioned as a highly sophisticated application that spawned new core technologies and on the way stimulates and enables new tools.
+</p><p>
+I want to see more people participating in Metapolator technology in the future; particularly because we offer <strong>interesting and genuinely new approaches for parametric design applications</strong>, and can enable everything between professional type design/engineering tools to ultra creative graphic design tools <em>that are fun both to make and to use</em>.
+</p><p>
+For a FLOSS project like ours it is crucial to gain a diverse community. Each part of the project will profit from discussing and solving issues raised by users from any background. <strong>We have topics ranging from computer language design to user interaction</strong>. The more people use our tools the more ideas and feedback will be available to further advance our mission.
+</p>
+</div></div>
+<div class="gridRow">
+<div class="gridWidth6 gridPos3">
+
+<h2>Coming up next</h2>
+
+<p>
+Metapolator’s minimal viable product and the <em title="Cascading Properties Sheets">CPS</em> Developer Tool are being developed in parallel at the moment. When I have finished the developer tool I will start to <strong>decouple some modules</strong>, namely: <em title="Cascading Properties Sheets">CPS</em> plus the object model basics, <em title="Metapolator Object Model">MOM</em> (maybe), our IO modules, the pen APIs and a collection of pens, and the <em title="Cascading Properties Sheets">CPS</em> Developer Tool itself. I am also planning <strong>a series of blog posts</strong> to document the workings of these modules on a fairly high level and finally one about  Metapolator that builds upon that knowledge. These articles will become part of the Metapolator documentation as well. I also have ideas for up to three <strong>fun projects</strong> that will prove the claims I made above and attract new people to this ecosystem; I expect one of these will be created soon after the isolation of <em title="Cascading Properties Sheets">CPS</em>.
+</p>
+
+<h3>Comments</h3>
+<p>I have no comments feature on my blog for several reasons. You can discuss this post at the <a href="https://plus.google.com/+LasseFister/posts/9BUVmNzQJCx">Metapolator g+ community</a>, write me an email or chat to me on twitter.</p>
+</div></div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Firewall-Konfigurationsserver für einen internationalen Handelskonzern</title>
+      <description><![CDATA[Firewall-Konfigurationsserver für einen internatio ...]]></description>
+      <pubDate>Thu, 27 Feb 2014 14:22:48 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2014-02-27_firewall-service</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2014-02-27:/diary/20140227142708530f4b3c7eae4</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Firewall-Konfigurationsserver für einen internationalen Handelskonzern</h1><div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<h2>Einsatzgebiet</h2>
+<p>Der Server ist nur Konzern-intern verfügbar und soll für <strong>drei unterschiedliche Szenarien</strong> verwendet werden:</p>
+<ol><li><strong>Initial</strong> werden alle neuen Firewalls mit der generierten Konfiguration bespielt und dann an die Standorte ausgeliefert.
+</li><li>
+Im <strong>Servicefall</strong> kann ein Techniker die Konfiguration für das Ersatzgerät ermitteln.
+</li><li>
+Sollten <strong>Änderungen an den Konfigurationen</strong> nötig werden, ist dies der zentrale Ort, an dem die Änderungen eingepflegt werden.
+</li>
+</ol></div>
+<div class="gridWidth5 gridPos5">
+<h2>Schnittstellen</h2>
+<p>Der Server stellt verschiedene Schnittstellen bereit, über die die Konfigurationsdateien und Metadaten ermittelt werden können:</p>
+<ul><li>
+Die <strong>Webseite eines Standortes</strong> mit Konfigurationen und Zusatzinformation wie Öffnungszeiten und Adresse.
+</li><li>
+Der <strong>Download vieler Konfigurationen</strong> auf einmal als <em>ZIP-Archiv</em>, wobei die Eingabe mittels Upload einer simplen <em>CSV-Datei</em> stattfindet.
+</li><li>
+Eine <em>HTTP-GET API</em>, über die Konfigurationen und Metadaten <strong>direkt ermittelt</strong> werden können.
+</li><li>
+Ein <strong>Maintenance-/Debugging-Interface</strong>, das via <em>AJAX</em> und <em>JavaScript</em> eine <em>SNMP-Abfrage</em> stellt und das Ergebnis filterbar darstellt.
+</li>
+</ul></div>
+</div>
+<hr /><div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<h2>Das richtige Werkzeug</h2>
+
+<p>Der Server ist in <a href="http://python.org/">Python</a> geschrieben. Als Webframework habe ich das leichtgewichtige <a href="http://flask.pocoo.org/">Flask</a> verwendet. Die benötigten Daten werden aus verschiedenen Quellen ermittelt: <em>DNS</em>, <em>LDAP</em>, <em>SNMP</em>, ein <em>HTTP-PUSH</em> basiertes System – über das Daten als <em>XML</em> empfangen, mit <em>XSD</em> validiert und aktualisiert werden – sowie weitere, lokal vorliegende Daten.</p>
+</div>
+
+<div class="gridWidth5 gridPos5">
+<h2>Administration</h2>
+
+<p>
+Auch <strong>die Serverkonfiguration kommt von mir</strong>. Der <em>Apache2</em> Webserver liefert die Seite mit <em>mod_wsgi</em>, <em>mod_authz_ldap</em> und <em>mod_ssl</em> aus. Dabei ist der <strong>Zugriff beschränkt</strong> via <em>LDAP-Gruppen</em> und <strong>stets verschlüsselt</strong> mit <em>HTTPS</em>.
+</p>
+</div>
+</div>
+<hr /><div class="gridRow">
+<div class="gridWidth10 gridPos0">
+<h2>Screenshot</h2>
+<p>die Gestaltung ist auf das Wesentliche beschränkt und erklärt die bestehenden Möglichkeiten.</p>
+<p><img src="/images/diary/firewall-config-server-home.png" alt="Screenshot der Homepage des Servers" title="Screenshot" /></p></div>
+</div>
+</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Kleine Geschäftsausstattung für Sibylle Frank</title>
+      <description><![CDATA[Kleine Geschäftsausstattung für Sibylle Frank
+Link ...]]></description>
+      <pubDate>Thu, 27 Feb 2014 11:47:59 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2014-02-27_sibylle_frank</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2014-02-27:/diary/20140227115040530f26907c1a8</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Kleine Geschäftsausstattung für Sibylle Frank</h1><div class="gridRow">
+<p>Link zur Website: <a href="http://www.sibyllefrank.de/">Sibylle Frank</a></p>
+</div>
+
+
+<div class="gridRow">
+<div class="gridWidth10 gridPos0">
+<h2>Die Website</h2>
+<p>ist in der Form eines Steckbriefes gehalten und <strong>informiert sachlich und schlicht</strong>. Die Website ist responsive umgesetzt, dadurch passt sich die Seite an verschiedenen Bildschirmgrößen optimal an.</p>
+<p><img src="/images/diary/sibylle-frank-web-desktop.png" alt="Breite Ansicht der Website von Sibylle Frank" title="Screenshot breiter Bildschirm" /></p></div>
+</div>
+
+
+<div class="gridRow">
+<div class="gridWidth6 gridPos0">
+<h2>Die Gestaltung</h2>
+<p>basiert auf einer <strong>spannenden Schriftmischung</strong>. Zum einen wird die moderne und sehr schlichte Webfont »<em>Source Sans Pro</em>« von Adobe verwendet. Sie stellt die Wortmarke in ihrer ExtraLight Variante dar und liefert die Texte mit ihrer Light Variante aus. Besondere Betonungen und Zwischenüberschriften werden von der »<em>Magenta Open Cosmetica Bold</em>« dargestellt – eine freie Version der »<em>Optima</em>« von Hermann Zapf und dadurch ein richtiger Klassiker. Die fette »<em>Cosmetica</em>« kontrastiert die feine »<em>Source Sans</em>« auch durch ihre Formensprache. Es wird ein <strong>schöner graphischer Bogen</strong> zwischen den Themen von Sibylle Frank – Architektur und Denkmalpflege – geschlagen.</p>
+<h3>Die richtige Technik</h3>
+<p>Das statische HTML der Website wurde mit <a href="http://hyde.github.io/">Hyde</a> – ein in Python geschriebener, statischer Websitegenerator – umgesetzt. Das optimiert Entwicklungszeiten und macht vor allem das Hosting sehr einfach und kostengünstig.</p>
+</div>
+<div class="gridWidth4 gridPos6">
+<p><img src="/images/diary/sibylle-frank-web-mobile.png" alt="Schmale Ansicht der Website von Sibylle Frank" title="Screenshot schmaler Bildschirm" /></p></div>
+
+</div>
+
+<div class="gridRow">
+<div class="gridWidth10 gridPos0">
+<h2>Das Briefpapier</h2>
+<p>Das Briefpapier ist passend zur Website umgesetzt. Die <em>nach DIN gestalteten Seiten</em> bestechen durch ihre <strong>aufgeräumte Erscheinung</strong> und die gleiche spannende Schriftmischung wie auf der Website. Das Briefpapier ist als »Open Office«/»Libre Office« Vorlage verfügbar.</p>
+
+<p>
+<img src="/images/diary/sibylle-frank-letterhead.png" alt="Briefkopf von Sibylle Frank" style="padding-bottom:12px;" /></p></div>
+</div>
+
+</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Der Multitoner ist da</title>
+      <description><![CDATA[Der Multitoner ist da
+
+
+
+
+Repository
+Ihr findet de ...]]></description>
+      <pubDate>Wed, 13 Nov 2013 16:59:11 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2013-11-13_it-is-a-multitoner</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2013-11-13:/diary/201311131703405283b0ecf2532</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Der Multitoner ist da</h1><div class="gridRow"><div class="gridPos2 gridWidth6"><p>
+<img src="/images/diary/multitoner_logo.png" alt="logo des Multitoners" /></p></div></div>
+
+<hr /><div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<h2>Repository
+</h2><p>Ihr findet den <a href="https://github.com/graphicore/multitoner">Multitoner auf Github</a>. Lest euch unbedingt die README.md unten auf der Landing-Page durch.</p>
+
+<h2>Über</h2>
+<p>
+<a href="https://silber-und-blei.com">Silber &amp; Blei</a> benötigt eine FLOS-Software, um Multiplexbilder herzustellen. Mehr Information über das Projekt und seine Geschichte gibt es <a href="/de/archive/2013-06-13_it-is-a-multitoner">hier</a>.
+</p>
+<h2>Hilferuf: Farbmanagement</h2>
+<p>Ich möchte die bestmögliche Druckvorschau mit dem Multitoner erreichen. Ich denke, Ghostscript kann alles, was dazu nötig ist. Über Hilfe von Leuten mit Erfahrung/Interesse in dem Bereich würde ich mich sehr freuen. Mehr Info dazu gibts in der README.md im Repository und in der Roadmap auf der rechten Seite.</p>
+
+</div><div class="gridWidth5 gridPos5">
+<h2>Roadmap</h2>
+<p>Hier eine aktualisierte Version der Roadmap.</p>
+<ul><li><del>Die Kernfunktionen sind hergestellt</del></li>
+<li><del>Laden und Speichern von Projekten</del></li>
+<li><del>Erstellung von Multitone-EPS-Bildern aus Schwarzweiß-Bildern mit Commandline Tool und über die GUI</del></li>
+<li><del>Aufräumen, mehr Code-Kommentare, Lizenzvermerke, README</del></li>
+<li><del><strong>Veröffentlichung des Repositories</strong></del></li>
+<li><strong>aktueller Stand: </strong>Öffentliches Testen und erste Produktiveinsätze</li>
+<li><strong>Farbmanagement:</strong> (Recherche und Implementierung) Um eine optimale Vorschau zu erhalten, sollen zukünftig ICC-Profile verwendet werden. Siehe auch die Option <em>‑sDeviceNProfile</em> im <a href="http://www.ghostscript.com/doc/current/Use.htm">Ghostscript Handbuch</a> und <a href="http://ghostscript.com/doc/current/GS9_Color_Management.pdf">GS9_Color_Management.pdf</a>.</li>
+<li>Bessere Stapelverarbeitung und Ausnahmeverwaltung: unterschiedliche Kurven für das gleiche Set an Farben</li>
+</ul></div></div>
+
+<div class="gridRow">
+<h2>Screenshot</h2>
+<p><img src="/images/diary/multitoner-screenshot_2013-11-13.png" alt="Screenshot des aktuellen Multitoner" /></p>
+<div class="gridRow">
+
+</div></div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>silber-und-blei.com</title>
+      <description><![CDATA[silber-und-blei.com
+Link zur Seite: Silber &amp; B ...]]></description>
+      <pubDate>Tue, 12 Nov 2013 17:50:43 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2013-11-12_silber-und-blei</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2013-11-12:/diary/2013111217533652826b2018ca8</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>silber-und-blei.com</h1><div class="gridRow">
+<p>Link zur Seite: <a href="https://silber-und-blei.com">Silber &amp; Blei</a></p>
+</div>
+
+<div class="gridRow">
+<div class="gridWidth9 gridPos0">
+<p><img src="/images/diary/silber-und-blei-screenshot.png" alt="Screenshot silber-und-blei.com 2 Responsive-Stufen" title="Screenshot der Silber und Blei Website" /></p>
+</div>
+</div>
+
+
+<div class="gridRow">
+<div class="gridWidth3 gridPos0">
+<h2>Webdesign</h2>
+<p>
+Das Webdesign ist von uns, genau wie die Umsetzung. Wir haben dabei auf aktuelle Technologie gesetzt und eine gediegene Seite gestaltet. Es sind schöne Webfonts im Einsatz und die Seite ist responsive. Sie passt sich an die Größe des Browserfensters an, sodass sie mit auf dem Smartphone sowie auf dem Desktop optimal lesbar bleibt.
+</p>
+</div><div class="gridWidth4 gridPos3">
+<h2>Statisch generiert mit Hyde/Python</h2>
+<p>
+Auf dem Server liegt eine komplett statische Seite, nur HTML-Dateien. Der Trick: die Seite wird mit dem statischen Websitegenerator <a href="http://hyde.github.io/">Hyde</a> generiert und dann hochgeladen. Das hat enorme Vorteile: die Seite ist schnell, sicher, wartungsarm und trotzdem noch komfortabel bedienbar.
+Auf einen Newsfeed wollten wir nicht verzichten, der wird von Hyde im ATOM-Format generiert. Hyde haben wir mit einem Plugin für unsere Bildergalerien erweitert, dazu aber gleich mehr.
+</p>
+</div><div class="gridWidth3 gridPos7">
+
+<h2>Die Bildergalerie</h2>
+
+<p>Da wir unsere Bilder besonders schön präsentieren wollen, haben wir uns mit der Bildergalerie große Mühe gegeben. Das Kernstück der Galerie ist der Albumbetrachter. Ich habe hier ein paar beachtlichen Eigenschaften des Sliders zusammengefasst.</p>
+<p>
+Hier eingebettet das Album »<a href="https://silber-und-blei.com/galerie/Neueste_Bilder.html">Neuste Bilder</a>« von Silber und Blei:
+</p>
+</div></div>
+
+<iframe
+  width="100%"
+  height="736px"
+  src="https://silber-und-blei.com/galerie/embed/Neueste_Bilder.html"
+  allowfullscreen
+  frameBorder="0"></iframe>
+
+
+<div class="gridRow">
+<div class="gridWidth2 gridPos0">
+<h3>responsive</h3>
+<p>
+Der Albumbetrachter ist komplett responsive und stellt sich voll auf die Bildschirmgröße ein. Das könnt ihr auf einer <a href="http://silber-und-blei.com/galerie/Friedhofsengel.html">Albumseite</a> gerne ausprobieren. Einfach an der Größe des Browserfensters spielen und sehen, was passiert.
+</p>
+</div><div class="gridWidth2 gridPos2">
+<h3>vielseitig</h3>
+<p>Es gibt verschiedene Fälle, in denen ein Album eingebunden werden kann. Einerseits die Seite des Albums selbst, andererseits kann ein Album auch immer auf anderen Seiten eingebunden werden. Zusätzlich haben die Alben eine eigene Adresse um sie als Iframe auf anderen Websites einzubetten. Sofern es der Browser unterstützt kann bei uns ein Album sogar in den Vollbildmodus versetzt werden.
+</p>
+</div><div class="gridWidth2 gridPos4">
+<h3>einbettbar</h3>
+<p>Wie hier auf der Seite zu sehen ist, kann ein Album auf einer anderen Website einebettet werden. Dafür werden spezielle html Seiten generiert. Ein Album kennt die Adresse seiner Embed-Version und bietet einen kleinen Code-Generator an. Dank der großen Anpassungsfähigkeit des Sliders in Sachen Format haben wir darauf verzichtet, feste Größen vorzuschreiben. Der Autor der fremden Seite hat dadurch die Möglichkeit, das Album genau richtig einzupassen. Wir hoffen natürlich, mit dieser Funktion eine größere Reichweite zu erzielen, und würden uns sehr über Sichtungen unserer Alben in der freien Wildbahn freuen.
+</p>
+</div><div class="gridWidth2 gridPos6">
+<h3>universell</h3>
+<p>Jede Instanz eines Albums verwendet den gleichen Code, sei es nun im Iframe oder auf der Albumwebsite. Er ist eine Weiterentwicklung des Codes von <a href="/de/archive/2013-01-31_big-business">das Auto. Magazine</a>. Die Thumbnails und die große Ansicht der Bilder werden von der gleichen Basis betrieben. Durch Erweiterung der Objekte und unterschiedliche Konfiguration kommen die verschiedenen Erscheinungsformen zustande. Für den Wechsel in den Vollbild-Modus muss nicht einmal das Album neu initialisiert werden.
+</p>
+</div><div class="gridWidth2 gridPos8">
+<h3>einfach</h3>
+<p>Für die Bildverwaltung haben wir ein Plugin für Hyde in Python geschrieben. Das Plugin generiert Thumbnails und die großen Bilder eines Albums beim Erstellen der Seite. Bei einem Album handelt es sich um eine Konfigurationsdatei, in der die Liste der Bilder zu finden ist. Um ein Album einzubetten reicht es, den internen Namen zu kennen: <code title="jinja2 ist die verwendete Template Sprache">{{make_album( 'Neueste_Bilder', ['autoplay', 'no-thumbs']) }}</code>. Das Beispiel ist dierekt von unserer Startseite entnommen.
+</p>
+</div></div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Kurationsmodul für The ICONIST</title>
+      <description><![CDATA[Kurationsmodul für The ICONIST
+Link zur Seite: The ...]]></description>
+      <pubDate>Tue, 12 Nov 2013 15:53:17 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2013-11-12_iconic_imports</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2013-11-12:/diary/2013111216002052825094cba29</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Kurationsmodul für The ICONIST</h1><div class="gridRow">
+<p>Link zur Seite: <a href="http://iconist.de">The ICONIST</a>, obwohl was ich gemacht habe nicht direkt online gesehen werden kann.</p>
+</div>
+
+<h2>Import und Synchronisierung</h2>
+<div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<p>
+Das Programm sammelt Produktdaten von vielen verschiedenen Anbietern. Dabei kommt ein Adapter-Konzept zum Einsatz, welches aus den unterschiedlichen Anbieterformaten eine einheitliche Repräsentation in der Datenbank ablegt. Es werden hunderttausende verschiedene Produkte importiert und aktuell gehalten. Der Import wird via Cron-Job automatisch angestoßen, kann aber auch über das Webinterface gestartet werden.
+</p>
+</div><div class="gridWidth5 gridPos5"><p>
+Durch einen Locking-Mechanismus wird verhindert, dass die gleiche Quelle zur selben Zeit mehrfach importiert werden kann. Der Importstatus lässt sich jederzeit, auch während des laufenden Imports, ermitteln. Er kann über das Webinterface und für den Administrator mit dem Terminal abgefragt werden. Der Importer erkennt Änderungen an den einzelnen Produkten, sowie die Löschung von Produkten durch den Anbieter.
+</p>
+</div></div>
+
+
+<h2>Kuration Webinterface</h2>
+<div class="gridRow">
+<p>
+<img src="/images/diary/iconic_imports.png" alt="Screenshot Kurationsinterface" /></p>
+</div>
+
+<div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<p>
+Die Redakteure wählen Produkte zur weiteren Auswahl und zur Anreicherung der Daten aus. Das Webinterface bietet zahlreiche Filter, um der großen Datenmenge Herr zu werden. Neben sehr einfachen Filteroptionen wie »Shop« oder »Preisspanne« steht eine Stichwortsuche und ein Filter für Kategorien zur Verfügung. Die von Anbieter zu Anbieter verschiedenen Kategorien können auf einem einheitlichen Kategoriebaum im Kurationsmodul abgebildet werden. Der Kategoriebaum kann im Webinterface erstellt werden, die Zuordnung von fremden Kategorien auf eigene Kategorien wird von einem Redakteur durchgeführt.
+</p>
+</div><div class="gridWidth5 gridPos5">
+<p>
+In der Datenbank kommen zwei Konzepte zum Darstellen des Kategoriebaums gleichzeitig zum Einsatz: eine <a href="http://de.wikipedia.org/wiki/Adjazenzliste">Adjazenzliste</a>, das heisst jede Kategorie kennt ihre Elternkategorie. Damit ist die Verwaltung des Baumes recht einfach umsetzbar. Ausserdem werden auch die Informationen des <a href="http://de.wikipedia.org/wiki/Nested_Sets">Nested-Set Models</a> mit den Kategorien abgelegt. Damit ist die Abfrage des Baumes sehr performant und einfach möglich.</p><p>
+Für den Kurationsprozess habe ich eine kleine JavaScript Anwendung geschrieben, die, durch die Verwendung von AJAX, Ladezeiten deutlich verkürzt und die Serverprogrammierung stark vereinfacht hat. Beispielsweise erfolgt die Verwaltung des Anwendungsstatus im Client und musste daher nicht mit serverseitigen Sessions umgesetzt werden.
+</p>
+</div></div>
+<h2>Technologie</h2>
+<div class="gridRow">
+<p>
+Der Servercode ist mit PHP 5 geschrieben. Ich habe Composer mit Symphony 2 als Framework verwendet und habe einiges selbst geschrieben. Im Webinterface kommen RequireJS und jQuery zum Einsatz, und auch eine ganze Hand voll eigener Module.
+</p>
+</div>
+</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>In Entwicklung: Multitoner Tool</title>
+      <description><![CDATA[In Entwicklung: Multitoner Tool
+
+Motivation
+Silber ...]]></description>
+      <pubDate>Thu, 13 Jun 2013 09:03:43 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2013-06-13_it-is-a-multitoner</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2013-06-12:/diary/2013061209052451b839d4ca32b</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>In Entwicklung: Multitoner Tool</h1><div class="gridRow">
+<div class="gridWidth3 gridPos0">
+<h2>Motivation</h2>
+<p><a href="/de/archive/2013-06-06_silber-und-blei">Silber &amp; Blei</a> wird ausschließlich mit 
+<a href="http://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software" title="Free/Libre Open Source Software">FLOS-Software</a> produzieren, denn es ist uns wichtig <strong>die Kontrolle über unsere Werkzeuge</strong> zu haben. Wir werden <strong>erstklassige Print-Erzeugnisse mit Freier Software</strong> herstellen. Die Konsequenz dieser Entscheidung ist, dass wir fehlende Software selbst schreiben. Ein Programm für die Herstellung von Multiplex-Bildern fehlt bislang in der freien Software-Welt. Das Multitoner Tool wird unter der <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GNU General Public License Version 3">GPLv3</a> veröffentlicht.
+</p>
+</div>
+
+<div class="gridPos3 gridWidth4">
+<h2>Was ist Multiplex</h2>
+<p>
+Druckt man Schwarzweißbilder im Offset mit nur einer Druckfarbe – Schwarz im Normalfall – so erscheinen die Ergebnisse stumpf und ohne Tiefe. Das liegt daran, dass ein Farbkanal im Druck nur ca. 50 verschiedene Töne wiedergeben kann, Stichwort: <a href="http://de.wikipedia.org/wiki/Gamut">Gamut</a>. Zum Vergleich: ein Schwarzeißbild am Computermonitor wird mit ca. 256 Tönen dargestellt. <strong>Um Schwarzweißbilder hochwertig zu drucken</strong>, sodass sie eine Tiefe vergleichbar mit Fotoabzügen zeigen, verwendet man mehrere Druckfarben für ein Bild. Beispielsweise Schwarz für die tiefen Farbtöne und Grau für die mittleren Farbtöne. Der Gamut des Ergebnisses kann je nach Anzahl der verwendeten Farben gesteigert werden.</p>
+
+</div>
+<div class="gridPos7 gridWidth3">
+<h2>Begriffe</h2><p>Wird eine Farbe verwendet, nennt man das »Simplex«, bei zwei Farben »Duplex«, drei Farben ist »Triplex« und vier ist »Quadruplex«. Der ganze Komplex könnte als »Multiplex« zusammengefasst werden. Die analogen englischen Begriffe <strong>Monotone, Duotone, Tritone, Quadtone,  Multitone</strong> sind eindeutiger, da sie nicht mehrfach belegt sind: <strong>Duplex</strong> – <em>eine Seite im Office-Drucker beidseitig bedrucken</em>; <strong>Multiplex</strong> – <em>Sperrholz, Kino mit vielen Sälen, Methode zur Signalübertragung</em>.
+</p>
+</div>
+</div>
+<hr /><div class="gridRow">
+<h2>Das Tool</h2>
+<p><img src="/images/diary/multitoner-tool-screenshot_2013-06-13.png" alt="Screenshot des aktuellen Multitoner Tools" /></p>
+<div class="gridRow">
+
+
+<div class="gridWidth4 gridPos0">
+<p>
+Die Kernfunktion ist das Anlegen der zu verwendenden Druckfarben (bis zu 10), wobei es für jede Druckfarbe eine Steuerkurve gibt. Die Kurve ordnet jedem Eingabewert – von Schwarz bis Weiß – die Menge der zu druckenden Farbe – von voller Farbauftrag bis kein Farbauftrag – zu.
+Es gibt unterschiedliche Kurvenarten, um zwischen den Kontrollpunkten zu interpolieren: linear, kubische Splines, monoton kubische Splines.
+</p>
+</div><div class="gridWidth6 gridPos4">
+<p>Die Druckfarben erhalten einen Namen, damit man sie später im Prozess eindeutig identifizieren kann. Für die Vorschau am Bildschirm werden CMYK-Werte vergeben. Die Reihenfolge der Druckfarben kann verändert werden, das ist nötig, weil es Auswirkungen auf das Druckergebnis hat.</p>
+<p>
+Für die Vorschau wird je Druckfarbe ein Farbstreifen abgebildet, der die Ausgabewerte nach der Anwendung der Steuerkurve darstellt. Ein weiterer Farbstreifen visualisiert die Kombination aller Farben. Es gibt auch ein Vorschaubild, auf das die Einstellungen angewendet werden.
+</p>
+</div>
+</div>
+</div>
+<hr /><div class="gridRow">
+<div class="gridWidth4 gridPos0">
+<h2>Technisches</h2>
+<p>Das Tool ist in <strong>Python</strong> geschrieben. Das <em title="General User Interface: grafische Benutzeroberfläche">GUI</em> ist mit <strong>GTK+</strong> umgesetzt. Die Steuerkurven werden mit <strong>SciPy</strong> und <strong>NumPy</strong> ermittelt. Das Widget  zur Darstellung und Manipulation der Steuerkurven ist selbst geschrieben (als GtkDrawingArea). Farbvorschau und Vorschaubild werden mit <strong>Ghostscript</strong> gerendert. Farbmanagement soll in Zukunft durch Ghostscript erreicht werden.</p>
+</div>
+<div class="gridWidth6 gridPos4">
+<h2>Roadmap</h2>
+<p>Hier eine grobe Skizze, wie ich mir den weiteren Projektverlauf vorstelle:</p>
+<ul><li><strong>aktueller Stand:</strong> Die Kernfunktionen sind hergestellt</li>
+<li>Laden und Speichern von Projekten</li>
+<li>Erstellung von Multitone-EPS-Bildern aus Schwarzweiß-Bildern mit Commandline Tool und über die GUI</li>
+<li>Aufräumen, mehr Code-Kommentare, Lizenzvermerke, README</li>
+<li><strong>Veröffentlichung des Repositories</strong></li>
+<li>Öffentliches Testen und erste Produktiveinsätze</li>
+<li><strong>Farbmanagement:</strong> (Recherche und Implementierung) Um eine optimale Vorschau zu erhalten, sollen zukünftig ICC-Profile verwendet werden. Siehe auch die Option <em>‑sDeviceNProfile</em> im <a href="http://www.ghostscript.com/doc/current/Use.htm">Ghostscript Handbuch</a> und <a href="http://ghostscript.com/doc/current/GS9_Color_Management.pdf">GS9_Color_Management.pdf</a>.</li>
+<li>Bessere Stapelverarbeitung und Ausnahmeverwaltung: unterschiedliche Kurven für das gleiche Set an Farben</li>
+</ul></div>
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Refactoring für WeSC</title>
+      <description><![CDATA[Refactoring für WeSCZusammen mit Uli Schöberl erfu ...]]></description>
+      <pubDate>Mon, 10 Jun 2013 13:25:33 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2013-06-10_refactoring-the-Superlative-Conspiracy</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2013-06-07:/diary/2013060714011251b1e7a8c1407</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Refactoring für WeSC</h1><p>Zusammen mit <a href="http://aplusplus.org/wesc/">Uli Schöberl</a> erfuhr
+die Seite <a href="http://wesc.com">WeSC.com</a>  eine Renovierung. Hier ist eine kurze Aufzählung von dem, was ich gemacht habe:
+</p>
+
+<div class="gridRow">
+<div class="gridWidth4 gridPos0">
+<img src="/images/diary/WeSC.png" alt="das Logo von WeSC" /></div>
+<div class="gridWidth6 gridPos4">
+<ul><li>
+Ein Caching-Mechanismus des verwendeten CakePHP Frameworks wurde durch einen neuen Ansatz ergänzt. Feinere Kontrolle der Cache-Invalidierung konnte damit erreicht werden, das automatische Leeren der Caches ist deutlich verbessert.
+</li><li>
+Einige Funktionen wurden zusammengefasst und zentral implementiert. Ganz im Sinne von <a href="https://de.wikipedia.org/wiki/DRY" title="Don't Repeat Yourself">DRY</a>.
+</li><li>
+Der Import von Produktdaten wurde erleichtert. Nach dem Upload der Daten wird ein im Hintergund laufender Prozess angestoßen. Der Fortschritt kann via AJAX verfolgt werden.
+</li><li>
+Weitere Instandhaltungsarbeiten wurden durchgeführt und neue Features umgesetzt.
+</li>
+</ul></div>
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ankündigung: Silber &amp; Blei</title>
+      <description><![CDATA[Ankündigung: Silber&nbsp;&amp;&nbsp;Blei
+
+
+
+
+Anne  ...]]></description>
+      <pubDate>Thu, 06 Jun 2013 18:24:39 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2013-06-06_silber-und-blei</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2013-06-06:/diary/2013060618252451b0d41400bf3</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Ankündigung: Silber&nbsp;&amp;&nbsp;Blei</h1><div class="gridRow">
+<div class="gridWidth10 gridPos0"><p style="background:#333;padding:48px 0;text-align:center;">
+<img src="/images/diary/silber-und-blei.png" alt="Signet: Silber und Blei.png" /></p></div>
+</div>
+<div class="gridRow">
+<h2>Anne ist Silber und ich bin Blei</h2>
+<div class="gridWidth5 gridPos0">
+<p>Anne ist gelernte Fotografin und Diplom-Geografin. Silber ist das Metall der Fotografie. Es wird benötigt, um die lichtempfindliche Schicht der Filme herzustellen. Als Designer habe ich mich der Schrift und der Typografie verschrieben. Blei ist das Metall des Buchdrucks. Schon Johannes Gutenberg hat es verwendet, um seine Lettern zu gießen.
+</p>
+</div>
+
+<div class="gridWidth5 gridPos5">
+<p>Gemeinsam wollen wir fabelhafte Bücher herstellen. Schöne Werke mit Liebe zum Detail und handwerklichem Anspruch. Die Inhalte wollen wir auch selbst liefern, es geht uns darum, kreativen Themen eine gute Form zu geben. Ideen haben wir schon viele und darum freuen wir uns auf die Reise und sind gespannt, was uns erwartet.</p>
+</div>
+</div>
+
+<div class="gridRow">
+<div class="gridPos0 gridWidth5">
+<h2>Die Wortmarke
+</h2><p>
+Das Wort <strong>Silber</strong> ist eine Interpretation der <em>Bodoni Italic</em>. Die Buchstaben wirken edel und verspielt. Der Anstrich von »l« und »b« sowie der Endstrich (Serife) des »r« bereiten auf die kommende Schriftmischung vor.
+<br /><strong>&amp; Blei</strong> ist gesetzt in der <em>Wilhelm Klingspor Gotisch</em> und liefert einen starken Kontrast. Die wunderbar historisierende Schrift macht deutlich, dass es sich hier um das Blei der Setzer dreht.
+</p>
+</div>
+<div class="gridPos5 gridWidth5">
+<h2>Das Signet</h2>
+<p>In unserem Signet verschmelzen die Buchstaben von <strong>Ag</strong> und <strong>Pb</strong>, den chemischen Symbolen für die Elemente Silber und Blei, zu einer Einheit. Dies ist das Herzstück unserer Arbeit: Die Verbindung von Fotografie und Buchdruck.</p>
+</div>
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Ich bin wieder selbstständig</title>
+      <description><![CDATA[Ich bin wieder selbstständig
+
+
+Ich habe in den let ...]]></description>
+      <pubDate>Thu, 31 Jan 2013 13:58:45 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2013-01-31_big-business</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2013-01-31:/diary/20130131135955510a78db3e0d6</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Ich bin wieder selbstständig</h1><div class="gridRow">
+<div class="gridWidth10 gridPos0">
+<p>
+Ich habe in den letzten zwei Jahren bei <a href="http://compuccino.com/">compuccino</a> viel Erfahrung gesammelt. Unter den Kunden waren: <strong>Puma</strong>, <strong>Volkswagen</strong>, <strong title="World Wide Fund for Nature">WWF</strong>, <strong>Koelnmesse (gamescom, photokina)</strong>, <strong>Allianz</strong>, <strong>Die Welt</strong>, <strong>Heinz Ketchup</strong>, <strong>die Deutsche Bahn</strong>. Für die meisten habe ich kleine bis mittelgroße Projekte umgesetzt. Ich habe mehrere Facebook Anwendungen erstellt, also Anwendungen die mit Facebook interagieren und bei denen sich die Benutzer mit ihrem Facebook-Konto anmelden können. Zwei große Projekte stelle ich hier vor.</p>
+</div>
+</div>
+
+<h2><a href="http://www.dasauto-magazine.com">Volkswagen – Das Auto.Magazin</a></h2>
+
+<div class="gridRow">
+<div class="gridWidth9 gridPos0">
+<p><img src="/images/diary/selbstaendig-vw-das-auto.png" alt="Screenshots der Volkswagen Das Auto.Magazin Website in 3 responsive Stufen" title="Screenshots der Volkswagen Das Auto.Magazin Website in 3 responsive Stufen" /></p>
+</div>
+</div>
+
+<div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<p>
+<a href="http://compuccino.com/projekte/vw-magazin-responsive-cms-das-auto">Compuccino</a> hat zusammen mit <a href="http://www.kircher-burkhardt.com/#/de/projects/volkswagen/">Kircher Burkhardt</a> die online Version des Volkswagen Markenmagazins umgesetzt. Das Internetmagazin ist komplett <em title="»reaktionsfähig«, das Design passt sich an die Bildschirmgröße an.">responsive</em> gestaltet. Es kann vom Smartphone bis zum Desktop-Rechner optimal gelesen werden. Das Magazin wird in 16 Sprachen verfügbar sein.</p><p>
+Meine Verantwortung lag in der Umsetzung des JavaScripts, welches die komplexeren Verhaltensweisen steuert. So passen beispielsweise die <em title="Bilder und Folien werden wie Dias durch rutschen ausgetauscht.">Slideshow</em>-Module je nach Bildschirmgröße ihr Aussehen und Verhalten an. Die Seite ist modular, sodass die Redaktion große Freiheit beim Erstellen und Gestalten der Artikel hat.
+</p><p>
+</p></div><div class="gridWidth5 gridPos5">
+<h3>Details</h3>
+<p>
+Das JavaScript wird mit <a href="http://requirejs.org/">RequireJS</a> geladen und benutzt <a href="http://jquery.com/">jQuery</a> für <em title="»Document Object Model« Programmierschnittstelle für Webseiten">DOM</em> Interaktionen und Eventhandling. Die Module sind gut wartbar, konfigurierbar und objektorientiert umgesetzt – sie können durch Vererbung erweitert werden. So teilen zum Bespiel alle Slideshow-Module dieselbe Basis. Es gibt eine API, die es Iframes erlaubt mit dem Elterndokument reibungslos zu interagieren. Animationen werden entweder mit CSS3 transitions oder jQuery realisiert, je nach Fähigkeit des Endgerätes.
+</p>
+</div>
+</div>
+<hr /><h2><a href="http://ausschnitt.de">AUSSCHNITT Medienbeobachtung</a> – Social Media Dashboard</h2>
+
+<div class="gridRow">
+<div class="gridWidth10 gridPos0">
+
+<p class="scrollX" style="white-space:nowrap;height:864px;">
+<img title="Das Dashboard mit 6 Widgets, mehrere solcher Seiten können durch Tabs organisiert werden." src="/images/diary/selbstaendig-ausschnitt-dashboard.png" class="gridGap" alt="Ausschnitt Dashboard" /><img title="Detailansicht eines Widgets, hier kann auch eine feinere Filterung vorgenommen werden." src="/images/diary/selbstaendig-ausschnitt-detail.png" class="gridGap" alt="Ausschnitt Dashboard Detail" /></p>
+
+</div>
+</div>
+
+
+
+
+<div class="gridRow">
+<div class="gridWidth5 gridPos0">
+<p>
+Die Kunden durchstöbern und analysieren mit dem Dashboard die Daten, die von der »AUSSCHNITT Medienbeobachtung« auf Social Media Websites gesammelt wurden. Dabei formulieren sie über die Benutzeroberfläche individuelle Anfragen an die Datenbank. Meine Aufgaben waren vor allem das korrekte Abfragen und Darstellen der Daten, die Programmierung der interaktiven Benutzeroberfläche und die Entwicklung der Serversoftware.
+</p><p>
+Die Ergebnisse der Abfragen werden jeweils in einem »Widget« angezeigt. Die Widgets können neu angeordnet werden und bieten eine Detailansicht sowie weitere Filtermöglichkeiten. Einzelne Datenpunkte können auf ihre individuellen Meldungen zurückgeführt werden. Der aktuelle Zustand des Dashboards wird automatisch gespeichert und steht beim nächsten Besuch sofort wieder zur Verfügung. <a href="http://compuccino.com/projekte/ausschnitt-social-media-dashboard">Hier gibts noch mehr Information …</a>
+</p>
+</div><div class="gridWidth5 gridPos5">
+<h3>Details</h3>
+<p>
+Das JavaScript wird mit <a href="http://requirejs.org/">RequireJS</a> geladen und benutzt <a href="http://jquery.com/">jQuery</a>. Das JavaScript ist objektorientiert geschrieben. Die Diagramme werden durch die <a href="https://developers.google.com/chart/">Google Chart Tools</a> dargestellt. Die einzelnen Abfragen werden via AJAX an eine REST-API gestellt. Der komplette Zustand des Dashboards wird serialisiert, als JSON auf dem Server gesichert. Serverseitig wurde das <a href="http://cakephp.org/">CakePHP Framework</a> verwendet.
+</p>
+</div></div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Die @inpressulum Schrift und ein typografisches Tattoo</title>
+      <description><![CDATA[Die @inpressulum Schrift und ein typografisches Ta ...]]></description>
+      <pubDate>Sun, 02 Sep 2012 19:04:49 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2012-09-02_piece-of-prayer</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2012-09-02:/diary/201209021920375043b185ef245</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Die @inpressulum Schrift und ein typografisches Tattoo</h1><div class="gridRow">
+<div class="gridWidth6 gridPos2">
+<p><img src="/images/diary/inpressulum-tattoo.png" alt="Bild des Tattoos mit irischem Text: Ní dhoirtfear fuil neamhchiontach choíche. Ach sruthóidh fuil na n-olc mar abhainn. Leathfaidh an triúr a n-eiteoga dubhaithe agus beidh siad ina chasúr buailte Dé." /></p>
+</div>
+</div>
+<div class="gridRow" style="padding-top:48px;">
+<div class="gridWidth4 gridPos3">
+
+<h2>Die Schrift</h2>
+<p>Die Schrift heißt <a href="https://twitter.com/inpressulum">@inpressulum</a> nach dem Twitter-Namen von Marc, der sie auf seiner Wade trägt. Sie ist eine freie Interpretation <a href="https://de.wikipedia.org/wiki/Irische_Schrift">irischer Schrift</a>. Die Schrift enthält nur die in dem Entwurf vorkommenden Zeichen. Einige der Glyphen wurden angepasst, um den horizontalen Balken des Kreuzes zu formen.</p>
+
+<h2>Der Inhalt</h2>
+<p>Das Tattoo zeigt einen Vers des »Familiengebets« aus dem Film <a href="https://de.wikipedia.org/wiki/Der_blutige_Pfad_Gottes">Der blutige Pfad Gottes</a>. Es ist eine Übersetzung ins Irische und bedeutet ungefähr folgendes:
+</p>
+<p><em>»Niemals soll unschuldig Blut vergossen werden, doch das Blut der Gottlosen soll fließen in Strömen. Die Drei sollen ihre schwarzen Flügel spreizen und werden der Hammer sein der Rache Gottes.«</em></p>
+</div>
+</div>
+<div class="gridRow">
+<img src="/images/diary/inpressulums-legs.png" alt="the tattooed calf" /></div>
+<div class="gridRow">
+<div class="gridWidth4 gridPos3">
+<p>
+Die Beine von Marc nach der Anwendung des Tattoos auf seiner rechten Wade.
+</p>
+</div>
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Introducing ufoJS</title>
+      <description><![CDATA[Introducing ufoJS
+
+Fork, clone or download: ufoJS  ...]]></description>
+      <pubDate>Tue, 17 Jan 2012 14:02:59 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2012-01-17_ufoJS-is-not-a-bird</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2012-01-17:/diary/201201171404524f15800404a4f</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="en" lang="en"><h1>Introducing ufoJS</h1><div class="gridRow">
+<div class="gridPos0 gridWidth10">
+<p>Fork, clone or download: <a href="https://github.com/graphicore/ufoJS">ufoJS on gitHub</a>.</p>
+<h2>The Project</h2>
+<p>I <del>was</del> <ins>am</ins> tired of platform bound font editors, myself using Linux almost exclusively. Thus, beeing a web-developer most of my time, I naturally liked the idea of doing a font editor in the browser. So, last year I started porting parts of the Python libraries <a href="http://sourceforge.net/projects/fonttools/">FontTools</a> and <a href="http://www.robofab.org">RoboFab</a> to JavaScript in my spare time. With the first goal of rendering the path data of <a href="http://unifiedfontobject.org">UFO — Unified Font Object</a> .glif files in a browser. Now, most of the ported code is based around the pen APIs and I can show you something.
+</p>
+
+</div>
+</div>
+
+<div class="gridRow">
+<div class="gridPos0 gridWidth7">
+<object
+  width="100%"
+  height="1104px"
+  data="/ufoJS/env/glif-renderer.xhtml"
+></object> 
+
+</div>
+<div class="gridPos7 gridWidth3">
+<h3>Look at it.</h3>
+<p>
+On the left side you can see the example application included from the project folder using an <del>iframe</del> <ins>object</ins> to include it here. It discovers the available glyphs by reading the contents.plist file of an UFO font and renders the path data of the selected .glif file using SVG. The font you can see is the DemoFont.ufo taken from the RoboFab package.</p>
+<h2>Technical</h2>
+<p>The library can be used in Gecko and Webkit browsers and in NodeJS. The latter has some external dependencies. The Browser dependent parts are yet only in the sample application but use dojo as well.</p>
+<h3>Loading</h3>
+<p>For Module loading I am using an <a href="http://wiki.commonjs.org/wiki/Modules/AsynchronousDefinition">AMD (Asyncronous Module Definition) Loader</a>. This nicely helps to organize code, is standardized and loads the stuff fast. In the browser facing code I'm using <a href="http://bdframework.org/bdLoad/docs/bdLoad-tutorial/bdLoad-tutorial.html">bdload</a>. For nodeJs <a href="https://github.com/jrburke/r.js">r.js of the requireJS project</a> is utilized.</p>
+<h3>Testing</h3>
+<p>Check out the <a href="http://graphicore.de/ufoJS/env/tests.html">Test Page</a>. This is done using the <a href="http://dojotoolkit.org/reference-guide/util/doh.html">D.O.H: Dojo Objective Harness</a> and this is the only thing you can run with nodeJS as well.</p>
+</div>
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>graphicore Bitmap Font Building – updated</title>
+      <description><![CDATA[graphicore Bitmap Font Building – updated
+
+Es gibt ...]]></description>
+      <pubDate>Wed, 15 Sep 2010 16:58:24 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2010-09-09_A-Brute-Font-Attack</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2010-08-31:/diary/201008310024084c7c4ba816ac5</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>graphicore Bitmap Font Building – updated</h1><div class="gridRow">
+<div class="gridPos0 gridWidth7">
+Es gibt ein Update unten auf dieser Seite.
+<p class="pre" style="font-weight:bold;line-height:12px;font-size:15px;">...............................###.....##.........................
+......##......................###......##.........................
+.....###......................##..................................
+..####..###.##..##.##.##.###..#####..###...###...####.###.##..###.
+.##.###..##.##.##.###..##.###.###.##..##..##.##.##.###.##.##.##.##
+##...##..###..##...##..##..##.##..##..##.##....##...##.###..#####.
+###.##...##...##...##..##..##.##..##..##.##....##...##.##...##....
+.######..##...###.###..##.##..##..##..##.###.#.###.##..##...##..#.
+.....###.##....###.###.####...##..###.###.####..####...##....####.
+##....##...............##.........................................
+###..##................##.........................................
+.#####.................##.........................................</p>
+<div class="gridRow">
+
+<div class="gridPos0 gridWidth3">
+
+<h2>graphicore Bitmap Font</h2>
+<p>ist eine Bitmap Schriftart, die früh von <a href="http://www.underware.nl/site2/index.php?id1=sauna&amp;id2=styles&amp;id3=bold_italic_swash">Underwares Sauna bold italic swash</a> inspiriert wurde und letztlich ihren eigenen Weg gegangen ist. Sie hat bei einer Größe von 8 px und Vielfachen davon auf dem Bildschirm scharfe Konturen. Der angedachte Anwendungsfall liegt jedoch eher in Display-Größen. Diese Schrift zu benutzen, ist ein Bekenntnis für die Kernelemente der Wahrnehmung unserer Zeit – Pixel. Auflösung ist endlich. <span title="Kantenglättung">Antialiasing</span> ist eine Lüge!</p>
+<p>Die Schriftart selbst ist in einem maßgeschneiderten Format definiert, wobei die Glyphen in Textdateien idiomatisch als Bitmaps gespeichert werden. Wie in der ASCII-Art (s.o.) steht ein Punkt für »kein Pixel« und die Raute markiert das Gegenteil. So, meine ich, sollte eine Bitmapschrift sein – aus Bitmaps gemacht. Die Zeichen wurden in einem einfachen Texteditor-Programm bearbeitet.</p>
+</div>
+
+<div class="gridPos6 gridWidth4">
+
+<h2>graphicore Bitmap Font Building</h2>
+
+<p>Die Schriften, die ich hier verfügbar mache, wurden aus einem extra dafür hergestelltem Format »Bitmap Font« (BMF) in das fertig benutzbare OpenType Format von einem <a href="http://www.python.org/">Python</a> Programm gebaut: »graphicore Bimap Font Building« (graphicoreBMFB). Durch das Einsetzen unterschiedlicher Parameter werden verschiedene Schriften generiert. Die hier veröffentlichten Schriftdateien sind also eine Demonstration der Ausgabe von graphicoreBMFB. Wenn die Möglichkeiten von graphicoreBMFB umfangreicher werden, wird schließlich auch die graphicore Bitmap Font Familie wachsen.</p>
+
+<p>Dem Programm sind die Quelldaten der graphicore Bitmap Font im BMF-Format beigefügt. Das eröffnet dir folgende Möglichkeiten:</p>
+<ul><li>Du kannst deine eigenen Schriften generieren, falls du die Einstellungen, die ich gewählt habe, nicht magst.</li>
+  <li>Du kannst es als funktionierendes Beispiel studieren und lernen, wie du deine eigene Schriftart anfertigst.</li>
+  <li>Du kannst deinen eigenen Generator schreiben und die Schrift damit bauen.</li>
+  <li>Du kannst deine Erweiterungen der Welt zurückgeben.</li>
+</ul></div>
+</div>
+</div>
+<div class="gridPos7 gridWidth3">
+
+<h2>Was zu tun ist</h2>
+
+<h3>Hol dir die Schriften</h3>
+
+<p>Lade die Schriften herunter und hab’ viel Spaß beim Schreiben:<br /><a href="http://github.com/downloads/graphicore/graphicoreBMFB/graphicoreBitmapFont_0.0004.tar.bz2">graphicoreBitmapFont.tar.bz2</a>
+<a href="http://github.com/downloads/graphicore/graphicoreBMFB/graphicoreBitmapFont_0.0004.zip">graphicoreBitmapFont.zip</a><br /><a href="http://github.com/graphicore/graphicoreBMFB/downloads">alle Downloads</a>
+</p>
+
+<h3>Besorge den Code</h3>
+
+<p>Wirf ein Auge auf den Code und dann, mach alles besser und mehr – oder benutze ihn einfach: <a href="http://github.com/graphicore/graphicoreBMFB">graphicoreBMFB</a>. Er ist in Python geschrieben und benutzt das großartige <a href="http://fontforge.sourceforge.net/">FontForge</a>-Python Modul, um Outline-Fonts herzustellen. Du wirst dieses auch brauchen.</p>
+
+<h3>Komm mit</h3>
+
+<p>Wenn du dieses Projekt magst, oder wenn die Ideen nicht aufhören, aus deinem Unterbewusstsein aufzusteigen, <a href="/de/page/lasse">lass mir eine Nachricht zukommen</a>. Falls es genug Interesse an einer Zusammenarbeit gibt, werde ich dafür eine zentrale Stelle einrichten.</p>
+
+<h3>Mach ernst</h3>
+<p>Falls du eine individuelle Schrift brauchst oder ein Spezialformat, welches das Lesen auf deiner Spezialmatrix spezieller Dinge ansprechend macht – ich bin dein Mann. Des Weiteren bin ich gut in Internetangelegenheiten und Drucksachen. Wenn du meine Arbeit wertschätzt, passen wir vielleicht zusammen. <a href="/de/page/hire-lasse">Mehr Informationen über mein Angebot.</a></p>
+</div>
+</div><div class="gridRow">
+
+<h2>Alle momentan in der Schrift enthaltenen Glyphen.</h2>
+<table class="bitmapFontCharTable"><tr><td><span title="Name: exclam, Unicode: U+0021">!</span></td>
+<td><span title="Name: quotedbl, Unicode: U+0022">"</span></td>
+<td><span title="Name: numbersign, Unicode: U+0023">#</span></td>
+<td><span title="Name: dollar, Unicode: U+0024">$</span></td>
+<td><span title="Name: percent, Unicode: U+0025">%</span></td>
+
+<td><span title="Name: ampersand, Unicode: U+0026">&amp;</span></td>
+<td><span title="Name: quotesingle, Unicode: U+0027">'</span></td>
+
+<td><span title="Name: parenleft, Unicode: U+0028">(</span></td>
+<td><span title="Name: parenright, Unicode: U+0029">)</span></td>
+<td><span title="Name: asterisk, Unicode: U+002A">*</span></td>
+<td><span title="Name: plus, Unicode: U+002B">+</span></td>
+<td><span title="Name: comma, Unicode: U+002C">,</span></td>
+<td><span title="Name: hyphen, Unicode: U+002D">-</span></td>
+<td><span title="Name: period, Unicode: U+002E">.</span></td>
+<td><span title="Name: slash, Unicode: U+002F">/</span></td>
+<td><span title="Name: zero, Unicode: U+0030">0</span></td>
+
+</tr><tr><td><span title="Name: one, Unicode: U+0031">1</span></td>
+<td><span title="Name: two, Unicode: U+0032">2</span></td>
+<td><span title="Name: three, Unicode: U+0033">3</span></td>
+<td><span title="Name: four, Unicode: U+0034">4</span></td>
+<td><span title="Name: five, Unicode: U+0035">5</span></td>
+
+<td><span title="Name: six, Unicode: U+0036">6</span></td>
+<td><span title="Name: seven, Unicode: U+0037">7</span></td>
+<td><span title="Name: eight, Unicode: U+0038">8</span></td>
+
+<td><span title="Name: nine, Unicode: U+0039">9</span></td>
+<td><span title="Name: colon, Unicode: U+003A">:</span></td>
+<td><span title="Name: semicolon, Unicode: U+003B">;</span></td>
+<td><span title="Name: less, Unicode: U+003C">&lt;</span></td>
+<td><span title="Name: equal, Unicode: U+003D">=</span></td>
+<td><span title="Name: greater, Unicode: U+003E">&gt;</span></td>
+<td><span title="Name: question, Unicode: U+003F">?</span></td>
+<td><span title="Name: at, Unicode: U+0040">@</span></td>
+</tr><tr><td><span title="Name: A, Unicode: U+0041">A</span></td>
+<td><span title="Name: B, Unicode: U+0042">B</span></td>
+
+<td><span title="Name: C, Unicode: U+0043">C</span></td>
+<td><span title="Name: D, Unicode: U+0044">D</span></td>
+<td><span title="Name: E, Unicode: U+0045">E</span></td>
+
+<td><span title="Name: F, Unicode: U+0046">F</span></td>
+<td><span title="Name: G, Unicode: U+0047">G</span></td>
+<td><span title="Name: H, Unicode: U+0048">H</span></td>
+<td><span title="Name: I, Unicode: U+0049">I</span></td>
+<td><span title="Name: J, Unicode: U+004A">J</span></td>
+
+<td><span title="Name: K, Unicode: U+004B">K</span></td>
+<td><span title="Name: L, Unicode: U+004C">L</span></td>
+<td><span title="Name: M, Unicode: U+004D">M</span></td>
+<td><span title="Name: N, Unicode: U+004E">N</span></td>
+<td><span title="Name: O, Unicode: U+004F">O</span></td>
+<td><span title="Name: P, Unicode: U+0050">P</span></td>
+</tr><tr><td><span title="Name: Q, Unicode: U+0051">Q</span></td>
+<td><span title="Name: R, Unicode: U+0052">R</span></td>
+<td><span title="Name: S, Unicode: U+0053">S</span></td>
+
+<td><span title="Name: T, Unicode: U+0054">T</span></td>
+<td><span title="Name: U, Unicode: U+0055">U</span></td>
+
+<td><span title="Name: V, Unicode: U+0056">V</span></td>
+<td><span title="Name: W, Unicode: U+0057">W</span></td>
+<td><span title="Name: X, Unicode: U+0058">X</span></td>
+<td><span title="Name: Y, Unicode: U+0059">Y</span></td>
+<td><span title="Name: Z, Unicode: U+005A">Z</span></td>
+<td><span title="Name: bracketleft, Unicode: U+005B">[</span></td>
+
+<td><span title="Name: backslash, Unicode: U+005C">\</span></td>
+<td><span title="Name: bracketright, Unicode: U+005D">]</span></td>
+<td><span title="Name: asciicircum, Unicode: U+005E">^</span></td>
+<td><span title="Name: underscore, Unicode: U+005F">_</span></td>
+<td><span title="Name: grave, Unicode: U+0060">`</span></td>
+</tr><tr><td><span title="Name: a, Unicode: U+0061">a</span></td>
+<td><span title="Name: b, Unicode: U+0062">b</span></td>
+<td><span title="Name: c, Unicode: U+0063">c</span></td>
+<td><span title="Name: d, Unicode: U+0064">d</span></td>
+
+<td><span title="Name: e, Unicode: U+0065">e</span></td>
+
+<td><span title="Name: f, Unicode: U+0066">f</span></td>
+<td><span title="Name: g, Unicode: U+0067">g</span></td>
+<td><span title="Name: h, Unicode: U+0068">h</span></td>
+<td><span title="Name: i, Unicode: U+0069">i</span></td>
+<td><span title="Name: j, Unicode: U+006A">j</span></td>
+<td><span title="Name: k, Unicode: U+006B">k</span></td>
+<td><span title="Name: l, Unicode: U+006C">l</span></td>
+
+<td><span title="Name: m, Unicode: U+006D">m</span></td>
+<td><span title="Name: n, Unicode: U+006E">n</span></td>
+<td><span title="Name: o, Unicode: U+006F">o</span></td>
+<td><span title="Name: p, Unicode: U+0070">p</span></td>
+</tr><tr><td><span title="Name: q, Unicode: U+0071">q</span></td>
+<td><span title="Name: r, Unicode: U+0072">r</span></td>
+<td><span title="Name: s, Unicode: U+0073">s</span></td>
+<td><span title="Name: t, Unicode: U+0074">t</span></td>
+<td><span title="Name: u, Unicode: U+0075">u</span></td>
+
+<td><span title="Name: v, Unicode: U+0076">v</span></td>
+<td><span title="Name: w, Unicode: U+0077">w</span></td>
+<td><span title="Name: x, Unicode: U+0078">x</span></td>
+<td><span title="Name: y, Unicode: U+0079">y</span></td>
+<td><span title="Name: z, Unicode: U+007A">z</span></td>
+<td><span title="Name: braceleft, Unicode: U+007B">{</span></td>
+<td><span title="Name: bar, Unicode: U+007C">|</span></td>
+<td><span title="Name: braceright, Unicode: U+007D">}</span></td>
+
+<td><span title="Name: asciitilde, Unicode: U+007E">~</span></td>
+<td><span title="Name: exclamdown, Unicode: U+00A1">¡</span></td>
+<td><span title="Name: cent, Unicode: U+00A2">¢</span></td>
+</tr><tr><td><span title="Name: sterling, Unicode: U+00A3">£</span></td>
+<td><span title="Name: currency, Unicode: U+00A4">¤</span></td>
+<td><span title="Name: yen, Unicode: U+00A5">¥</span></td>
+<td><span title="Name: brokenbar, Unicode: U+00A6">¦</span></td>
+<td><span title="Name: section, Unicode: U+00A7">§</span></td>
+
+<td><span title="Name: dieresis, Unicode: U+00A8">¨</span></td>
+<td><span title="Name: copyright, Unicode: U+00A9">©</span></td>
+<td><span title="Name: ordfeminine, Unicode: U+00AA">ª</span></td>
+<td><span title="Name: guillemotleft, Unicode: U+00AB">«</span></td>
+<td><span title="Name: logicalnot, Unicode: U+00AC">¬</span></td>
+<td><span title="Name: registered, Unicode: U+00AE">®</span></td>
+<td><span title="Name: macron, Unicode: U+00AF">¯</span></td>
+<td><span title="Name: degree, Unicode: U+00B0">°</span></td>
+<td><span title="Name: plusminus, Unicode: U+00B1">±</span></td>
+
+<td><span title="Name: twosuperior, Unicode: U+00B2">²</span></td>
+<td><span title="Name: threesuperior, Unicode: U+00B3">³</span></td>
+</tr><tr><td><span title="Name: acute, Unicode: U+00B4">´</span></td>
+<td><span title="Name: micro, Unicode: U+00B5">µ</span></td>
+<td><span title="Name: paragraph, Unicode: U+00B6">¶</span></td>
+<td><span title="Name: periodcentered, Unicode: U+00B7">·</span></td>
+<td><span title="Name: cedilla, Unicode: U+00B8">¸</span></td>
+
+<td><span title="Name: onesuperior, Unicode: U+00B9">¹</span></td>
+
+<td><span title="Name: ordmasculine, Unicode: U+00BA">º</span></td>
+<td><span title="Name: guillemotright, Unicode: U+00BB">»</span></td>
+<td><span title="Name: onequarter, Unicode: U+00BC">¼</span></td>
+<td><span title="Name: onehalf, Unicode: U+00BD">½</span></td>
+<td><span title="Name: threequarters, Unicode: U+00BE">¾</span></td>
+<td><span title="Name: questiondown, Unicode: U+00BF">¿</span></td>
+<td><span title="Name: Agrave, Unicode: U+00C0">À</span></td>
+<td><span title="Name: Aacute, Unicode: U+00C1">Á</span></td>
+<td><span title="Name: Acircumflex, Unicode: U+00C2">Â</span></td>
+
+<td><span title="Name: Atilde, Unicode: U+00C3">Ã</span></td>
+</tr><tr><td><span title="Name: Adieresis, Unicode: U+00C4">Ä</span></td>
+<td><span title="Name: Aring, Unicode: U+00C5">Å</span></td>
+<td><span title="Name: AE, Unicode: U+00C6">Æ</span></td>
+<td><span title="Name: Ccedilla, Unicode: U+00C7">Ç</span></td>
+<td><span title="Name: Egrave, Unicode: U+00C8">È</span></td>
+
+<td><span title="Name: Eacute, Unicode: U+00C9">É</span></td>
+<td><span title="Name: Ecircumflex, Unicode: U+00CA">Ê</span></td>
+
+<td><span title="Name: Edieresis, Unicode: U+00CB">Ë</span></td>
+<td><span title="Name: Igrave, Unicode: U+00CC">Ì</span></td>
+<td><span title="Name: Iacute, Unicode: U+00CD">Í</span></td>
+<td><span title="Name: Icircumflex, Unicode: U+00CE">Î</span></td>
+<td><span title="Name: Idieresis, Unicode: U+00CF">Ï</span></td>
+<td><span title="Name: Eth, Unicode: U+00D0">Ð</span></td>
+<td><span title="Name: Ntilde, Unicode: U+00D1">Ñ</span></td>
+<td><span title="Name: Ograve, Unicode: U+00D2">Ò</span></td>
+<td><span title="Name: Oacute, Unicode: U+00D3">Ó</span></td>
+
+</tr><tr><td><span title="Name: Ocircumflex, Unicode: U+00D4">Ô</span></td>
+<td><span title="Name: Otilde, Unicode: U+00D5">Õ</span></td>
+<td><span title="Name: Odieresis, Unicode: U+00D6">Ö</span></td>
+<td><span title="Name: multiply, Unicode: U+00D7">×</span></td>
+<td><span title="Name: Oslash, Unicode: U+00D8">Ø</span></td>
+
+<td><span title="Name: Ugrave, Unicode: U+00D9">Ù</span></td>
+<td><span title="Name: Uacute, Unicode: U+00DA">Ú</span></td>
+<td><span title="Name: Ucircumflex, Unicode: U+00DB">Û</span></td>
+
+<td><span title="Name: Udieresis, Unicode: U+00DC">Ü</span></td>
+<td><span title="Name: Yacute, Unicode: U+00DD">Ý</span></td>
+<td><span title="Name: Thorn, Unicode: U+00DE">Þ</span></td>
+<td><span title="Name: germandbls, Unicode: U+00DF">ß</span></td>
+<td><span title="Name: agrave, Unicode: U+00E0">à</span></td>
+<td><span title="Name: aacute, Unicode: U+00E1">á</span></td>
+<td><span title="Name: acircumflex, Unicode: U+00E2">â</span></td>
+<td><span title="Name: atilde, Unicode: U+00E3">ã</span></td>
+</tr><tr><td><span title="Name: adieresis, Unicode: U+00E4">ä</span></td>
+
+<td><span title="Name: aring, Unicode: U+00E5">å</span></td>
+<td><span title="Name: ae, Unicode: U+00E6">æ</span></td>
+<td><span title="Name: ccedilla, Unicode: U+00E7">ç</span></td>
+<td><span title="Name: egrave, Unicode: U+00E8">è</span></td>
+
+<td><span title="Name: eacute, Unicode: U+00E9">é</span></td>
+<td><span title="Name: ecircumflex, Unicode: U+00EA">ê</span></td>
+<td><span title="Name: edieresis, Unicode: U+00EB">ë</span></td>
+<td><span title="Name: igrave, Unicode: U+00EC">ì</span></td>
+
+<td><span title="Name: iacute, Unicode: U+00ED">í</span></td>
+<td><span title="Name: icircumflex, Unicode: U+00EE">î</span></td>
+<td><span title="Name: idieresis, Unicode: U+00EF">ï</span></td>
+<td><span title="Name: eth, Unicode: U+00F0">ð</span></td>
+<td><span title="Name: ntilde, Unicode: U+00F1">ñ</span></td>
+<td><span title="Name: ograve, Unicode: U+00F2">ò</span></td>
+<td><span title="Name: oacute, Unicode: U+00F3">ó</span></td>
+</tr><tr><td><span title="Name: ocircumflex, Unicode: U+00F4">ô</span></td>
+<td><span title="Name: otilde, Unicode: U+00F5">õ</span></td>
+
+<td><span title="Name: odieresis, Unicode: U+00F6">ö</span></td>
+<td><span title="Name: divide, Unicode: U+00F7">÷</span></td>
+<td><span title="Name: oslash, Unicode: U+00F8">ø</span></td>
+
+<td><span title="Name: ugrave, Unicode: U+00F9">ù</span></td>
+<td><span title="Name: uacute, Unicode: U+00FA">ú</span></td>
+<td><span title="Name: ucircumflex, Unicode: U+00FB">û</span></td>
+<td><span title="Name: udieresis, Unicode: U+00FC">ü</span></td>
+<td><span title="Name: yacute, Unicode: U+00FD">ý</span></td>
+
+<td><span title="Name: thorn, Unicode: U+00FE">þ</span></td>
+<td><span title="Name: ydieresis, Unicode: U+00FF">ÿ</span></td>
+<td><span title="Name: dotlessi, Unicode: U+0131">ı</span></td>
+<td><span title="Name: endash, Unicode: U+2013">–</span></td>
+<td><span title="Name: emdash, Unicode: U+2014">—</span></td>
+<td><span title="Name: quoteleft, Unicode: U+2018">‘</span></td>
+</tr><tr><td><span title="Name: quoteright, Unicode: U+2019">’</span></td>
+<td><span title="Name: quotesinglbase, Unicode: U+201A">‚</span></td>
+<td><span title="Name: quotedblleft, Unicode: U+201C">“</span></td>
+
+<td><span title="Name: quotedblright, Unicode: U+201D">”</span></td>
+<td><span title="Name: quotedblbase, Unicode: U+201E">„</span></td>
+
+<td><span title="Name: ellipsis, Unicode: U+2026">…</span></td>
+<td><span title="Name: guilsinglleft, Unicode: U+2039">‹</span></td>
+<td><span title="Name: guilsinglright, Unicode: U+203A">›</span></td>
+<td><span title="Name: zerosuperior, Unicode: U+2070">⁰</span></td>
+<td><span title="Name: foursuperior, Unicode: U+2074">⁴</span></td>
+<td><span title="Name: fivesuperior, Unicode: U+2075">⁵</span></td>
+
+<td><span title="Name: sixsuperior, Unicode: U+2076">⁶</span></td>
+<td><span title="Name: sevensuperior, Unicode: U+2077">⁷</span></td>
+<td><span title="Name: eightsuperior, Unicode: U+2078">⁸</span></td>
+<td><span title="Name: ninesuperior, Unicode: U+2079">⁹</span></td>
+<td><span title="Name: Euro, Unicode: U+20AC">€</span></td>
+</tr><tr><td><span title="Name: telephone, Unicode: U+2121">℡</span></td>
+<td><span title="Name: trademark, Unicode: U+2122">™</span></td>
+<td><span title="Name: blackstar, Unicode: U+2605">★</span></td>
+<td><span title="Name: envelope, Unicode: U+2709">✉</span></td>
+
+<td><span title="Name: bird, Unicode: U+E000"></span></td>
+
+<td><span title="Name: bird.alt, Unicode: U+E001"></span></td>
+<td><span title="Name: tape, Unicode: U+E002"></span></td>
+<td><span title="Name: ampersand.alt, Unicode: U+E003"></span></td>
+<td><span title="Name: envelope.alt, Unicode: U+E004"></span></td>
+<td><span title="Name: hacker, Unicode: U+E005"></span></td>
+<td><span title="Name: copyleft, Unicode: U+E006"></span></td>
+<td><span title="Name: vinyl, Unicode: U+E007"></span></td>
+
+<td><span title="Name: T_h, Unicode: U+E008"></span></td>
+<td><span title="Name: T_u, Unicode: U+E009"></span></td>
+<td><span title="Name: T_y, Unicode: U+E00A"></span></td>
+<td><span title="Name: c_h, Unicode: U+E00B"></span></td>
+</tr><tr><td><span title="Name: c_k, Unicode: U+E00C"></span></td>
+<td><span title="Name: f_j, Unicode: U+E00D"></span></td>
+<td><span title="Name: f_f_j, Unicode: U+E00E"></span></td>
+<td><span title="Name: l_l, Unicode: U+E00F"></span></td>
+<td><span title="Name: f_f, Unicode: U+FB00">ﬀ</span></td>
+
+<td><span title="Name: f_i, Unicode: U+FB01">ﬁ</span></td>
+<td><span title="Name: f_f_i, Unicode: U+FB03">ﬃ</span></td>
+<td><span title="Name: s_t, Unicode: U+FB06">ﬆ</span></td>
+</tr></table><hr /></div>
+<div class="gridRow">
+
+<div class="gridPos0 gridWidth4">
+<h2>Die Stile und die Namen</h2>
+<p>Jede Familie des graphicore Bitmap Font hat eigene Charakteristiken. Weil es kein System in der Entwicklung dieser Charakteristiken gibt, habe ich entschieden, diese zu nummerieren – natürlich habe ich das Zählen bei Null begonnen. Außerdem ist es einfach, der Sammlung neue Varianten hinzuzufügen, wenn neue Generatoren auftauchen. Der Nachteil liegt darin, dass der Name nicht beschreibt, wie die Schrift aussieht.</p>
+<p>Die Stile unterscheiden sich in ihrem Eckenradius und darin, wo die Ecken abgerundet sind. In den ersten drei Familien werden alle Ecken jedes »Pixels« gleich behandelt. Der Eckenradius der dritten Familie macht die Pixel zu Kreisen und die Familie daher zu einer »Dot-Matrix«.</p>
+<p>In den letzteren Stilen entscheidet ein Algorithmus, wo abgerundete Ecken gezeichnet werden. Nummer Drei und Vier haben abgerundete Ecken, wo sie sein sollten. Fünf und Sechs fügen abgerundete Ecken außerhalb der Pixel hinzu, wo in der Matrix eigentlich kein Inhalt ist. Sieben und Acht haben »äußere« und »innere« abgerundete Ecken.</p>
+</div>
+
+<div class="gridPos4 gridWidth6"><p>
+<img class="gridGap" alt="Das g des graphicore Bitmap Font 0 Medium" src="/images//diary/graphicoreBitmapFont0Medium.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 1 Medium" src="/images//diary/graphicoreBitmapFont1Medium.png" /><img alt="Das g des graphicore Bitmap Font 2 Medium" src="/images//diary/graphicoreBitmapFont2Medium.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 3 Medium" src="/images//diary/graphicoreBitmapFont3Medium.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 4 Medium" src="/images//diary/graphicoreBitmapFont4Medium.png" /><img alt="Das g des graphicore Bitmap Font 5 Medium" src="/images//diary/graphicoreBitmapFont5Medium.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 6 Medium" src="/images//diary/graphicoreBitmapFont6Medium.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 7 Medium" src="/images//diary/graphicoreBitmapFont7Medium.png" /><img alt="Das g des graphicore Bitmap Font 8 Medium" src="/images//diary/graphicoreBitmapFont8Medium.png" /></p></div></div><hr /><div class="gridRow">
+
+<div class="gridPos0 gridWidth6">
+<p><img class="gridGap" alt="Das g des graphicore Bitmap Font 4 Thin" src="/images//diary/graphicoreBitmapFont4Thin.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 4 Extra-Light" src="/images//diary/graphicoreBitmapFont4Extra-Light.png" /><img alt="Das g des graphicore Bitmap Font 4 Light" src="/images//diary/graphicoreBitmapFont4Light.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 4 Book" src="/images//diary/graphicoreBitmapFont4Book.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 4 Regular" src="/images//diary/graphicoreBitmapFont4Regular.png" /><img alt="Das g des graphicore Bitmap Font 4 Medium" src="/images//diary/graphicoreBitmapFont4Medium.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 4 Demi-Bold" src="/images//diary/graphicoreBitmapFont4Demi-Bold.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 4 Bold" src="/images//diary/graphicoreBitmapFont4Bold.png" /><img alt="Das g des graphicore Bitmap Font 4 Heavy" src="/images//diary/graphicoreBitmapFont4Heavy.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 4 Black" src="/images//diary/graphicoreBitmapFont4Black.png" /><img class="gridGap" alt="Das g des graphicore Bitmap Font 4 Extra-Black" src="/images//diary/graphicoreBitmapFont4Extra-Black.png" /><img alt="Das g des graphicore Bitmap Font 4 Ultra-Black" src="/images//diary/graphicoreBitmapFont4Ultra-Black.png" /></p></div><div class="gridPos6 gridWidth4">
+<h2>Die Gewichte</h2>
+<p>Ich habe für jede Familie zwölf verschiedene Gewichte vorbereitet. Gewicht heißt, dass sich zwischen den Pixelelementen der Durchmesser unterscheidet, ohne dass sich das Zentrum bewegt.</p><p>Im Bereich von Thin bis Regular wird das zugrundeliegende Raster klar sichtbar, weil sich zwischen den Objekten eine Lücke auftut. Medium ist das Gewicht, bei dem die Elemente genau die Rasterweite treffen. Die auf Medium nachfolgenden Gewichte wachsen über die Grenzen der Rastereinheiten hinaus und machen die Schrift fett. Zum Schluß ist bei Extra-Black ein Pixel mehr als doppelt so groß wie eine Rastereinheit, und Ultra-Black geht sogar einen Schritt weiter. Die Familien mit »äußeren« abgerundeten Ecken erhalten zunächst keine Gewichte leichter als Medium, weil ich mit dem Ergebnis bis jetzt noch nicht zufrieden bin.</p>
+<p>Um auf einem Bildschirm bei 8 px zu schreiben, sind die Regular- und Book-Schnitte am besten geeignet, denn die Pixel sind ein wenig schmaler als eine Rastereinheit und beugen daher Rundungsfehlern vor. Medium sollte ebenfalls gut funktionieren und scharf sein. Die fetteren Gewichte habe ihren Einsatzbereich in den Display-Größen.</p>
+</div>
+</div><hr /><div class="gridRow">
+
+<div class="gridPos0 gridWidth4">
+<h2>Alles in Einem</h2>
+<p>Weil es so großartig aussieht, habe ich alle Schnitte einer Familie gemeinsam auf einen Haufen gestapelt. Die fetteren Schriften werden die Umrandungen der leichteren. Dadurch entsteht eine Alles-In-Einem-Familienübersicht.</p></div>
+
+<div class="gridPos4 gridWidth6"><p>
+
+<img class="gridGap" alt="Das g der graphicore Bitmap Font 0 Familie" src="/images//diary/graphicoreBitmapFont0.png" /><img class="gridGap" alt="Das g der graphicore Bitmap Font 1 Familie" src="/images//diary/graphicoreBitmapFont1.png" /><img alt="Das g der graphicore Bitmap Font 2 Familie" src="/images//diary/graphicoreBitmapFont2.png" /><img class="gridGap" alt="Das g der graphicore Bitmap Font 3 Familie" src="/images//diary/graphicoreBitmapFont3.png" /><img class="gridGap" alt="Das g der graphicore Bitmap Font 4 Familie" src="/images//diary/graphicoreBitmapFont4.png" /><img alt="Das g der graphicore Bitmap Font 5 Familie" src="/images//diary/graphicoreBitmapFont5.png" /><img class="gridGap" alt="Das g der graphicore Bitmap Font 6 Familie" src="/images//diary/graphicoreBitmapFont6.png" /><img class="gridGap" alt="Das g der graphicore Bitmap Font 7 Familie" src="/images//diary/graphicoreBitmapFont7.png" /><img alt="Das g der graphicore Bitmap Font 8 Familie" src="/images//diary/graphicoreBitmapFont8.png" /></p></div>
+
+</div><hr /><div class="gridRow">
+Update:
+<h2>Die fehlenden Schriftmuster</h2>
+<p class="gridWidth7 gridPos0">Manchmal wird ein einfaches Schriftmuster benötigt, hier sind zwei in verschiedenen Größen. Es gibt ein <a href="http://graphicore.de/downloads/graphicoreBitmapFont-specimen_big.pdf">PDF</a> für das größere Muster, dort kannst du heranzoomen und die Details studieren.</p>
+</div><div class="gridRow">
+<div class="gridWidth7 gridPos0">
+<p><img src="/images//diary/graphicoreBitmapFont-specimen_big.png" alt="graphicoreBitmapFont-specimen_big.png" /></p>
+
+</div><div class="gridWidth3 gridPos7">
+<p>
+<img src="/images//diary/graphicoreBitmapFont-specimen_small.png" alt="graphicoreBitmapFont-specimen_small.png" /></p>
+</div>
+
+</div><div class="gridRow">
+<p>
+Alle Beispiele dieser Seite sind als qualitativ hochwertige PDF, SVG und PNG im »media« Ordner des Schriftpaketes verfügbar. Die Inhalte des »media« Ordners im Schriftpaket und dieser Text sind unter der <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a> verfügbar.</p>
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>graphicore.de ist online.</title>
+      <description><![CDATA[graphicore.de ist online.Freude, Freude,
+
+
+
+
+
+der  ...]]></description>
+      <pubDate>Mon, 12 Jul 2010 01:23:56 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2010-07-09_i-live-again</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2010-07-09:/diary/201007091937074c377a6340b8b</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>graphicore.de ist online.</h1><h2>Freude, Freude,</h2>
+
+<div class="gridRow">
+<div class="gridPos0 gridWidth6">
+
+<p>
+der Relaunch meiner Website ist fertig. Ich werde hier meine Arbeiten präsentieren. Ich denke, die Seite ist zu einem Großteil selbsterklärend, also werde ich mehr die nicht so offensichtlichen Dinge fokussieren.
+</p><p>
+Ich habe mich entschieden, das Archiv zu Beginn leer zu lassen. Also, nicht wundern. Denn ich möchte mir etwas Zeit nehmen, um die Projekte angemessen aufzuarbeiten. Die Seite wird sich auf natürliche Weise entwickeln. Schließlich weist sich ein Designer durch die Dokumentation seiner Werke aus – also durch sein Portfolio.
+</p>
+<p>
+Es wird hier keine Kommentarfunktion geben. Ich freue mich aber immer über eure Emails und werde mich, falls es unvermeidbar wird, zum Nachbessern hinreißen lassen. Das Anliegen hier ist die Präsentation meiner Arbeit, nicht die Diskussion darüber. Auch möchte ich nicht moderieren müssen, was mit Kommentaren unvermeidbar wäre.
+</p>
+
+</div><div class="gridPos6 gridWidth4">
+<p>
+<img src="/images//diary/numero-uno-teaser.png" alt="teaser for numero uno, a bitmap font by graphicore.de" /></p>
+<p>
+</p><h3>Ankündigung</h3>
+Als Geschenk zum Geburtstag von graphicore.de werde ich als nächste Aktion die Pixelschrift aus dem graphicore Logo sowie den Code der sie gebaut hat – den ich gebaut habe – unter einer freien Lizenz veröffentlichen. Der Font hat momentan ca. 220 Zeichen und deckt unsere westlichen Sprachen ab. Der Code ist aber eher was für Bastler. Wiederkommen lohnt sich!
+
+
+</div></div>
+
+<h2>Was unter der Haube steckt,</h2>
+
+<div class="gridRow">
+<div class="gridPos0 gridWidth4">
+
+<p>
+muss ich hier auch erwähnen. Denn das Content Management System habe ich selbst gebaut. Wer für das Technische nicht zu haben ist, darf jetzt gehen.
+</p>
+<p>
+<a href="http://zendframework.com/" class="image"><img class="gridGap" alt="Zend Framework Logo" src="/images/diary/ZendFramework.png" /></a><a href="http://www.dojotoolkit.org/" class="image"><img alt="Dojo Logo" src="/images/diary/dojo.png" /></a>
+</p><p><a href="http://www.doctrine-project.org/" class="image"><img class="gridGap" alt="doctrine Logo" src="/images/diary/doctrine.png" /></a><a href="http://htmlpurifier.org/" class="image"><img alt="HTMLPurifier Logo" src="/images/diary/HTMLPurifier.png" /></a>
+</p>
+<h3>Markup</h3>
+<p>
+Graphicore.de validiert <a href="http://validator.w3.org/check?uri=referer">hier</a> als XHTML 1.0 Strict, was mir sehr wichtig ist. Zugegeben, der Content-type ist text/html, trotzdem habe ich den Vorteil einer strikten Syntax, und es ist mir möglich, andere XML-Tools mit meinem Output zu verwenden. Ein Beispiel in diesem Fall ist der Atom-Feed.
+</p>
+
+</div><div class="gridPos4 gridWidth6">
+
+<h3>Style</h3>
+<p>
+<a href="http://de.wikipedia.org/wiki/Progressive_Verbesserung">Progressive Verbesserung</a>: Ich habe es mir nicht nehmen lassen, einige der neuen CSS3 Eigenschaften zu nutzen. Dazu zählen Farbverläufe, Pseudoelemente und natürlich @font-fontface. Wichtig war mir dabei, dass auch in Browsern, die diese Eigenschaften nicht unterstützen, die Anzeige funktioniert. Je besser der Browser, desto besser die Anzeige, ganz einfach.
+</p>
+<p>
+Die Seite ist mit 1000px – relativ zu unserer Bildschirmtechnologie – eher breit. Zudem laden alle Inhalte untereinander, sind also gleichzeitig zu sehen und dadurch direkt vergleichbar. Um die gestalterische Kohärenz zu wahren, habe ich ein Gestaltungs- sowie ein Grundlinienraster eingerichtet. Die Ausführung ist im Vergleich zu den verfügbaren CSS-Frameworks eher primitiv, passt dafür aber auf großzügige 130 Zeilen und genügt meinen Ansprüchen. Das Grundlinienraster funktioniert in allen modernen Browsern ;)
+</p>
+<p>Hier ist es: »<img src="http://graphicore.de/style/images/grid10.png" alt="das Element des Grundlinienrasters" />«. Das Raster ist ein 24px hohes und 99px breites Bild, das ständig wiederholt wird. Als ich das CSS geschrieben habe, hatte ich das Bild gelegentlich im Hintergrund, um damit das Raster zu vergleichen. <a href="javascript: dojo.toggleClass(dojo.body(),'grid')">Klicke hier um es in Aktion zu sehen</a>(JavaScript muss an sein).
+</p>
+
+</div>
+</div>
+<div class="gridRow">
+<div class="gridPos0 gridWidth6">
+
+<h3>Dynamic</h3>
+<p>Ich habe das Konzept des <a href="http://en.wikipedia.org/wiki/Unobtrusive_JavaScript" title="unaufdringliches JavaScript">unobtrusive JavaScript</a> umgesetzt. Das heißt, die Seite funktioniert ohne JavaScript. Ist aber JavaScript vorhanden, wird der Unterhaltungsfaktor größer.</p>
+<p>Für das dynamische Vehalten der Website mit JavaScript habe ich erstmals das <a href="http://www.dojotoolkit.org/">Dojo Toolkit</a> verwendet. Mit Dojo lässt sich – ähnlich wie mit jQuery – geschmeidig umgehen. Ich bin mit Dojo sehr zufrieden.</p>
+
+<h3>graphicore cache</h3>
+<p>
+Eine Sache, auf die ich besonders Stolz bin, ist meine Art Ajax-Requests zu cachen. Eine Anfrage wird stets zwischen der voherigen Anfrage und dem Hauptmenü geladen. Bevor eine Anfrage abgeschickt wird, falls das Ergebnis schon geladen ist, wird direkt an diese Stelle gesprungen – der Inhalt wird nicht erneut geladen.
+<br />Falls das nicht vormals gemacht wurde, möchte ich es gerne »graphicore cache« nennen ;)
+</p>
+
+</div><div class="gridPos6 gridWidth4">
+
+<h3>Backend</h3>
+<p>
+Ich werde mich hier kürzer fassen, als es die Dichte des Themas möglicherweise erfordert. Aber auch dieses Post muss zu einem Ende kommen. 
+Ich habe mit dem <a href="http://zendframework.com/">Zend Framework</a>, <a href="http://www.doctrine-project.org/">Doctrine ORM</a> und <a href="http://htmlpurifier.org/">HTMLPurifiers</a> das Backend gebaut. Dabei kommen auch eineinhalb Bibliotheken, die ich zusammengeschustert habe, zum Einsatz.
+</p>
+<h3>i18n</h3>
+<p>
+Ein Grund für mich, das Backend selbst zu bauen, war die eher schlechte Unterstützung existierender Lösungen für Internationalisierung. Es ist mir möglich, alle Bereiche der Webseite zu lokalisieren, und das habe ich gemacht.
+</p>
+
+
+</div>
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Cinecita.org</title>
+      <description><![CDATA[Cinecita.orghttp://www.cinecita.org
+
+
+
+
+
+
+Umsetzun ...]]></description>
+      <pubDate>Mon, 03 May 2010 13:38:23 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2010-10-18_La_Mirada_de_Ella</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2010-10-18:/diary/201010181349214cbc5061f0048</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Cinecita.org</h1><p><a href="http://www.cinecita.org">http://www.cinecita.org</a></p>
+<div class="gridRow">
+<div class="gridWidth10 gridPos0">
+<p><img src="/images/diary/cinecita_homepage.png" alt="Bildschirmfoto der the CineCita Webseite auf english den folgenden Text abbildend: CineCita is a travelling cinema and video laboratory, that will be on tour in the Central Andes in the fall of 2010. CineCita aims to improve general access to audiovisual media and to increase media literacy with rural populations in the region. During the tour, a smart travelling “cine-bus” visits villages in Ecuador, Peru and Bolivia, screening a selected programme of international short films and organizing participative video workshops for local communities.  Screenings are free of charge and held at public places. The selected programme focuses on female perspectives, giving a voice to women’s narratives, from both Europe and Latin America. In the video workshops, young women learn to shoot their own short documentary video, empowering them with audiovisual skills and inspiring them to tell their own stories. An international team of organizers accompanies the workshop participants, while documenting an excerpt of their everyday lives on video themselves. Together, screenings and workshops provide a means of an exchange and networking between the Central Andean Region and Europe.  At the conclusion of each tour stop, the young directors may present their work in form of a public screening. Their films are then sent on the road with CineCita and shown to further audiences in the region." /></p>
+</div>
+
+</div><div class="gridRow">
+<h2>Umsetzung</h2>
+<div class="gridWidth5 gridPos0">
+<h3>Content Management</h3>
+<p>Die Seite läuft mit einem speziell angefertigtem Content-Management-System. Ich habe es mit <a href="http://php.net/">PHP5</a>, <a href="http://zendframework.com/">Zend Framework</a>, <a href="http://www.doctrine-project.org/">Doctrine ORM</a> und <a href="http://htmlpurifier.org/">HTMLPurifier</a> gemacht. Cinecita.org ist der technische Vorgänger von graphicore.de.</p>
+<h3>Internationalisierung</h3>
+<p>Englisch und Spanisch waren notwendig. Die meisten fertig benutzbaren CMSe haben mittelmäßige Unterstützung für Internationalisierung. Dieses CMS war von Beginn an mit mehreren Sprachen im Hinterkopf geplant. Die Übersetzung ist das einzige was zu tun ist, falls aber eine Übersetzung fehlt, wird auf eine verfügbare zurück gegriffen. Die Anzahl der Sprachen ist technisch nicht begrenzt.</p>
+
+<h3><a href="http://www.cinecita.org/en/index/diary/">Blog</a></h3>
+<p>Die Seite hat einen komplett integrierten Blog mit eingebautem ATOM und RSS Newsfeed. Einige Teile der Webseite werden vom CineCita-Personal während sie auf Tour sind verändert. Sie können einen WYSIWYG-Editor benutzen und müssen nicht so viel mit HTML herumbasteln.</p>
+</div><div class="gridWidth5 gridPos5">
+<h3><a href="http://www.cinecita.org/en/index/static/static/tour">Eine interaktive Karte</a></h3>
+<p>bietet eine schnelle Übersicht des CineCita Tourplans und lässt den Benutzer durch die Tourstops navigieren. Die Ergebnisse der von CineCita abgehaltenen Workshops werden dort verfügbar sein.</p>
+<h3>Animationen</h3>
+<p>transportieren Emotionen. Das müsst ihr euch auf der Life-Seite anschauen. Die Kopfleiste ist überall animiert und wenn ein Untermenü geladen wird öffnet das kleine Mädchen in der linken oberen Ecke den Vorhang. Überhaupt kein Flash wurde benutzt, wir haben ausprobiert wie weit wir ohne gehen konnten. Frontend-Tools waren <a href="http://jquery.com/">jQuery</a>, <a href="http://flowplayer.org/tools/index.html">jQuery Tools</a> und natürlich <a href="http://www.w3.org/TR/xhtml1/">XHTML 1.0 Strict</a></p>
+
+<h3>Ajax</h3>
+<p>Progressive Verbesserung gewährleistet, dass die Seite gut ohne Javascript funktioniert. Jedoch – falls Javascript läuft – werden die Inhalte zwischengespeichert und das Seitengerüst muss nicht jedes mal neu angefragt werden. Das lässt intakt, wie sich die Seite anfühlt, und verbessert die Kontrolle über den animierten Vorhang.</p>
+</div>
+
+</div><div class="gridRow">
+
+<div class="gridWidth10 gridPos0">
+<p><img src="/images/diary/cinecita_interactive-map.png" alt="Bildschirmfoto der CineCita-Webseite auf spanisch. Zeigt eine Karte mit einigen Punkten die für Tourstops stehen. Über einem Tourstop ist eine Sprechblase sichtbar, die den Namen und das Datum des Tourstops anzeigt." /></p>
+</div>
+
+</div><div class="gridRow">
+<hr /><div class="gridWidth4 gridPos0">
+<h2>Die Mediendaten sind ausgegliedert</h2>
+<h3>Videos</h3>
+<p>sind die Kernmedien von CineCita. Bei <a href="http://www.cinecita.org/en/index/static/static/workshops">Workshops</a> werden Videos von lokalen Mädchen und Frauen produziert. Die Videos werden von den guten und skalierenden Diensten von <a href="http://vimeo.com/">Vimeo</a> oder <a href="http://www.youtube.com">YouTube</a> ausgeliefert.</p>
+<h3>Die eingebundenen Diashows</h3>
+<p>laden Fotoalben von <a href="http://picasaweb.google.com">Googles Picasa</a> und zeigen diese im Artikel an. Die CineCita-Leute benutzen diese Funktion <a href="http://www.cinecita.org/en/index/diary/filter/photo">häufig in ihren Blog-Artikeln</a> um die wundervollen Plätze zu zeigen, die sie auf ihrer Reise besuchen. </p><p>Der Code ist eine stark modifizierte Version von <a href="http://pwi.googlecode.com/">pwi - Picasa Webalbum Integrator</a>. Das Beste: die schwere Arbeit des massiven auslieferns von Bildern wird von Google gemacht.</p>
+<h2>Das Grafikdesign</h2>
+<p>ist von <a href="http://10hoch16.de">10hoch16.de.</a></p>
+</div>
+<div class="gridWidth6 gridPos4">
+<p><img src="/images/diary/cinecita_embedded-slideshow.png" alt="Teil eines Bildschirmfotos der CineCita Webseite, eine eingebundene Diashow zeigend. Ein großes Bild und darunter eine Zeile Thumbnail-Bilder." /></p>
+</div>
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Toytoytoys.de</title>
+      <description><![CDATA[Toytoytoys.dewww.toytoytoys.de
+
+
+Das Projekt
+Die R ...]]></description>
+      <pubDate>Thu, 05 Nov 2009 14:38:01 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2010-10-12_serious_toys</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2010-10-12:/diary/201010121448344cb475424313c</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Toytoytoys.de</h1><p><a href="http://www.toytoytoys.de">www.toytoytoys.de</a></p>
+<div class="gridRow">
+<div class="gridWidth7 gridPos0">
+<h2>Das Projekt</h2>
+<p>Die Realität ist im Spielzeugladen gelandet. Die gesammelten Grausamkeiten der Welt werden hier in Puppenform gepackt. Da können die ganz Kleinen spielend lernen in was für einer Welt sie leben.</p>
+<p>Dieses Projekt weist mit einzigartigen  Spielzeugen auf relevante gesellschaftliche Themen hin. Mehr Infos dazu werden direkt mit den Produkten verlinkt.</p>
+<h2>Die Technik</h2>
+<p>
+Die ganze Seite ist statisch, wird aber von einem PHP-Script generiert. Wir haben uns dazu entschieden, da die Seite sehr portabel sein sollte – sie musste von einem USB-Stick aus funktionieren. Gleichzeitig bleiben die meisten Vorteile einer dynamischen Lösung erhalten – man kann Änderungen schnell und zentral einpflegen.
+</p>
+<p>Ich habe die Umsetzung der Webseite gemacht. Dafür habe ich PHP5, HTML, CSS und JavaScript verwendet. Die Seite validiert als XHTML 1.0 Strict.</p>
+
+</div><div class="gridWidth3 gridPos7">
+<h2>Konzept und Grafik</h2>
+<p>
+Die inhaltliche sowie grafische Gestaltung von Toytoytoys ist von <a href="http://10hoch16.de">Zehn hoch Sechzehn</a>.</p>
+<ul><li><a href="http://www.amnesty.de/">www.amnesty.de</a></li>
+<li><a href="http://www.unicef.de/">www.unicef.de</a></li>
+<li><a href="http://www.kindersoldaten.de/">www.kindersoldaten.de</a></li>
+<li><a href="http://www.unhcr.de/">www.unhcr.de</a></li>
+<li><a href="http://www.vielfalt-tut-gut.de/">www.vielfalt-tut-gut.de</a></li>
+<li><a href="http://www.greenpeace.de/">www.greenpeace.de</a></li>
+<li><a href="http://www.helpedia.de/">www.helpedia.de</a></li>
+<li><a href="http://www.caritas-international.de/">www.caritas-international.de</a></li>
+<li><a href="http://www.nacoa.de/">www.nacoa.de</a></li>
+<li><a href="http://www.fruehehilfen.de/">www.fruehehilfen.de</a></li>
+</ul></div>
+
+</div><div class="gridRow">
+
+<div class="gridWidth5 gridPos0">
+<p>
+<img src="/images/diary/toytoytoys_biafrika_klein.png" alt="toytoytoys_biafrika_klein.png" /></p><p>
+<img src="/images/diary/toytoytoys_biafrika_detail.png" alt="Fast eine Milliarde Menschen weltweit leiden unter Hunger. Dabei ist die Ernährungssituation in 33 Ländern, wie z.B. in Afrika und Indien besonders prekär. Für weiterführende Informationen und die Möglichkeit dem Huger etwas entgegenzusetzen, besuchen Sie bitte: www.welthungerhilfe.de" /></p>
+</div><div class="gridWidth5 gridPos5">
+<p>
+<img src="/images/diary/toytoytoys_myLin_klein.png" alt="toytoytoys_myLin_klein.png" /></p><p>
+<img src="/images/diary/toytoytoys_myLin_detail.png" alt="Laut ILO (International Labour Organisation) sind weltweit über 200 Millionen Kinder zu Arbeiten, welche ihre mentale, physische und emotionale Entwicklung beeinträchtigen, gezwungen. Davon sind nahezu dreiviertel dieser Kinder in die schlimmsten Formen des Kindesmissbrauchs, wie Kinderhandel, bewaffnete Konflikte, Sklaverei und sexuelle Ausbeutung verwickelt. Für weiterführende Informationen und die Möglichkeit selbst aktiv zu werden, besuchen Sie bitte: www.unicef.de oder www.kindernothilfe.de" /></p>
+</div>
+
+</div><div class="gridRow">
+
+<div class="gridWidth10">
+<p><img src="/images/diary/toytoytoys_ab-6-jahre.png" alt="toytoytoys_ab-6-jahre.png" /></p>
+</div>
+</div>
+
+</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Abraum</title>
+      <description><![CDATA[Abraum
+
+
+
+Die Ausstellung beschäftigte sich mit de ...]]></description>
+      <pubDate>Tue, 05 May 2009 16:02:59 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2010-10-06_underground_exhibition</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2010-10-06:/diary/201010061331004cac7a14de999</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Abraum</h1><div class="gridRow">
+<div class="gridWidth8 gridPos0" style="height:1128px;">
+<img src="/images/diary/abraum-poster.png" alt="abraum-poster.png" /></div>
+<div class="gridWidth2 gridPos8">
+<p>Die Ausstellung beschäftigte sich mit dem Thema Keller – genauer, der Entdeckung und Interpretation verschiedener Bedeutunsdimensionen von Kellerräumen – und fand im Keller statt und deshalb musste auch die Werbung in den Keller einladen. Eine waghalsige Kellertreppe visualisiert den Schritt in die Unterwelt.</p>
+<p>Die Plakatwerbung in Marburg war zweistufig angelegt. Erst sollte die Treppe alleine prangern, wenige Tage später wurden die Informationen hinzugefügt. <img src="/images/diary/abraum-poster_label.png" alt="abraum-poster_label.png" /> In der Zwischenzeit hatten die Leute zahlreiche Poster mitgenommen – was ich als Kompliment aufnehme.</p>
+<p>Die Geschichte des Projektes gibt es auf dem <a href="http://abraum-marburg.blogspot.com/">abraum Blog</a>.</p><p>Das Abraum Logo ist von <a href="http://www.station-c.de/">Christina Willkomm</a>.</p>
+
+</div>
+
+</div><div class="gridRow">
+
+<div class="gridWidth3 gridpos0">
+<p>
+<img src="/images/diary/abraum-flyer.png" alt="komm mal runter" /> Der Flyer hatte als Ziel die Kühlschranktüren der Marburger Studenten-WGs.</p>
+</div>
+<div class="gridWidth7 gridPos3">
+<div class="scrollX" style="white-space:nowrap;height:456px;">
+<img class="gridGap" src="/images/diary/abraum-catalog_1.png" alt="abraum-catalog_1.png" /><img class="gridGap" src="/images/diary/abraum-catalog_2.png" alt="abraum-catalog_2.png" /><img src="/images/diary/abraum-catalog_3.png" alt="abraum-catalog_3.png" /></div>
+<p>Den Bogen zwischen Keller und White Cube spannend, war der Katalog zur Austellung ein schlicht gestaltetes, quadratisches Heft. Er führte die Besucher erläuternd durch die Exponate.</p>
+</div>
+
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Die Kulturlosen sind da</title>
+      <description><![CDATA[Die Kulturlosen sind da
+
+
+
+
+Konzept
+
+Die Idee ist  ...]]></description>
+      <pubDate>Sun, 15 Feb 2009 11:00:00 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2010-10-01_metropolis-wilderness</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2010-10-01:/diary/201010011553324ca603fcc53f3</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Die Kulturlosen sind da</h1><div class="gridRow">
+<div class="gridWidth6 gridPos0">
+<p><img src="/images/diary/kulturlose-cover.png" alt="kulturlose-cover.png" /></p>
+</div>
+<div class="gridWidth4 gridPos6">
+<h2>Konzept</h2>
+
+<p>Die Idee ist Menschen mit einer bestimmten Aufgabe in ihre Stadt zu schicken – der Suche nach wilden Tieren. Das führt dazu, dass sie ihre Umgebung anders wahrnehmen müssen – als Lebensraum für wilde Tiere. Inspiriert wurde das von der <a href="http://de.wikipedia.org/wiki/Situationistische_Internationale">situationistischen</a> Praxis des <a title="nur auf der englischen Wikipedia" href="http://en.wikipedia.org/wiki/D%C3%A9rive">Dérive</a>, siehe dazu auch <a href="http://en.wikipedia.org/wiki/Psychogeography">Psychogeography</a>. Das »<a href="http://5b4.blogspot.com/2009/08/handbuch-der-wildwachsenden.html">Handbuch der wildwachsenden Großstadtpflanzen</a>« von Helmut Völter schlägt auch in eine ganz ähnliche Kerbe.</p>
+
+
+<p>Das Buch ist meine Diplomarbeit im Fach Visuelle Kommunikation. Ich habe es konzipiert, geschrieben und gestaltet. Betreut wurde ich von <a href="http://www.czyk.de/">Alexander Branczyk</a> und <a href="http://www.uni-weimar.de/gestaltung/cms/struktur/visuelle-kommunikation/prof-jay-rutherford/">Prof.</a> <a href="http://www.jayrutherford.net/">Jay Rutherford</a>.  Sommersemester 2008, Fakultät Gestaltung, <a href="http://www.uni-weimar.de/">Bauhaus-Universität Weimar</a>.</p>
+
+</div>
+
+</div><div class="gridRow">
+
+<div class="gridWidth5 gridPos0">
+<p class="scrollX" style="white-space:nowrap;height:360px;">
+    <img src="/images/diary/kulturlose-shot002.png" class="gridGap" alt="kulturlose-shot002.png" /><img src="/images/diary/kulturlose-shot003.png" class="gridGap" alt="kulturlose-shot003.png" /><img src="/images/diary/kulturlose-shot005.png" class="gridGap" alt="kulturlose-shot005.png" /><img src="/images/diary/kulturlose-shot017.png" class="gridGap" alt="kulturlose-shot017.png" /><img src="/images/diary/kulturlose-shot019.png" class="gridGap" alt="kulturlose-shot019.png" /><img src="/images/diary/kulturlose-shot020.png" class="gridGap" alt="kulturlose-shot020.png" /><img src="/images/diary/kulturlose-shot023.png" class="gridGap" alt="kulturlose-shot023.png" /><img src="/images/diary/kulturlose-shot024.png" alt="kulturlose-shot024.png" /></p>
+</div>
+<div class="gridWidth5 gridPos5">
+<h2>Inhalt</h2>
+<p>Das Buch führt Anfangs in generelle Taktiken des Aufspürens wilder Großstadtbewohner ein. Später werden die Eigenheiten der Tierarten selbst unter die Lupe genommen. Im hinteren Teil des Buches wird auf die Lebensräume der Stadt eingegangen. Abschließend findet man eine Artenliste aller in der Großstadt vorkommenden wilden Säugetiere.</p>
+</div>
+
+</div><div class="gridRow">
+
+<div class="gridWidth5 gridPos0">
+<p class="scrollX" style="white-space:nowrap;height:360px;">
+    <img src="/images/diary/kulturlose-shot009.png" class="gridGap" title="Die Fledermaus habe ich in Berlin fotografiert." alt="kulturlose-shot009.png" /><img src="/images/diary/kulturlose-shot013.png" class="gridGap" title="Quelle: Die Bismaratte ist zur Veranschaulichung und von naturespicsonline.com auch commons.wikimedia.org/wiki/File:Muskrat.jpg" alt="kulturlose-shot013.png" /><img src="/images/diary/kulturlose-shot010.png" class="gridGap" alt="kulturlose-shot010.png" /><img src="/images/diary/kulturlose-shot011.png" class="gridGap" alt="kulturlose-shot011.png" /><img src="/images/diary/kulturlose-shot012.png" class="gridGap" alt="kulturlose-shot012.png" /><img src="/images/diary/kulturlose-shot014.png" title="Extra-Material als Platzhalter" alt="kulturlose-shot014.png" /></p>
+</div>
+<div class="gridWidth5 gridPos5">
+<h2>Zusätzliche Würze</h2>
+<p>erhält die Idee der Exkursion, denn die passenden Tierbilder muss der Leser selbst knipsen. Es sind lediglich die Seiten so vorbereitet, dass Bilder auf standard 10 × 15 cm Fotopapier eingefügt werden können.</p>
+<p>Damit das Buch – in seiner Eigenschaft als Fotosammelalbum – nicht auseinendergeht, musste Extra-Material als Platzhalter in den Buchrücken eingebracht werden. Der Buchrücken ist breit genug um alle Bilder aufzunehmen.</p>
+</div>
+
+</div><div class="gridRow">
+
+<div class="gridWidth5 gridPos0">
+<p class="scrollX" style="white-space:nowrap;height:360px;">
+    <img src="/images/diary/kulturlose-shot007.png" class="gridGap" alt="kulturlose-shot007.png" /><img src="/images/diary/kulturlose-shot022.png" class="gridGap" alt="kulturlose-shot022.png" /><img src="/images/diary/kulturlose-shot006.png" class="gridGap" alt="kulturlose-shot006.png" /><img src="/images/diary/kulturlose-shot021.png" class="gridGap" alt="kulturlose-shot021.png" /><img src="/images/diary/kulturlose-shot018.png" class="gridGap" alt="kulturlose-shot018.png" /><img src="/images/diary/kulturlose-shot025.png" class="gridGap" alt="kulturlose-shot025.png" /><img src="/images/diary/kulturlose-shot026.png" class="gridGap" alt="kulturlose-shot026.png" /><img src="/images/diary/kulturlose-shot031.png" alt="kulturlose-shot031.png" /></p>
+</div>
+<div class="gridWidth5 gridPos5">
+<h2>Details</h2>
+<p>Es gibt jeweils passende Querverweise zwischen den Tieren und ihren Lebensräumen, damit man sich in dem Buch nicht verirrt. Ein lebender Kolumnentitel durfte auch nicht fehlen. Die Gestaltung der Seiten richtet sich nach einem Gestaltungsraster und dem Grundlinienraster.</p>
+</div>
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Sondermarke zum 200. Geburtstag von Hermann Schulze-Delitzsch.</title>
+      <description><![CDATA[Sondermarke zum 200. Geburtstag von Hermann Schulz ...]]></description>
+      <pubDate>Fri, 15 Jun 2007 10:00:00 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2010-09-27_a_stamp_chance</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2010-09-27:/diary/201009272109094ca107f52b79c</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Sondermarke zum 200. Geburtstag von Hermann Schulze-Delitzsch.</h1><div class="gridRow">
+
+<div class="gridWidth2 gridPos1" style="height:120px;padding-top:24px;">
+<img src="/images/diary/stamp_schulze-delitzsch_small.png" alt="stamp_schulze-delitzsch_small.png" /></div>
+
+<div class="gridWidth6 gridPos4">
+<p>Die Möglichkeit der Teilnahme an einem Entwurfswettbewerb für Briefmarken bekommt man selten. Ich schickte einen ausgefallenen Entwurf, obwohl der Kunstbeirat des Finanzministeriums oft konventionelle Gestaltung favorisiert. Der Entwurf wurde nicht genommen – ich mag ihn immer noch.</p>
+<p>Die Schrift ist FF Seria von <a href="http://www.martinmajoor.com/">Martin Majoor</a>. Betreut wurde der Entwurf von <a href="http://www.uni-weimar.de/gestaltung/cms/struktur/visuelle-kommunikation/prof-jay-rutherford/">Professor</a> <a href="http://www.jayrutherford.net/">Jay Rutherford</a> an der <a href="http://www.uni-weimar.de/">Bauhaus-Universität Weimar</a> im Sommersemester 2007.</p>
+
+</div>
+
+
+</div><div class="gridRow">
+
+<div class="gridWidth10 gridPos0" style="height:600px;">
+<img src="/images/diary/stamp_schulze-delitzsch_big.png" alt="stamp_schulze-delitzsch_big.png" /></div>
+
+</div>
+</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Turbine</title>
+      <description><![CDATA[Turbine
+
+
+
+
+
+Die Dokumentation unserer Arbeit ist  ...]]></description>
+      <pubDate>Fri, 15 Jun 2007 09:00:00 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2010-09-27_turbo_art_collective</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2010-09-27:/diary/201009272105474ca1072b79bf6</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Turbine</h1><div class="gridRow">
+<div class="gridWidth8 gridPos0">
+<a href="http://die-turbine.de/" style="border:none;"><img src="/images/diary/turbine_screen1.png" alt="Screenshot der turbine website" /></a>
+</div>
+
+<div class="gridWidth2 gridPos8">
+<p>Die Dokumentation unserer Arbeit ist auf <a href="http://die-turbine.de/">die-turbine.de</a>. Dort ist es voll von spannenden Medien und coolen Ideen.</p>
+<h2>Turbine ist</h2>
+<ul><li><a href="http://benivonalemann.de/">Beni von Alemann</a></li>
+<li><a href="http://www.vildesvaner.com/">Anne Gorke</a></li>
+<li><a href="http://www.julianwagner.com">Julian Wagner</a></li>
+<li><a href="http://10hoch16.de/">Kari Wolf</a></li>
+<li><a href="http://ulischoeberl.com/">Uli Schöberl</a></li>
+<li><a href="http://www.tanjasannwald.de/">Tanja Sannwald</a></li>
+<li>Jens Ole Mayer</li>
+<li><a href="http://10hoch16.de/">Piet Machat</a></li>
+<li><a href="http://10hoch16.de/">Max Lisewski</a></li>
+<li><a href="http://10hoch16.de/">Simon Kiepe</a></li>
+<li><a href="http://www.45kilo.com/">Daniel Klapsing</a></li>
+<li><a href="http://www.wirhabenvielvor.de">Thomas Gnahm</a></li>
+<li><a rel="me" href="/de/page/lasse">Lasse Fister</a></li>
+</ul></div>
+
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Typete – typografische Tapete</title>
+      <description><![CDATA[Typete – typografische Tapete
+Ein Buchstabe pro Ta ...]]></description>
+      <pubDate>Sun, 15 May 2005 10:00:00 +0000</pubDate>
+      <link>http://graphicore.de/de/archive/2010-09-23_Neo-Bourgeois_Grafitti</link>
+      <guid>http://graphicore.de/diary/tag:graphicore.de,2010-09-23:/diary/201009231107214c9b34e9d0274</guid>
+      <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>Typete – typografische Tapete</h1><div class="gridRow">
+<h2>Ein Buchstabe pro Tapetenbahn,</h2>
+<div class="gridWidth2 gridPos0">
+<p>das würde es möglich machen in elegant-floralem Gewand an die Wände deines Heims zu schreiben. Als Illustration dieser Idee haben wir damals, 2005, dieses Bild gemacht.</p>
+<p>Die Schrift ist Warnock Pro Regular. Die florale Füllung der Buchstaben wurde in aufwendiger Handarbeit eingepasst.</p><p>Das kleine g ist eines der schönsten Zeichen geworden.</p>
+</div>
+
+<div class="gridWidth8 gridPos2">
+<img src="/images/diary/typete-clean-g-big.png" alt="typete-klein-clean.png" /></div></div>
+
+
+<div class="gridRow">
+<div class="gridWidth10 gridPos0 scrollX" style="height:360px;">
+<img height="336" src="/images/diary/typete-klein-clean.png" alt="typete-klein-clean.png" /></div></div>
+
+<div class="gridRow">
+<div class="gridWidth10 gridPos0">
+<p>Die unterschwellige Botschaft lässt sich am schönsten im entlaubten Zustand lesen: »argwohn«.
+</p>
+</div></div>
+
+<div class="gridRow">
+<div class="gridWidth10 gridPos0 scrollX" style="height:600px;">
+<img height="600" src="/images/diary/typete-klein.png" alt="typete-klein.png" /></div></div>
+
+<div class="gridRow">
+<div class="gridWidth10 gridPos0">
+<p>Im fertigen Werk tritt die Schrift zurück, ist aber dichter bewuchert als das sie umgebende gleichartige Muster. Damit ist die Tapete weniger aufdringlich – dafür wohnlicher. Der Entwurf ist im Orginal 5,58 Meter mal 2,56 Meter groß.</p>
+</div></div>
+
+<div class="gridRow">
+<div class="gridWidth7 gridPos0">
+<p><img height="480" src="/images/diary/typete_designmai05.png" alt="typete_designmai05.png" /></p></div>
+<div class="gridWidth3 gridPos7">
+<p>Die Typete war zu sehen im Rahmen des 
+<a href="http://www.schoene-neue-warenwelt.de">Aldi Huxley, schöne neue Warenwelt</a> auf dem <a href="http://dmy-berlin.com/">Design Mai Youngsters
+2005</a> und auf dem <a href="http://www.czyk.de/bauhaus-uni-weimar/B758462001/C1653933528/E804688907/index.html">Rundgang 2005</a> der <a href="http://www.uni-weimar.de">Bauhaus-Universität Weimar</a>.</p>
+<p>Sie ist 2005 im Projekt »Schnellmodus International« entstanden. Wurde betreut durch <a href="http://www.czyk.de/">Alexander Branczyk</a> und gestaltet von <a href="http://www.tanjasannwald.de/">Tanja Sannwald</a>,
+<a href="http://www.johannaschiegnitz.de/">Johanna Schiegnitz</a>,
+Daniel Graf und <a href="http://graphicore.de">Lasse Fister</a>.</p>
+<p>Die Typete nahm 2005 am Wettberb “New Walls, Please!” teil und fand sich löblich erwähnt im Katalog des Wettbewerbes wieder.</p>
+</div>
+</div></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
