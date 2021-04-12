@@ -8,7 +8,7 @@ if (!Function.prototype.bind) {
             throw new TypeError("Function.prototype.bind - what is "
                 + "trying to be bound is not callable");
         }
-        
+
         var aArgs = Array.prototype.slice.call(arguments, 1),
             fToBind = this,
             fNOP = function() {},
@@ -18,10 +18,10 @@ if (!Function.prototype.bind) {
                     : oThis,
                     aArgs.concat(Array.prototype.slice.call(arguments)));
             };
-        
+
         fNOP.prototype = this.prototype;
         fBound.prototype = new fNOP();
-    
+
         return fBound;
     };
 }
@@ -85,12 +85,12 @@ require([
             });
         }
     });
-    
+
     window._gaq = window._gaq || [];
-    
+
     if(dojo.isIE <= 7)
         dojo.config.dojoBlankHtmlUrl = '/js/blank.html';
-    
+
     var djConfig = {
         isDebug: false,
         graphicoreMaxContainers : 30,
@@ -149,7 +149,7 @@ require([
             .forEach(function(node) {
                 makeMail.vcardEmail(node);
             });
-            
+
             dojo.query('span.no-spam', context)
             .forEach(function(node) {
                 makeMail.text(node);
@@ -195,26 +195,22 @@ require([
         _setPage: function(href, hashVal, noHistoryPush) {
             var title = pageData.titles[hashVal],
                 langSwitch = pageData.languageSwitches[hashVal];
-            
+
             // track href
             window._gaq.push(['_trackPageview', href]);
-            
+
             if(!noHistoryPush && history.pushState)
                 history.pushState({}, title, href);
-            
+
             content.updateMenu(href);
             content.setTitle(title);
             content.loadLanguageSwitch(langSwitch);
         },
         _getUrl: function(href) {
-            //this prevents the browsers from beeing confused by the
-            //content negotiation the server does via the http header
-            //and it solves a caching problem of the internet explorer
-            //the parameter has no meaning on the server side
+            // There are .json data files for each url
+            if(href === '/') href = '/index';
             return [
-                href,
-                (href.indexOf('?') !== -1 ? '&' : '?'),
-                'ajax=true'
+                href , '.json'
             ].join('');
         },
         /**
@@ -380,7 +376,7 @@ require([
                 container = this._getContentContainer();
             if(hashVal)
                 dojo.attr(container, 'id', hashVal);
-            
+
             this.removeContainer((djConfig.graphicoreMaxContainers || 10));
             dojo.addClass(container, klass);
             dojo.place(markup, container, 'only');
@@ -409,11 +405,11 @@ require([
             dojo.doc.title = title;
         }
     };
-    
+
     allYourBase.add(ajaxLinks);
     allYourBase.add(makeMail);
     allYourBase.add(titleReplacement);
-    
+
     dojo.addOnLoad(function() {
     /// bootstrappping /////////////////////////////////////////////////
         dojo.removeClass(dojo.body(), 'noscript');
@@ -425,22 +421,22 @@ require([
         header = dojo.query('.header', stage)[0];
         if(!header)
             return;
-        
+
         content.stage = stage;
         content.header = header;
-        
+
         initialContent = dojo.query('.content', stage)[0];
         if(initialContent) {
             pageData.titles[initialContent.id] = dojo.doc.title;
             pageData.languageSwitches[initialContent.id] =
                 dojo.query('.language-switch')[0];
         }
-        
+
     /// let the up arrow scroll ////////////////////////////////////////
         dojo.query('a[href="#"]').on('click', scrollToTopHandler);
-    
+
     /// init ///////////////////////////////////////////////////////////
-        allYourBase.areBelongToUs(); 
+        allYourBase.areBelongToUs();
     /// fix stupid browser differences /////////////////////////////////
         // test if the page scroll with documentElement (should not)
         // there is some odd behavior with webkit, but this resets the fix
@@ -453,7 +449,7 @@ require([
         // well, there is a scroll event, that we can't break :-(
         // so scrolling is now on the body element, which some people say
         // has a bad performance when scrolling.
-        
+
         var haveSeenFirstPop = false,
             initialPathname = dojo.doc.location.pathname;
         on(window, 'popstate', function(evt) {
