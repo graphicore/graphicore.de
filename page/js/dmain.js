@@ -326,9 +326,20 @@ require([
                 .on('click', this._getHandler.bind(this));
         },
         _getHandler: function(evt) {
-            evt.preventDefault();
             var href = dojo.attr(evt.currentTarget, 'href');
-            contentLoader.get(href);
+            if(href === '/'
+                    || href.indexOf('/en/page') === 0
+                    || href.indexOf('/de/page') === 0
+                    || href.indexOf('/en/archive') === 0
+                    || href.indexOf('/de/archive') === 0
+                    || href.indexOf('/en/diary') === 0
+                    || href.indexOf('/de/diary') === 0
+                    || href.indexOf('/en.') === 0
+                    || href.indexOf('/de.') === 0
+                    || href.indexOf('/index.') === 0) {
+                evt.preventDefault();
+                contentLoader.get(href);
+            }
         }
     },
     /// content api, manipulates the dom ///////////////////////////////
