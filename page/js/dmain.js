@@ -208,7 +208,10 @@ require([
         },
         _getUrl: function(href) {
             // There are .json data files for each url
-            if(href === '/') href = '/index';
+            if(href === '/')
+                href = '/index';
+            else if(['/de/diary', '/en/diary', '/de', '/en'].indexOf(href) !== -1)
+                href = href + '/index';
             return [
                 href , '.json'
             ].join('');
@@ -324,18 +327,19 @@ require([
                 .not('.language-switch a', context)
                 .not('a.permalink', context)
                 .on('click', this._getHandler.bind(this));
+
         },
         _getHandler: function(evt) {
             var href = dojo.attr(evt.currentTarget, 'href');
             if(href === '/'
+                    || href === '/en'
+                    || href === '/de'
                     || href.indexOf('/en/page') === 0
                     || href.indexOf('/de/page') === 0
                     || href.indexOf('/en/archive') === 0
                     || href.indexOf('/de/archive') === 0
                     || href.indexOf('/en/diary') === 0
                     || href.indexOf('/de/diary') === 0
-                    || href.indexOf('/en.') === 0
-                    || href.indexOf('/de.') === 0
                     || href.indexOf('/index.') === 0) {
                 evt.preventDefault();
                 contentLoader.get(href);
