@@ -410,11 +410,15 @@ mehr.</xhtml:p>
 wir uns mit der Bildergalerie große Mühe gegeben. Das Kernstück der
 Galerie ist der Albumbetrachter. Ich habe hier ein paar
 beachtlichen Eigenschaften des Sliders zusammengefasst.</xhtml:p>
+<!--
 <xhtml:p>Hier eingebettet das Album »<xhtml:a href="https://silber-und-blei.com/galerie/Neueste_Bilder.html">Neuste
 Bilder</xhtml:a>« von Silber und Blei:</xhtml:p>
+-->
 </xhtml:div>
 </xhtml:div>
+<!-- IS OFFLINE
 <xhtml:iframe width="100%" height="736px" src="https://silber-und-blei.com/galerie/embed/Neueste_Bilder.html" allowfullscreen="" frameborder="0"/>
+-->
 <xhtml:div class="gridRow">
 <xhtml:div class="gridWidth2 gridPos0">
 <xhtml:h3>responsive</xhtml:h3>

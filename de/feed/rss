@@ -249,18 +249,20 @@ Auf einen Newsfeed wollten wir nicht verzichten, der wird von Hyde im ATOM-Forma
 <h2>Die Bildergalerie</h2>
 
 <p>Da wir unsere Bilder besonders schön präsentieren wollen, haben wir uns mit der Bildergalerie große Mühe gegeben. Das Kernstück der Galerie ist der Albumbetrachter. Ich habe hier ein paar beachtlichen Eigenschaften des Sliders zusammengefasst.</p>
+<!--
 <p>
 Hier eingebettet das Album »<a href="https://silber-und-blei.com/galerie/Neueste_Bilder.html">Neuste Bilder</a>« von Silber und Blei:
 </p>
+-->
 </div></div>
-
+<!-- IS OFFLINE
 <iframe
   width="100%"
   height="736px"
   src="https://silber-und-blei.com/galerie/embed/Neueste_Bilder.html"
   allowfullscreen
   frameBorder="0"></iframe>
-
+-->
 
 <div class="gridRow">
 <div class="gridWidth2 gridPos0">
@@ -348,7 +350,7 @@ Silber ...]]></description>
       <content:encoded><![CDATA[<div class="diaryEntryContainer" xml:lang="de" lang="de"><h1>In Entwicklung: Multitoner Tool</h1><div class="gridRow">
 <div class="gridWidth3 gridPos0">
 <h2>Motivation</h2>
-<p><a href="/de/archive/2013-06-06_silber-und-blei">Silber &amp; Blei</a> wird ausschließlich mit 
+<p><a href="/de/archive/2013-06-06_silber-und-blei">Silber &amp; Blei</a> wird ausschließlich mit
 <a href="http://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software" title="Free/Libre Open Source Software">FLOS-Software</a> produzieren, denn es ist uns wichtig <strong>die Kontrolle über unsere Werkzeuge</strong> zu haben. Wir werden <strong>erstklassige Print-Erzeugnisse mit Freier Software</strong> herstellen. Die Konsequenz dieser Entscheidung ist, dass wir fehlende Software selbst schreiben. Ein Programm für die Herstellung von Multiplex-Bildern fehlt bislang in der freien Software-Welt. Das Multitoner Tool wird unter der <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GNU General Public License Version 3">GPLv3</a> veröffentlicht.
 </p>
 </div>
@@ -596,7 +598,7 @@ Fork, clone or download: ufoJS  ...]]></description>
   width="100%"
   height="1104px"
   data="/ufoJS/env/glif-renderer.xhtml"
-></object> 
+></object>
 
 </div>
 <div class="gridPos7 gridWidth3">
@@ -1086,7 +1088,7 @@ Eine Sache, auf die ich besonders Stolz bin, ist meine Art Ajax-Requests zu cach
 
 <h3>Backend</h3>
 <p>
-Ich werde mich hier kürzer fassen, als es die Dichte des Themas möglicherweise erfordert. Aber auch dieses Post muss zu einem Ende kommen. 
+Ich werde mich hier kürzer fassen, als es die Dichte des Themas möglicherweise erfordert. Aber auch dieses Post muss zu einem Ende kommen.
 Ich habe mit dem <a href="http://zendframework.com/">Zend Framework</a>, <a href="http://www.doctrine-project.org/">Doctrine ORM</a> und <a href="http://htmlpurifier.org/">HTMLPurifiers</a> das Backend gebaut. Dabei kommen auch eineinhalb Bibliotheken, die ich zusammengeschustert habe, zum Einsatz.
 </p>
 <h3>i18n</h3>
@@ -1424,7 +1426,7 @@ Ein Buchstabe pro Ta ...]]></description>
 <div class="gridWidth7 gridPos0">
 <p><img height="480" src="/images/diary/typete_designmai05.png" alt="typete_designmai05.png" /></p></div>
 <div class="gridWidth3 gridPos7">
-<p>Die Typete war zu sehen im Rahmen des 
+<p>Die Typete war zu sehen im Rahmen des
 <a href="http://www.schoene-neue-warenwelt.de">Aldi Huxley, schöne neue Warenwelt</a> auf dem <a href="http://dmy-berlin.com/">Design Mai Youngsters
 2005</a> und auf dem <a href="http://www.czyk.de/bauhaus-uni-weimar/B758462001/C1653933528/E804688907/index.html">Rundgang 2005</a> der <a href="http://www.uni-weimar.de">Bauhaus-Universität Weimar</a>.</p>
 <p>Sie ist 2005 im Projekt »Schnellmodus International« entstanden. Wurde betreut durch <a href="http://www.czyk.de/">Alexander Branczyk</a> und gestaltet von <a href="http://www.tanjasannwald.de/">Tanja Sannwald</a>,

@@ -397,11 +397,15 @@ of which more later.</xhtml:p>
 went to great effort with the image gallery. The centerpiece of the
 gallery is the photo album viewer. I summarized here some
 noticeable properties of the slider.</xhtml:p>
+<!--
 <xhtml:p>Here embedded the album »<xhtml:a title="Latest Images" href="https://silber-und-blei.com/galerie/Neueste_Bilder.html">Neuste
 Bilder</xhtml:a>« of Silber &amp; Blei:</xhtml:p>
+-->
 </xhtml:div>
 </xhtml:div>
+<!-- IS OFFLINE
 <xhtml:iframe width="100%" height="736px" src="https://silber-und-blei.com/galerie/embed/Neueste_Bilder.html" allowfullscreen="" frameborder="0"/>
+-->
 <xhtml:div class="gridRow">
 <xhtml:div class="gridWidth2 gridPos0">
 <xhtml:h3>responsive</xhtml:h3>
